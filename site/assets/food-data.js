@@ -10534,6 +10534,2108 @@
       ],
       "credit": "@Mumbaifoodiz",
       "card": "card"
+    },
+    {
+      "id": "crispy-chickpea-veg-salad",
+      "name": "Crispy chickpea veg salad",
+      "meal": "Lunch or dinner",
+      "minutes": 20,
+      "protein": 15,
+      "how": "Gas",
+      "tools": "Non-stick pan, mixie (blender), gas",
+      "serves": 2,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "~1 cup (160 g), boiled",
+          "n": "Chickpeas (kabuli chana), boiled",
+          "tag": "chickpeas",
+          "img": "i-chickpeas"
+        },
+        {
+          "q": "~1/2 medium",
+          "n": "Yellow capsicum",
+          "tag": "capsicum",
+          "img": "i-yellowcap"
+        },
+        {
+          "q": "~1/2 medium",
+          "n": "Red capsicum",
+          "tag": "capsicum",
+          "img": "i-redcap"
+        },
+        {
+          "q": "~1 medium",
+          "n": "Cucumber",
+          "tag": "cucumber",
+          "img": "i-cucumber"
+        },
+        {
+          "q": "~1 medium",
+          "n": "Onion, chopped",
+          "tag": "onion",
+          "img": "i-onion"
+        },
+        {
+          "q": "~1/2 tsp, plus a pinch for the dressing",
+          "n": "Salt",
+          "tag": "salt",
+          "img": "i-salt"
+        },
+        {
+          "q": "~1 tsp, plus a pinch for the dressing",
+          "n": "Red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Cumin powder (jeera powder, roasted)",
+          "tag": "cumin-powder",
+          "img": "i-cumin"
+        },
+        {
+          "q": "~1/2 cup (100 g), thick",
+          "n": "Curd (dahi)",
+          "tag": "curd",
+          "img": "i-curd"
+        },
+        {
+          "q": "~8 to 10",
+          "n": "Cashews",
+          "tag": "cashews",
+          "img": "i-cashews"
+        },
+        {
+          "q": "1 to 2",
+          "n": "Dry red chilli",
+          "tag": "dry-red-chilli",
+          "img": "i-drychilli"
+        },
+        {
+          "q": "3 to 4 cloves",
+          "n": "Garlic",
+          "tag": "garlic",
+          "img": "i-garlic"
+        },
+        {
+          "q": "~50 g, crumbled",
+          "n": "Paneer",
+          "tag": "paneer",
+          "img": "i-paneer"
+        },
+        {
+          "q": "~2 tbsp",
+          "n": "Water",
+          "tag": "water",
+          "img": "i-water"
+        },
+        {
+          "q": "a handful, chopped",
+          "n": "Coriander leaves",
+          "tag": "coriander-leaves",
+          "img": "i-coriander",
+          "opt": true
+        }
+      ],
+      "steps": [
+        {
+          "t": "Cut the yellow and red capsicum into small cubes.",
+          "imgs": [
+            "s-capsicum-1",
+            "s-capsicum-2"
+          ]
+        },
+        {
+          "t": "Cut the cucumber into small cubes. Chop the onion too.",
+          "imgs": [
+            "s-veg-1",
+            "s-veg-2"
+          ]
+        },
+        {
+          "t": "Heat a non-stick pan. Add the boiled chickpeas and stir-fry on medium heat.",
+          "imgs": [
+            "s-pan-1",
+            "s-pan-2"
+          ]
+        },
+        {
+          "t": "Sprinkle salt, red chilli powder and cumin powder. Toss until the chickpeas turn crisp and golden.",
+          "imgs": [
+            "s-spice-1",
+            "s-spice-2",
+            "s-spice-3"
+          ]
+        },
+        {
+          "t": "In the mixie jar, add the curd and the cashews.",
+          "imgs": [
+            "s-jar-1",
+            "s-jar-2"
+          ]
+        },
+        {
+          "t": "Add dry red chilli, garlic cloves, salt, red chilli powder and cumin powder.",
+          "imgs": [
+            "s-jar-3",
+            "s-jar-4",
+            "s-jar-5"
+          ]
+        },
+        {
+          "t": "Crumble in the paneer. Pour in a little water.",
+          "imgs": [
+            "s-paneer-1",
+            "s-paneer-2"
+          ]
+        },
+        {
+          "t": "Close the lid and blend into a smooth, thick dressing.",
+          "imgs": [
+            "s-blend-1",
+            "s-blend-2"
+          ]
+        },
+        {
+          "t": "Spread the crisp chickpeas on a wide plate.",
+          "imgs": [
+            "s-plate-1"
+          ]
+        },
+        {
+          "t": "Add the capsicum, cucumber and onion on top.",
+          "imgs": [
+            "s-plate-2",
+            "s-plate-3",
+            "s-plate-4"
+          ]
+        },
+        {
+          "t": "Pour the dressing over, add coriander, and mix well.",
+          "imgs": [
+            "s-mix-1",
+            "s-mix-2",
+            "s-mix-3"
+          ]
+        }
+      ],
+      "tags": [
+        "gas",
+        "blender",
+        "high-fibre"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "mixed-bean-usal",
+      "name": "Mixed bean usal",
+      "meal": "Breakfast",
+      "minutes": 35,
+      "protein": 15,
+      "how": "Pressure cooker",
+      "tools": "Pressure cooker, gas, big bowl",
+      "serves": 2,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "~2 tbsp (25 g)",
+          "n": "Whole green moong",
+          "tag": "moong-whole",
+          "img": "i-moong"
+        },
+        {
+          "q": "~2 tbsp (25 g)",
+          "n": "Lobia (black-eyed beans)",
+          "tag": "lobia",
+          "img": "i-lobia"
+        },
+        {
+          "q": "~2 tbsp (25 g)",
+          "n": "Moth beans (matki)",
+          "tag": "moth-beans",
+          "img": "i-moth"
+        },
+        {
+          "q": "~2 tbsp (25 g)",
+          "n": "Dried green peas (vatana)",
+          "tag": "dried-peas",
+          "img": "i-peas"
+        },
+        {
+          "q": "~2 tbsp (25 g)",
+          "n": "Brown chana (desi kala chana)",
+          "tag": "kala-chana",
+          "img": "i-chana"
+        },
+        {
+          "q": "enough to cover, ~2 cups",
+          "n": "Water, for soaking",
+          "tag": "water",
+          "img": "i-water"
+        },
+        {
+          "q": "~2 tsp",
+          "n": "Oil",
+          "tag": "oil",
+          "img": "i-oil"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Mustard seeds",
+          "tag": "mustard-seeds",
+          "img": "i-seeds"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Cumin seeds",
+          "tag": "cumin",
+          "img": "i-seeds"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Turmeric",
+          "tag": "turmeric",
+          "img": "i-turmeric"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "~1/2 tsp, to taste",
+          "n": "Salt",
+          "tag": "salt",
+          "img": "i-salt"
+        },
+        {
+          "q": "~1/2 lemon",
+          "n": "Lemon juice",
+          "tag": "lemon",
+          "img": "i-lemon",
+          "opt": true
+        },
+        {
+          "q": "a few sprigs, chopped",
+          "n": "Coriander leaves",
+          "tag": "coriander-leaves",
+          "img": "i-coriander",
+          "opt": true
+        }
+      ],
+      "steps": [
+        {
+          "t": "Pour equal parts of all five beans into a big bowl.",
+          "imgs": [
+            "s-pour-1",
+            "s-pour-2",
+            "s-pour-3"
+          ]
+        },
+        {
+          "t": "Mix the beans well with your hands.",
+          "imgs": [
+            "s-mix-1",
+            "s-mix-2"
+          ]
+        },
+        {
+          "t": "Store the extra mix in a lidded jar for later.",
+          "imgs": [
+            "s-jar-1",
+            "s-jar-2",
+            "s-jar-3"
+          ]
+        },
+        {
+          "t": "Take 1 katori of the mix into a glass bowl.",
+          "imgs": [
+            "s-take-1",
+            "s-take-2"
+          ]
+        },
+        {
+          "t": "Add water and wash the beans with your hand.",
+          "imgs": [
+            "s-wash-1",
+            "s-wash-2"
+          ]
+        },
+        {
+          "t": "Cover with fresh water and soak overnight.",
+          "imgs": [
+            "s-soak-1",
+            "s-soak-2"
+          ]
+        },
+        {
+          "t": "Heat oil in the pressure cooker. Add mustard seeds and cumin.",
+          "imgs": [
+            "s-oil-1",
+            "s-oil-2"
+          ]
+        },
+        {
+          "t": "Add turmeric and red chilli powder.",
+          "imgs": [
+            "s-spice-1",
+            "s-spice-2"
+          ]
+        },
+        {
+          "t": "Add the soaked beans with a little water.",
+          "imgs": [
+            "s-add-1",
+            "s-add-2",
+            "s-add-3"
+          ]
+        },
+        {
+          "t": "Add salt and stir well.",
+          "imgs": [
+            "s-salt-1",
+            "s-salt-2"
+          ]
+        },
+        {
+          "t": "Close the lid. Pressure cook until the beans are soft.",
+          "imgs": [
+            "s-cook-1",
+            "s-cook-2"
+          ]
+        },
+        {
+          "t": "Spoon the cooked beans onto a plate.",
+          "imgs": [
+            "s-serve-1",
+            "s-serve-2"
+          ]
+        },
+        {
+          "t": "Squeeze lemon juice over the top.",
+          "imgs": [
+            "s-lemon-1",
+            "s-lemon-2"
+          ]
+        },
+        {
+          "t": "Sprinkle chopped coriander and mix.",
+          "imgs": [
+            "s-coriander-1",
+            "s-coriander-2"
+          ]
+        }
+      ],
+      "tags": [
+        "pressure-cooker",
+        "high-fibre"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "dahi-capsicum-sabzi",
+      "name": "Dahi capsicum sabzi",
+      "meal": "Lunch or dinner",
+      "minutes": 20,
+      "protein": 5,
+      "how": "Gas",
+      "tools": "Non-stick pan, gas, mortar (or grater)",
+      "serves": 2,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "1 large (~150 g)",
+          "n": "Green capsicum",
+          "tag": "capsicum",
+          "img": "i-capsicum"
+        },
+        {
+          "q": "1 medium",
+          "n": "Onion",
+          "tag": "onion",
+          "img": "i-onion"
+        },
+        {
+          "q": "~2 tbsp, in all",
+          "n": "Oil",
+          "tag": "oil",
+          "img": "i-oil"
+        },
+        {
+          "q": "~1 tsp, crushed",
+          "n": "Kasuri methi (dry fenugreek leaves)",
+          "tag": "kasuri-methi",
+          "img": "i-kasuri"
+        },
+        {
+          "q": "a small handful, chopped",
+          "n": "Coriander leaves",
+          "tag": "coriander-leaves",
+          "img": "i-coriander"
+        },
+        {
+          "q": "~1 tsp, plus ~1 tsp later",
+          "n": "Red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Cumin seeds",
+          "tag": "cumin",
+          "img": "i-cumin"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Sesame seeds",
+          "tag": "sesame-seeds",
+          "img": "i-sesame"
+        },
+        {
+          "q": "~8 leaves",
+          "n": "Curry leaves",
+          "tag": "curry-leaves",
+          "img": "i-curryleaves"
+        },
+        {
+          "q": "4 to 5 cloves, crushed",
+          "n": "Garlic",
+          "tag": "garlic",
+          "img": "i-garlic"
+        },
+        {
+          "q": "~1/2 tsp, to taste",
+          "n": "Salt",
+          "tag": "salt",
+          "img": "i-salt"
+        },
+        {
+          "q": "~1/4 tsp",
+          "n": "Turmeric",
+          "tag": "turmeric",
+          "img": "i-turmeric"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Garam masala",
+          "tag": "garam-masala",
+          "img": "i-garammasala"
+        },
+        {
+          "q": "~2 tbsp, crushed",
+          "n": "Peanuts",
+          "tag": "peanuts",
+          "img": "i-peanuts"
+        },
+        {
+          "q": "~1/2 cup (100 g)",
+          "n": "Thick curd (dahi), whisked",
+          "tag": "curd",
+          "img": "i-curd"
+        }
+      ],
+      "steps": [
+        {
+          "t": "Cut the capsicum into long slices.",
+          "imgs": [
+            "s-cut-1",
+            "s-cut-2"
+          ]
+        },
+        {
+          "t": "Slice the onion into long slices too.",
+          "imgs": [
+            "s-onion-1",
+            "s-onion-2"
+          ]
+        },
+        {
+          "t": "Heat oil in a non-stick pan. Add the sliced onion and sauté.",
+          "imgs": [
+            "s-saute-1",
+            "s-saute-2"
+          ]
+        },
+        {
+          "t": "Add the capsicum slices and stir.",
+          "imgs": [
+            "s-caps-1",
+            "s-caps-2"
+          ]
+        },
+        {
+          "t": "Add crushed kasuri methi and chopped coriander.",
+          "imgs": [
+            "s-herb-1",
+            "s-herb-2",
+            "s-herb-3"
+          ]
+        },
+        {
+          "t": "Add red chilli powder. Cook, stirring, until the capsicum is soft.",
+          "imgs": [
+            "s-chilli-1",
+            "s-chilli-2"
+          ]
+        },
+        {
+          "t": "Move the cooked capsicum to a plate.",
+          "imgs": [
+            "s-plate-1",
+            "s-plate-2"
+          ]
+        },
+        {
+          "t": "In the same pan, heat a little oil. Add cumin seeds.",
+          "imgs": [
+            "s-cumin-1",
+            "s-cumin-2"
+          ]
+        },
+        {
+          "t": "Add sesame seeds.",
+          "imgs": [
+            "s-sesame-1",
+            "s-sesame-2"
+          ]
+        },
+        {
+          "t": "Add curry leaves.",
+          "imgs": [
+            "s-curry-1"
+          ]
+        },
+        {
+          "t": "Crush the garlic and add it to the pan.",
+          "imgs": [
+            "s-garlic-1",
+            "s-garlic-2",
+            "s-garlic-3"
+          ]
+        },
+        {
+          "t": "Put the cooked capsicum back in the pan.",
+          "imgs": [
+            "s-back-1",
+            "s-back-2"
+          ]
+        },
+        {
+          "t": "Add salt and turmeric.",
+          "imgs": [
+            "s-salt-1",
+            "s-salt-2"
+          ]
+        },
+        {
+          "t": "Add garam masala and a little more red chilli powder.",
+          "imgs": [
+            "s-masala-1",
+            "s-masala-2",
+            "s-masala-3"
+          ]
+        },
+        {
+          "t": "Crush the peanuts and add them.",
+          "imgs": [
+            "s-peanut-1",
+            "s-peanut-2",
+            "s-peanut-3"
+          ]
+        },
+        {
+          "t": "Whisk the curd until smooth.",
+          "imgs": [
+            "s-curd-1"
+          ]
+        },
+        {
+          "t": "Add the curd and mix well until combined.",
+          "imgs": [
+            "s-mixcurd-1",
+            "s-mixcurd-2",
+            "s-mixcurd-3"
+          ]
+        },
+        {
+          "t": "Serve hot in a bowl, with paratha or roti.",
+          "imgs": [
+            "s-serve-1"
+          ]
+        }
+      ],
+      "tags": [
+        "gas"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "hyderabadi-veg-paneer-biryani",
+      "name": "Hyderabadi veg paneer biryani",
+      "meal": "Lunch or dinner",
+      "minutes": 70,
+      "protein": 15,
+      "how": "Gas",
+      "tools": "Heavy pan, deep pot with lid, small steel bowl, aluminium foil, gas",
+      "serves": 4,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "3 large (~450 g), thinly sliced",
+          "n": "Onions",
+          "tag": "onion",
+          "img": "i-onion"
+        },
+        {
+          "q": "~1/2 cup, for frying (save it)",
+          "n": "Oil",
+          "tag": "oil",
+          "img": "i-oil"
+        },
+        {
+          "q": "~1 cup (150 g) small florets",
+          "n": "Cauliflower",
+          "tag": "cauliflower",
+          "img": "i-cauliflower"
+        },
+        {
+          "q": "~1/2 cup, small cubes",
+          "n": "Potato",
+          "tag": "potato",
+          "img": "i-potato"
+        },
+        {
+          "q": "~1/2 cup, chopped",
+          "n": "French beans",
+          "tag": "beans",
+          "img": "i-beans"
+        },
+        {
+          "q": "~1/2 cup (60 g), small cubes",
+          "n": "Carrot",
+          "tag": "carrot",
+          "img": "i-carrot"
+        },
+        {
+          "q": "~1/2 cup",
+          "n": "Green peas",
+          "tag": "peas",
+          "img": "i-peas"
+        },
+        {
+          "q": "~1/2 tbsp",
+          "n": "Ginger paste",
+          "tag": "ginger",
+          "img": "i-paste"
+        },
+        {
+          "q": "~1/2 tbsp",
+          "n": "Garlic paste",
+          "tag": "garlic",
+          "img": "i-paste"
+        },
+        {
+          "q": "~1 cup (200 g), thick",
+          "n": "Curd (dahi)",
+          "tag": "curd",
+          "img": "i-curd"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "~2 tbsp, plus a pinch for the top",
+          "n": "Biryani masala",
+          "tag": "biryani-masala",
+          "img": "i-biryanimasala",
+          "alt": [
+            "garam-masala"
+          ]
+        },
+        {
+          "q": "a handful, chopped",
+          "n": "Coriander leaves",
+          "tag": "coriander-leaves",
+          "img": "i-coriander"
+        },
+        {
+          "q": "a handful, plus some for the top",
+          "n": "Mint leaves",
+          "tag": "mint",
+          "img": "i-mint"
+        },
+        {
+          "q": "~1/2 lemon, juiced",
+          "n": "Lemon",
+          "tag": "lemon",
+          "img": "i-lemon"
+        },
+        {
+          "q": "~1 tsp, to taste",
+          "n": "Salt",
+          "tag": "salt"
+        },
+        {
+          "q": "1 small piece",
+          "n": "Charcoal (for smoke)",
+          "tag": "charcoal",
+          "img": "i-coal",
+          "opt": true
+        },
+        {
+          "q": "~2 tsp, plus a little for the smoke",
+          "n": "Desi ghee",
+          "tag": "ghee",
+          "img": "i-ghee"
+        },
+        {
+          "q": "~150 g, in cubes",
+          "n": "Paneer",
+          "tag": "paneer",
+          "img": "i-paneer"
+        },
+        {
+          "q": "a few (cardamom, cinnamon, bay leaf)",
+          "n": "Whole spices (khade masala)",
+          "tag": "whole-spices",
+          "img": "i-wholespices"
+        },
+        {
+          "q": "2 cups (360 g), soaked",
+          "n": "Basmati rice",
+          "tag": "rice",
+          "img": "i-rice"
+        },
+        {
+          "q": "~10 strands",
+          "n": "Saffron (kesar)",
+          "tag": "saffron",
+          "img": "i-saffron",
+          "opt": true
+        },
+        {
+          "q": "~1/4 cup, warm",
+          "n": "Milk, for the saffron",
+          "tag": "milk",
+          "img": "i-saffron",
+          "opt": true
+        }
+      ],
+      "steps": [
+        {
+          "t": "Heat oil in a heavy pan. Add thinly sliced onions.",
+          "imgs": [
+            "s-onion-1",
+            "s-onion-2"
+          ]
+        },
+        {
+          "t": "Fry for 8 to 10 minutes, stirring, until deep brown and crisp.",
+          "imgs": [
+            "s-fry-1",
+            "s-fry-2"
+          ]
+        },
+        {
+          "t": "Lift the fried onions (birista) onto paper. Strain and save the oil.",
+          "imgs": [
+            "s-birista-1",
+            "s-birista-2"
+          ]
+        },
+        {
+          "t": "Cut cauliflower, potato, beans and carrot into small cubes. Put them in a wide pan with the peas.",
+          "imgs": [
+            "s-veg-1",
+            "s-veg-2"
+          ]
+        },
+        {
+          "t": "Add some birista and the ginger-garlic paste.",
+          "imgs": [
+            "s-paste-1"
+          ]
+        },
+        {
+          "t": "Add the thick curd.",
+          "imgs": [
+            "s-curd-1"
+          ]
+        },
+        {
+          "t": "Add red chilli powder.",
+          "imgs": [
+            "s-chilli-1"
+          ]
+        },
+        {
+          "t": "Add biryani masala.",
+          "imgs": [
+            "s-masala-1"
+          ]
+        },
+        {
+          "t": "Add chopped coriander and mint. Squeeze in lemon juice.",
+          "imgs": [
+            "s-herb-1",
+            "s-herb-2"
+          ]
+        },
+        {
+          "t": "Mix everything well so the vegetables are coated.",
+          "imgs": [
+            "s-mix-1"
+          ]
+        },
+        {
+          "t": "Optional smoke: set a hot coal in a small steel bowl, pour ghee on it, cover for smoke.",
+          "imgs": [
+            "s-smoke-1",
+            "s-smoke-2"
+          ]
+        },
+        {
+          "t": "Fry the paneer cubes in a little oil until golden. Keep aside.",
+          "imgs": [
+            "s-paneer-1"
+          ]
+        },
+        {
+          "t": "Boil water in a pot with whole spices (khade masala). Then take the spices out.",
+          "imgs": [
+            "s-spice-1",
+            "s-spice-2"
+          ]
+        },
+        {
+          "t": "Add the soaked rice and a spoon of ghee. Cook for 6 to 7 minutes.",
+          "imgs": [
+            "s-rice-1",
+            "s-rice-2",
+            "s-rice-3"
+          ]
+        },
+        {
+          "t": "Heat the saved birista oil in a heavy pot with a lid.",
+          "imgs": [
+            "s-pot-1"
+          ]
+        },
+        {
+          "t": "Add the marinated vegetables, some birista and salt to taste.",
+          "imgs": [
+            "s-pot-2",
+            "s-pot-3"
+          ]
+        },
+        {
+          "t": "Cover and cook the vegetables for 8 to 10 minutes.",
+          "imgs": [
+            "s-cook-1"
+          ]
+        },
+        {
+          "t": "Take out half of the vegetables onto a plate.",
+          "imgs": [
+            "s-half-1"
+          ]
+        },
+        {
+          "t": "Spread half of the cooked rice over the vegetables in the pot.",
+          "imgs": [
+            "s-layer-1"
+          ]
+        },
+        {
+          "t": "Spread the rest of the vegetables over the rice.",
+          "imgs": [
+            "s-layer-2"
+          ]
+        },
+        {
+          "t": "Scatter the fried paneer, then cover with the rest of the rice.",
+          "imgs": [
+            "s-layer-3",
+            "s-layer-4"
+          ]
+        },
+        {
+          "t": "Pour saffron milk over the rice. Sprinkle birista on top.",
+          "imgs": [
+            "s-top-1",
+            "s-top-2"
+          ]
+        },
+        {
+          "t": "Add mint leaves, more fried paneer and a sprinkle of biryani masala.",
+          "imgs": [
+            "s-top-3",
+            "s-top-4"
+          ]
+        },
+        {
+          "t": "Seal the pot with foil, put the lid on, and dum cook for 10 minutes.",
+          "imgs": [
+            "s-dum-1",
+            "s-dum-2"
+          ]
+        },
+        {
+          "t": "Mix gently from the bottom and serve hot.",
+          "imgs": [
+            "s-serve-1"
+          ]
+        }
+      ],
+      "tags": [
+        "gas"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "dahi-wale-chole",
+      "name": "Chickpeas in curd gravy",
+      "meal": "Lunch or dinner",
+      "minutes": 20,
+      "protein": 15,
+      "how": "Gas",
+      "tools": "Mixie (blender), non-stick pan with lid, gas",
+      "serves": 2,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "~3/4 cup (150 g), thick",
+          "n": "Curd (dahi)",
+          "tag": "curd",
+          "img": "i-curd"
+        },
+        {
+          "q": "~10",
+          "n": "Cashews",
+          "tag": "cashews",
+          "img": "i-cashews"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Ginger paste",
+          "tag": "ginger",
+          "img": "i-ginger"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Garlic paste",
+          "tag": "garlic",
+          "img": "i-garlic"
+        },
+        {
+          "q": "1 to 2",
+          "n": "Green chilli",
+          "tag": "green-chilli",
+          "img": "i-greenchilli"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Turmeric",
+          "tag": "turmeric",
+          "img": "i-turmeric"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Coriander powder",
+          "tag": "coriander-powder",
+          "img": "i-corianderpowder"
+        },
+        {
+          "q": "~1 tbsp",
+          "n": "Oil",
+          "tag": "oil",
+          "img": "i-oil"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Cumin seeds",
+          "tag": "cumin",
+          "img": "i-cumin"
+        },
+        {
+          "q": "a few",
+          "n": "Curry leaves",
+          "tag": "curry-leaves",
+          "img": "i-cumin",
+          "opt": true
+        },
+        {
+          "q": "1 medium, chopped",
+          "n": "Tomato",
+          "tag": "tomato",
+          "img": "i-tomato"
+        },
+        {
+          "q": "~1.5 cups (250 g), boiled",
+          "n": "Chickpeas (chole), boiled",
+          "tag": "chickpeas",
+          "img": "i-chickpeas",
+          "alt": [
+            "kala-chana"
+          ]
+        },
+        {
+          "q": "1 medium, in rings",
+          "n": "Onion",
+          "tag": "onion",
+          "img": "i-onion"
+        },
+        {
+          "q": "a handful, chopped",
+          "n": "Coriander leaves",
+          "tag": "coriander-leaves",
+          "img": "i-coriander",
+          "opt": true
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Garam masala",
+          "tag": "garam-masala",
+          "img": "i-garammasala"
+        },
+        {
+          "q": "~1/2 tsp, to taste",
+          "n": "Salt",
+          "tag": "salt"
+        }
+      ],
+      "steps": [
+        {
+          "t": "Put the curd in the mixie jar.",
+          "imgs": [
+            "s-curd-1",
+            "s-curd-2"
+          ]
+        },
+        {
+          "t": "Add cashews, ginger-garlic paste and green chillies.",
+          "imgs": [
+            "s-jar-1",
+            "s-jar-2",
+            "s-jar-3"
+          ]
+        },
+        {
+          "t": "Add turmeric, red chilli powder and coriander powder.",
+          "imgs": [
+            "s-spice-1",
+            "s-spice-2",
+            "s-spice-3"
+          ]
+        },
+        {
+          "t": "Blend into a smooth, thick paste.",
+          "imgs": [
+            "s-blend-1",
+            "s-blend-2"
+          ]
+        },
+        {
+          "t": "Heat oil in a pan. Add cumin seeds and curry leaves.",
+          "imgs": [
+            "s-tadka-1"
+          ]
+        },
+        {
+          "t": "Add the chopped tomato. Cook until it turns soft and mushy.",
+          "imgs": [
+            "s-tomato-1",
+            "s-tomato-2",
+            "s-tomato-3"
+          ]
+        },
+        {
+          "t": "Pour in the curd paste and stir well.",
+          "imgs": [
+            "s-gravy-1",
+            "s-gravy-2",
+            "s-gravy-3"
+          ]
+        },
+        {
+          "t": "Cover and cook until red oil shows on top.",
+          "imgs": [
+            "s-cover-1",
+            "s-cover-2"
+          ]
+        },
+        {
+          "t": "Add the boiled chickpeas.",
+          "imgs": [
+            "s-chole-1",
+            "s-chole-2"
+          ]
+        },
+        {
+          "t": "Add sliced onion rings, chopped coriander and garam masala.",
+          "imgs": [
+            "s-top-1",
+            "s-top-2",
+            "s-top-3"
+          ]
+        },
+        {
+          "t": "Mix everything well.",
+          "imgs": [
+            "s-mix-1"
+          ]
+        },
+        {
+          "t": "Cover and cook for 2 to 3 minutes.",
+          "imgs": [
+            "s-simmer-1",
+            "s-simmer-2"
+          ]
+        },
+        {
+          "t": "Serve hot with rice or roti.",
+          "imgs": [
+            "s-serve-1",
+            "s-serve-2"
+          ]
+        }
+      ],
+      "tags": [
+        "gas",
+        "blender",
+        "high-fibre"
+      ],
+      "credit": "myflavourfuljourney",
+      "card": "card"
+    },
+    {
+      "id": "creamy-zoodles-spicy-paneer",
+      "name": "Zucchini noodles with spicy paneer",
+      "meal": "Lunch or dinner",
+      "minutes": 35,
+      "protein": 30,
+      "how": "Gas",
+      "tools": "Wok or pan, gas, blender, julienne peeler",
+      "serves": 2,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "1 large (~300 g)",
+          "n": "Zucchini",
+          "tag": "zucchini",
+          "img": "i-zucchini"
+        },
+        {
+          "q": "~150 g",
+          "n": "Paneer, cut in cubes",
+          "tag": "paneer",
+          "img": "i-paneer"
+        },
+        {
+          "q": "~2 tsp",
+          "n": "Chilli flakes",
+          "tag": "chilli-flakes",
+          "img": "i-chilliflakes"
+        },
+        {
+          "q": "~2 tbsp",
+          "n": "Coriander leaves, chopped",
+          "tag": "coriander-leaves",
+          "img": "i-coriander"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Black pepper",
+          "tag": "black-pepper",
+          "img": "i-pepper"
+        },
+        {
+          "q": "to taste",
+          "n": "Salt",
+          "tag": "salt",
+          "img": "i-salt"
+        },
+        {
+          "q": "~3 tbsp",
+          "n": "Oil",
+          "tag": "oil",
+          "img": "i-oil"
+        },
+        {
+          "q": "~1 cup (3 colours)",
+          "n": "Capsicum, red, yellow and green, cut in pieces",
+          "tag": "capsicum",
+          "img": "i-capsicum"
+        },
+        {
+          "q": "1",
+          "n": "Dry red chilli",
+          "tag": "dry-red-chilli",
+          "img": "i-drychilli"
+        },
+        {
+          "q": "~1 tbsp",
+          "n": "Garlic, grated",
+          "tag": "garlic",
+          "img": "i-garlic"
+        },
+        {
+          "q": "1 medium",
+          "n": "Onion, cut in petals",
+          "tag": "onion",
+          "img": "i-onion"
+        },
+        {
+          "q": "2 medium (~1 cup chopped)",
+          "n": "Tomato, chopped",
+          "tag": "tomato",
+          "img": "i-tomato"
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Turmeric",
+          "tag": "turmeric",
+          "img": "i-turmeric"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "~1/2 cup (100 g)",
+          "n": "Red lentils (masoor dal)",
+          "tag": "masoor-dal",
+          "img": "i-dal",
+          "alt": [
+            "moong-dal"
+          ]
+        },
+        {
+          "q": "~10",
+          "n": "Cashews",
+          "tag": "cashews",
+          "img": "i-cashews"
+        },
+        {
+          "q": "~2 cups",
+          "n": "Water",
+          "tag": "water",
+          "img": "i-water"
+        },
+        {
+          "q": "a pinch",
+          "n": "Sesame seeds",
+          "tag": "sesame-seeds",
+          "img": "i-sesame",
+          "opt": true
+        }
+      ],
+      "steps": [
+        {
+          "t": "Peel the zucchini into long thin noodles with a julienne peeler. Keep the leftover centre.",
+          "imgs": [
+            "s-peel-1",
+            "s-peel-2",
+            "s-peel-3"
+          ]
+        },
+        {
+          "t": "Sauce: heat 1 tbsp oil in a pan. Add dry red chilli and grated garlic.",
+          "imgs": [
+            "s-sauce-1",
+            "s-sauce-1b"
+          ]
+        },
+        {
+          "t": "Add the onion and tomato. Cook on medium heat until the tomato softens.",
+          "imgs": [
+            "s-sauce-2",
+            "s-sauce-3"
+          ]
+        },
+        {
+          "t": "Add turmeric and red chilli powder. Mix well.",
+          "imgs": [
+            "s-sauce-4",
+            "s-sauce-5"
+          ]
+        },
+        {
+          "t": "Add the red lentils and cashews.",
+          "imgs": [
+            "s-sauce-6",
+            "s-sauce-7"
+          ]
+        },
+        {
+          "t": "Pour in water, cover with a lid and cook until the lentils are soft and mushy.",
+          "imgs": [
+            "s-sauce-8",
+            "s-sauce-9",
+            "s-sauce-10"
+          ]
+        },
+        {
+          "t": "Move to a blender jar. Add the leftover zucchini pieces and a little water.",
+          "imgs": [
+            "s-blend-1",
+            "s-blend-2"
+          ]
+        },
+        {
+          "t": "Blend until smooth.",
+          "imgs": [
+            "s-blend-3"
+          ]
+        },
+        {
+          "t": "Pour the sauce back into the pan. Add salt and pepper and stir. Keep it warm.",
+          "imgs": [
+            "s-sauce-11",
+            "s-sauce-12",
+            "s-sauce-13"
+          ]
+        },
+        {
+          "t": "Heat a wok with a little oil. Fry the paneer cubes until golden.",
+          "imgs": [
+            "s-paneer-1",
+            "s-paneer-2"
+          ]
+        },
+        {
+          "t": "Add the capsicum and stir fry on high heat for 1 to 2 minutes.",
+          "imgs": [
+            "s-paneer-3",
+            "s-paneer-4"
+          ]
+        },
+        {
+          "t": "In a clean wok, heat oil. Add chilli flakes and salt.",
+          "imgs": [
+            "s-noodle-1",
+            "s-noodle-2"
+          ]
+        },
+        {
+          "t": "Add the zucchini noodles and toss with tongs for about 1 minute.",
+          "imgs": [
+            "s-noodle-3",
+            "s-noodle-4"
+          ]
+        },
+        {
+          "t": "In a bowl, add the paneer and capsicum, then the noodles. Pour the sauce beside them.",
+          "imgs": [
+            "s-plate-1",
+            "s-plate-2",
+            "s-plate-3"
+          ]
+        }
+      ],
+      "tags": [
+        "gas",
+        "blender",
+        "high-protein"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "whipped-cold-coffee",
+      "name": "Whipped cold coffee",
+      "meal": "Drink",
+      "minutes": 5,
+      "protein": 10,
+      "how": "No cooking",
+      "tools": "Mixie (grinder jar), tall glass, spoon",
+      "serves": 1,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "~2 tbsp",
+          "n": "Instant coffee powder",
+          "tag": "coffee",
+          "img": "i-coffee"
+        },
+        {
+          "q": "~3 tbsp",
+          "n": "Sugar",
+          "tag": "sugar",
+          "img": "i-sugar"
+        },
+        {
+          "q": "~7 cubes (3 for the jar, 4 for the glass)",
+          "n": "Ice cubes",
+          "tag": "ice",
+          "img": "i-ice"
+        },
+        {
+          "q": "~1 cup (200 ml)",
+          "n": "Cold milk",
+          "tag": "milk",
+          "img": "i-milk"
+        },
+        {
+          "q": "~1 tbsp",
+          "n": "Chocolate chips",
+          "tag": "chocolate-chips",
+          "img": "i-chips",
+          "opt": true
+        }
+      ],
+      "steps": [
+        {
+          "t": "Put the coffee powder in a dry mixie jar.",
+          "imgs": [
+            "s-coffee-1",
+            "s-coffee-2"
+          ]
+        },
+        {
+          "t": "Add the sugar on top.",
+          "imgs": [
+            "s-sugar-1",
+            "s-sugar-2",
+            "s-sugar-3"
+          ]
+        },
+        {
+          "t": "Add 3 ice cubes.",
+          "imgs": [
+            "s-ice-1"
+          ]
+        },
+        {
+          "t": "Close the lid and blend until you get a thick, creamy coffee froth.",
+          "imgs": [
+            "s-blend-1",
+            "s-blend-2",
+            "s-blend-3"
+          ]
+        },
+        {
+          "t": "Put 4 ice cubes in a tall glass.",
+          "imgs": [
+            "s-glass-1",
+            "s-glass-2"
+          ]
+        },
+        {
+          "t": "Pour cold milk over the ice.",
+          "imgs": [
+            "s-milk-1",
+            "s-milk-2"
+          ]
+        },
+        {
+          "t": "Pour the coffee froth over the milk.",
+          "imgs": [
+            "s-cream-1",
+            "s-cream-2"
+          ]
+        },
+        {
+          "t": "Sprinkle chocolate chips on top. Stir with a spoon and drink.",
+          "imgs": [
+            "s-top-1",
+            "s-top-2"
+          ]
+        }
+      ],
+      "tags": [
+        "no-cook",
+        "blender",
+        "quick"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "gond-katira-sharbat",
+      "name": "Gond katira sharbat",
+      "meal": "Drink",
+      "minutes": 20,
+      "protein": 0,
+      "how": "No cooking",
+      "tools": "Mixie (grinder jar), sieve, tall glass, jar",
+      "serves": 1,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "~1 tbsp (small handful)",
+          "n": "Gond katira (edible gum)",
+          "tag": "gond-katira",
+          "img": "i-gond"
+        },
+        {
+          "q": "~1 1/2 cups (soaking + drink)",
+          "n": "Water",
+          "tag": "water",
+          "img": "i-water"
+        },
+        {
+          "q": "~1/4 cup",
+          "n": "Fennel seeds (saunf)",
+          "tag": "fennel-seeds",
+          "img": "i-saunf"
+        },
+        {
+          "q": "~1/2 cup",
+          "n": "Rock sugar (mishri)",
+          "tag": "rock-sugar",
+          "img": "i-mishri",
+          "alt": [
+            "sugar"
+          ]
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Black pepper, whole",
+          "tag": "black-pepper",
+          "img": "i-pepper"
+        },
+        {
+          "q": "~1 tsp",
+          "n": "Dry ginger powder (sonth)",
+          "tag": "dry-ginger-powder",
+          "img": "i-sonth",
+          "opt": true
+        },
+        {
+          "q": "~1/2 tsp",
+          "n": "Black salt (kala namak)",
+          "tag": "black-salt",
+          "img": "i-blacksalt"
+        },
+        {
+          "q": "~1 tbsp, soaked",
+          "n": "Sabja (basil) seeds",
+          "tag": "basil-seeds",
+          "img": "i-sabja"
+        },
+        {
+          "q": "~3 cubes",
+          "n": "Ice",
+          "tag": "ice",
+          "img": "i-ice"
+        },
+        {
+          "q": "~8 leaves",
+          "n": "Mint leaves",
+          "tag": "mint",
+          "img": "i-mint"
+        },
+        {
+          "q": "1/2",
+          "n": "Lemon",
+          "tag": "lemon",
+          "img": "i-lemon"
+        }
+      ],
+      "steps": [
+        {
+          "t": "Put the gond katira in a small glass.",
+          "imgs": [
+            "s-gond-1",
+            "s-gond-2"
+          ]
+        },
+        {
+          "t": "Pour in water and stir. Leave to soak for a few hours until it swells into jelly.",
+          "imgs": [
+            "s-gond-3",
+            "s-gond-4",
+            "s-gond-5"
+          ]
+        },
+        {
+          "t": "Premix: put the fennel seeds in a dry mixie jar.",
+          "imgs": [
+            "s-saunf-1",
+            "s-saunf-2"
+          ]
+        },
+        {
+          "t": "Add the rock sugar and the black pepper.",
+          "imgs": [
+            "s-mix-1",
+            "s-mix-2"
+          ]
+        },
+        {
+          "t": "Add the dry ginger powder and the black salt.",
+          "imgs": [
+            "s-mix-3",
+            "s-mix-4"
+          ]
+        },
+        {
+          "t": "Grind to a fine powder.",
+          "imgs": [
+            "s-grind-1",
+            "s-grind-2"
+          ]
+        },
+        {
+          "t": "Sieve the powder into a bowl.",
+          "imgs": [
+            "s-sieve-1",
+            "s-sieve-2",
+            "s-sieve-3"
+          ]
+        },
+        {
+          "t": "Tip the coarse bits from the sieve back into the jar and grind again.",
+          "imgs": [
+            "s-regrind-1"
+          ]
+        },
+        {
+          "t": "Fill a dry glass jar with the powder and close the lid.",
+          "imgs": [
+            "s-jar-1",
+            "s-jar-2",
+            "s-jar-3"
+          ]
+        },
+        {
+          "t": "Sharbat: put 2 spoons of the soaked gond katira in a tall glass.",
+          "imgs": [
+            "s-glass-1",
+            "s-glass-2"
+          ]
+        },
+        {
+          "t": "Add the soaked sabja seeds.",
+          "imgs": [
+            "s-sabja-1"
+          ]
+        },
+        {
+          "t": "Add the ice cubes and the mint leaves.",
+          "imgs": [
+            "s-ice-1",
+            "s-ice-2"
+          ]
+        },
+        {
+          "t": "Squeeze in the lemon juice.",
+          "imgs": [
+            "s-lemon-1",
+            "s-lemon-2"
+          ]
+        },
+        {
+          "t": "Add 2 heaped spoons of the premix.",
+          "imgs": [
+            "s-premix-1"
+          ]
+        },
+        {
+          "t": "Pour in cold water and stir well.",
+          "imgs": [
+            "s-water-1",
+            "s-water-2",
+            "s-water-3"
+          ]
+        }
+      ],
+      "tags": [
+        "no-cook",
+        "blender",
+        "make-ahead"
+      ],
+      "credit": "poonamscookery_",
+      "card": "card"
+    },
+    {
+      "id": "grilled-roti-samosa",
+      "name": "Grilled roti samosa",
+      "meal": "Snack",
+      "minutes": 15,
+      "protein": 20,
+      "how": "Gas",
+      "tools": "Sandwich griller (or tawa on gas), knife",
+      "serves": 2,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "2",
+          "n": "Roti (chapati), ready-made",
+          "tag": "atta",
+          "img": "i-roti"
+        },
+        {
+          "q": "~4 tbsp",
+          "n": "Green chutney",
+          "tag": "green-chutney",
+          "img": "i-chutney"
+        },
+        {
+          "q": "~1/2 cup (50 g)",
+          "n": "Cheese, grated (half for filling, half for topping)",
+          "tag": "cheese",
+          "img": "i-cheese"
+        },
+        {
+          "q": "~100 g",
+          "n": "Paneer, small cubes, spiced with a red masala",
+          "tag": "paneer",
+          "img": "i-paneer"
+        },
+        {
+          "q": "~2",
+          "n": "Green chilli, sliced",
+          "tag": "green-chilli",
+          "img": "i-chilli",
+          "opt": true
+        },
+        {
+          "q": "a small bowl",
+          "n": "Tomato ketchup or red chilli sauce, to dip",
+          "tag": "tomato-ketchup",
+          "img": "i-ketchup",
+          "opt": true
+        }
+      ],
+      "steps": [
+        {
+          "t": "Fold a roti in half and cut it along the fold into two halves.",
+          "imgs": [
+            "s-cut-1",
+            "s-cut-2",
+            "s-cut-3"
+          ]
+        },
+        {
+          "t": "Spread green chutney over one half roti.",
+          "imgs": [
+            "s-chutney-1",
+            "s-chutney-2"
+          ]
+        },
+        {
+          "t": "Sprinkle grated cheese on one side of the roti.",
+          "imgs": [
+            "s-cheese-1",
+            "s-cheese-2"
+          ]
+        },
+        {
+          "t": "Add the spiced paneer cubes next to the cheese.",
+          "imgs": [
+            "s-paneer-1",
+            "s-paneer-2"
+          ]
+        },
+        {
+          "t": "Fold the roti over the filling to make a cone.",
+          "imgs": [
+            "s-fold-1",
+            "s-fold-2"
+          ]
+        },
+        {
+          "t": "Tuck in the open side to close it into a triangle.",
+          "imgs": [
+            "s-tuck-1",
+            "s-tuck-2",
+            "s-tuck-3"
+          ]
+        },
+        {
+          "t": "Place the triangles on a sandwich griller, close the lid and grill until crisp.",
+          "imgs": [
+            "s-grill-1",
+            "s-grill-2",
+            "s-grill-3"
+          ]
+        },
+        {
+          "t": "Open the lid. Top each triangle with grated cheese and sliced green chilli.",
+          "imgs": [
+            "s-top-1",
+            "s-top-2",
+            "s-top-3"
+          ]
+        },
+        {
+          "t": "Close the lid and grill again until the cheese melts.",
+          "imgs": [
+            "s-regrill-1",
+            "s-regrill-2"
+          ]
+        },
+        {
+          "t": "Serve hot with ketchup or red chilli sauce.",
+          "imgs": [
+            "s-serve-1",
+            "s-serve-2",
+            "s-serve-3"
+          ]
+        }
+      ],
+      "tags": [
+        "gas",
+        "high-protein"
+      ],
+      "card": "card"
+    },
+    {
+      "id": "drumstick-peanut-pickle",
+      "name": "Drumstick peanut pickle",
+      "meal": "Side",
+      "minutes": 35,
+      "protein": 0,
+      "how": "Gas",
+      "tools": "Pan, gas, mixie, glass jar, thin cloth",
+      "serves": 10,
+      "cover": "cover",
+      "ingredients": [
+        {
+          "q": "250 g",
+          "n": "Drumsticks / moringa pods (sahjan ki fali)",
+          "tag": "drumstick",
+          "img": "i-drumstick"
+        },
+        {
+          "q": "1/2 cup",
+          "n": "Garlic cloves, peeled",
+          "tag": "garlic",
+          "img": "i-garlic"
+        },
+        {
+          "q": "1/2 cup",
+          "n": "Green chilli",
+          "tag": "green-chilli",
+          "img": "i-chilli"
+        },
+        {
+          "q": "to taste",
+          "n": "Salt",
+          "tag": "salt",
+          "img": "i-salt"
+        },
+        {
+          "q": "1/2 cup",
+          "n": "Raw peanuts",
+          "tag": "peanuts",
+          "img": "i-peanuts"
+        },
+        {
+          "q": "2 tbsp",
+          "n": "Coriander seeds (sabut dhania)",
+          "tag": "coriander-seeds",
+          "img": "i-coriander"
+        },
+        {
+          "q": "2 tbsp",
+          "n": "Fennel seeds (saunf)",
+          "tag": "fennel-seeds",
+          "img": "i-fennel"
+        },
+        {
+          "q": "1/2 tbsp",
+          "n": "Cumin seeds (jeera)",
+          "tag": "cumin",
+          "img": "i-cumin"
+        },
+        {
+          "q": "1 tbsp",
+          "n": "Mustard seeds (rai)",
+          "tag": "mustard-seeds",
+          "img": "i-mustard"
+        },
+        {
+          "q": "1/2 tbsp",
+          "n": "Fenugreek seeds (methi dana)",
+          "tag": "fenugreek-seeds",
+          "img": "i-fenugreek"
+        },
+        {
+          "q": "1/2 cup",
+          "n": "Mustard oil (sarson ka tel)",
+          "tag": "oil",
+          "img": "i-oil"
+        },
+        {
+          "q": "1 tsp",
+          "n": "Carom seeds (ajwain)",
+          "tag": "ajwain"
+        },
+        {
+          "q": "2 tsp",
+          "n": "Asafoetida (hing)",
+          "tag": "hing"
+        },
+        {
+          "q": "1/4 tsp",
+          "n": "Turmeric powder (haldi)",
+          "tag": "turmeric",
+          "img": "i-turmeric"
+        },
+        {
+          "q": "1 tsp",
+          "n": "Kashmiri red chilli powder",
+          "tag": "red-chilli-powder",
+          "img": "i-chillipowder"
+        },
+        {
+          "q": "1 tbsp",
+          "n": "Vinegar",
+          "tag": "vinegar",
+          "img": "i-vinegar"
+        }
+      ],
+      "steps": [
+        {
+          "t": "Peel the tough outer strings off 250 g drumsticks.",
+          "imgs": [
+            "s-peel-1",
+            "s-peel-2"
+          ]
+        },
+        {
+          "t": "Cut the drumsticks into small pieces.",
+          "imgs": [
+            "s-cut-1"
+          ]
+        },
+        {
+          "t": "Wash the pieces well, then dry them on a cloth.",
+          "imgs": [
+            "s-wash-1",
+            "s-wash-2"
+          ]
+        },
+        {
+          "t": "Crush 1/2 cup garlic and 1/2 cup green chilli roughly.",
+          "imgs": [
+            "s-crush-1",
+            "s-crush-2"
+          ]
+        },
+        {
+          "t": "Add the crushed garlic and chilli to the drumstick pieces.",
+          "imgs": [
+            "s-add-1"
+          ]
+        },
+        {
+          "t": "Add salt to taste and mix well.",
+          "imgs": [
+            "s-salt-1",
+            "s-salt-2"
+          ]
+        },
+        {
+          "t": "Dry roast 1/2 cup peanuts on low flame until brown spots show.",
+          "imgs": [
+            "s-pnut-1",
+            "s-pnut-2"
+          ]
+        },
+        {
+          "t": "Add coriander seeds 2 tbsp and fennel seeds 2 tbsp to the pan.",
+          "imgs": [
+            "s-spice-1",
+            "s-spice-2"
+          ]
+        },
+        {
+          "t": "Add cumin 1/2 tbsp, mustard 1 tbsp and fenugreek 1/2 tbsp. Roast lightly, about 2 minutes.",
+          "imgs": [
+            "s-spice-3",
+            "s-spice-4"
+          ]
+        },
+        {
+          "t": "Move the roasted spices to a plate.",
+          "imgs": [
+            "s-plate-1"
+          ]
+        },
+        {
+          "t": "Heat 1/2 cup mustard oil, then switch off the flame. Let it cool to lukewarm.",
+          "imgs": [
+            "s-oil-1",
+            "s-oil-2"
+          ]
+        },
+        {
+          "t": "Grind the cooled spices coarsely in the mixie. Crush the roasted peanuts too.",
+          "imgs": [
+            "s-grind-1",
+            "s-grind-2"
+          ]
+        },
+        {
+          "t": "Add the ground masala and crushed peanuts to the drumstick bowl.",
+          "imgs": [
+            "s-masala-1",
+            "s-masala-2"
+          ]
+        },
+        {
+          "t": "Add ajwain 1 tsp and hing 2 tsp.",
+          "imgs": [
+            "s-ajwain-1"
+          ]
+        },
+        {
+          "t": "Add turmeric 1/4 tsp and Kashmiri chilli powder 1 tsp.",
+          "imgs": [
+            "s-powder-1",
+            "s-powder-2"
+          ]
+        },
+        {
+          "t": "Pour in the lukewarm mustard oil and mix well.",
+          "imgs": [
+            "s-mix-1",
+            "s-mix-2"
+          ]
+        },
+        {
+          "t": "Add vinegar 1 tbsp and mix again.",
+          "imgs": [
+            "s-vinegar-1",
+            "s-vinegar-2"
+          ]
+        },
+        {
+          "t": "Fill a clean, dry glass jar with the pickle.",
+          "imgs": [
+            "s-jar-1"
+          ]
+        },
+        {
+          "t": "Cover the jar with a thin cloth. Keep it in strong sun for 7 to 10 days.",
+          "imgs": [
+            "s-sun-1",
+            "s-sun-2"
+          ]
+        }
+      ],
+      "tags": [
+        "gas",
+        "blender",
+        "make-ahead"
+      ],
+      "credit": "Honest Kitchen",
+      "card": "card"
     }
   ];
 })();

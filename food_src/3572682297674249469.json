@@ -1,0 +1,933 @@
+{
+  "videos": [
+    "3572682297674249469"
+  ],
+  "dish": {
+    "id": "hyderabadi-veg-paneer-biryani",
+    "name": "Hyderabadi veg paneer biryani",
+    "meal": "Lunch or dinner",
+    "minutes": 70,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Heavy pan, deep pot with lid, small steel bowl, aluminium foil, gas",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "3 large (~450 g), thinly sliced",
+        "n": "Onions",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/2 cup, for frying (save it)",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 cup (150 g) small florets",
+        "n": "Cauliflower",
+        "tag": "cauliflower",
+        "img": "i-cauliflower"
+      },
+      {
+        "q": "~1/2 cup, small cubes",
+        "n": "Potato",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~1/2 cup, chopped",
+        "n": "French beans",
+        "tag": "beans",
+        "img": "i-beans"
+      },
+      {
+        "q": "~1/2 cup (60 g), small cubes",
+        "n": "Carrot",
+        "tag": "carrot",
+        "img": "i-carrot"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Green peas",
+        "tag": "peas",
+        "img": "i-peas"
+      },
+      {
+        "q": "~1/2 tbsp",
+        "n": "Ginger paste",
+        "tag": "ginger",
+        "img": "i-paste"
+      },
+      {
+        "q": "~1/2 tbsp",
+        "n": "Garlic paste",
+        "tag": "garlic",
+        "img": "i-paste"
+      },
+      {
+        "q": "~1 cup (200 g), thick",
+        "n": "Curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chillipowder"
+      },
+      {
+        "q": "~2 tbsp, plus a pinch for the top",
+        "n": "Biryani masala",
+        "tag": "biryani-masala",
+        "img": "i-biryanimasala",
+        "alt": [
+          "garam-masala"
+        ]
+      },
+      {
+        "q": "a handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "a handful, plus some for the top",
+        "n": "Mint leaves",
+        "tag": "mint",
+        "img": "i-mint"
+      },
+      {
+        "q": "~1/2 lemon, juiced",
+        "n": "Lemon",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "~1 tsp, to taste",
+        "n": "Salt",
+        "tag": "salt"
+      },
+      {
+        "q": "1 small piece",
+        "n": "Charcoal (for smoke)",
+        "tag": "charcoal",
+        "img": "i-coal",
+        "opt": true
+      },
+      {
+        "q": "~2 tsp, plus a little for the smoke",
+        "n": "Desi ghee",
+        "tag": "ghee",
+        "img": "i-ghee"
+      },
+      {
+        "q": "~150 g, in cubes",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "a few (cardamom, cinnamon, bay leaf)",
+        "n": "Whole spices (khade masala)",
+        "tag": "whole-spices",
+        "img": "i-wholespices"
+      },
+      {
+        "q": "2 cups (360 g), soaked",
+        "n": "Basmati rice",
+        "tag": "rice",
+        "img": "i-rice"
+      },
+      {
+        "q": "~10 strands",
+        "n": "Saffron (kesar)",
+        "tag": "saffron",
+        "img": "i-saffron",
+        "opt": true
+      },
+      {
+        "q": "~1/4 cup, warm",
+        "n": "Milk, for the saffron",
+        "tag": "milk",
+        "img": "i-saffron",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat oil in a heavy pan. Add thinly sliced onions.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Fry for 8 to 10 minutes, stirring, until deep brown and crisp.",
+        "imgs": [
+          "s-fry-1",
+          "s-fry-2"
+        ]
+      },
+      {
+        "t": "Lift the fried onions (birista) onto paper. Strain and save the oil.",
+        "imgs": [
+          "s-birista-1",
+          "s-birista-2"
+        ]
+      },
+      {
+        "t": "Cut cauliflower, potato, beans and carrot into small cubes. Put them in a wide pan with the peas.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2"
+        ]
+      },
+      {
+        "t": "Add some birista and the ginger-garlic paste.",
+        "imgs": [
+          "s-paste-1"
+        ]
+      },
+      {
+        "t": "Add the thick curd.",
+        "imgs": [
+          "s-curd-1"
+        ]
+      },
+      {
+        "t": "Add red chilli powder.",
+        "imgs": [
+          "s-chilli-1"
+        ]
+      },
+      {
+        "t": "Add biryani masala.",
+        "imgs": [
+          "s-masala-1"
+        ]
+      },
+      {
+        "t": "Add chopped coriander and mint. Squeeze in lemon juice.",
+        "imgs": [
+          "s-herb-1",
+          "s-herb-2"
+        ]
+      },
+      {
+        "t": "Mix everything well so the vegetables are coated.",
+        "imgs": [
+          "s-mix-1"
+        ]
+      },
+      {
+        "t": "Optional smoke: set a hot coal in a small steel bowl, pour ghee on it, cover for smoke.",
+        "imgs": [
+          "s-smoke-1",
+          "s-smoke-2"
+        ]
+      },
+      {
+        "t": "Fry the paneer cubes in a little oil until golden. Keep aside.",
+        "imgs": [
+          "s-paneer-1"
+        ]
+      },
+      {
+        "t": "Boil water in a pot with whole spices (khade masala). Then take the spices out.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the soaked rice and a spoon of ghee. Cook for 6 to 7 minutes.",
+        "imgs": [
+          "s-rice-1",
+          "s-rice-2",
+          "s-rice-3"
+        ]
+      },
+      {
+        "t": "Heat the saved birista oil in a heavy pot with a lid.",
+        "imgs": [
+          "s-pot-1"
+        ]
+      },
+      {
+        "t": "Add the marinated vegetables, some birista and salt to taste.",
+        "imgs": [
+          "s-pot-2",
+          "s-pot-3"
+        ]
+      },
+      {
+        "t": "Cover and cook the vegetables for 8 to 10 minutes.",
+        "imgs": [
+          "s-cook-1"
+        ]
+      },
+      {
+        "t": "Take out half of the vegetables onto a plate.",
+        "imgs": [
+          "s-half-1"
+        ]
+      },
+      {
+        "t": "Spread half of the cooked rice over the vegetables in the pot.",
+        "imgs": [
+          "s-layer-1"
+        ]
+      },
+      {
+        "t": "Spread the rest of the vegetables over the rice.",
+        "imgs": [
+          "s-layer-2"
+        ]
+      },
+      {
+        "t": "Scatter the fried paneer, then cover with the rest of the rice.",
+        "imgs": [
+          "s-layer-3",
+          "s-layer-4"
+        ]
+      },
+      {
+        "t": "Pour saffron milk over the rice. Sprinkle birista on top.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2"
+        ]
+      },
+      {
+        "t": "Add mint leaves, more fried paneer and a sprinkle of biryani masala.",
+        "imgs": [
+          "s-top-3",
+          "s-top-4"
+        ]
+      },
+      {
+        "t": "Seal the pot with foil, put the lid on, and dum cook for 10 minutes.",
+        "imgs": [
+          "s-dum-1",
+          "s-dum-2"
+        ]
+      },
+      {
+        "t": "Mix gently from the bottom and serve hot.",
+        "imgs": [
+          "s-serve-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "Silent video with on-screen words only, so every amount is a guess (serves 4 assumed). Long recipe, mostly waiting. Paneer frying, vegetable cutting and salt are not shown (frame of fried paneer reused). Potato is a guess from the white cubes. Coal smoke is optional. Video is sponsored by a masala brand; brand names left out."
+  },
+  "images": {
+    "cover": {
+      "t": 69.0,
+      "crop": [
+        0,
+        300,
+        720,
+        800
+      ],
+      "w": 560
+    },
+    "s-onion-1": {
+      "t": 0.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 2.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 3.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 4.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-birista-1": {
+      "t": 5.6,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-birista-2": {
+      "t": 7.6,
+      "crop": [
+        0,
+        440,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 10.6,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 11.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-paste-1": {
+      "t": 12.9,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 19.4,
+      "crop": [
+        300,
+        280,
+        420,
+        420
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 24.6,
+      "crop": [
+        0,
+        520,
+        640,
+        480
+      ],
+      "w": 480
+    },
+    "s-herb-1": {
+      "t": 26.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-herb-2": {
+      "t": 27.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 28.6,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-smoke-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-smoke-2": {
+      "t": 33.2,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 57.2,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 36.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 37.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-rice-1": {
+      "t": 39.2,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-rice-2": {
+      "t": 40.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-rice-3": {
+      "t": 43.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-pot-1": {
+      "t": 44.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-pot-2": {
+      "t": 46.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-pot-3": {
+      "t": 48.0,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 49.5,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-half-1": {
+      "t": 52.2,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-layer-1": {
+      "t": 54.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-layer-2": {
+      "t": 56.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-layer-3": {
+      "t": 57.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-layer-4": {
+      "t": 58.5,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 59.5,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 60.5,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-top-3": {
+      "t": 61.5,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-top-4": {
+      "t": 62.7,
+      "crop": [
+        0,
+        620,
+        540,
+        540
+      ],
+      "w": 480
+    },
+    "s-dum-1": {
+      "t": 64.4,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-dum-2": {
+      "t": 66.3,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 68.0,
+      "crop": [
+        0,
+        280,
+        720,
+        760
+      ],
+      "w": 480
+    },
+    "i-onion": {
+      "t": 2.3,
+      "crop": [
+        0,
+        420,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 0.2,
+      "crop": [
+        0,
+        250,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-cauliflower": {
+      "t": 10.6,
+      "crop": [
+        20,
+        400,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-beans": {
+      "t": 11.3,
+      "crop": [
+        10,
+        520,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-carrot": {
+      "t": 11.3,
+      "crop": [
+        330,
+        560,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 11.3,
+      "crop": [
+        180,
+        800,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 14.4,
+      "crop": [
+        0,
+        560,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-paste": {
+      "t": 12.9,
+      "crop": [
+        150,
+        480,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 13.4,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-chillipowder": {
+      "t": 19.4,
+      "crop": [
+        330,
+        300,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-biryanimasala": {
+      "t": 24.6,
+      "crop": [
+        60,
+        540,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 26.4,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-mint": {
+      "t": 61.5,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 27.4,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coal": {
+      "t": 31.0,
+      "crop": [
+        150,
+        450,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 40.3,
+      "crop": [
+        150,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 57.2,
+      "crop": [
+        100,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-wholespices": {
+      "t": 37.4,
+      "crop": [
+        100,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 39.2,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-saffron": {
+      "t": 59.5,
+      "crop": [
+        200,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    }
+  }
+}

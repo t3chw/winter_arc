@@ -1,0 +1,58 @@
+{
+  "videos": ["3593115247890058281"],
+  "dish": {
+    "id": "whipped-cold-coffee",
+    "name": "Whipped cold coffee",
+    "meal": "Drink",
+    "minutes": 5,
+    "protein": 10,
+    "how": "No cooking",
+    "tools": "Mixie (grinder jar), tall glass, spoon",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      { "q": "~2 tbsp", "n": "Instant coffee powder", "tag": "coffee", "img": "i-coffee" },
+      { "q": "~3 tbsp", "n": "Sugar", "tag": "sugar", "img": "i-sugar" },
+      { "q": "~7 cubes (3 for the jar, 4 for the glass)", "n": "Ice cubes", "tag": "ice", "img": "i-ice" },
+      { "q": "~1 cup (200 ml)", "n": "Cold milk", "tag": "milk", "img": "i-milk" },
+      { "q": "~1 tbsp", "n": "Chocolate chips", "tag": "chocolate-chips", "img": "i-chips", "opt": true }
+    ],
+    "steps": [
+      { "t": "Put the coffee powder in a dry mixie jar.", "imgs": ["s-coffee-1", "s-coffee-2"] },
+      { "t": "Add the sugar on top.", "imgs": ["s-sugar-1", "s-sugar-2", "s-sugar-3"] },
+      { "t": "Add 3 ice cubes.", "imgs": ["s-ice-1"] },
+      { "t": "Close the lid and blend until you get a thick, creamy coffee froth.", "imgs": ["s-blend-1", "s-blend-2", "s-blend-3"] },
+      { "t": "Put 4 ice cubes in a tall glass.", "imgs": ["s-glass-1", "s-glass-2"] },
+      { "t": "Pour cold milk over the ice.", "imgs": ["s-milk-1", "s-milk-2"] },
+      { "t": "Pour the coffee froth over the milk.", "imgs": ["s-cream-1", "s-cream-2"] },
+      { "t": "Sprinkle chocolate chips on top. Stir with a spoon and drink.", "imgs": ["s-top-1", "s-top-2"] }
+    ],
+    "tags": ["no-cook", "blender", "quick"],
+    "notes": "Silent reel with music only; no amounts are shown, all are guesses (~). Blend time is not shown (try 20 to 30 seconds). The ice cubes in the glass could be frozen milk cubes; they look like plain ice. Chocolate chips are my reading of the dark bits on top."
+  },
+  "images": {
+    "cover": { "t": 1.0, "crop": [0, 330, 720, 680], "w": 560 },
+    "i-coffee": { "t": 3.5, "crop": [140, 160, 480, 480], "w": 200 },
+    "i-sugar": { "t": 5.5, "crop": [130, 520, 460, 460], "w": 200 },
+    "i-ice": { "t": 6.0, "crop": [100, 480, 520, 520], "w": 200 },
+    "i-milk": { "t": 10.5, "crop": [100, 250, 520, 520], "w": 200 },
+    "i-chips": { "t": 13.0, "crop": [150, 500, 420, 420], "w": 200 },
+    "s-coffee-1": { "t": 3.5, "crop": [0, 200, 720, 540], "w": 480 },
+    "s-coffee-2": { "t": 4.0, "crop": [0, 200, 720, 540], "w": 480 },
+    "s-sugar-1": { "t": 4.5, "crop": [0, 250, 720, 540], "w": 480 },
+    "s-sugar-2": { "t": 5.0, "crop": [0, 250, 720, 540], "w": 480 },
+    "s-sugar-3": { "t": 5.5, "crop": [0, 350, 720, 540], "w": 480 },
+    "s-ice-1": { "t": 6.0, "crop": [0, 350, 720, 540], "w": 480 },
+    "s-blend-1": { "t": 6.2, "crop": [0, 250, 720, 540], "w": 480 },
+    "s-blend-2": { "t": 7.5, "crop": [0, 250, 720, 540], "w": 480 },
+    "s-blend-3": { "t": 8.0, "crop": [0, 220, 720, 540], "w": 480 },
+    "s-glass-1": { "t": 9.0, "crop": [0, 420, 720, 540], "w": 480 },
+    "s-glass-2": { "t": 9.5, "crop": [0, 380, 720, 540], "w": 480 },
+    "s-milk-1": { "t": 10.0, "crop": [0, 300, 720, 540], "w": 480 },
+    "s-milk-2": { "t": 10.5, "crop": [0, 300, 720, 540], "w": 480 },
+    "s-cream-1": { "t": 11.0, "crop": [0, 300, 720, 540], "w": 480 },
+    "s-cream-2": { "t": 12.0, "crop": [0, 280, 720, 540], "w": 480 },
+    "s-top-1": { "t": 13.0, "crop": [0, 280, 720, 540], "w": 480 },
+    "s-top-2": { "t": 14.2, "crop": [0, 280, 720, 540], "w": 480 }
+  }
+}

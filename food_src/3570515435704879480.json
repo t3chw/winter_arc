@@ -1,0 +1,609 @@
+{
+  "videos": [
+    "3570515435704879480"
+  ],
+  "dish": {
+    "id": "crispy-chickpea-veg-salad",
+    "name": "Crispy chickpea veg salad",
+    "meal": "Lunch or dinner",
+    "minutes": 20,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Non-stick pan, mixie (blender), gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 cup (160 g), boiled",
+        "n": "Chickpeas (kabuli chana), boiled",
+        "tag": "chickpeas",
+        "img": "i-chickpeas"
+      },
+      {
+        "q": "~1/2 medium",
+        "n": "Yellow capsicum",
+        "tag": "capsicum",
+        "img": "i-yellowcap"
+      },
+      {
+        "q": "~1/2 medium",
+        "n": "Red capsicum",
+        "tag": "capsicum",
+        "img": "i-redcap"
+      },
+      {
+        "q": "~1 medium",
+        "n": "Cucumber",
+        "tag": "cucumber",
+        "img": "i-cucumber"
+      },
+      {
+        "q": "~1 medium",
+        "n": "Onion, chopped",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/2 tsp, plus a pinch for the dressing",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 tsp, plus a pinch for the dressing",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chillipowder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin powder (jeera powder, roasted)",
+        "tag": "cumin-powder",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1/2 cup (100 g), thick",
+        "n": "Curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~8 to 10",
+        "n": "Cashews",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "1 to 2",
+        "n": "Dry red chilli",
+        "tag": "dry-red-chilli",
+        "img": "i-drychilli"
+      },
+      {
+        "q": "3 to 4 cloves",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~50 g, crumbled",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "a handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Cut the yellow and red capsicum into small cubes.",
+        "imgs": [
+          "s-capsicum-1",
+          "s-capsicum-2"
+        ]
+      },
+      {
+        "t": "Cut the cucumber into small cubes. Chop the onion too.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2"
+        ]
+      },
+      {
+        "t": "Heat a non-stick pan. Add the boiled chickpeas and stir-fry on medium heat.",
+        "imgs": [
+          "s-pan-1",
+          "s-pan-2"
+        ]
+      },
+      {
+        "t": "Sprinkle salt, red chilli powder and cumin powder. Toss until the chickpeas turn crisp and golden.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "In the mixie jar, add the curd and the cashews.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2"
+        ]
+      },
+      {
+        "t": "Add dry red chilli, garlic cloves, salt, red chilli powder and cumin powder.",
+        "imgs": [
+          "s-jar-3",
+          "s-jar-4",
+          "s-jar-5"
+        ]
+      },
+      {
+        "t": "Crumble in the paneer. Pour in a little water.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "Close the lid and blend into a smooth, thick dressing.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Spread the crisp chickpeas on a wide plate.",
+        "imgs": [
+          "s-plate-1"
+        ]
+      },
+      {
+        "t": "Add the capsicum, cucumber and onion on top.",
+        "imgs": [
+          "s-plate-2",
+          "s-plate-3",
+          "s-plate-4"
+        ]
+      },
+      {
+        "t": "Pour the dressing over, add coriander, and mix well.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-mix-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-fibre"
+    ],
+    "notes": "No amounts in the video (they were in the caption), so all quantities are estimates. No oil seen, chickpeas look dry-roasted. Heat level, onion chopping and blending are not shown. White crumble in the dressing looks like paneer. Brown spice looks like cumin powder."
+  },
+  "images": {
+    "cover": {
+      "t": 48.4,
+      "crop": [
+        0,
+        330,
+        720,
+        840
+      ],
+      "w": 560
+    },
+    "i-chickpeas": {
+      "t": 22.3,
+      "crop": [
+        140,
+        520,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-yellowcap": {
+      "t": 3.3,
+      "crop": [
+        0,
+        360,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-redcap": {
+      "t": 9.5,
+      "crop": [
+        150,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cucumber": {
+      "t": 14.8,
+      "crop": [
+        20,
+        560,
+        680,
+        680
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 44.2,
+      "crop": [
+        300,
+        470,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 34.7,
+      "crop": [
+        250,
+        320,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-chillipowder": {
+      "t": 35.3,
+      "crop": [
+        340,
+        330,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 25.3,
+      "crop": [
+        200,
+        330,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 30.4,
+      "crop": [
+        100,
+        450,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 31.9,
+      "crop": [
+        150,
+        600,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-drychilli": {
+      "t": 32.4,
+      "crop": [
+        100,
+        560,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 34.4,
+      "crop": [
+        250,
+        440,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 38.4,
+      "crop": [
+        330,
+        380,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 39.6,
+      "crop": [
+        300,
+        330,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 45.2,
+      "crop": [
+        130,
+        470,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "s-capsicum-1": {
+      "t": 8.2,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-capsicum-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-pan-1": {
+      "t": 21.2,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-pan-2": {
+      "t": 22.3,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 23.4,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 25.5,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 27.5,
+      "crop": [
+        0,
+        340,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 28.5,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 31.6,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-3": {
+      "t": 32.5,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-4": {
+      "t": 33.5,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-5": {
+      "t": 36.5,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 38.4,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 39.4,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 40.4,
+      "crop": [
+        0,
+        360,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 0.4,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-plate-1": {
+      "t": 41.5,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-plate-2": {
+      "t": 42.5,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-plate-3": {
+      "t": 43.5,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-plate-4": {
+      "t": 44.4,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 45.6,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 47.0,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-3": {
+      "t": 1.2,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

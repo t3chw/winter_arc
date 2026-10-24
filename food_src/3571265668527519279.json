@@ -1,0 +1,784 @@
+{
+  "videos": [
+    "3571265668527519279"
+  ],
+  "dish": {
+    "id": "dahi-capsicum-sabzi",
+    "name": "Dahi capsicum sabzi",
+    "meal": "Lunch or dinner",
+    "minutes": 20,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Non-stick pan, gas, mortar (or grater)",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 large (~150 g)",
+        "n": "Green capsicum",
+        "tag": "capsicum",
+        "img": "i-capsicum"
+      },
+      {
+        "q": "1 medium",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2 tbsp, in all",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp, crushed",
+        "n": "Kasuri methi (dry fenugreek leaves)",
+        "tag": "kasuri-methi",
+        "img": "i-kasuri"
+      },
+      {
+        "q": "a small handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1 tsp, plus ~1 tsp later",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chillipowder"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Sesame seeds",
+        "tag": "sesame-seeds",
+        "img": "i-sesame"
+      },
+      {
+        "q": "~8 leaves",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curryleaves"
+      },
+      {
+        "q": "4 to 5 cloves, crushed",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~1/2 tsp, to taste",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Turmeric",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Garam masala",
+        "tag": "garam-masala",
+        "img": "i-garammasala"
+      },
+      {
+        "q": "~2 tbsp, crushed",
+        "n": "Peanuts",
+        "tag": "peanuts",
+        "img": "i-peanuts"
+      },
+      {
+        "q": "~1/2 cup (100 g)",
+        "n": "Thick curd (dahi), whisked",
+        "tag": "curd",
+        "img": "i-curd"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Cut the capsicum into long slices.",
+        "imgs": [
+          "s-cut-1",
+          "s-cut-2"
+        ]
+      },
+      {
+        "t": "Slice the onion into long slices too.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Heat oil in a non-stick pan. Add the sliced onion and sauté.",
+        "imgs": [
+          "s-saute-1",
+          "s-saute-2"
+        ]
+      },
+      {
+        "t": "Add the capsicum slices and stir.",
+        "imgs": [
+          "s-caps-1",
+          "s-caps-2"
+        ]
+      },
+      {
+        "t": "Add crushed kasuri methi and chopped coriander.",
+        "imgs": [
+          "s-herb-1",
+          "s-herb-2",
+          "s-herb-3"
+        ]
+      },
+      {
+        "t": "Add red chilli powder. Cook, stirring, until the capsicum is soft.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Move the cooked capsicum to a plate.",
+        "imgs": [
+          "s-plate-1",
+          "s-plate-2"
+        ]
+      },
+      {
+        "t": "In the same pan, heat a little oil. Add cumin seeds.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add sesame seeds.",
+        "imgs": [
+          "s-sesame-1",
+          "s-sesame-2"
+        ]
+      },
+      {
+        "t": "Add curry leaves.",
+        "imgs": [
+          "s-curry-1"
+        ]
+      },
+      {
+        "t": "Crush the garlic and add it to the pan.",
+        "imgs": [
+          "s-garlic-1",
+          "s-garlic-2",
+          "s-garlic-3"
+        ]
+      },
+      {
+        "t": "Put the cooked capsicum back in the pan.",
+        "imgs": [
+          "s-back-1",
+          "s-back-2"
+        ]
+      },
+      {
+        "t": "Add salt and turmeric.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Add garam masala and a little more red chilli powder.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2",
+          "s-masala-3"
+        ]
+      },
+      {
+        "t": "Crush the peanuts and add them.",
+        "imgs": [
+          "s-peanut-1",
+          "s-peanut-2",
+          "s-peanut-3"
+        ]
+      },
+      {
+        "t": "Whisk the curd until smooth.",
+        "imgs": [
+          "s-curd-1"
+        ]
+      },
+      {
+        "t": "Add the curd and mix well until combined.",
+        "imgs": [
+          "s-mixcurd-1",
+          "s-mixcurd-2",
+          "s-mixcurd-3"
+        ]
+      },
+      {
+        "t": "Serve hot in a bowl, with paratha or roti.",
+        "imgs": [
+          "s-serve-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "No amounts are given in the video, so all quantities are estimates. Cooking times and heat levels are not shown; keep the heat low when adding curd so it does not split. Peanuts are crushed raw in a mortar (roasted peanuts would also work). The paratha in the last shot is only for serving."
+  },
+  "images": {
+    "cover": {
+      "t": 4.5,
+      "crop": [
+        0,
+        40,
+        720,
+        900
+      ],
+      "w": 560
+    },
+    "i-capsicum": {
+      "t": 0.3,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 8.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 8.5,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-kasuri": {
+      "t": 16.4,
+      "crop": [
+        0,
+        40,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 18.0,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-chillipowder": {
+      "t": 19.5,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 27.5,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-sesame": {
+      "t": 29.5,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-curryleaves": {
+      "t": 30.5,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 33.0,
+      "crop": [
+        60,
+        300,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 37.4,
+      "crop": [
+        80,
+        0,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 39.3,
+      "crop": [
+        100,
+        130,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-garammasala": {
+      "t": 42.0,
+      "crop": [
+        100,
+        100,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-peanuts": {
+      "t": 44.8,
+      "crop": [
+        60,
+        250,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 46.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "s-cut-1": {
+      "t": 2.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-cut-2": {
+      "t": 3.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 8.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-saute-1": {
+      "t": 8.8,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-saute-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-caps-1": {
+      "t": 12.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-caps-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-herb-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-herb-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-herb-3": {
+      "t": 18.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 20.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-plate-1": {
+      "t": 21.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-plate-2": {
+      "t": 23.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 27.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-sesame-1": {
+      "t": 28.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-sesame-2": {
+      "t": 29.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-curry-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-garlic-1": {
+      "t": 31.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-garlic-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-garlic-3": {
+      "t": 34.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-back-1": {
+      "t": 35.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-back-2": {
+      "t": 36.2,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 37.4,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 39.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 42.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 42.5,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-masala-3": {
+      "t": 43.3,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-peanut-1": {
+      "t": 44.1,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-peanut-2": {
+      "t": 44.8,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-peanut-3": {
+      "t": 45.3,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 46.3,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-mixcurd-1": {
+      "t": 47.6,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-mixcurd-2": {
+      "t": 49.0,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-mixcurd-3": {
+      "t": 50.2,
+      "crop": [
+        0,
+        120,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 51.5,
+      "crop": [
+        0,
+        60,
+        720,
+        880
+      ],
+      "w": 480
+    }
+  }
+}

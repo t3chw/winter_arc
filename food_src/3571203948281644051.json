@@ -1,0 +1,664 @@
+{
+  "videos": [
+    "3571203948281644051"
+  ],
+  "dish": {
+    "id": "mixed-bean-usal",
+    "name": "Mixed bean usal",
+    "meal": "Breakfast",
+    "minutes": 35,
+    "protein": 15,
+    "how": "Pressure cooker",
+    "tools": "Pressure cooker, gas, big bowl",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 tbsp (25 g)",
+        "n": "Whole green moong",
+        "tag": "moong-whole",
+        "img": "i-moong"
+      },
+      {
+        "q": "~2 tbsp (25 g)",
+        "n": "Lobia (black-eyed beans)",
+        "tag": "lobia",
+        "img": "i-lobia"
+      },
+      {
+        "q": "~2 tbsp (25 g)",
+        "n": "Moth beans (matki)",
+        "tag": "moth-beans",
+        "img": "i-moth"
+      },
+      {
+        "q": "~2 tbsp (25 g)",
+        "n": "Dried green peas (vatana)",
+        "tag": "dried-peas",
+        "img": "i-peas"
+      },
+      {
+        "q": "~2 tbsp (25 g)",
+        "n": "Brown chana (desi kala chana)",
+        "tag": "kala-chana",
+        "img": "i-chana"
+      },
+      {
+        "q": "enough to cover, ~2 cups",
+        "n": "Water, for soaking",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~2 tsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Mustard seeds",
+        "tag": "mustard-seeds",
+        "img": "i-seeds"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds",
+        "tag": "cumin",
+        "img": "i-seeds"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chillipowder"
+      },
+      {
+        "q": "~1/2 tsp, to taste",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/2 lemon",
+        "n": "Lemon juice",
+        "tag": "lemon",
+        "img": "i-lemon",
+        "opt": true
+      },
+      {
+        "q": "a few sprigs, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Pour equal parts of all five beans into a big bowl.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2",
+          "s-pour-3"
+        ]
+      },
+      {
+        "t": "Mix the beans well with your hands.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Store the extra mix in a lidded jar for later.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2",
+          "s-jar-3"
+        ]
+      },
+      {
+        "t": "Take 1 katori of the mix into a glass bowl.",
+        "imgs": [
+          "s-take-1",
+          "s-take-2"
+        ]
+      },
+      {
+        "t": "Add water and wash the beans with your hand.",
+        "imgs": [
+          "s-wash-1",
+          "s-wash-2"
+        ]
+      },
+      {
+        "t": "Cover with fresh water and soak overnight.",
+        "imgs": [
+          "s-soak-1",
+          "s-soak-2"
+        ]
+      },
+      {
+        "t": "Heat oil in the pressure cooker. Add mustard seeds and cumin.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Add turmeric and red chilli powder.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the soaked beans with a little water.",
+        "imgs": [
+          "s-add-1",
+          "s-add-2",
+          "s-add-3"
+        ]
+      },
+      {
+        "t": "Add salt and stir well.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Close the lid. Pressure cook until the beans are soft.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2"
+        ]
+      },
+      {
+        "t": "Spoon the cooked beans onto a plate.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      },
+      {
+        "t": "Squeeze lemon juice over the top.",
+        "imgs": [
+          "s-lemon-1",
+          "s-lemon-2"
+        ]
+      },
+      {
+        "t": "Sprinkle chopped coriander and mix.",
+        "imgs": [
+          "s-coriander-1",
+          "s-coriander-2"
+        ]
+      }
+    ],
+    "tags": [
+      "pressure-cooker",
+      "high-fibre"
+    ],
+    "notes": "Soak overnight (about 8 hours) is not counted in minutes. No quantities are shown: amounts are guesses for 1 katori of mix. Whistle count not shown (I would try about 5 whistles on high). Video label says 'soya bean' but the white beans look like lobia. Dried green peas are shown without a label. Red chilli powder is seen going in right after turmeric but is not on the video's ingredient list."
+  },
+  "images": {
+    "cover": {
+      "t": 44.6,
+      "crop": [
+        0,
+        280,
+        720,
+        800
+      ],
+      "w": 560
+    },
+    "i-moong": {
+      "t": 1.6,
+      "crop": [
+        60,
+        400,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-lobia": {
+      "t": 3.3,
+      "crop": [
+        60,
+        450,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-moth": {
+      "t": 4.6,
+      "crop": [
+        60,
+        450,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 6.4,
+      "crop": [
+        60,
+        450,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-chana": {
+      "t": 7.5,
+      "crop": [
+        60,
+        450,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 21.4,
+      "crop": [
+        80,
+        100,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 27.3,
+      "crop": [
+        320,
+        0,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 29.3,
+      "crop": [
+        100,
+        450,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 33.4,
+      "crop": [
+        300,
+        400,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 40.0,
+      "crop": [
+        200,
+        0,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 42.3,
+      "crop": [
+        0,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-pour-1": {
+      "t": 1.5,
+      "crop": [
+        0,
+        280,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 4.5,
+      "crop": [
+        0,
+        280,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-pour-3": {
+      "t": 7.5,
+      "crop": [
+        0,
+        280,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 9.5,
+      "crop": [
+        0,
+        280,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        280,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 13.5,
+      "crop": [
+        0,
+        420,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        420,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-3": {
+      "t": 17.5,
+      "crop": [
+        0,
+        420,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-take-1": {
+      "t": 19.4,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-take-2": {
+      "t": 20.4,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-wash-1": {
+      "t": 21.6,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-wash-2": {
+      "t": 22.5,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 23.6,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 25.6,
+      "crop": [
+        0,
+        280,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-add-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-add-2": {
+      "t": 31.2,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-add-3": {
+      "t": 32.6,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 33.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 34.9,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 35.95,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 36.4,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 37.4,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 39.2,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-lemon-1": {
+      "t": 40.4,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-lemon-2": {
+      "t": 41.4,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 42.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-coriander-2": {
+      "t": 43.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "i-seeds": {
+      "t": 28.0,
+      "crop": [
+        100,
+        450,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-chillipowder": {
+      "t": 29.9,
+      "crop": [
+        100,
+        450,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "s-spice-1": {
+      "t": 29.3,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 29.9,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

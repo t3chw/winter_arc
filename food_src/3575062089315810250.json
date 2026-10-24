@@ -1,0 +1,679 @@
+{
+  "videos": [
+    "3575062089315810250"
+  ],
+  "dish": {
+    "id": "dahi-wale-chole",
+    "name": "Chickpeas in curd gravy",
+    "meal": "Lunch or dinner",
+    "minutes": 20,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Mixie (blender), non-stick pan with lid, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3/4 cup (150 g), thick",
+        "n": "Curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~10",
+        "n": "Cashews",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Ginger paste",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Garlic paste",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "1 to 2",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-greenchilli"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chillipowder"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Coriander powder",
+        "tag": "coriander-powder",
+        "img": "i-corianderpowder"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "a few",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-cumin",
+        "opt": true
+      },
+      {
+        "q": "1 medium, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1.5 cups (250 g), boiled",
+        "n": "Chickpeas (chole), boiled",
+        "tag": "chickpeas",
+        "img": "i-chickpeas",
+        "alt": [
+          "kala-chana"
+        ]
+      },
+      {
+        "q": "1 medium, in rings",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "a handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander",
+        "opt": true
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Garam masala",
+        "tag": "garam-masala",
+        "img": "i-garammasala"
+      },
+      {
+        "q": "~1/2 tsp, to taste",
+        "n": "Salt",
+        "tag": "salt"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put the curd in the mixie jar.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2"
+        ]
+      },
+      {
+        "t": "Add cashews, ginger-garlic paste and green chillies.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2",
+          "s-jar-3"
+        ]
+      },
+      {
+        "t": "Add turmeric, red chilli powder and coriander powder.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Blend into a smooth, thick paste.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan. Add cumin seeds and curry leaves.",
+        "imgs": [
+          "s-tadka-1"
+        ]
+      },
+      {
+        "t": "Add the chopped tomato. Cook until it turns soft and mushy.",
+        "imgs": [
+          "s-tomato-1",
+          "s-tomato-2",
+          "s-tomato-3"
+        ]
+      },
+      {
+        "t": "Pour in the curd paste and stir well.",
+        "imgs": [
+          "s-gravy-1",
+          "s-gravy-2",
+          "s-gravy-3"
+        ]
+      },
+      {
+        "t": "Cover and cook until red oil shows on top.",
+        "imgs": [
+          "s-cover-1",
+          "s-cover-2"
+        ]
+      },
+      {
+        "t": "Add the boiled chickpeas.",
+        "imgs": [
+          "s-chole-1",
+          "s-chole-2"
+        ]
+      },
+      {
+        "t": "Add sliced onion rings, chopped coriander and garam masala.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2",
+          "s-top-3"
+        ]
+      },
+      {
+        "t": "Mix everything well.",
+        "imgs": [
+          "s-mix-1"
+        ]
+      },
+      {
+        "t": "Cover and cook for 2 to 3 minutes.",
+        "imgs": [
+          "s-simmer-1",
+          "s-simmer-2"
+        ]
+      },
+      {
+        "t": "Serve hot with rice or roti.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-fibre"
+    ],
+    "credit": "myflavourfuljourney",
+    "notes": "No amounts are given, so all quantities are guesses. Chickpeas are already boiled. Salt is never shown but the gravy needs it. Heat levels are not shown. The two pastes (ginger, garlic) are hard to tell apart on screen. Curry leaf in the tadka is a guess from one green leaf."
+  },
+  "images": {
+    "cover": {
+      "t": 44.6,
+      "crop": [
+        0,
+        300,
+        720,
+        780
+      ],
+      "w": 560
+    },
+    "s-curd-1": {
+      "t": 7.4,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 8.0,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 8.6,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 9.4,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-jar-3": {
+      "t": 10.0,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 11.4,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 12.4,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 14.4,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 15.3,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-tadka-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-tomato-1": {
+      "t": 17.6,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-tomato-2": {
+      "t": 19.3,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-tomato-3": {
+      "t": 20.5,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-gravy-1": {
+      "t": 21.4,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-gravy-2": {
+      "t": 22.6,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-gravy-3": {
+      "t": 24.3,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-cover-1": {
+      "t": 25.6,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-cover-2": {
+      "t": 27.6,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-chole-1": {
+      "t": 29.4,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-chole-2": {
+      "t": 30.2,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 31.3,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 32.4,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-3": {
+      "t": 33.4,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 34.5,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-simmer-1": {
+      "t": 36.4,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-simmer-2": {
+      "t": 37.5,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 42.6,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 44.6,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "i-curd": {
+      "t": 8.0,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 8.6,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 9.4,
+      "crop": [
+        100,
+        380,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 10.4,
+      "crop": [
+        100,
+        430,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-greenchilli": {
+      "t": 10.2,
+      "crop": [
+        150,
+        450,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 10.4,
+      "crop": [
+        50,
+        380,
+        620,
+        620
+      ],
+      "w": 200
+    },
+    "i-chillipowder": {
+      "t": 11.4,
+      "crop": [
+        100,
+        380,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-corianderpowder": {
+      "t": 12.4,
+      "crop": [
+        50,
+        380,
+        620,
+        620
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 16.0,
+      "crop": [
+        100,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 16.5,
+      "crop": [
+        100,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 17.9,
+      "crop": [
+        100,
+        330,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-chickpeas": {
+      "t": 29.4,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 31.3,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 32.4,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-garammasala": {
+      "t": 33.5,
+      "crop": [
+        100,
+        250,
+        520,
+        520
+      ],
+      "w": 200
+    }
+  }
+}
