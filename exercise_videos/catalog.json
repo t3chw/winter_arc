@@ -1,0 +1,246 @@
+{
+  "source_dir": "/Users/mohit/Downloads/exercise",
+  "generated": "2026-10-24",
+  "videos": [
+    {
+      "file": "2577105982938622877_2577104343258315005.mp4",
+      "duration_s": 16.1, "resolution": "720x720", "audio": "music",
+      "category": "forearms", "series": "A (red stringer)", "series_index": 1,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "FOREARMS #1 - Dumbbell hammer curl",
+      "exercises": [
+        {"name": "Dumbbell hammer curl", "start": "0:04", "end": "0:15", "sets": null, "reps": null,
+         "equipment": ["2 plate-loaded dumbbells"], "target": ["brachioradialis", "forearms", "biceps"],
+         "cues": "Neutral grip (thumbs up), elbows pinned to sides, curl to ~90 deg and above."}
+      ],
+      "contact_sheet": "contact_sheets/2577105982938622877_2577104343258315005.jpg"
+    },
+    {
+      "file": "2577105982938622877_2577104343736388927.mp4",
+      "duration_s": 15.8, "resolution": "720x720", "audio": "music",
+      "category": "forearms", "series": "A (red stringer)", "series_index": 2,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "FOREARMS #2 - Plate-pinch wrist rotation",
+      "exercises": [
+        {"name": "Plate-pinch wrist rotation (supination/pronation)", "start": "0:00", "end": "0:16", "sets": null, "reps": null,
+         "equipment": ["1 small weight plate"], "target": ["forearm rotators", "grip"],
+         "cues": "Elbow at 90 deg pinned to side; pinch plate rim with fingertips; rotate from plate hanging vertical to flat on upturned palm and back."}
+      ],
+      "contact_sheet": "contact_sheets/2577105982938622877_2577104343736388927.jpg"
+    },
+    {
+      "file": "2577105982938622877_2577104343283372686.mp4",
+      "duration_s": 15.0, "resolution": "720x720", "audio": "music",
+      "category": "forearms", "series": "A (red stringer)", "series_index": 3,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "FOREARMS #3 - One-arm dumbbell reverse curl",
+      "exercises": [
+        {"name": "One-arm dumbbell reverse curl", "start": "0:00", "end": "0:15", "sets": null, "reps": null,
+         "equipment": ["1 plate-loaded dumbbell"], "target": ["brachioradialis", "forearm extensors"],
+         "cues": "Overhand grip (moderate confidence), elbow pinned, curl hip to shoulder; free hand on stomach. PiP inset shows front angle."}
+      ],
+      "contact_sheet": "contact_sheets/2577105982938622877_2577104343283372686.jpg"
+    },
+    {
+      "file": "2577105982938622877_2577104345992903998.mp4",
+      "duration_s": 13.1, "resolution": "720x720", "audio": "none",
+      "category": "non-exercise", "series": "A (red stringer)", "series_index": 4,
+      "is_exercise": false, "duplicate_of": null,
+      "title": "Series A outro card",
+      "exercises": [],
+      "notes": "Thanks for Watching / SAVE SUPPORT SHARE, then AGF logo 'Transforming LIVES - JOIN YOUR TRANSFORMATION PLAN'.",
+      "contact_sheet": "contact_sheets/2577105982938622877_2577104345992903998.jpg"
+    },
+    {
+      "file": "2633546045683211812_2633545393192303658.mp4",
+      "duration_s": 30.5, "resolution": "640x800", "audio": "music",
+      "category": "forearms", "series": "B (gym, white Squatwolf tee)", "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "CABLE WRIST CURL",
+      "exercises": [
+        {"name": "Seated cable wrist curl", "start": "0:00", "end": "0:30", "sets": 4, "reps": "8-12",
+         "equipment": ["cable machine (low pulley)", "short straight bar", "flat bench"], "target": ["forearm flexors"],
+         "cues": "Sit at end of bench, lean forward, forearms over knees, underhand grip; only wrists move - curl up, lower into extension."}
+      ],
+      "contact_sheet": "contact_sheets/2633546045683211812_2633545393192303658.jpg"
+    },
+    {
+      "file": "2633546045683211812_2633545552013748476.mp4",
+      "duration_s": 30.5, "resolution": "640x800", "audio": "music",
+      "category": "forearms", "series": "B (gym, white Squatwolf tee)", "series_index": null,
+      "is_exercise": true, "duplicate_of": "2633546045683211812_2633545393192303658.mp4",
+      "title": "CABLE WRIST CURL (duplicate)",
+      "exercises": [],
+      "notes": "Same footage and overlays as 2633545393192303658, different encode (mean SSIM 0.92). Keep one.",
+      "contact_sheet": "contact_sheets/2633546045683211812_2633545552013748476.jpg"
+    },
+    {
+      "file": "2633546045683211812_2633545703419631190.mp4",
+      "duration_s": 22.8, "resolution": "640x800", "audio": "music",
+      "category": "forearms", "series": "B (gym, white Squatwolf tee)", "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "DB REVERSE CONCENTRATION CURL",
+      "exercises": [
+        {"name": "Seated dumbbell reverse concentration curl", "start": "0:00", "end": "0:23", "sets": 4, "reps": "8-12",
+         "equipment": ["1 dumbbell", "flat bench"], "target": ["brachioradialis", "forearm extensors"],
+         "cues": "Back of upper arm braced on inner thigh, overhand grip, curl from near floor to chest/shoulder, lower slowly; free hand on knee."}
+      ],
+      "contact_sheet": "contact_sheets/2633546045683211812_2633545703419631190.jpg"
+    },
+    {
+      "file": "2633546045683211812_2633545828611383051.mp4",
+      "duration_s": 21.6, "resolution": "640x800", "audio": "music",
+      "category": "forearms", "series": "B (gym, white Squatwolf tee)", "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "CABLE REVERSE ONE-ARM CURL",
+      "exercises": [
+        {"name": "Standing single-arm cable reverse curl", "start": "0:00", "end": "0:22", "sets": 4, "reps": "8-12",
+         "equipment": ["cable machine (low pulley)", "single D-handle"], "target": ["brachioradialis", "forearm extensors"],
+         "cues": "Stand side-on to cable, overhand grip, elbow pinned at side, curl thigh to chest, control the lowering."}
+      ],
+      "contact_sheet": "contact_sheets/2633546045683211812_2633545828611383051.jpg"
+    },
+    {
+      "file": "2638564542758293487.mp4",
+      "duration_s": 15.2, "resolution": "720x1280", "audio": "music",
+      "category": "forearms", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "Struggling to build your forearms? Then do this...",
+      "exercises": [
+        {"name": "Reverse curls", "start": "0:04", "end": "0:07", "sets": 3, "reps": "12",
+         "equipment": ["2 adjustable dumbbells (PowerBlock)"], "target": ["brachioradialis"],
+         "cues": "Standing, overhand grip, curl both dumbbells to chest, elbows by sides."},
+        {"name": "Iso curls (hanging wrist lever)", "start": "0:08", "end": "0:11", "sets": 4, "reps": "12",
+         "equipment": ["1 adjustable dumbbell"], "target": ["forearm", "wrist radial deviators"],
+         "cues": "Arm straight at side, neutral grip; only the wrist moves, tilting the front of the dumbbell up and down."},
+        {"name": "Inner wrist curls", "start": "0:11", "end": "0:15", "sets": 4, "reps": "12",
+         "equipment": ["2 adjustable dumbbells"], "target": ["forearm flexors"],
+         "cues": "Elbows bent 90 deg at sides, palms up, curl wrists up."}
+      ],
+      "contact_sheet": "contact_sheets/2638564542758293487.jpg"
+    },
+    {
+      "file": "2831464149777339311.mp4",
+      "duration_s": 16.0, "resolution": "720x1280", "audio": "speech (English)",
+      "category": "non-exercise", "series": null, "series_index": null,
+      "is_exercise": false, "duplicate_of": null,
+      "title": "Best Website for GYM Lovers - Underrated Website Part 11",
+      "exercises": [],
+      "notes": "Recommends musclewiki.com: click a muscle on the body map to see best exercises (shows Abdominals page: crunches, lying leg raises, hanging knee raises).",
+      "contact_sheet": "contact_sheets/2831464149777339311.jpg"
+    },
+    {
+      "file": "2896879466050471752.mp4",
+      "duration_s": 15.1, "resolution": "1080x1920", "audio": "speech (English VO)",
+      "category": "cardio", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "Do this instead of running",
+      "protocol": "30 seconds each move, repeat each 3 times",
+      "exercises": [
+        {"name": "Butt kicks", "start": "0:00", "end": "0:03", "duration_s": 30, "rounds": 3, "equipment": [], "target": ["cardio", "hamstrings"], "cues": "Jog in place, heels to glutes, hands behind back."},
+        {"name": "Bounce with alternating uppercuts/overhead punches", "start": "0:03", "end": "0:06", "duration_s": 30, "rounds": 3, "equipment": [], "target": ["cardio", "shoulders"], "cues": "Light bounce on toes, punch up alternately."},
+        {"name": "High-knee taps", "start": "0:06", "end": "0:09", "duration_s": 30, "rounds": 3, "equipment": [], "target": ["cardio", "hip flexors", "core"], "cues": "Palms down at waist height, drive knees up to touch them."},
+        {"name": "Jumping jacks + cross-body front kicks", "start": "0:09", "end": "0:12", "duration_s": 30, "rounds": 3, "equipment": [], "target": ["cardio", "full body"], "cues": "Mix jacks with kicking leg up to opposite hand."},
+        {"name": "Standing cross-body knee-to-elbow crunch", "start": "0:12", "end": "0:15", "duration_s": 30, "rounds": 3, "equipment": [], "target": ["obliques", "core"], "cues": "Hands behind head, bring knee to opposite elbow, alternate."}
+      ],
+      "contact_sheet": "contact_sheets/2896879466050471752.jpg"
+    },
+    {
+      "file": "3287996056686423953.mp4",
+      "duration_s": 13.1, "resolution": "720x1280", "audio": "music",
+      "category": "face", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "If you are over 30 years old, do these exercises",
+      "exercises": [
+        {"name": "Drooping eyelid technique", "start": "0:02", "end": "0:03", "equipment": [], "target": ["eyelid", "brow"], "cues": "Fingertips lift the brow/upper-eye skin upward."},
+        {"name": "Inter-brow wrinkle technique", "start": "0:04", "end": "0:07", "equipment": [], "target": ["glabella", "forehead"], "cues": "Fingers across forehead press and smooth skin between brows apart."},
+        {"name": "Nasolabial fold exercise", "start": "0:07", "end": "0:13", "equipment": [], "target": ["nasolabial folds", "cheeks"], "cues": "Fingers pressed along sides of nose/cheeks while lifting chin and looking up."}
+      ],
+      "notes": "Ends with promo for a rejuvenation course.",
+      "contact_sheet": "contact_sheets/3287996056686423953.jpg"
+    },
+    {
+      "file": "3301946359086548338.mp4",
+      "duration_s": 29.0, "resolution": "576x1024", "audio": "music",
+      "category": "face", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "School starts at 8:00 / Me at 7:60 (German face-exercise app)",
+      "protocol": "60 s per move with short rests (app timer)",
+      "exercises": [
+        {"name": "Chew upward (Nach oben kauen)", "start": "0:01", "end": "0:04", "duration_s": 60, "equipment": [], "target": ["jaw", "neck"], "cues": "Head tilted back looking up, chewing motion."},
+        {"name": "Chin tuck (Kinn einziehen)", "start": "0:06", "end": "0:10", "duration_s": 60, "equipment": [], "target": ["neck posture"], "cues": "Pull head straight back along a vertical line."},
+        {"name": "Lion face (Loewe)", "start": "0:11", "end": "0:12", "duration_s": 60, "equipment": [], "target": ["face"], "cues": "Mouth wide, tongue out, eyes wide."},
+        {"name": "Alternate cheek puffs (Wangen abwechselnd aufblasen)", "start": "0:15", "end": "0:17", "duration_s": 60, "equipment": [], "target": ["cheeks"], "cues": "Puff air into one cheek then the other."},
+        {"name": "Hyoid stretch (Zungenbeindehnung)", "start": "0:20", "end": "0:24", "duration_s": 60, "equipment": [], "target": ["neck", "under-chin"], "cues": "Hands crossed flat on collarbones, tilt head back, then forward."},
+        {"name": "Full-face massage (Ganzgesichtsmassage)", "start": "0:25", "end": "0:29", "duration_s": 60, "equipment": [], "target": ["face"], "cues": "Palms sweep from jaw up over cheeks to forehead and temples."}
+      ],
+      "contact_sheet": "contact_sheets/3301946359086548338.jpg"
+    },
+    {
+      "file": "3306220756356222540.mp4",
+      "duration_s": 33.5, "resolution": "720x1280", "audio": "music",
+      "category": "face", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "Glow up tips for boys / Practice hunter eyes",
+      "exercises": [
+        {"name": "Moisten face", "start": "0:06", "end": "0:09", "reps": null, "equipment": ["spray bottle"], "target": [], "cues": "Spray water on face."},
+        {"name": "Nose-side upward slides", "start": "0:10", "end": "0:13", "reps": "7", "equipment": [], "target": ["nose sides", "inner eye"], "cues": "V-fingers slide up both sides of the nose to inner eye corners."},
+        {"name": "Brow strokes with forehead anchor", "start": "0:14", "end": "0:19", "reps": "5 per side", "equipment": [], "target": ["brow"], "cues": "One palm anchors forehead, other fingers stroke brow up/out."},
+        {"name": "Under-eye outward sweeps", "start": "0:19", "end": "0:20", "reps": "10", "equipment": [], "target": ["under-eye"], "cues": "Fingers sweep along nose/under eyes outward."},
+        {"name": "Brow-to-temple slides", "start": "0:21", "end": "0:24", "reps": "5", "equipment": [], "target": ["brow", "temples"], "cues": "Index fingers across brows slide out to temples."},
+        {"name": "Temple circles", "start": "0:24", "end": "0:26", "reps": "10", "equipment": [], "target": ["temples"], "cues": "Fingertip circles at temples/outer eye."},
+        {"name": "Temple lift", "start": "0:26", "end": "0:29", "reps": "6", "equipment": [], "target": ["temples", "outer eye"], "cues": "Fingertips pull temples up and back, eyes closed."},
+        {"name": "Outer-eye corner lift", "start": "0:29", "end": "0:32", "reps": "7 per side", "equipment": [], "target": ["outer eye"], "cues": "V-fingers frame one eye and lift the outer corner upward."}
+      ],
+      "notes": "Watermark @boysglowupcourse; celebrity before/after photo pinned on top half.",
+      "contact_sheet": "contact_sheets/3306220756356222540.jpg"
+    },
+    {
+      "file": "3314181360580709234.mp4",
+      "duration_s": 12.7, "resolution": "720x1280", "audio": "music",
+      "category": "face", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "Mewing",
+      "exercises": [
+        {"name": "Mewing / jaw exercise sequence", "start": "0:00", "end": "0:10", "reps": null, "equipment": [], "target": ["jaw", "neck"],
+         "cues": "Pursed lips -> mouth wide open -> teeth clenched and bared -> head tilted fully back (neck/jaw stretch) -> side profile with tongue on palate."}
+      ],
+      "notes": "Ends on clinic 'Before:' photos with no after.",
+      "contact_sheet": "contact_sheets/3314181360580709234.jpg"
+    },
+    {
+      "file": "3993926727730124770.mp4",
+      "duration_s": 21.3, "resolution": "720x1280", "audio": "speech (English VO)",
+      "category": "home full body", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "Beginner Friendly - Better than 10k Steps",
+      "protocol": "100 reps of each, daily",
+      "exercises": [
+        {"name": "Chair toe-tap with overhead reach", "start": "0:02", "end": "0:06", "reps": "100", "equipment": ["chair"], "target": ["cardio", "core", "hip flexors"], "cues": "Alternately lift a foot onto the chair seat and drive the knee while reaching arms overhead and pulling down."},
+        {"name": "Standing oblique knee-to-elbow", "start": "0:06", "end": "0:09", "reps": "100", "equipment": [], "target": ["obliques"], "cues": "Hands behind head, raise knee toward elbow, alternate."},
+        {"name": "Kneeling incline push-up on chair", "start": "0:09", "end": "0:13", "reps": "100", "equipment": ["chair", "mat"], "target": ["chest", "triceps", "shoulders"], "cues": "Kneel, hands on chair seat edge, lower chest to seat and press up."},
+        {"name": "Chair-supported hip thrust", "start": "0:14", "end": "0:17", "reps": "100", "equipment": ["chair", "mat"], "target": ["glutes", "hamstrings"], "cues": "Upper back on seat, arms crossed on chest, drive hips to tabletop."},
+        {"name": "Chair triceps dips", "start": "0:17", "end": "0:21", "reps": "100", "equipment": ["chair"], "target": ["triceps"], "cues": "Hands on seat edge behind, knees ~90 deg, bend elbows to lower, press up."}
+      ],
+      "notes": "End card: 7 Days FREE Home Fit Programs.",
+      "contact_sheet": "contact_sheets/3993926727730124770.jpg"
+    },
+    {
+      "file": "3999043272599469620.mp4",
+      "duration_s": 34.4, "resolution": "720x1280", "audio": "speech (Hindi VO)",
+      "category": "core / mobility", "series": null, "series_index": null,
+      "is_exercise": true, "duplicate_of": null,
+      "title": "Kneeling core routine (50 reps each, daily)",
+      "protocol": "50 reps of each, daily",
+      "exercises": [
+        {"name": "Kneeling alternating heel touches", "start": "0:00", "end": "0:07", "reps": "50", "equipment": [], "target": ["obliques", "hip flexor stretch"], "cues": "Tall kneel, reach one hand back to same-side heel while the other arm sweeps up; alternate."},
+        {"name": "Kneeling side bend / reach", "start": "0:07", "end": "0:13", "reps": null, "equipment": [], "target": ["obliques"], "cues": "Upright kneel, slide hand down side of thigh toward floor."},
+        {"name": "Kneeling oblique crunch", "start": "0:13", "end": "0:19", "reps": null, "equipment": [], "target": ["obliques"], "cues": "Hands behind head, crunch elbow toward hip each side."},
+        {"name": "Kneeling alternating floor taps", "start": "0:19", "end": "0:24", "reps": "50", "equipment": [], "target": ["obliques"], "cues": "From tall kneel, tap floor beside knee while other arm sweeps overhead; alternate."},
+        {"name": "Kneeling hip hinge", "start": "0:24", "end": "0:30", "reps": null, "equipment": [], "target": ["glutes", "lower back"], "cues": "Sit hips back toward heels, then drive hips forward to tall kneel."},
+        {"name": "Standing alternating knee drive / lunge-to-knee", "start": "0:30", "end": "0:32", "reps": "50", "equipment": [], "target": ["legs", "hip flexors", "lower back"], "cues": "Step back and drive the knee up to hip height."}
+      ],
+      "contact_sheet": "contact_sheets/3999043272599469620.jpg"
+    }
+  ]
+}

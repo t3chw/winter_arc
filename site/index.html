@@ -1,0 +1,679 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>
+/* Base reset (standalone page) */
+:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+img{max-width:100%}
+[hidden]{display:none!important}
+</style>
+<title>Winter Arc Squat Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&display=swap">
+<style>
+/* Layout: follow-along player, silent by design (music plays separately). Header names the exercise; animated side-view stage with big instruction + breathing circle, tempo bar below it; countdown, controls and form cues to the right (below on phone). */
+:root{
+  --bg:#ECEFF3;
+  --surface:#FFFFFF;
+  --scrim:rgba(255,255,255,.78);
+  --ink:#15212C;
+  --muted:#5A6774;
+  --line:#D2D9E0;
+  --work:#D24A17;
+  --work-soft:#F6DCD0;
+  --air:#1A7DA6;
+  --air-soft:#D3EBF5;
+  --on-accent:#FFFFFF;
+  --figure:#15212C;
+  --figure-far:#8C99A6;
+  --mat:#2B3238;
+  --font-display:"Big Shoulders Display","Barlow Condensed","Arial Narrow",sans-serif;
+  --font-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0D1318; --surface:#151E26; --scrim:rgba(21,30,38,.8); --ink:#E5EBF0; --muted:#93A0AC; --line:#27323C;
+    --work:#FF7B47; --work-soft:#3B2419; --air:#5CC0E6; --air-soft:#123140; --on-accent:#0D1318;
+    --figure:#E5EBF0; --figure-far:#5E6E7C; --mat:#2E3943;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0D1318; --surface:#151E26; --scrim:rgba(21,30,38,.8); --ink:#E5EBF0; --muted:#93A0AC; --line:#27323C;
+  --work:#FF7B47; --work-soft:#3B2419; --air:#5CC0E6; --air-soft:#123140; --on-accent:#0D1318;
+  --figure:#E5EBF0; --figure-far:#5E6E7C; --mat:#2E3943;
+  color-scheme:dark;
+}
+
+html,body{height:100%}
+body{
+  background:var(--bg);
+  color:var(--ink);
+  font-family:var(--font-body);
+  font-size:16px;
+  line-height:1.45;
+  padding-left:max(16px, env(safe-area-inset-left, 0px));
+  padding-right:max(16px, env(safe-area-inset-right, 0px));
+}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+
+.app{max-width:1280px;margin:0 auto;padding-block:14px 28px;display:flex;flex-direction:column;gap:16px;min-height:100%;box-sizing:border-box}
+
+/* Header */
+.top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:4px 24px}
+.title-block{min-width:0}
+.eyebrow{margin:0;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{margin:2px 0 0;font-family:var(--font-display);font-weight:800;text-transform:uppercase;font-size:clamp(32px,5.4vw,52px);line-height:.95;letter-spacing:.01em;text-wrap:balance}
+.meta{margin:0;font-size:14px;color:var(--muted)}
+
+/* Main grid */
+.grid{display:grid;grid-template-columns:minmax(0,1fr);gap:18px;align-items:start}
+@media (min-width:760px){
+  .grid{grid-template-columns:minmax(0,1.5fr) minmax(290px,1fr);gap:28px}
+  .stage-wrap{width:min(100%, calc((100vh - 250px) * 1.4545));justify-self:center}
+}
+
+/* Stage */
+.stage-wrap{display:flex;flex-direction:column;gap:10px;min-width:0;width:100%}
+.stage{position:relative;background:var(--surface);border:2px solid var(--line);border-radius:14px;overflow:hidden;aspect-ratio:640/440;width:100%;max-width:100%;box-sizing:border-box;transition:border-color .2s, box-shadow .2s}
+.app[data-state="work"] .stage{border-color:var(--work);box-shadow:inset 0 0 0 2px var(--work)}
+.app[data-state="rest"] .stage{border-color:var(--air);box-shadow:inset 0 0 0 2px var(--air)}
+.stage svg{display:block;width:100%;height:100%}
+
+.phase{position:absolute;left:clamp(12px,3%,24px);top:clamp(10px,3%,22px);pointer-events:none;max-width:55%}
+.phase-word{font-family:var(--font-display);font-weight:800;text-transform:uppercase;font-size:clamp(32px,5.8vw,68px);line-height:.88;color:var(--work);letter-spacing:.01em}
+.phase-breath{margin-top:4px;font-family:var(--font-display);font-weight:800;text-transform:uppercase;font-size:clamp(19px,3.2vw,36px);line-height:1;color:var(--air);letter-spacing:.02em}
+.phase-sub{margin-top:5px;font-size:clamp(13px,1.5vw,17px);color:var(--muted)}
+.app[data-state="ready"] .phase-word,.app[data-state="done"] .phase-word{color:var(--ink)}
+.app[data-state="rest"] .phase-word{color:var(--air)}
+.app[data-paused="true"] .phase-word{color:var(--muted)}
+
+/* Breathing circle */
+.breath{position:absolute;right:clamp(10px,3%,22px);top:clamp(10px,3%,22px);width:clamp(60px,15%,104px);aspect-ratio:1;display:grid;place-items:center;pointer-events:none}
+.breath svg{position:absolute;inset:0;width:100%;height:100%}
+.b-track{fill:none;stroke:var(--line);stroke-width:3;stroke-dasharray:3 5}
+.b-fill{fill:var(--air-soft);stroke:var(--air);stroke-width:3}
+.breath[data-mode="hold"] .b-fill{stroke-dasharray:6 5}
+.breath[data-mode="none"]{opacity:.35}
+.b-label{position:relative;font-size:clamp(11px,1.5vw,15px);font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--air)}
+
+/* Flash for GO / REST / DONE */
+.flash{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:var(--font-display);font-weight:800;text-transform:uppercase;font-size:clamp(84px,19vw,200px);color:var(--work);background:var(--scrim);opacity:0;pointer-events:none}
+.flash[data-kind="air"]{color:var(--air)}
+.flash[data-kind="ink"]{color:var(--ink)}
+.flash.on{animation:flash 1.1s ease-out forwards}
+@keyframes flash{0%{opacity:0;transform:scale(.85)}15%{opacity:1;transform:scale(1)}65%{opacity:1}100%{opacity:0;transform:scale(1.03)}}
+
+/* Figure and scene */
+.floor{stroke:var(--line);stroke-width:2}
+.mat{fill:var(--mat)}
+.limb{fill:none;stroke:var(--figure);stroke-linecap:round}
+.far .limb{stroke:var(--figure-far)}
+.leg{stroke-width:22}
+.arm{stroke-width:15}
+.torso{stroke-width:32}
+.foot{stroke-width:11}
+.head{fill:var(--figure)}
+.air-in{stroke:var(--air);stroke-width:3.5;stroke-linecap:round}
+.air-out{fill:var(--air)}
+.hip-guide{fill:none;stroke:var(--line);stroke-width:3;stroke-dasharray:4 7;stroke-linecap:round;transition:stroke .2s}
+.hip-head{fill:var(--line);transition:fill .2s}
+#scene[data-phase="down"] .hip-guide{stroke:var(--work)}
+#scene[data-phase="down"] .hip-head{fill:var(--work)}
+.level-guide{stroke:var(--work);stroke-width:3;stroke-dasharray:7 6;stroke-linecap:round}
+.co{opacity:0;transition:opacity .2s}
+#scene[data-phase="down"] .co[data-show="down"],
+#scene[data-phase="hold"] .co[data-show="hold"],
+#scene[data-phase="up"] .co[data-show="up"],
+#scene[data-phase="top"] .co[data-show="top"],
+#scene[data-phase="ready"] .co[data-show="ready"]{opacity:1}
+.co-text{font-family:var(--font-body);font-weight:700;font-size:22px;fill:var(--work);paint-order:stroke;stroke:var(--surface);stroke-width:6px;stroke-linejoin:round}
+.co-ring{fill:none;stroke:var(--work);stroke-width:3}
+
+/* Tempo bar */
+.tempo-track{position:relative;display:flex;gap:3px;height:12px}
+.seg{flex-basis:0;border-radius:4px;background:var(--work-soft);transition:background-color .15s}
+.tempo[data-phase="down"] .seg[data-seg="down"],
+.tempo[data-phase="hold"] .seg[data-seg="hold"],
+.tempo[data-phase="up"] .seg[data-seg="up"],
+.tempo[data-phase="top"] .seg[data-seg="top"]{background:var(--work)}
+.playhead{position:absolute;top:-5px;bottom:-5px;left:0;width:3px;margin-left:-1.5px;border-radius:2px;background:var(--ink)}
+.tempo-row{display:flex;gap:3px;margin-top:6px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.tempo-row span{flex-basis:0;min-width:0;white-space:nowrap}
+.tempo-labels{color:var(--muted)}
+.tempo-breath{margin-top:3px;color:var(--air)}
+.tempo-breath span{border-top:2px solid var(--air);padding-top:3px}
+.tempo-note{margin:0;font-size:14px;color:var(--muted)}
+
+/* Panel */
+.panel{display:flex;flex-direction:column;gap:20px;min-width:0}
+.clock{display:flex;align-items:center;gap:18px}
+.ring-wrap{position:relative;width:clamp(124px,30vw,176px);aspect-ratio:1;flex:none}
+.ring{display:block;width:100%;height:100%}
+.ring-track{fill:none;stroke:var(--line);stroke-width:10}
+.ring-prog{fill:none;stroke:var(--muted);stroke-width:10;stroke-linecap:round}
+.app[data-state="work"] .ring-prog{stroke:var(--work)}
+.app[data-state="rest"] .ring-prog{stroke:var(--air)}
+.ring-num{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:.85}
+#num{display:inline-block;font-family:var(--font-display);font-weight:800;font-size:clamp(56px,13vw,84px)}
+.ring-num.tick #num{animation:tick .45s ease-out}
+@keyframes tick{0%{transform:scale(1.25);color:var(--work)}100%{transform:scale(1)}}
+.dg{display:inline-block;width:.54em;text-align:center}
+.ring-unit{margin-top:4px;font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.clock-info{display:flex;flex-direction:column;gap:8px;min-width:0}
+.pill{align-self:flex-start;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:5px 11px;border-radius:999px;background:var(--line);color:var(--ink)}
+.app[data-state="work"] .pill{background:var(--work);color:var(--on-accent)}
+.app[data-state="rest"] .pill{background:var(--air);color:var(--on-accent)}
+.clock-line{margin:0;font-size:16px}
+.next{margin:0;font-size:14px;color:var(--muted)}
+.next strong{color:var(--ink)}
+
+.controls{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:10px}
+.btn{font:inherit;font-weight:700;font-size:15px;min-height:54px;padding:0 16px;border-radius:12px;border:1.5px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+.btn-main{background:var(--ink);border-color:var(--ink);color:var(--bg);font-family:var(--font-display);font-weight:800;font-size:26px;letter-spacing:.05em;text-transform:uppercase}
+.btn:disabled{opacity:.4;cursor:not-allowed}
+.btn:focus-visible{outline:3px solid var(--air);outline-offset:2px}
+
+.howto{border-top:1px solid var(--line);padding-top:16px}
+.howto h2{margin:0 0 10px;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.howto ol{margin:0;padding-left:1.3em;display:grid;gap:8px}
+.howto li{max-width:60ch}
+.adjust{margin:12px 0 0;display:grid;gap:4px;font-size:15px;color:var(--muted)}
+.adjust strong{color:var(--ink)}
+.adjust p{margin:0}
+
+/* Focus mode: once started, only the figure, the instruction, the breathing and the clock stay on screen */
+.app[data-state="ready"] .hide-in-focus,
+.app[data-state="work"] .hide-in-focus,
+.app[data-state="rest"] .hide-in-focus{display:none}
+.app[data-state="ready"] .btn-main,
+.app[data-state="work"] .btn-main,
+.app[data-state="rest"] .btn-main{background:transparent;color:var(--muted);border-color:var(--line);font-size:20px}
+.app[data-state="ready"] .ring-wrap,
+.app[data-state="work"] .ring-wrap,
+.app[data-state="rest"] .ring-wrap{width:clamp(140px,34vw,230px)}
+.app[data-state="ready"] #num,
+.app[data-state="work"] #num,
+.app[data-state="rest"] #num{font-size:clamp(64px,15vw,110px)}
+.app[data-state="rest"] .next{font-size:20px;color:var(--ink)}
+.howto summary{cursor:pointer;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.howto[open] summary{margin-bottom:10px}
+
+@media (prefers-reduced-motion: reduce){
+  *{transition:none !important}
+  .ring-num.tick #num{animation:none}
+  .flash.on{animation:flashFade 1.1s ease-out forwards}
+  @keyframes flashFade{0%{opacity:0}15%{opacity:1}65%{opacity:1}100%{opacity:0}}
+}
+</style>
+</head>
+<body>
+
+<div class="app" id="app" data-state="watch" data-paused="false">
+  <header class="top">
+    <div class="title-block">
+      <p class="eyebrow">Day 1 · Strength A · Exercise 1 of 6</p>
+      <h1>Bodyweight squat</h1>
+    </div>
+    <p class="meta hide-in-focus">Week 1 · 30 s work, 30 s rest · Round 1 of 2</p>
+  </header>
+
+  <main class="grid">
+    <section class="stage-wrap" aria-label="Demonstration">
+      <div class="stage">
+        <svg id="scene" viewBox="0 0 640 440" role="img" aria-labelledby="sceneTitle" data-phase="down">
+          <title id="sceneTitle">Side view of a person doing a bodyweight squat: breathe in while the hips go back and down until the thighs are level with the floor, hold one second, then breathe out and stand up.</title>
+          <line class="floor" x1="30" y1="404" x2="610" y2="404"/>
+          <rect class="mat" x="250" y="401" width="300" height="6" rx="3"/>
+
+          <polyline id="hipPath" class="hip-guide" points=""/>
+          <path id="hipHead" class="hip-head" d=""/>
+
+          <g class="far" transform="translate(-8,-3)">
+            <line id="fUpper" class="limb arm"/>
+            <line id="fFore" class="limb arm"/>
+            <line class="limb foot" x1="314" y1="398" x2="372" y2="398"/>
+            <line id="fShin" class="limb leg"/>
+            <line id="fThigh" class="limb leg"/>
+          </g>
+
+          <line id="torso" class="limb torso"/>
+          <circle id="head" class="head" r="19" cx="338" cy="55"/>
+          <line class="limb foot" x1="314" y1="398" x2="374" y2="398"/>
+          <line id="nShin" class="limb leg"/>
+          <line id="nThigh" class="limb leg"/>
+          <line id="nUpper" class="limb arm"/>
+          <line id="nFore" class="limb arm"/>
+
+          <g aria-hidden="true">
+            <line id="in0" class="air-in" opacity="0"/>
+            <line id="in1" class="air-in" opacity="0"/>
+            <line id="in2" class="air-in" opacity="0"/>
+            <circle id="out0" class="air-out" r="3" opacity="0"/>
+            <circle id="out1" class="air-out" r="3" opacity="0"/>
+            <circle id="out2" class="air-out" r="3" opacity="0"/>
+          </g>
+
+          <g class="co" data-show="down">
+            <text class="co-text" x="262" y="186" text-anchor="end">Push hips back</text>
+          </g>
+          <g class="co" data-show="hold">
+            <line id="levelLine" class="level-guide"/>
+            <text id="levelText1" class="co-text">Thighs level</text>
+            <text id="levelText2" class="co-text">with the floor</text>
+          </g>
+          <g class="co" data-show="up">
+            <circle class="co-ring" cx="318" cy="398" r="12"/>
+            <text class="co-text" x="343" y="433" text-anchor="middle">Push through your heels</text>
+          </g>
+          <g class="co" data-show="top">
+            <text class="co-text" x="398" y="40">Stand tall</text>
+          </g>
+          <g class="co" data-show="ready">
+            <text class="co-text" x="343" y="433" text-anchor="middle">Feet shoulder-width apart</text>
+          </g>
+        </svg>
+
+        <div class="phase" aria-hidden="true">
+          <div class="phase-word" id="phaseWord">Down</div>
+          <div class="phase-breath" id="phaseBreath">Breathe in</div>
+          <div class="phase-sub" id="phaseSub">push hips back · 2 seconds</div>
+        </div>
+
+        <div class="breath" id="breath" data-mode="in" aria-hidden="true">
+          <svg viewBox="0 0 100 100">
+            <circle class="b-track" cx="50" cy="50" r="46"/>
+            <circle id="bFill" class="b-fill" cx="50" cy="50" r="20"/>
+          </svg>
+          <span class="b-label" id="bLabel">In</span>
+        </div>
+
+        <div class="flash" id="flash" data-kind="work" aria-hidden="true"></div>
+      </div>
+
+      <div class="tempo" id="tempo" data-phase="down" aria-hidden="true">
+        <div class="tempo-track">
+          <span class="seg" data-seg="down" style="flex-grow:20"></span>
+          <span class="seg" data-seg="hold" style="flex-grow:10"></span>
+          <span class="seg" data-seg="up" style="flex-grow:10"></span>
+          <span class="seg" data-seg="top" style="flex-grow:5"></span>
+          <span class="playhead" id="playhead"></span>
+        </div>
+        <div class="tempo-row tempo-labels hide-in-focus">
+          <span style="flex-grow:20">Down 2s</span>
+          <span style="flex-grow:10">Hold 1s</span>
+          <span style="flex-grow:10">Up 1s</span>
+          <span style="flex-grow:5">Top</span>
+        </div>
+        <div class="tempo-row tempo-breath hide-in-focus">
+          <span style="flex-grow:30">Breathe in</span>
+          <span style="flex-grow:15">Out</span>
+        </div>
+      </div>
+      <p class="tempo-note hide-in-focus">One squat takes 4.5 seconds, so about 6 to 7 squats in 30 seconds. Move with the figure.</p>
+    </section>
+
+    <section class="panel" aria-label="Timer and instructions">
+      <div class="clock">
+        <div class="ring-wrap">
+          <svg class="ring" viewBox="0 0 140 140" aria-hidden="true">
+            <circle class="ring-track" cx="70" cy="70" r="60"/>
+            <circle id="ringProg" class="ring-prog" cx="70" cy="70" r="60" transform="rotate(-90 70 70)"/>
+          </svg>
+          <div class="ring-num" id="ringNum"><span id="num"><span class="dg">3</span><span class="dg">0</span></span><span class="ring-unit">seconds</span></div>
+        </div>
+        <div class="clock-info">
+          <span class="pill" id="pill">Preview</span>
+          <p class="clock-line hide-in-focus" id="clockLine">Press Start. You get 10 seconds to get in place.</p>
+          <p class="next">Next: <strong>Chair push-up</strong></p>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="btnMain" class="btn btn-main" type="button">Start</button>
+        <button id="btnSkip" class="btn hide-in-focus" type="button" disabled>Skip</button>
+        <button id="btnBeep" class="btn hide-in-focus" type="button" aria-pressed="false">Beeps off</button>
+      </div>
+
+      <details class="howto hide-in-focus">
+        <summary>Form tips</summary>
+        <ol>
+          <li><strong>Set up.</strong> Feet shoulder-width apart, toes pointing slightly out, arms by your sides.</li>
+          <li><strong>Move.</strong> Breathe in as you push your hips back and bend your knees until your thighs are level with the floor. Bring your hands together at your chest. Hold for 1 second, then breathe out and stand up.</li>
+          <li><strong>Hold the shape.</strong> Chest up, heels flat, knees pointing the same way as your toes.</li>
+        </ol>
+        <div class="adjust">
+          <p><strong>Too easy?</strong> Take 3 seconds on the way down.</p>
+          <p><strong>Knees complain?</strong> Go a little less deep.</p>
+        </div>
+      </details>
+    </section>
+  </main>
+  <p id="live" class="sr-only" aria-live="polite"></p>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var $ = function(id){ return document.getElementById(id); };
+  var app = $('app'), scene = $('scene'), tempo = $('tempo');
+  var phaseWord = $('phaseWord'), phaseBreath = $('phaseBreath'), phaseSub = $('phaseSub');
+  var breathEl = $('breath'), bFill = $('bFill'), bLabel = $('bLabel'), flashEl = $('flash');
+  var numEl = $('num'), ringNum = $('ringNum'), ringProg = $('ringProg'), pill = $('pill'), clockLine = $('clockLine'), live = $('live');
+  var btnMain = $('btnMain'), btnSkip = $('btnSkip'), btnBeep = $('btnBeep'), playhead = $('playhead');
+
+  /* ---------- Figure ---------- */
+  var ANKLE = {x:330, y:392};
+  var LEN = {shin:92, thigh:96, torso:118, neck:12, head:19, upper:60, fore:58};
+  var RAD = Math.PI / 180;
+  var CIRC = 2 * Math.PI * 60;
+  ringProg.setAttribute('stroke-dasharray', CIRC.toFixed(2));
+
+  var TEMPO = [
+    {key:'down', dur:2000, word:'Down', breath:'Breathe in',      sub:'push hips back · 2 seconds', mode:'in'},
+    {key:'hold', dur:1000, word:'Hold', breath:'Keep the air in', sub:'thighs level with the floor', mode:'hold'},
+    {key:'up',   dur:1000, word:'Up',   breath:'Breathe out',     sub:'push through your heels',    mode:'out'},
+    {key:'top',  dur:500,  word:'Top',  breath:'Breathe out',     sub:'stand tall',                 mode:'out'}
+  ];
+  var REP = TEMPO.reduce(function(s,p){ return s + p.dur; }, 0);
+  var DUR = {ready:10000, work:30000, rest:30000};
+  var UI = {
+    watch:{pill:'Preview', line:'Press Start. You get 10 seconds to get in place.'},
+    ready:{pill:'Get ready', line:'Stand on the mat, feet shoulder-width apart, arms by your sides.', word:'Get ready'},
+    work:{pill:'Work', line:'Copy the figure: down 2 seconds, hold 1, up 1.'},
+    rest:{pill:'Rest', line:'Follow the breathing circle and shake out your legs.', word:'Rest'},
+    done:{pill:'Done', line:'That was exercise 1 of 6. In the full session, the chair push-up starts now.', word:'Done'}
+  };
+  function ease(p){ p = Math.min(1, Math.max(0, p)); return 0.5 - 0.5 * Math.cos(Math.PI * p); }
+  function lung(key, f){
+    if (key === 'down') return 0.1 + 0.9 * ease(f);
+    if (key === 'hold') return 1;
+    if (key === 'up') return 1 - 0.75 * ease(f);
+    return 0.25 - 0.15 * f;
+  }
+
+  function pose(d, L){
+    var ts = 30 * d * RAD, tt = 88 * d * RAD;
+    var tbDeg = 4 + 36 * d, tb = tbDeg * RAD, th = tbDeg * 0.45 * RAD;
+    var al = (6 + 49 * d) * RAD, al2 = (10 + 140 * d) * RAD;
+    var knee = {x: ANKLE.x + LEN.shin * Math.sin(ts), y: ANKLE.y - LEN.shin * Math.cos(ts)};
+    var hip = {x: knee.x - LEN.thigh * Math.sin(tt), y: knee.y - LEN.thigh * Math.cos(tt)};
+    var sh = {x: hip.x + LEN.torso * Math.sin(tb), y: hip.y - LEN.torso * Math.cos(tb) - 2.4 * (L || 0)};
+    var hr = LEN.neck + LEN.head;
+    var head = {x: sh.x + hr * Math.sin(th), y: sh.y - hr * Math.cos(th)};
+    var el = {x: sh.x + LEN.upper * Math.sin(al), y: sh.y + LEN.upper * Math.cos(al)};
+    var hand = {x: el.x + LEN.fore * Math.sin(al2), y: el.y + LEN.fore * Math.cos(al2)};
+    return {knee:knee, hip:hip, sh:sh, head:head, el:el, hand:hand, th:th};
+  }
+
+  var parts = {};
+  ['nShin','nThigh','nUpper','nFore','fShin','fThigh','fUpper','fFore','torso'].forEach(function(k){ parts[k] = $(k); });
+  var headEl = $('head');
+  function seg(el, a, b){
+    el.setAttribute('x1', a.x.toFixed(1)); el.setAttribute('y1', a.y.toFixed(1));
+    el.setAttribute('x2', b.x.toFixed(1)); el.setAttribute('y2', b.y.toFixed(1));
+  }
+  function draw(d, L){
+    var p = pose(d, L);
+    ['n','f'].forEach(function(s){
+      seg(parts[s+'Shin'], ANKLE, p.knee);
+      seg(parts[s+'Thigh'], p.knee, p.hip);
+      seg(parts[s+'Upper'], p.sh, p.el);
+      seg(parts[s+'Fore'], p.el, p.hand);
+    });
+    seg(parts.torso, p.hip, p.sh);
+    parts.torso.style.strokeWidth = (32 + 5 * L).toFixed(1) + 'px';
+    headEl.setAttribute('cx', p.head.x.toFixed(1));
+    headEl.setAttribute('cy', p.head.y.toFixed(1));
+    return p;
+  }
+
+  /* Air going in at the nose, out of the mouth */
+  var inEls = [$('in0'), $('in1'), $('in2')], outEls = [$('out0'), $('out1'), $('out2')];
+  function air(p, mode, t){
+    var c = Math.cos(p.th), s = Math.sin(p.th);
+    var nose = {x: p.head.x + 21 * c, y: p.head.y + 21 * s};
+    var mouth = {x: p.head.x + 16 * c - 11 * s, y: p.head.y + 16 * s + 11 * c};
+    for (var i = 0; i < 3; i++){
+      var q = ((t / 750) + i / 3) % 1;
+      if (mode === 'in') {
+        var x = nose.x + 52 - 34 * q, y = nose.y + (i - 1) * 7;
+        inEls[i].setAttribute('x1', x.toFixed(1)); inEls[i].setAttribute('y1', y.toFixed(1));
+        inEls[i].setAttribute('x2', (x + 11).toFixed(1)); inEls[i].setAttribute('y2', y.toFixed(1));
+        inEls[i].setAttribute('opacity', (0.95 * Math.sin(Math.PI * q)).toFixed(2));
+      } else {
+        inEls[i].setAttribute('opacity', '0');
+      }
+      if (mode === 'out') {
+        outEls[i].setAttribute('cx', (mouth.x + 8 + 52 * q).toFixed(1));
+        outEls[i].setAttribute('cy', (mouth.y + 3 + 12 * q + (i - 1) * 5).toFixed(1));
+        outEls[i].setAttribute('r', (2 + 4.5 * q).toFixed(1));
+        outEls[i].setAttribute('opacity', (0.9 * (1 - q)).toFixed(2));
+      } else {
+        outEls[i].setAttribute('opacity', '0');
+      }
+    }
+  }
+
+  /* Static guides: hip path and the "thighs level" line at the bottom */
+  (function(){
+    var pts = [];
+    for (var i = 0; i <= 24; i++){ var h = pose(i / 24, 0).hip; pts.push({x: h.x - 30, y: h.y}); }
+    $('hipPath').setAttribute('points', pts.map(function(p){ return p.x.toFixed(1) + ',' + p.y.toFixed(1); }).join(' '));
+    var a = pts[pts.length - 2], b = pts[pts.length - 1];
+    var ang = Math.atan2(b.y - a.y, b.x - a.x), s = 14;
+    var tip = {x: b.x + Math.cos(ang) * 6, y: b.y + Math.sin(ang) * 6};
+    var l = {x: tip.x - s * Math.cos(ang - 0.45), y: tip.y - s * Math.sin(ang - 0.45)};
+    var r = {x: tip.x - s * Math.cos(ang + 0.45), y: tip.y - s * Math.sin(ang + 0.45)};
+    $('hipHead').setAttribute('d', 'M' + tip.x.toFixed(1) + ' ' + tip.y.toFixed(1) + ' L' + l.x.toFixed(1) + ' ' + l.y.toFixed(1) + ' L' + r.x.toFixed(1) + ' ' + r.y.toFixed(1) + ' Z');
+
+    var bottom = pose(1, 0), ly = (bottom.knee.y + bottom.hip.y) / 2;
+    seg($('levelLine'), {x: bottom.hip.x - 50, y: ly}, {x: bottom.knee.x + 44, y: ly});
+    var t1 = $('levelText1'), t2 = $('levelText2'), tx = (bottom.knee.x + 54).toFixed(1);
+    t1.setAttribute('x', tx); t1.setAttribute('y', (ly + 7).toFixed(1));
+    t2.setAttribute('x', tx); t2.setAttribute('y', (ly + 32).toFixed(1));
+  })();
+
+  /* ---------- Optional beeps (off by default) ---------- */
+  var beepsOn = false;
+  try { beepsOn = localStorage.getItem('wa-beeps') === 'on'; } catch (e) {}
+  var actx = null;
+  function unlockAudio(){
+    if (!beepsOn) return;
+    try {
+      actx = actx || new (window.AudioContext || window.webkitAudioContext)();
+      if (actx.state === 'suspended') actx.resume();
+    } catch (e) {}
+  }
+  function tone(freq, dur, vol){
+    if (!beepsOn || !actx) return;
+    try {
+      var o = actx.createOscillator(), g = actx.createGain(), t = actx.currentTime;
+      o.type = 'sine'; o.frequency.value = freq;
+      g.gain.setValueAtTime(0.0001, t);
+      g.gain.exponentialRampToValueAtTime(vol, t + 0.01);
+      g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+      o.connect(g); g.connect(actx.destination);
+      o.start(t); o.stop(t + dur + 0.02);
+    } catch (e) {}
+  }
+  function beep(){ tone(740, 0.12, 0.25); }
+  function longBeep(){ tone(988, 0.45, 0.3); }
+
+  /* ---------- Keep the screen on ---------- */
+  var wakeLock = null;
+  function keepAwake(){
+    try {
+      if ('wakeLock' in navigator) {
+        navigator.wakeLock.request('screen').then(function(l){ wakeLock = l; }).catch(function(){});
+      }
+    } catch (e) {}
+  }
+  function releaseWake(){ try { if (wakeLock) wakeLock.release(); } catch (e) {} wakeLock = null; }
+  document.addEventListener('visibilitychange', function(){
+    if (document.visibilityState === 'visible' && isRunning() && !paused) keepAwake();
+  });
+
+  /* ---------- Visual signals ---------- */
+  function flash(text, kind){
+    flashEl.textContent = text;
+    flashEl.setAttribute('data-kind', kind);
+    flashEl.classList.remove('on');
+    void flashEl.offsetWidth;
+    flashEl.classList.add('on');
+  }
+  function tick(){
+    ringNum.classList.remove('tick');
+    void ringNum.offsetWidth;
+    ringNum.classList.add('tick');
+  }
+
+  /* ---------- State ---------- */
+  var state = 'watch', paused = false, remaining = 0, total = 1;
+  var animT = 0, idleT = 0, clk = 0, lastSec = -1, last = performance.now();
+  var cache = {};
+
+  function isRunning(){ return state === 'ready' || state === 'work' || state === 'rest'; }
+  function setText(el, key, v){ if (cache[key] !== v) { el.textContent = v; cache[key] = v; } }
+  function setNum(n){
+    var s = String(n);
+    if (cache.num === s) return;
+    cache.num = s;
+    numEl.innerHTML = s.split('').map(function(c){ return '<span class="dg">' + c + '</span>'; }).join('');
+  }
+  function syncButtons(){
+    if (state === 'watch') btnMain.textContent = 'Start';
+    else if (state === 'done') btnMain.textContent = 'Do it again';
+    else btnMain.textContent = paused ? 'Resume' : 'Pause';
+    btnSkip.disabled = !isRunning();
+    btnBeep.textContent = beepsOn ? 'Beeps on' : 'Beeps off';
+    btnBeep.setAttribute('aria-pressed', String(beepsOn));
+  }
+
+  function enter(s){
+    state = s; paused = false;
+    if (DUR[s]) { remaining = total = DUR[s]; } else { remaining = 0; total = 1; }
+    lastSec = Math.ceil(remaining / 1000);
+    if (s === 'work' || s === 'watch') animT = 0;
+    if (s === 'ready' || s === 'rest') idleT = 0;
+    app.setAttribute('data-state', s);
+    app.setAttribute('data-paused', 'false');
+    pill.textContent = UI[s].pill;
+    clockLine.textContent = UI[s].line;
+    syncButtons();
+    if (s === 'ready') { live.textContent = 'Get ready. 10 seconds.'; }
+    if (s === 'work')  { flash('Go', 'work'); longBeep(); live.textContent = 'Work. 30 seconds of squats.'; }
+    if (s === 'rest')  { flash('Rest', 'air'); longBeep(); live.textContent = 'Rest. 30 seconds. Next: chair push-up.'; }
+    if (s === 'done')  { flash('Done', 'ink'); longBeep(); live.textContent = 'Done.'; releaseWake(); }
+  }
+  function next(){
+    if (state === 'ready') enter('work');
+    else if (state === 'work') enter('rest');
+    else if (state === 'rest') enter('done');
+  }
+
+  function mainAction(){
+    if (state === 'watch' || state === 'done') { unlockAudio(); keepAwake(); enter('ready'); return; }
+    paused = !paused;
+    app.setAttribute('data-paused', String(paused));
+    if (paused) {
+      clockLine.textContent = 'Paused. Press Resume when you are ready.';
+      live.textContent = 'Paused.';
+    } else {
+      clockLine.textContent = UI[state].line;
+      keepAwake();
+    }
+    syncButtons();
+  }
+  btnMain.addEventListener('click', mainAction);
+  btnSkip.addEventListener('click', function(){ if (isRunning()) next(); });
+  btnBeep.addEventListener('click', function(){
+    beepsOn = !beepsOn;
+    try { localStorage.setItem('wa-beeps', beepsOn ? 'on' : 'off'); } catch (e) {}
+    unlockAudio();
+    syncButtons();
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.code === 'Space' && e.target === document.body) { e.preventDefault(); mainAction(); }
+  });
+
+  /* ---------- Loop ---------- */
+  function render(){
+    var key, d = 0, L = 0.1, mode = 'none', pos = 0, word, br, sub;
+    if (state === 'watch' || state === 'work') {
+      var m = animT % REP, ph = TEMPO[TEMPO.length - 1], f = 1;
+      for (var i = 0; i < TEMPO.length; i++) {
+        if (m < TEMPO[i].dur) { ph = TEMPO[i]; f = m / TEMPO[i].dur; break; }
+        m -= TEMPO[i].dur;
+      }
+      key = ph.key;
+      d = key === 'down' ? ease(f) : key === 'hold' ? 1 : key === 'up' ? 1 - ease(f) : 0;
+      L = lung(key, f); mode = ph.mode; pos = (animT % REP) / REP;
+      word = ph.word; br = ph.breath; sub = ph.sub;
+    } else if (state === 'ready' || state === 'rest') {
+      var c = idleT % 10000;
+      if (c < 4000) { mode = 'in'; L = 0.1 + 0.9 * ease(c / 4000); br = 'Breathe in'; }
+      else { mode = 'out'; L = 1 - 0.9 * ease((c - 4000) / 6000); br = 'Breathe out'; }
+      key = state; word = UI[state].word;
+      sub = state === 'ready' ? 'feet shoulder-width apart' : (mode === 'in' ? 'slowly, through your nose' : 'long and slow');
+    } else {
+      key = 'done'; word = 'Done'; br = 'Nice work'; sub = 'exercise 1 of 6 complete';
+    }
+    if (paused) { sub = 'paused'; mode = 'none'; }
+
+    var p = draw(d, L);
+    air(p, mode, clk);
+
+    setText(phaseWord, 'w', word);
+    setText(phaseBreath, 'b', br);
+    setText(phaseSub, 's', sub);
+    if (breathEl.getAttribute('data-mode') !== mode) breathEl.setAttribute('data-mode', mode);
+    bFill.setAttribute('r', (14 + 32 * L).toFixed(1));
+    setText(bLabel, 'bl', mode === 'in' ? 'In' : mode === 'hold' ? 'Hold' : mode === 'out' ? 'Out' : '');
+
+    if (scene.getAttribute('data-phase') !== key) {
+      scene.setAttribute('data-phase', key);
+      tempo.setAttribute('data-phase', key);
+    }
+    playhead.style.left = (pos * 100).toFixed(2) + '%';
+
+    var n, frac;
+    if (state === 'watch') { n = DUR.work / 1000; frac = 1; }
+    else if (state === 'done') { n = 0; frac = 0; }
+    else { n = Math.max(0, Math.ceil(remaining / 1000)); frac = Math.max(0, remaining) / total; }
+    setNum(n);
+    ringProg.setAttribute('stroke-dashoffset', (CIRC * (1 - frac)).toFixed(2));
+  }
+
+  function frame(now){
+    var dt = Math.min(100, now - last); last = now;
+    if (isRunning() && !paused) {
+      remaining -= dt;
+      var sec = Math.max(0, Math.ceil(remaining / 1000));
+      if (sec !== lastSec) {
+        lastSec = sec;
+        if (sec >= 1 && sec <= 3) { tick(); beep(); }
+      }
+      if (remaining <= 0) next();
+    }
+    if (!paused) {
+      if (state === 'watch' || state === 'work') animT += dt;
+      idleT += dt;
+      clk += dt;
+    }
+    render();
+    requestAnimationFrame(frame);
+  }
+
+  enter('watch');
+  render();
+  requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>
