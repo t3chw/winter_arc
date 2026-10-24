@@ -1,0 +1,111 @@
+{
+ "videos": [
+  "3303360008658073271"
+ ],
+ "dish": {
+  "id": "chana-banana-shake",
+  "name": "Chana banana protein shake",
+  "meal": "Drink",
+  "minutes": 3,
+  "protein": 20,
+  "how": "No cooking",
+  "tools": "Blender (mixie)",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 scoops (50 g)",
+    "n": "Roasted chana powder (chana sattu)",
+    "tag": "sattu",
+    "img": "i-powder"
+   },
+   {
+    "q": "1 glass (250 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "1",
+    "n": "Banana",
+    "tag": "banana",
+    "img": "i-banana"
+   },
+   {
+    "q": "2",
+    "n": "Dates (khajoor), seeds out",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "~1 small piece",
+    "n": "Jaggery (gur)",
+    "tag": "jaggery",
+    "opt": true,
+    "img": "i-jaggery"
+   },
+   {
+    "q": "~1 small handful",
+    "n": "Pistachios and almonds, chopped",
+    "tag": "almonds",
+    "alt": [
+     "pistachios"
+    ],
+    "opt": true,
+    "img": "i-nuts"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put 2 scoops of roasted chana powder in the blender jar.",
+    "imgs": [
+     "s-powder"
+    ]
+   },
+   {
+    "t": "Pour in 1 glass of milk.",
+    "imgs": [
+     "s-milk"
+    ]
+   },
+   {
+    "t": "Add the banana, in pieces.",
+    "imgs": [
+     "s-banana"
+    ]
+   },
+   {
+    "t": "Add the 2 dates.",
+    "imgs": [
+     "s-dates"
+    ]
+   },
+   {
+    "t": "Add the jaggery.",
+    "imgs": [
+     "s-jaggery"
+    ]
+   },
+   {
+    "t": "Blend until smooth, about 1 minute.",
+    "imgs": [
+     "s-blend"
+    ]
+   },
+   {
+    "t": "Pour into a glass. Top with the chopped pistachios and almonds.",
+    "imgs": [
+     "s-serve"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "blender",
+   "quick",
+   "high-protein"
+  ],
+  "credit": "Nitesh Soni, \"Homemade Protein Shake\" (Celeb Recipe #53)",
+  "notes": "Powder, jaggery and nuts amounts are estimates (video does not say)."
+ }
+}

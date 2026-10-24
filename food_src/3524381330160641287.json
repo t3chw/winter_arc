@@ -1,0 +1,820 @@
+{
+  "videos": [
+    "3524381330160641287"
+  ],
+  "dish": {
+    "id": "soya-paneer-veg-tehri",
+    "name": "Soya paneer veg tehri",
+    "meal": "Lunch or dinner",
+    "minutes": 30,
+    "protein": 30,
+    "how": "Pressure cooker",
+    "tools": "Pressure cooker, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 cup (180 g)",
+        "n": "Basmati rice, washed and soaked 15 to 20 min",
+        "tag": "rice",
+        "img": "i-rice"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Ghee (desi ghee)",
+        "tag": "ghee",
+        "img": "i-ghee"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "1 small piece each",
+        "n": "Whole spices (cinnamon, star anise, cardamom)",
+        "tag": "whole-spices",
+        "img": "i-wholespice"
+      },
+      {
+        "q": "~1 large (150 g)",
+        "n": "Onion, sliced",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-redchilli"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Coriander powder (dhaniya powder)",
+        "tag": "coriander-powder",
+        "img": "i-corpowder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Garam masala",
+        "tag": "garam-masala"
+      },
+      {
+        "q": "~2",
+        "n": "Green chillies, chopped",
+        "tag": "green-chilli",
+        "img": "i-greenchilli"
+      },
+      {
+        "q": "~2 medium (200 g)",
+        "n": "Potato, sliced",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~2 medium",
+        "n": "Tomato, cut in wedges",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1/2 (50 g)",
+        "n": "Red capsicum, sliced",
+        "tag": "capsicum",
+        "img": "i-capsicum",
+        "alt": [
+          "mixed-vegetables"
+        ]
+      },
+      {
+        "q": "~1.5 cups (150 g)",
+        "n": "Cauliflower florets",
+        "tag": "cauliflower",
+        "img": "i-cauli",
+        "alt": [
+          "mixed-vegetables"
+        ]
+      },
+      {
+        "q": "~1/2 cup (30 g) dry",
+        "n": "Soya chunks (small), soaked in hot water and squeezed",
+        "tag": "soya-chunks",
+        "img": "i-soya"
+      },
+      {
+        "q": "~1/2 cup (70 g)",
+        "n": "Green peas",
+        "tag": "peas",
+        "img": "i-peas",
+        "alt": [
+          "mixed-vegetables"
+        ]
+      },
+      {
+        "q": "~1.5 cups (300 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~100 g (about 12 cubes)",
+        "n": "Paneer, cubed and pan-fried until golden",
+        "tag": "paneer",
+        "img": "i-paneer",
+        "alt": [
+          "tofu"
+        ]
+      },
+      {
+        "q": "a handful",
+        "n": "Coriander leaves (dhania), chopped",
+        "tag": "coriander-leaves",
+        "img": "i-coriander",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Wash the rice in water, then leave it to soak for 15 to 20 minutes.",
+        "imgs": [
+          "s-rice-1",
+          "s-rice-2",
+          "s-rice-3"
+        ]
+      },
+      {
+        "t": "Add the oil and ghee to the pressure cooker and let them heat.",
+        "imgs": [
+          "s-heat-1",
+          "s-heat-2"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds and whole spices to the hot oil.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the sliced onion and sauté until soft.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add salt, red chilli powder, turmeric, coriander powder and garam masala. Stir well.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2",
+          "s-masala-3"
+        ]
+      },
+      {
+        "t": "Add the chopped green chilli, then the potato slices.",
+        "imgs": [
+          "s-potato-1",
+          "s-potato-2"
+        ]
+      },
+      {
+        "t": "Add the tomato wedges and red capsicum.",
+        "imgs": [
+          "s-tomato-1",
+          "s-tomato-2"
+        ]
+      },
+      {
+        "t": "Add the cauliflower, soaked soya chunks and green peas.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2",
+          "s-veg-3"
+        ]
+      },
+      {
+        "t": "Stir everything well and sauté for 2 to 3 minutes.",
+        "imgs": [
+          "s-saute-1",
+          "s-saute-2"
+        ]
+      },
+      {
+        "t": "Add the soaked rice to the cooker.",
+        "imgs": [
+          "s-ricein-1",
+          "s-ricein-2"
+        ]
+      },
+      {
+        "t": "Pour in the water and stir.",
+        "imgs": [
+          "s-water-1",
+          "s-water-2"
+        ]
+      },
+      {
+        "t": "Close the lid and cook until the first whistle.",
+        "imgs": [
+          "s-cook-1"
+        ]
+      },
+      {
+        "t": "Switch off the gas and leave the lid closed for 5 minutes.",
+        "imgs": [
+          "s-rest-1"
+        ]
+      },
+      {
+        "t": "Open the lid. The rice should be cooked and the water absorbed.",
+        "imgs": [
+          "s-open-1",
+          "s-open-2"
+        ]
+      },
+      {
+        "t": "Add the fried paneer cubes and chopped coriander on top.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "Mix gently and serve hot, with raita and green chutney if you like.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      }
+    ],
+    "tags": [
+      "pressure-cooker",
+      "one-pot",
+      "high-protein",
+      "high-fibre"
+    ],
+    "notes": "No amounts shown or spoken, so all quantities are guesses from the bowls and pot (rice ~1 cup, water ~1.5 cups). Needs a 15-20 min rice soak (about 10 min of actual cooking). Narration is garbled on the 5-min rest after the whistle: I read it as gas off and steam finishes the rice. Garam masala is spoken but not clearly shown (no thumbnail); the brown powder on screen is used as coriander powder. Soya and paneer appear already soaked and fried (not shown): soak soya in hot water and squeeze, shallow-fry paneer cubes. Raita and green chutney in the plated shot are not made in the video."
+  },
+  "images": {
+    "cover": {
+      "t": 2.2,
+      "crop": [
+        0,
+        420,
+        720,
+        640
+      ],
+      "w": 560
+    },
+    "i-rice": {
+      "t": 9.8,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 10.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 13.3,
+      "crop": [
+        160,
+        80,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 14.2,
+      "crop": [
+        200,
+        300,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-wholespice": {
+      "t": 14.8,
+      "crop": [
+        330,
+        290,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 15.0,
+      "crop": [
+        270,
+        330,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 17.5,
+      "crop": [
+        20,
+        400,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 20.0,
+      "crop": [
+        260,
+        300,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-redchilli": {
+      "t": 21.0,
+      "crop": [
+        260,
+        270,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 22.25,
+      "crop": [
+        200,
+        300,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-corpowder": {
+      "t": 22.5,
+      "crop": [
+        100,
+        300,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-greenchilli": {
+      "t": 25.0,
+      "crop": [
+        330,
+        290,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 26.5,
+      "crop": [
+        40,
+        330,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 27.5,
+      "crop": [
+        40,
+        420,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-capsicum": {
+      "t": 1.0,
+      "crop": [
+        330,
+        650,
+        250,
+        250
+      ],
+      "w": 200
+    },
+    "i-cauli": {
+      "t": 28.5,
+      "crop": [
+        20,
+        380,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-soya": {
+      "t": 29.2,
+      "crop": [
+        200,
+        300,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 30.0,
+      "crop": [
+        100,
+        150,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 45.0,
+      "crop": [
+        300,
+        250,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 46.8,
+      "crop": [
+        180,
+        540,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "s-rice-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-3": {
+      "t": 12.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-heat-2": {
+      "t": 14.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 14.8,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 16.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 17.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 19.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 21.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-3": {
+      "t": 23.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 26.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-1": {
+      "t": 27.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-2": {
+      "t": 27.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 28.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 29.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-3": {
+      "t": 30.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-saute-1": {
+      "t": 32.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-saute-2": {
+      "t": 33.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ricein-1": {
+      "t": 35.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ricein-2": {
+      "t": 37.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 37.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-2": {
+      "t": 39.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 41.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rest-1": {
+      "t": 42.5,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-open-1": {
+      "t": 43.8,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-open-2": {
+      "t": 44.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 45.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 46.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 49.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 52.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-heat-1": {
+      "t": 13.3,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

@@ -1,0 +1,712 @@
+{
+ "videos": [
+  "3531605777654270924"
+ ],
+ "dish": {
+  "id": "mixed-bean-salad",
+  "name": "Mixed bean salad",
+  "meal": "Snack",
+  "minutes": 40,
+  "protein": 20,
+  "how": "Pressure cooker",
+  "tools": "Pressure cooker, gas, knife, big bowl",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "25 g (dry weight)",
+    "n": "Rajma (kidney beans), dry",
+    "tag": "rajma",
+    "img": "i-rajma",
+    "alt": [
+     "lobia"
+    ]
+   },
+   {
+    "q": "25 g (dry weight)",
+    "n": "Black chana (kala chana), dry",
+    "tag": "kala-chana",
+    "img": "i-kala-chana",
+    "alt": [
+     "chickpeas"
+    ]
+   },
+   {
+    "q": "25 g (dry weight)",
+    "n": "White chana (kabuli chana), dry",
+    "tag": "chickpeas",
+    "img": "i-white-chana",
+    "alt": [
+     "kala-chana"
+    ]
+   },
+   {
+    "q": "~1/4 cup (~35 g)",
+    "n": "Red onion, finely chopped",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1/4 cup (~40 g)",
+    "n": "Tomato, finely chopped",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~1/4 cup (~35 g)",
+    "n": "Cucumber, chopped",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~1 small",
+    "n": "Green chilli, chopped",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/4 tsp, to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli-powder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Chaat masala",
+    "tag": "chaat-masala",
+    "img": "i-chaat-masala"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Roasted ajwain (carom seeds)",
+    "tag": "ajwain",
+    "img": "i-ajwain"
+   },
+   {
+    "q": "~1 tbsp (1/2 lemon)",
+    "n": "Lemon juice",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "~2 tbsp (~20 g)",
+    "n": "Peanuts",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Coriander leaves, finely chopped",
+    "tag": "coriander-leaves",
+    "img": "i-coriander",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Weigh 25 g each of dry rajma, black chana and white chana.",
+    "imgs": [
+     "s-weigh-1",
+     "s-weigh-2",
+     "s-weigh-3"
+    ]
+   },
+   {
+    "t": "The night before, soak all 3 beans in water. Next day, pressure cook with a pinch of salt for 5 to 6 whistles, until soft.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-2"
+    ]
+   },
+   {
+    "t": "While the beans cook, finely chop the onion, tomato, cucumber and green chilli.",
+    "imgs": [
+     "s-chop-1"
+    ]
+   },
+   {
+    "t": "Tip the boiled beans into a big bowl.",
+    "imgs": [
+     "s-bowl-1",
+     "s-bowl-2",
+     "s-bowl-3"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the chopped tomato.",
+    "imgs": [
+     "s-tomato-1",
+     "s-tomato-2"
+    ]
+   },
+   {
+    "t": "Add the chopped cucumber.",
+    "imgs": [
+     "s-cucumber-1",
+     "s-cucumber-2"
+    ]
+   },
+   {
+    "t": "Add the chopped green chilli.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the salt and red chilli powder.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the chaat masala.",
+    "imgs": [
+     "s-masala-1",
+     "s-masala-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the roasted ajwain.",
+    "imgs": [
+     "s-ajwain-1",
+     "s-ajwain-2"
+    ]
+   },
+   {
+    "t": "Pour in the lemon juice.",
+    "imgs": [
+     "s-lemon-1",
+     "s-lemon-2"
+    ]
+   },
+   {
+    "t": "Toss everything well with two forks or spoons.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Add the peanuts.",
+    "imgs": [
+     "s-peanuts-1",
+     "s-peanuts-2"
+    ]
+   },
+   {
+    "t": "Sprinkle the chopped coriander on top and serve.",
+    "imgs": [
+     "s-coriander-1",
+     "s-coriander-2",
+     "s-coriander-3"
+    ]
+   }
+  ],
+  "tags": [
+   "pressure-cooker",
+   "gas",
+   "high-protein",
+   "high-fibre"
+  ],
+  "credit": "@fitnesswithnidhi",
+  "notes": "Amounts of the veg, spices, lemon, peanuts and coriander are guesses (video says 'see caption'); only the 25 g of each bean is on screen. The video shows dry beans, then boiled ones, but not the boiling: 'pressure cooker' is my assumption and soaking is not mentioned (40 min = cooking + chopping, no soak; about 10 min if beans are already boiled). Protein is about 20 g for this one bowl. [Reviewer: step 2 text adds the soak + 5-6 whistles; that is standard practice, not from the video.]"
+ },
+ "images": {
+  "cover": {
+   "t": 26.9,
+   "crop": [
+    0,
+    318,
+    720,
+    660
+   ],
+   "w": 560
+  },
+  "i-rajma": {
+   "t": 3.8,
+   "crop": [
+    185,
+    345,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-kala-chana": {
+   "t": 4.8,
+   "crop": [
+    190,
+    365,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-white-chana": {
+   "t": 5.8,
+   "crop": [
+    190,
+    350,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 12.6,
+   "crop": [
+    140,
+    660,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 12.6,
+   "crop": [
+    40,
+    330,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 15.0,
+   "crop": [
+    70,
+    395,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 15.6,
+   "crop": [
+    260,
+    450,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-chilli-powder": {
+   "t": 16.2,
+   "crop": [
+    20,
+    335,
+    230,
+    230
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 16.2,
+   "crop": [
+    440,
+    380,
+    270,
+    270
+   ],
+   "w": 200
+  },
+  "i-chaat-masala": {
+   "t": 17.2,
+   "crop": [
+    100,
+    330,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-ajwain": {
+   "t": 18.5,
+   "crop": [
+    140,
+    330,
+    310,
+    310
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 20.0,
+   "crop": [
+    190,
+    330,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 23.8,
+   "crop": [
+    130,
+    325,
+    270,
+    270
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 0.8,
+   "crop": [
+    30,
+    440,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "s-weigh-1": {
+   "t": 3.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-weigh-2": {
+   "t": 4.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-weigh-3": {
+   "t": 5.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 6.9,
+   "crop": [
+    166,
+    490,
+    480,
+    360
+   ],
+   "w": 480
+  },
+  "s-boil-2": {
+   "t": 10.3,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-1": {
+   "t": 8.5,
+   "crop": [
+    0,
+    600,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-2": {
+   "t": 9.2,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-3": {
+   "t": 9.8,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 10.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-1": {
+   "t": 12.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-2": {
+   "t": 13.8,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-1": {
+   "t": 14.4,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 15.3,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 15.7,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 16.2,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 16.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-masala-1": {
+   "t": 17.2,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-masala-2": {
+   "t": 17.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ajwain-1": {
+   "t": 18.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ajwain-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 21.3,
+   "crop": [
+    120,
+    830,
+    480,
+    360
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 22.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-1": {
+   "t": 23.7,
+   "crop": [
+    0,
+    320,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-2": {
+   "t": 24.3,
+   "crop": [
+    0,
+    320,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 26.25,
+   "crop": [
+    0,
+    320,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-3": {
+   "t": 26.9,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

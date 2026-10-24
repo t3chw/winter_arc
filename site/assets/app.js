@@ -545,6 +545,7 @@
     else if (parts[0] === 'today') view = showDay(todayDay(), 'full');
     else if (parts[0] === 'check') view = showCheck(parts[1]);
     else if (parts[0] === 'workout') view = showWorkout();
+    else if (parts[0] === 'food') view = WA.showFood(root, parts[1]);
     else view = WA.showHub(root);
     window.scrollTo(0, 0);
   }

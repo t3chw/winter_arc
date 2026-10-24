@@ -102,8 +102,8 @@
       '<span class="hub-sub">Today · ' + esc(today.name) + ' · ' + today.minutes + ' min</span><span class="hub-arrow" aria-hidden="true">→</span></a>' +
       '<a class="hub-start" href="#/day/' + n + '"><span>Start today\'s workout</span><span aria-hidden="true">' + today.minutes + ':00</span></a>' +
       '</div>' +
-      '<div class="hub-row soon" aria-disabled="true"><div class="hub-door"><span class="hub-no">02</span><span class="hub-word">Food</span>' +
-      '<span class="hub-sub">What to cook today</span><span class="hub-tag">Soon</span></div></div>' +
+      '<div class="hub-row live"><a class="hub-door" href="#/food"><span class="hub-no">02</span><span class="hub-word">Food</span>' +
+      '<span class="hub-sub">Pick a dish · follow the steps</span><span class="hub-arrow" aria-hidden="true">→</span></a></div>' +
       '<div class="hub-row soon" aria-disabled="true"><div class="hub-door"><span class="hub-no">03</span><span class="hub-word">Care</span>' +
       '<span class="hub-sub">Skin, sleep, posture</span><span class="hub-tag">Soon</span></div></div>' +
       '</nav>' +
