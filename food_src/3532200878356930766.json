@@ -1,0 +1,474 @@
+{
+ "videos": [
+  "3532200878356930766"
+ ],
+ "dish": {
+  "id": "nut-date-banana-smoothie",
+  "name": "Nut, date and banana smoothie",
+  "meal": "Drink",
+  "minutes": 10,
+  "protein": 15,
+  "how": "No cooking",
+  "tools": "Small blender (mixie) jar, bowl, glass",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~6, plus a few sliced for the top",
+    "n": "Almonds (badam)",
+    "tag": "almonds",
+    "img": "i-almond"
+   },
+   {
+    "q": "~5",
+    "n": "Cashews (kaju)",
+    "tag": "cashews",
+    "img": "i-cashew"
+   },
+   {
+    "q": "~4 halves",
+    "n": "Walnuts (akhrot)",
+    "tag": "walnuts",
+    "img": "i-walnut"
+   },
+   {
+    "q": "~2, seeds out",
+    "n": "Dates (khajoor)",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "~1 tbsp, plus a few for the top",
+    "n": "Pumpkin seeds",
+    "tag": "pumpkin-seeds",
+    "img": "i-pumpkin"
+   },
+   {
+    "q": "~1 cup (~250 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "1 medium",
+    "n": "Banana",
+    "tag": "banana",
+    "img": "i-banana"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the almonds, cashews and walnuts in a bowl.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2"
+    ]
+   },
+   {
+    "t": "Add the dates and pumpkin seeds.",
+    "imgs": [
+     "s-dates-1",
+     "s-dates-2"
+    ]
+   },
+   {
+    "t": "Pour some of the milk over the nuts and dates.",
+    "imgs": [
+     "s-milk-1",
+     "s-milk-2"
+    ]
+   },
+   {
+    "t": "Stir, then leave the nuts and dates to soak in the milk.",
+    "imgs": [
+     "s-soak-1",
+     "s-soak-2",
+     "s-soak-3"
+    ]
+   },
+   {
+    "t": "Tip the soaked nuts, dates and milk into the blender cup.",
+    "imgs": [
+     "s-tip-1",
+     "s-tip-2",
+     "s-tip-3"
+    ]
+   },
+   {
+    "t": "Add the banana pieces.",
+    "imgs": [
+     "s-banana-1",
+     "s-banana-2"
+    ]
+   },
+   {
+    "t": "Pour in the rest of the milk.",
+    "imgs": [
+     "s-more-1",
+     "s-more-2"
+    ]
+   },
+   {
+    "t": "Fit the blade lid on the cup and screw it tight.",
+    "imgs": [
+     "s-lid-1",
+     "s-lid-2"
+    ]
+   },
+   {
+    "t": "Turn the cup upside down onto the blender base.",
+    "imgs": [
+     "s-base-1"
+    ]
+   },
+   {
+    "t": "Blend until smooth and creamy.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Pour the smoothie into a glass.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Top with sliced almonds and pumpkin seeds.",
+    "imgs": [
+     "s-top-1"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "blender",
+   "quick"
+  ],
+  "notes": "Silent video, no amounts shown: all quantities are my estimates (total milk split between the soaking bowl and the blender cup is a guess). Soaking time is not shown (the clip cuts straight to the soaked bowl), so check how long you want to soak. Blending time not shown either. Protein is an estimate (~15 g) from about 1 cup of milk plus nuts and seeds."
+ },
+ "images": {
+  "cover": {
+   "t": 1.0,
+   "crop": [
+    0,
+    280,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-almond": {
+   "t": 2.5,
+   "crop": [
+    330,
+    650,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-cashew": {
+   "t": 2.5,
+   "crop": [
+    250,
+    790,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-walnut": {
+   "t": 11.0,
+   "crop": [
+    320,
+    290,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-dates": {
+   "t": 12.0,
+   "crop": [
+    180,
+    200,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-pumpkin": {
+   "t": 4.5,
+   "crop": [
+    180,
+    480,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-milk": {
+   "t": 5.0,
+   "crop": [
+    30,
+    340,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-banana": {
+   "t": 13.5,
+   "crop": [
+    60,
+    240,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-nuts-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 3.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dates-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dates-2": {
+   "t": 4.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tip-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tip-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tip-3": {
+   "t": 12.0,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-banana-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-banana-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-more-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-more-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-base-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 0.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

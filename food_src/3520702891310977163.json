@@ -6,9 +6,9 @@
     "id": "ragi-date-walnut-cake",
     "name": "Ragi date walnut cake",
     "meal": "Snack",
-    "minutes": 50,
+    "minutes": 60,
     "protein": 5,
-    "how": "Air fryer (or oven)",
+    "how": "Air fryer",
     "tools": "Small blender jar, whisk, 6-inch cake tin, air fryer or oven",
     "serves": 6,
     "cover": "cover",
@@ -67,6 +67,14 @@
     ],
     "steps": [
       {
+        "t": "Split the dates open and take out the seeds.",
+        "imgs": [
+          "s-seed-1",
+          "s-seed-2",
+          "s-seed-3"
+        ]
+      },
+      {
         "t": "Soak the pitted dates in warm milk until soft.",
         "imgs": [
           "s-soak-1",
@@ -83,161 +91,203 @@
       {
         "t": "Blend until smooth.",
         "imgs": [
-          "s-blend-1"
+          "s-blend-1",
+          "s-blend-2"
         ]
       },
       {
         "t": "Pour the date mix into a bowl.",
         "imgs": [
-          "s-pour-1"
+          "s-pour-1",
+          "s-pour-2"
         ]
       },
       {
         "t": "Add the melted butter or oil and whisk.",
         "imgs": [
           "s-butter-1",
-          "s-butter-2"
+          "s-butter-2",
+          "s-butter-3"
         ]
       },
       {
-        "t": "Add the ragi flour.",
+        "t": "In another bowl, mix the ragi flour and whole wheat flour with baking powder and soda.",
         "imgs": [
-          "s-ragi-1"
+          "s-dry-1",
+          "s-dry-2"
         ]
       },
       {
-        "t": "Add the whole wheat flour.",
+        "t": "Add the flour mix to the date mix.",
         "imgs": [
-          "s-wheat-1",
-          "s-wheat-2"
+          "s-add-1",
+          "s-add-2",
+          "s-add-3"
         ]
       },
       {
-        "t": "Add baking powder and baking soda. Whisk to a smooth batter.",
+        "t": "Whisk into a smooth, thick batter.",
         "imgs": [
-          "s-mix-1",
-          "s-mix-2"
+          "s-whisk-1",
+          "s-whisk-2",
+          "s-whisk-3"
         ]
       },
       {
         "t": "Pour the batter into a cake tin.",
         "imgs": [
-          "s-tin-1"
+          "s-tin-1",
+          "s-tin-2"
         ]
       },
       {
         "t": "Sprinkle chopped walnuts on top.",
         "imgs": [
           "s-top-1",
-          "s-top-2"
+          "s-top-2",
+          "s-top-3"
         ]
       },
       {
         "t": "Bake the cake.",
         "imgs": [
-          "s-bake-1"
+          "s-bake-1",
+          "s-bake-2"
         ]
       },
       {
         "t": "Cut a slice and serve.",
         "imgs": [
-          "s-serve-1"
+          "s-serve-1",
+          "s-serve-2"
         ]
       }
     ],
     "tags": [
-      "blender"
+      "air-fryer",
+      "blender",
+      "make-ahead"
     ],
-    "notes": "No amounts, oven temperature or baking time are shown or said (video just says bake; it uses an oven). I guessed amounts; you will need to check baking time/temperature yourself (air fryer should work with a small tin, but this is not in the video). No greasing of the tin is shown. Tins/oil may differ; baking powder/soda amounts are guesses."
+    "notes": "No amounts, baking temperature, baking time or oven/air-fryer shown (video just says bake): all amounts and the 60-minute total are guesses, so check the cake with a toothpick; a small tin should fit an air fryer, but that is not in the video. Baking powder and soda are not shown close-up (no thumbnails). Pouring the batter into the tin is not shown (only the empty tin, then walnuts on batter). Order of the dry mix is slightly unclear: ragi flour is whisked in its own bowl, then spooned into the batter along with the wheat flour."
   },
   "images": {
     "cover": {
-      "t": 18.2,
+      "t": 17.7,
       "crop": [
         0,
-        400,
+        330,
         720,
-        700
+        720
       ],
       "w": 560
     },
     "i-dates": {
-      "t": 0.3,
+      "t": 0.7,
       "crop": [
-        60,
-        420,
-        520,
-        520
+        80,
+        500,
+        480,
+        480
       ],
       "w": 200
     },
     "i-milk": {
-      "t": 2.2,
+      "t": 2.7,
       "crop": [
-        180,
-        380,
-        420,
-        420
+        200,
+        300,
+        480,
+        480
       ],
       "w": 200
     },
     "i-butter": {
-      "t": 7.2,
+      "t": 7.7,
       "crop": [
-        0,
-        340,
+        100,
+        430,
         420,
         420
       ],
       "w": 200
     },
     "i-ragi": {
-      "t": 9.2,
+      "t": 9.7,
       "crop": [
-        90,
+        60,
         500,
-        520,
-        520
+        500,
+        500
       ],
       "w": 200
     },
     "i-wheat": {
-      "t": 11.2,
+      "t": 10.7,
       "crop": [
-        60,
-        420,
-        420,
-        420
+        100,
+        400,
+        480,
+        480
       ],
       "w": 200
     },
     "i-walnut": {
-      "t": 16.2,
+      "t": 15.7,
       "crop": [
-        100,
-        440,
-        520,
-        520
+        60,
+        450,
+        600,
+        600
       ],
       "w": 200
     },
-    "s-soak-1": {
-      "t": 0.3,
-      "crop": [
-        0,
-        330,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-soak-2": {
-      "t": 2.2,
+    "s-seed-1": {
+      "t": 0.2,
       "crop": [
         0,
         300,
         720,
-        600
+        740
+      ],
+      "w": 480
+    },
+    "s-seed-2": {
+      "t": 0.7,
+      "crop": [
+        0,
+        300,
+        720,
+        740
+      ],
+      "w": 480
+    },
+    "s-seed-3": {
+      "t": 1.2,
+      "crop": [
+        0,
+        300,
+        720,
+        740
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 1.7,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 2.7,
+      "crop": [
+        0,
+        300,
+        720,
+        720
       ],
       "w": 480
     },
@@ -247,7 +297,7 @@
         0,
         350,
         720,
-        600
+        720
       ],
       "w": 480
     },
@@ -255,29 +305,49 @@
       "t": 4.2,
       "crop": [
         0,
-        450,
+        350,
         720,
-        600
+        720
       ],
       "w": 480
     },
     "s-blend-1": {
+      "t": 4.7,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
       "t": 5.2,
       "crop": [
         0,
-        350,
+        400,
         720,
-        600
+        720
       ],
       "w": 480
     },
     "s-pour-1": {
-      "t": 6.2,
+      "t": 5.7,
       "crop": [
         0,
-        380,
+        300,
         720,
-        600
+        720
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 6.7,
+      "crop": [
+        0,
+        300,
+        720,
+        720
       ],
       "w": 480
     },
@@ -285,109 +355,179 @@
       "t": 7.2,
       "crop": [
         0,
-        400,
+        350,
         720,
-        600
+        720
       ],
       "w": 480
     },
     "s-butter-2": {
-      "t": 8.2,
+      "t": 7.7,
       "crop": [
         0,
-        300,
+        350,
         720,
-        620
+        720
       ],
       "w": 480
     },
-    "s-ragi-1": {
+    "s-butter-3": {
+      "t": 8.7,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-dry-1": {
       "t": 9.2,
       "crop": [
         0,
-        330,
+        400,
         720,
-        600
+        720
       ],
       "w": 480
     },
-    "s-wheat-1": {
-      "t": 10.2,
+    "s-dry-2": {
+      "t": 9.7,
       "crop": [
         0,
-        330,
+        400,
         720,
-        600
+        720
       ],
       "w": 480
     },
-    "s-wheat-2": {
+    "s-add-1": {
+      "t": 10.7,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-add-2": {
       "t": 11.2,
       "crop": [
         0,
-        330,
+        350,
         720,
-        640
+        720
       ],
       "w": 480
     },
-    "s-mix-1": {
+    "s-add-3": {
+      "t": 11.7,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-whisk-1": {
       "t": 12.2,
       "crop": [
         0,
-        380,
+        400,
         720,
-        600
+        720
       ],
       "w": 480
     },
-    "s-mix-2": {
+    "s-whisk-2": {
+      "t": 12.7,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-whisk-3": {
       "t": 13.2,
       "crop": [
         0,
-        380,
+        400,
         720,
-        600
+        720
       ],
       "w": 480
     },
     "s-tin-1": {
+      "t": 13.7,
+      "crop": [
+        0,
+        450,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-tin-2": {
       "t": 14.2,
       "crop": [
         0,
         450,
         720,
-        600
+        720
       ],
       "w": 480
     },
     "s-top-1": {
-      "t": 15.2,
+      "t": 14.7,
       "crop": [
         0,
-        400,
+        350,
         720,
-        650
+        720
       ],
       "w": 480
     },
     "s-top-2": {
-      "t": 16.2,
+      "t": 15.2,
       "crop": [
         0,
-        340,
+        350,
         720,
-        640
+        720
       ],
       "w": 480
     },
-    "s-bake-1": {
-      "t": 17.2,
+    "s-top-3": {
+      "t": 15.7,
       "crop": [
         0,
         400,
         720,
-        700
+        720
+      ],
+      "w": 480
+    },
+    "s-bake-1": {
+      "t": 16.2,
+      "crop": [
+        0,
+        350,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-bake-2": {
+      "t": 16.7,
+      "crop": [
+        0,
+        330,
+        720,
+        720
       ],
       "w": 480
     },
@@ -395,9 +535,19 @@
       "t": 21.2,
       "crop": [
         0,
-        420,
+        400,
         720,
-        700
+        720
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 22.2,
+      "crop": [
+        0,
+        400,
+        720,
+        720
       ],
       "w": 480
     }

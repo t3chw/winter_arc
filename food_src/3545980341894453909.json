@@ -1,0 +1,491 @@
+{
+ "videos": [
+  "3545980341894453909"
+ ],
+ "dish": {
+  "id": "pomegranate-corn-peanut-salad",
+  "name": "Pomegranate corn peanut salad",
+  "meal": "Snack",
+  "minutes": 5,
+  "protein": 10,
+  "how": "No cooking",
+  "tools": "Big bowl, small bowl, spoon",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (~150 g)",
+    "n": "Pomegranate seeds (anar)",
+    "tag": "pomegranate",
+    "img": "i-pom"
+   },
+   {
+    "q": "~1/2 cup (~80 g), boiled",
+    "n": "Sweet corn",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~1/2 cup (~70 g), boiled",
+    "n": "Peanuts (moongphali)",
+    "tag": "peanuts",
+    "img": "i-peanut"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Walnuts (akhrot)",
+    "tag": "walnuts",
+    "img": "i-walnut"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Almonds (badam)",
+    "tag": "almonds",
+    "img": "i-almond"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Flax seeds (alsi)",
+    "tag": "flax-seeds",
+    "img": "i-flax"
+   },
+   {
+    "q": "juice of 1/2 lemon (~1 tbsp)",
+    "n": "Lemon",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "1 pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/4 tsp, crushed",
+    "n": "Black pepper",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Honey",
+    "tag": "honey",
+    "img": "i-honey"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the pomegranate seeds in a big mixing bowl.",
+    "imgs": [
+     "s-pom-1",
+     "s-pom-2"
+    ]
+   },
+   {
+    "t": "Add the boiled sweet corn.",
+    "imgs": [
+     "s-corn-1",
+     "s-corn-2"
+    ]
+   },
+   {
+    "t": "Add the boiled peanuts.",
+    "imgs": [
+     "s-peanut-1",
+     "s-peanut-2"
+    ]
+   },
+   {
+    "t": "Add the chopped walnuts and almonds and the flax seeds.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2",
+     "s-nuts-3"
+    ]
+   },
+   {
+    "t": "For the dressing, squeeze the lemon juice into a small bowl.",
+    "imgs": [
+     "s-lemon-1",
+     "s-lemon-2"
+    ]
+   },
+   {
+    "t": "Add a pinch of salt and the crushed black pepper.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Add the honey and mix well with a spoon.",
+    "imgs": [
+     "s-honey-1",
+     "s-honey-2",
+     "s-honey-3"
+    ]
+   },
+   {
+    "t": "Pour the dressing over the salad.",
+    "imgs": [
+     "s-dress-1",
+     "s-dress-2"
+    ]
+   },
+   {
+    "t": "Toss well so everything is coated.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2"
+    ]
+   },
+   {
+    "t": "Spoon into a glass or bowl and serve.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "quick",
+   "high-fibre"
+  ],
+  "credit": "EatWithAishwarya",
+  "notes": "Amounts are not shown or said (the video says ingredients are listed 'below' but the list is not in the clip), so all quantities are my estimates. Dressing is lemon juice, salt, black pepper and a thin golden sweet syrup that I read as honey (could be maple syrup or similar). Corn and peanuts are already boiled; boiling time is not included in the 5 minutes. Creator name read from a faint watermark."
+ },
+ "images": {
+  "cover": {
+   "t": 25.0,
+   "crop": [
+    0,
+    330,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-pom": {
+   "t": 6.0,
+   "crop": [
+    20,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 7.0,
+   "crop": [
+    100,
+    330,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-peanut": {
+   "t": 8.0,
+   "crop": [
+    0,
+    290,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-walnut": {
+   "t": 10.0,
+   "crop": [
+    150,
+    330,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-flax": {
+   "t": 10.0,
+   "crop": [
+    150,
+    480,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-almond": {
+   "t": 10.0,
+   "crop": [
+    350,
+    500,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 12.0,
+   "crop": [
+    100,
+    390,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 13.5,
+   "crop": [
+    180,
+    440,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 14.0,
+   "crop": [
+    200,
+    500,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-honey": {
+   "t": 15.0,
+   "crop": [
+    140,
+    420,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "s-pom-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pom-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corn-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corn-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanut-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanut-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-3": {
+   "t": 11.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-3": {
+   "t": 16.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dress-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dress-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

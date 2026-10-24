@@ -29,13 +29,13 @@
         "q": "~1 inch piece",
         "n": "Ginger (adrak)",
         "tag": "ginger",
-        "img": "i-gingerchilli"
+        "img": "i-ginger"
       },
       {
         "q": "~2",
         "n": "Green chillies",
         "tag": "green-chilli",
-        "img": "i-gingerchilli"
+        "img": "i-ginger"
       },
       {
         "q": "~2 cups (~250 g)",
@@ -46,7 +46,8 @@
       {
         "q": "~1 tsp",
         "n": "Salt",
-        "tag": "salt"
+        "tag": "salt",
+        "img": "i-salt"
       },
       {
         "q": "a little",
@@ -67,7 +68,8 @@
       {
         "t": "Add the paneer cubes.",
         "imgs": [
-          "s-paneer-1"
+          "s-paneer-1",
+          "s-paneer-2"
         ]
       },
       {
@@ -80,7 +82,8 @@
       {
         "t": "Blend everything into a smooth green puree.",
         "imgs": [
-          "s-puree-1"
+          "s-puree-1",
+          "s-puree-2"
         ]
       },
       {
@@ -93,7 +96,9 @@
       {
         "t": "Pour the spinach paneer puree over the flour.",
         "imgs": [
-          "s-puree-pour-1"
+          "s-pour-1",
+          "s-pour-2",
+          "s-pour-3"
         ]
       },
       {
@@ -103,10 +108,11 @@
         ]
       },
       {
-        "t": "Knead into a soft dough. A stand mixer or your hands both work.",
+        "t": "Knead into a soft dough. Stand mixer or hands both work.",
         "imgs": [
           "s-knead-1",
-          "s-knead-2"
+          "s-knead-2",
+          "s-knead-3"
         ]
       },
       {
@@ -117,23 +123,25 @@
         ]
       },
       {
-        "t": "Cook the roti on a hot tawa.",
+        "t": "Cook the roti on a hot tawa, then flip it.",
         "imgs": [
           "s-tawa-1"
         ]
       },
       {
-        "t": "Cook it from both sides, then puff it over the open flame.",
+        "t": "Puff the roti over the open flame.",
         "imgs": [
           "s-flame-1",
-          "s-flame-2"
+          "s-flame-2",
+          "s-flame-3"
         ]
       },
       {
-        "t": "Brush a little ghee on the hot rotis and stack them.",
+        "t": "Spoon a little ghee on the hot rotis and stack them.",
         "imgs": [
           "s-ghee-1",
-          "s-ghee-2"
+          "s-ghee-2",
+          "s-ghee-3"
         ]
       }
     ],
@@ -142,66 +150,76 @@
       "blender"
     ],
     "credit": "@yumfood_artz",
-    "notes": "No audio and no amounts shown (only on-screen ingredient names): all quantities are guesses. Tawa time is not shown. Dough is kneaded in a stand mixer in the video; by hand works too. Ghee brushing is shown at the start of the video (assumed done at the end). No water added to the puree in the video."
+    "notes": "No audio. On-screen text lists the ingredients but no amounts: all quantities are guesses. Tawa time is not shown and no water is added to the puree. Dough is kneaded in a stand mixer in the video (hands work too). Ghee is spooned over the stack at the start of the video (moved to the end here). Blending is not shown, only the finished puree."
   },
   "images": {
     "cover": {
-      "t": 19.8,
+      "t": 20.2,
       "crop": [
         0,
-        370,
+        280,
         720,
-        680
+        740
       ],
       "w": 560
     },
     "i-spinach": {
-      "t": 5.4,
+      "t": 5.6,
       "crop": [
-        20,
-        230,
-        560,
-        560
+        30,
+        320,
+        600,
+        600
       ],
       "w": 200
     },
     "i-paneer": {
-      "t": 5.9,
+      "t": 7.4,
       "crop": [
-        340,
-        220,
-        380,
-        380
+        130,
+        300,
+        500,
+        500
       ],
       "w": 200
     },
-    "i-gingerchilli": {
+    "i-ginger": {
       "t": 6.5,
       "crop": [
-        190,
-        270,
-        330,
-        330
+        220,
+        260,
+        300,
+        300
       ],
       "w": 200
     },
     "i-atta": {
-      "t": 9.5,
+      "t": 9.2,
       "crop": [
-        100,
-        480,
+        110,
+        520,
         440,
         440
       ],
       "w": 200
     },
-    "i-ghee": {
-      "t": 1.5,
+    "i-salt": {
+      "t": 11.45,
       "crop": [
-        250,
-        440,
-        360,
-        360
+        110,
+        380,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 3.35,
+      "crop": [
+        200,
+        450,
+        400,
+        400
       ],
       "w": 200
     },
@@ -209,104 +227,164 @@
       "t": 5.4,
       "crop": [
         0,
-        320,
+        230,
         720,
-        600
+        700
       ],
       "w": 480
     },
     "s-spinach-2": {
-      "t": 5.7,
+      "t": 5.75,
       "crop": [
         0,
-        320,
+        230,
         720,
-        600
+        700
       ],
       "w": 480
     },
     "s-paneer-1": {
-      "t": 5.9,
+      "t": 6.05,
       "crop": [
         0,
-        280,
+        230,
         720,
-        600
+        700
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 6.25,
+      "crop": [
+        0,
+        230,
+        720,
+        700
       ],
       "w": 480
     },
     "s-ginger-1": {
-      "t": 7.0,
+      "t": 6.5,
       "crop": [
         0,
-        280,
+        230,
         720,
-        600
+        700
       ],
       "w": 480
     },
     "s-ginger-2": {
-      "t": 7.5,
+      "t": 6.95,
       "crop": [
         0,
-        300,
+        230,
         720,
-        600
+        700
       ],
       "w": 480
     },
     "s-puree-1": {
-      "t": 8.0,
+      "t": 7.85,
       "crop": [
         0,
-        300,
+        230,
         720,
-        600
+        700
+      ],
+      "w": 480
+    },
+    "s-puree-2": {
+      "t": 8.3,
+      "crop": [
+        0,
+        230,
+        720,
+        700
       ],
       "w": 480
     },
     "s-flour-1": {
-      "t": 8.5,
+      "t": 8.75,
       "crop": [
         0,
-        260,
+        250,
         720,
-        620
+        700
       ],
       "w": 480
     },
     "s-flour-2": {
-      "t": 9.5,
+      "t": 9.2,
       "crop": [
         0,
-        400,
+        250,
         720,
-        600
+        700
       ],
       "w": 480
     },
-    "s-puree-pour-1": {
-      "t": 10.5,
+    "s-pour-1": {
+      "t": 9.65,
       "crop": [
         0,
-        300,
+        250,
         720,
-        600
+        700
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 10.1,
+      "crop": [
+        0,
+        250,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-pour-3": {
+      "t": 10.55,
+      "crop": [
+        0,
+        250,
+        720,
+        700
       ],
       "w": 480
     },
     "s-salt-1": {
-      "t": 11.5,
+      "t": 11.45,
       "crop": [
         0,
-        330,
+        250,
         720,
-        600
+        700
       ],
       "w": 480
     },
     "s-knead-1": {
-      "t": 12.5,
+      "t": 11.9,
+      "crop": [
+        0,
+        250,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-knead-2": {
+      "t": 12.8,
+      "crop": [
+        0,
+        250,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-knead-3": {
+      "t": 13.7,
       "crop": [
         0,
         300,
@@ -315,23 +393,13 @@
       ],
       "w": 480
     },
-    "s-knead-2": {
-      "t": 14.0,
-      "crop": [
-        0,
-        330,
-        720,
-        600
-      ],
-      "w": 480
-    },
     "s-roll-1": {
-      "t": 14.5,
+      "t": 14.6,
       "crop": [
         0,
-        330,
+        300,
         720,
-        600
+        650
       ],
       "w": 480
     },
@@ -339,59 +407,79 @@
       "t": 15.5,
       "crop": [
         0,
-        330,
+        300,
         720,
-        600
+        650
       ],
       "w": 480
     },
     "s-tawa-1": {
-      "t": 16.5,
+      "t": 16.4,
       "crop": [
         0,
-        260,
+        250,
         720,
         700
       ],
       "w": 480
     },
     "s-flame-1": {
-      "t": 17.5,
+      "t": 17.3,
       "crop": [
         0,
-        260,
+        250,
         720,
         700
       ],
       "w": 480
     },
     "s-flame-2": {
-      "t": 18.5,
+      "t": 17.75,
       "crop": [
         0,
-        260,
+        250,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-flame-3": {
+      "t": 18.65,
+      "crop": [
+        0,
+        250,
         720,
         700
       ],
       "w": 480
     },
     "s-ghee-1": {
-      "t": 2.0,
+      "t": 2.45,
       "crop": [
         0,
-        340,
+        380,
         720,
-        600
+        640
       ],
       "w": 480
     },
     "s-ghee-2": {
-      "t": 3.5,
+      "t": 3.35,
       "crop": [
         0,
-        340,
+        380,
         720,
-        600
+        640
+      ],
+      "w": 480
+    },
+    "s-ghee-3": {
+      "t": 4.25,
+      "crop": [
+        0,
+        380,
+        720,
+        640
       ],
       "w": 480
     }

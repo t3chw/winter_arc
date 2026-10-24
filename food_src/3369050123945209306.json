@@ -60,13 +60,13 @@
    {
     "t": "Put one kind of seed in a dry pan on the gas.",
     "imgs": [
-     "s-pan-1",
-     "s-pan-2",
-     "s-pan-3"
+     "s-pour-1",
+     "s-pour-2",
+     "s-pour-3"
     ]
    },
    {
-    "t": "Roast it, shaking the pan, until it turns lightly golden.",
+    "t": "Roast it until it looks lightly golden.",
     "imgs": [
      "s-roast-1",
      "s-roast-2",
@@ -74,7 +74,7 @@
     ]
    },
    {
-    "t": "Roast the other seeds the same way, one kind at a time.",
+    "t": "Roast each of the other seeds the same way, one kind at a time.",
     "imgs": [
      "s-each-1",
      "s-each-2",
@@ -85,7 +85,8 @@
     "t": "Spread all the roasted seeds on a plate and let them cool.",
     "imgs": [
      "s-cool-1",
-     "s-cool-2"
+     "s-cool-2",
+     "s-cool-3"
     ]
    },
    {
@@ -114,196 +115,206 @@
    "gas",
    "make-ahead"
   ],
-  "notes": "A seed mix taken by the spoonful after meals, not a meal. Amounts per seed are not stated (guessed ~2 tbsp each, ~14 tbsp total). Roasting time/heat not stated, only that each seed roasts differently. The 7th seed (tiny dark brown) is never named; it looks like ajwain. Ajwain roasting and sunflower roasting are not clearly shown. Protein is under 3 g per tbsp. Video opens with supplement bottles and makes health claims; none copied."
+  "notes": "A seed mix taken by the spoonful, not a meal. Amounts are not stated (guessed ~2 tbsp of each, ~14 tbsp in all). Roasting heat and time are not stated, only that each seed roasts differently. The ajwain is never roasted on screen (assumed roasted like the rest). Protein is under 3 g per tbsp (shown as 0). The video opens with supplement bottles and health claims; none copied."
  },
  "images": {
   "cover": {
-   "t": 28.0,
+   "t": 28.5,
    "crop": [
-    80,
-    430,
-    560,
-    420
+    60,
+    410,
+    600,
+    440
    ],
    "w": 560
   },
-  "i-pumpkin": {
-   "t": 4.5,
+  "i-flax": {
+   "t": 4.8,
    "crop": [
-    470,
-    340,
-    240,
-    240
+    15,
+    395,
+    230,
+    230
    ],
    "w": 200
   },
-  "i-sunflower": {
-   "t": 4.5,
+  "i-melon": {
+   "t": 4.8,
    "crop": [
-    500,
-    590,
+    220,
+    260,
+    230,
+    230
+   ],
+   "w": 200
+  },
+  "i-pumpkin": {
+   "t": 4.8,
+   "crop": [
+    460,
+    370,
     220,
     220
    ],
    "w": 200
   },
-  "i-flax": {
-   "t": 6.0,
+  "i-fennel": {
+   "t": 4.8,
    "crop": [
-    70,
     250,
-    320,
-    320
+    510,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-sunflower": {
+   "t": 4.8,
+   "crop": [
+    490,
+    620,
+    230,
+    230
    ],
    "w": 200
   },
   "i-sesame": {
-   "t": 6.0,
+   "t": 4.8,
    "crop": [
-    20,
-    560,
-    330,
-    330
-   ],
-   "w": 200
-  },
-  "i-fennel": {
-   "t": 6.0,
-   "crop": [
-    380,
-    450,
-    320,
-    320
-   ],
-   "w": 200
-  },
-  "i-melon": {
-   "t": 6.0,
-   "crop": [
-    400,
-    70,
-    310,
-    310
+    25,
+    675,
+    200,
+    200
    ],
    "w": 200
   },
   "i-ajwain": {
    "t": 6.0,
    "crop": [
-    380,
-    880,
-    330,
-    330
+    410,
+    890,
+    300,
+    300
    ],
    "w": 200
   },
-  "s-pan-1": {
+  "s-pour-1": {
    "t": 10.0,
    "crop": [
     0,
-    40,
+    80,
     720,
-    790
+    735
    ],
    "w": 480
   },
-  "s-pan-2": {
-   "t": 10.5,
-   "crop": [
-    0,
-    40,
-    720,
-    790
-   ],
-   "w": 480
-  },
-  "s-pan-3": {
+  "s-pour-2": {
    "t": 11.5,
    "crop": [
     0,
-    40,
+    80,
     720,
-    790
+    735
+   ],
+   "w": 480
+  },
+  "s-pour-3": {
+   "t": 12.5,
+   "crop": [
+    0,
+    80,
+    720,
+    735
    ],
    "w": 480
   },
   "s-roast-1": {
-   "t": 14.4,
+   "t": 14.5,
    "crop": [
     0,
-    100,
+    150,
     720,
-    735
+    665
    ],
    "w": 480
   },
   "s-roast-2": {
-   "t": 16.6,
+   "t": 15.5,
    "crop": [
     0,
-    100,
+    150,
     720,
-    735
+    665
    ],
    "w": 480
   },
   "s-roast-3": {
-   "t": 18.0,
+   "t": 17.5,
    "crop": [
     0,
-    100,
+    150,
+    720,
+    665
+   ],
+   "w": 480
+  },
+  "s-each-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    80,
     720,
     735
    ],
    "w": 480
   },
-  "s-each-1": {
-   "t": 12.5,
-   "crop": [
-    0,
-    40,
-    720,
-    790
-   ],
-   "w": 480
-  },
   "s-each-2": {
-   "t": 13.0,
+   "t": 14.0,
    "crop": [
     0,
-    40,
+    80,
     720,
-    790
+    735
    ],
    "w": 480
   },
   "s-each-3": {
-   "t": 14.0,
+   "t": 16.5,
    "crop": [
     0,
-    40,
+    150,
     720,
-    790
+    665
    ],
    "w": 480
   },
   "s-cool-1": {
-   "t": 21.5,
+   "t": 20.0,
    "crop": [
     0,
-    360,
+    150,
     720,
-    475
+    665
    ],
    "w": 480
   },
   "s-cool-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    150,
+    720,
+    665
+   ],
+   "w": 480
+  },
+  "s-cool-3": {
    "t": 22.0,
    "crop": [
     0,
-    300,
+    250,
     720,
-    535
+    600
    ],
    "w": 480
   },
@@ -311,9 +322,9 @@
    "t": 23.5,
    "crop": [
     0,
-    330,
+    250,
     720,
-    505
+    600
    ],
    "w": 480
   },
@@ -321,9 +332,9 @@
    "t": 24.5,
    "crop": [
     0,
-    300,
+    250,
     720,
-    535
+    600
    ],
    "w": 480
   },
@@ -331,39 +342,39 @@
    "t": 26.5,
    "crop": [
     0,
-    340,
+    250,
     720,
-    495
+    600
    ],
    "w": 480
   },
   "s-store-1": {
    "t": 27.0,
    "crop": [
-    0,
-    330,
-    720,
-    505
+    60,
+    300,
+    600,
+    550
    ],
    "w": 480
   },
   "s-store-2": {
-   "t": 27.5,
+   "t": 28.0,
    "crop": [
-    0,
-    330,
-    720,
-    505
+    60,
+    410,
+    600,
+    440
    ],
    "w": 480
   },
   "s-eat-1": {
-   "t": 28.5,
+   "t": 29.0,
    "crop": [
-    40,
-    390,
-    640,
-    445
+    60,
+    410,
+    600,
+    440
    ],
    "w": 480
   }

@@ -1,0 +1,921 @@
+{
+ "videos": [
+  "3489312364300779299"
+ ],
+ "dish": {
+  "id": "date-fig-nut-roll",
+  "name": "Date fig nut roll",
+  "meal": "Snack",
+  "minutes": 90,
+  "protein": 5,
+  "how": "Gas + blender",
+  "tools": "Kadhai, gas, mixie jar, sharp knife, glass bowls, butter paper (baking paper)",
+  "serves": 12,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~15 (about 200 g)",
+    "n": "Dates (khajoor)",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "~8 (about 100 g)",
+    "n": "Dried figs (anjeer)",
+    "tag": "fig",
+    "img": "i-figs"
+   },
+   {
+    "q": "enough to cover, for soaking",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1/2 cup (70 g)",
+    "n": "Almonds (badam)",
+    "tag": "almonds",
+    "img": "i-almond"
+   },
+   {
+    "q": "~1/2 cup (65 g)",
+    "n": "Cashews (kaju)",
+    "tag": "cashews",
+    "img": "i-cashew"
+   },
+   {
+    "q": "~1/2 cup (50 g)",
+    "n": "Walnuts (akhrot)",
+    "tag": "walnuts",
+    "img": "i-walnut"
+   },
+   {
+    "q": "~1/4 cup (35 g)",
+    "n": "Pumpkin seeds",
+    "tag": "pumpkin-seeds",
+    "img": "i-pumpkin"
+   },
+   {
+    "q": "~1/4 cup (35 g)",
+    "n": "Sunflower seeds",
+    "tag": "sunflower-seeds",
+    "img": "i-sunflower"
+   },
+   {
+    "q": "1/2 cup (45 g)",
+    "n": "Coconut powder (dry, grated)",
+    "tag": "coconut",
+    "img": "i-coconut"
+   },
+   {
+    "q": "1 tbsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Roasted poppy seeds (khus khus), for coating",
+    "tag": "poppy-seeds",
+    "opt": true,
+    "img": "i-poppy"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Pistachios, chopped, for coating",
+    "tag": "pistachios",
+    "opt": true,
+    "img": "i-pistachio"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the dates and dried figs (anjeer) in a glass bowl.",
+    "imgs": [
+     "s-dates",
+     "s-figs"
+    ]
+   },
+   {
+    "t": "Pour in water to cover them. Soak for 30 minutes.",
+    "imgs": [
+     "s-pour",
+     "s-soak"
+    ]
+   },
+   {
+    "t": "Chop the almonds, cashews and walnuts into small pieces.",
+    "imgs": [
+     "s-chop-1",
+     "s-chop-2",
+     "s-chop-3"
+    ]
+   },
+   {
+    "t": "Take the soaked dates and figs out of the water. Put them in the mixie jar.",
+    "imgs": [
+     "s-grind-1",
+     "s-grind-2"
+    ]
+   },
+   {
+    "t": "Grind them to a soft paste.",
+    "imgs": [
+     "s-grind-3"
+    ]
+   },
+   {
+    "t": "Put the chopped nuts in a kadhai. Dry roast on low flame.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2"
+    ]
+   },
+   {
+    "t": "Add the pumpkin seeds and sunflower seeds.",
+    "imgs": [
+     "s-seeds-1",
+     "s-seeds-2"
+    ]
+   },
+   {
+    "t": "Keep roasting and stirring for 5 to 6 minutes.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   },
+   {
+    "t": "Add 1/2 cup coconut powder.",
+    "imgs": [
+     "s-coco-1",
+     "s-coco-2"
+    ]
+   },
+   {
+    "t": "Stir on low flame to mix it in.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Tip the roasted mix into a glass bowl.",
+    "imgs": [
+     "s-transfer-1",
+     "s-transfer-2"
+    ]
+   },
+   {
+    "t": "Melt 1 tbsp ghee in the kadhai.",
+    "imgs": [
+     "s-ghee-1",
+     "s-ghee-2"
+    ]
+   },
+   {
+    "t": "Add the date and fig paste.",
+    "imgs": [
+     "s-paste-1",
+     "s-paste-2",
+     "s-paste-3"
+    ]
+   },
+   {
+    "t": "Stir on low flame for 5 to 6 minutes, until it gathers into one lump.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2",
+     "s-cook-3"
+    ]
+   },
+   {
+    "t": "Add the cooked paste to the roasted nuts and seeds.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "Mix well with a spatula.",
+    "imgs": [
+     "s-mixwell-1",
+     "s-mixwell-2",
+     "s-mixwell-3"
+    ]
+   },
+   {
+    "t": "Let it cool a little, then press it together with your hand.",
+    "imgs": [
+     "s-cool-1",
+     "s-cool-2"
+    ]
+   },
+   {
+    "t": "Lay a sheet of butter paper. Roll the mix into a long log on it.",
+    "imgs": [
+     "s-shape-1",
+     "s-shape-2",
+     "s-shape-3"
+    ]
+   },
+   {
+    "t": "Scatter the roasted poppy seeds on the paper.",
+    "imgs": [
+     "s-poppy-1",
+     "s-poppy-2"
+    ]
+   },
+   {
+    "t": "Scatter the chopped pistachios next to them.",
+    "imgs": [
+     "s-pista-1",
+     "s-pista-2"
+    ]
+   },
+   {
+    "t": "Roll the log in the seeds and pistachios until coated all over.",
+    "imgs": [
+     "s-roll-1",
+     "s-roll-2",
+     "s-roll-3"
+    ]
+   },
+   {
+    "t": "Leave it for 30 minutes to set.",
+    "imgs": [
+     "s-rest-1",
+     "s-rest-2"
+    ]
+   },
+   {
+    "t": "Cut the log into pieces with a sharp knife.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender",
+   "make-ahead",
+   "high-fibre"
+  ],
+  "credit": "Honest Kitchen",
+  "notes": "Only 1/2 cup coconut powder, 1 tbsp ghee, 30 min soak and 5-6 min cooking are shown on screen; all other amounts are my guesses from the bowls. Protein is per piece (12 pieces). Date seeds: remove any before grinding (not shown). Draining the soaked fruit is assumed. Make-ahead is my assumption for a dry-fruit roll. First 5 s of the video is a chef intro (cropped out)."
+ },
+ "images": {
+  "cover": {
+   "t": 4.0,
+   "crop": [
+    0,
+    515,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-dates": {
+   "t": 5.1,
+   "crop": [
+    100,
+    668,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-figs": {
+   "t": 5.5,
+   "crop": [
+    170,
+    150,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 6.5,
+   "crop": [
+    150,
+    130,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-pumpkin": {
+   "t": 8.0,
+   "crop": [
+    330,
+    330,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-sunflower": {
+   "t": 8.0,
+   "crop": [
+    120,
+    670,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-walnut": {
+   "t": 9.0,
+   "crop": [
+    150,
+    672,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-cashew": {
+   "t": 10.0,
+   "crop": [
+    40,
+    310,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-almond": {
+   "t": 10.0,
+   "crop": [
+    200,
+    672,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-coconut": {
+   "t": 23.0,
+   "crop": [
+    0,
+    125,
+    490,
+    490
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 28.0,
+   "crop": [
+    150,
+    672,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-poppy": {
+   "t": 45.0,
+   "crop": [
+    60,
+    668,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-pistachio": {
+   "t": 47.0,
+   "crop": [
+    400,
+    668,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "s-dates": {
+   "t": 5.1,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-figs": {
+   "t": 5.5,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour": {
+   "t": 6.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-soak": {
+   "t": 6.9,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-chop-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-chop-3": {
+   "t": 17.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-grind-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-grind-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-grind-3": {
+   "t": 16.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-seeds-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-seeds-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-coco-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-coco-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-transfer-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-transfer-2": {
+   "t": 27.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-paste-1": {
+   "t": 29.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-paste-2": {
+   "t": 30.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-paste-3": {
+   "t": 31.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 32.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 33.5,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 35.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 36.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-mixwell-1": {
+   "t": 39.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mixwell-2": {
+   "t": 40.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mixwell-3": {
+   "t": 41.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cool-1": {
+   "t": 42.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cool-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-1": {
+   "t": 44.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-shape-2": {
+   "t": 44.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-3": {
+   "t": 45.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-poppy-1": {
+   "t": 45.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-poppy-2": {
+   "t": 45.8,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pista-1": {
+   "t": 45.8,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-pista-2": {
+   "t": 46.5,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 47.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-roll-2": {
+   "t": 48.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-roll-3": {
+   "t": 49.5,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-rest-1": {
+   "t": 51.0,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rest-2": {
+   "t": 52.5,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 53.0,
+   "crop": [
+    0,
+    125,
+    720,
+    490
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 54.5,
+   "crop": [
+    0,
+    668,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 56.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

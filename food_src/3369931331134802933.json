@@ -7,10 +7,10 @@
   "name": "Moong spinach pancake",
   "meal": "Breakfast",
   "minutes": 30,
-  "protein": 20,
+  "protein": 15,
   "how": "Gas",
   "tools": "Mixie (blender), non-stick pan, gas, ladle, spatula, strainer",
-  "serves": 2,
+  "serves": 3,
   "cover": "cover",
   "ingredients": [
    {
@@ -19,8 +19,7 @@
     "tag": "moong-whole",
     "img": "i-moong",
     "alt": [
-     "chickpeas",
-     "rajma"
+     "moong-dal"
     ]
    },
    {
@@ -54,14 +53,14 @@
     "img": "i-salt"
    },
    {
-    "q": "~1 tsp",
-    "n": "Oil, for the pan",
+    "q": "~1 tsp, for the pan",
+    "n": "Oil",
     "tag": "oil",
     "img": "i-oil"
    },
    {
-    "q": "~1 medium (150 g)",
-    "n": "Potato, boiled and mashed with spices (filling)",
+    "q": "~1 medium (150 g), boiled and mashed with spices",
+    "n": "Potato filling",
     "tag": "potato",
     "img": "i-potato",
     "opt": true
@@ -76,11 +75,10 @@
     ]
    },
    {
-    "t": "Wash them in water, rubbing with your hand.",
+    "t": "Pour in water and rub the grains with your hand to wash them.",
     "imgs": [
      "s-wash-1",
-     "s-wash-2",
-     "s-wash-3"
+     "s-wash-2"
     ]
    },
    {
@@ -91,21 +89,20 @@
     ]
    },
    {
-    "t": "Put them back in the bowl, cover with water and soak for 4 to 5 hours.",
+    "t": "Cover with water again and soak for 4 to 5 hours.",
     "imgs": [
-     "s-soak-1",
-     "s-soak-2"
+     "s-soak-1"
     ]
    },
    {
-    "t": "Put the soaked moong and rice in the blender with spinach and ginger.",
+    "t": "Put the soaked grains in the blender with spinach and ginger.",
     "imgs": [
-     "s-blend-1",
-     "s-blend-2"
+     "s-ginger-1",
+     "i-spinach"
     ]
    },
    {
-    "t": "Add salt and your other spices.",
+    "t": "Add salt and the other spices.",
     "imgs": [
      "s-spice-1",
      "s-spice-2"
@@ -119,10 +116,9 @@
     ]
    },
    {
-    "t": "Heat a non-stick pan on gas. Add a little oil and spread it.",
+    "t": "Heat a non-stick pan on gas. Add a little oil.",
     "imgs": [
-     "s-oil-1",
-     "s-oil-2"
+     "s-oil-1"
     ]
    },
    {
@@ -134,18 +130,19 @@
     ]
    },
    {
-    "t": "Cook until set, then flip and cook the other side.",
+    "t": "Cook until set, then flip it over.",
     "imgs": [
      "s-flip-1",
      "s-flip-2"
     ]
    },
    {
-    "t": "Put the pancake on a plate. Spoon the potato filling on top, if using.",
+    "t": "Put the pancake on a plate. Spread the potato filling on top, if using.",
     "imgs": [
      "s-plate-1",
      "s-fill-1",
-     "s-fill-2"
+     "s-fill-2",
+     "s-fill-3"
     ]
    },
    {
@@ -157,86 +154,85 @@
   ],
   "tags": [
    "gas",
-   "blender",
-   "high-protein"
+   "blender"
   ],
-  "notes": "Video has a presenter cut-out and captions over the footage, so images are cropped to the top part of the scene (blender shot is a side crop). Amounts are not given, all guessed (~). Minutes (30) exclude the 4-5 hour soak. Spices after salt are not named; white powder looks like salt. Water for blending is not shown. Potato filling recipe is not shown. Video says chana or rajma can replace moong. Video claims 30 g protein for Rs 15; my estimate is ~20 g per pancake if it makes 2."
+  "notes": "Presenter cut-out and captions cover the lower half of the screen, so every picture is cropped to the upper half (the blender jar itself is hidden behind the presenter). Amounts are not given, all guessed (~). Minutes (30) exclude the 4-5 hour soak. Spice names are not shown (only a white powder, taken as salt). Water for blending is not shown. The flip is not shown for the green batter: the second flip picture is the same method with a lentil batter later in the video. The potato filling is only shown being spooned on, no recipe. Video says the same batter idea works with rajma or red lentils. Video claims 30 g protein for Rs 15; my estimate is ~15 g per pancake if it makes 3."
  },
  "images": {
   "cover": {
-   "t": 19.6,
+   "t": 19.8,
    "crop": [
     0,
-    100,
+    0,
     720,
-    505
+    600
    ],
    "w": 560
   },
   "i-moong": {
    "t": 4.0,
    "crop": [
-    170,
     150,
-    380,
-    380
+    20,
+    400,
+    400
    ],
    "w": 200
   },
   "i-rice": {
    "t": 4.5,
    "crop": [
-    170,
     150,
-    380,
-    380
+    20,
+    400,
+    400
    ],
    "w": 200
   },
   "i-water": {
    "t": 5.0,
    "crop": [
-    220,
-    20,
+    170,
+    10,
     420,
     420
    ],
    "w": 200
   },
   "i-spinach": {
-   "t": 9.4,
+   "t": 9.0,
    "crop": [
-    420,
-    680,
-    300,
-    300
+    430,
+    770,
+    230,
+    230
    ],
    "w": 200
   },
   "i-ginger": {
    "t": 9.0,
    "crop": [
+    150,
     60,
-    130,
-    340,
-    340
+    330,
+    330
    ],
    "w": 200
   },
   "i-salt": {
-   "t": 10.2,
+   "t": 10.0,
    "crop": [
-    220,
-    220,
-    340,
-    340
+    0,
+    230,
+    400,
+    400
    ],
    "w": 200
   },
   "i-oil": {
    "t": 12.0,
    "crop": [
-    60,
+    30,
     0,
     420,
     420
@@ -246,10 +242,10 @@
   "i-potato": {
    "t": 18.0,
    "crop": [
-    150,
-    40,
-    320,
-    320
+    190,
+    90,
+    260,
+    260
    ],
    "w": 200
   },
@@ -259,7 +255,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -269,7 +265,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -279,27 +275,17 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
   "s-wash-2": {
-   "t": 5.5,
-   "crop": [
-    0,
-    0,
-    720,
-    610
-   ],
-   "w": 480
-  },
-  "s-wash-3": {
    "t": 6.0,
    "crop": [
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -309,7 +295,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -319,7 +305,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -329,37 +315,17 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
-  "s-soak-2": {
-   "t": 8.6,
-   "crop": [
-    300,
-    680,
-    420,
-    250
-   ],
-   "w": 480
-  },
-  "s-blend-1": {
+  "s-ginger-1": {
    "t": 9.0,
    "crop": [
     0,
     0,
     720,
-    610
-   ],
-   "w": 480
-  },
-  "s-blend-2": {
-   "t": 9.4,
-   "crop": [
-    450,
-    670,
-    270,
-    380
+    600
    ],
    "w": 480
   },
@@ -369,7 +335,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -379,7 +345,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -389,7 +355,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -399,7 +365,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -409,17 +375,7 @@
     0,
     0,
     720,
-    610
-   ],
-   "w": 480
-  },
-  "s-oil-2": {
-   "t": 12.5,
-   "crop": [
-    0,
-    0,
-    720,
-    610
+    600
    ],
    "w": 480
   },
@@ -429,7 +385,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -439,7 +395,7 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
@@ -449,57 +405,27 @@
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
   "s-flip-1": {
-   "t": 2.8,
+   "t": 14.0,
    "crop": [
     0,
     0,
     720,
-    610
+    600
    ],
    "w": 480
   },
   "s-flip-2": {
-   "t": 3.2,
+   "t": 17.5,
    "crop": [
     0,
     0,
     720,
-    610
-   ],
-   "w": 480
-  },
-  "s-fill-1": {
-   "t": 18.4,
-   "crop": [
-    0,
-    60,
-    720,
-    545
-   ],
-   "w": 480
-  },
-  "s-fill-2": {
-   "t": 19.2,
-   "crop": [
-    0,
-    60,
-    720,
-    545
-   ],
-   "w": 480
-  },
-  "s-roll-1": {
-   "t": 20.0,
-   "crop": [
-    0,
-    60,
-    720,
-    545
+    600
    ],
    "w": 480
   },
@@ -507,9 +433,49 @@
    "t": 18.0,
    "crop": [
     0,
-    60,
+    0,
     720,
-    545
+    600
+   ],
+   "w": 480
+  },
+  "s-fill-1": {
+   "t": 18.6,
+   "crop": [
+    0,
+    0,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fill-2": {
+   "t": 19.4,
+   "crop": [
+    0,
+    0,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    0,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fill-3": {
+   "t": 19.8,
+   "crop": [
+    0,
+    0,
+    720,
+    600
    ],
    "w": 480
   }

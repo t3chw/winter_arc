@@ -1,1 +1,7 @@
-{ "videos": ["3471351372706681669"], "skipped": true, "reason": "Teaser/promo reel (plantbaes) showing 4 dip-and-roasted-veg bowls (dill yogurt, roasted pepper, beet, avocado) with no steps, amounts or ingredient text; recipe cannot be worked out." }
+{
+ "videos": [
+  "3471351372706681669"
+ ],
+ "skipped": true,
+ "reason": "Teaser reel (plantbaes, 9 s): quick looks at 4 dip bowls (herb yogurt with roasted veg, red pepper sauce with zucchini salad, beet dip with roasted cauliflower and chickpeas, green avocado dip with salad) with no steps, amounts or ingredient text; recipe cannot be worked out."
+}

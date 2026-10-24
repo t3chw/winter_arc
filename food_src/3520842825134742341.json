@@ -22,12 +22,14 @@
       {
         "q": "~1 tbsp",
         "n": "Oil",
-        "tag": "oil"
+        "tag": "oil",
+        "img": "i-oil"
       },
       {
         "q": "~1/2 tsp",
         "n": "Cumin seeds (jeera)",
-        "tag": "cumin"
+        "tag": "cumin",
+        "img": "i-cumin"
       },
       {
         "q": "~2 medium (~200 g), diced small",
@@ -94,38 +96,51 @@
       {
         "t": "Heat oil in a non-stick pan.",
         "imgs": [
-          "s-oil-1"
+          "s-oil-1",
+          "s-oil-2"
         ]
       },
       {
         "t": "Add the cumin seeds.",
         "imgs": [
-          "s-cumin-1"
+          "s-cumin-1",
+          "s-cumin-2"
         ]
       },
       {
         "t": "Add the diced potatoes.",
         "imgs": [
-          "s-potato-1"
+          "s-potato-1",
+          "s-potato-2"
         ]
       },
       {
         "t": "Add the curry leaves and stir.",
         "imgs": [
           "s-leaf-1",
-          "s-leaf-2"
+          "s-leaf-2",
+          "s-leaf-3"
+        ]
+      },
+      {
+        "t": "Stir the potatoes for a minute.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2"
         ]
       },
       {
         "t": "Add the salt.",
         "imgs": [
-          "s-salt-1"
+          "s-salt-1",
+          "s-salt-2"
         ]
       },
       {
-        "t": "Cover with a lid and cook the potatoes soft.",
+        "t": "Cover with a lid and cook until the potatoes are soft.",
         "imgs": [
-          "s-lid-1"
+          "s-lid-1",
+          "s-lid-2"
         ]
       },
       {
@@ -150,95 +165,125 @@
         ]
       },
       {
-        "t": "Put the curd in a bowl.",
+        "t": "Put the curd in a bowl and spread it out.",
         "imgs": [
-          "s-curd-1"
+          "s-curd-1",
+          "s-curd-2"
         ]
       },
       {
-        "t": "Add chopped cucumber, onion and tomato.",
+        "t": "Add chopped cucumber, tomato and onion.",
         "imgs": [
           "s-veg-1",
-          "s-veg-2"
+          "s-veg-2",
+          "s-veg-3"
         ]
       },
       {
-        "t": "Add the chaat masala and mix well.",
+        "t": "Sprinkle chaat masala on the vegetables.",
         "imgs": [
           "s-chaat-1",
           "s-chaat-2"
         ]
       },
       {
-        "t": "Top with the potato and peanut mix and sprinkle a little more masala.",
+        "t": "Mix everything well into the curd.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Top with the potato peanut mix and a little more masala.",
         "imgs": [
           "s-top-1",
           "s-top-2",
-          "s-top-3"
+          "s-top-3",
+          "s-top-4"
         ]
       }
     ],
     "tags": [
       "gas"
     ],
-    "notes": "No on-screen text for amounts: all quantities are guesses, and cooking times are not shown. The powder sprinkled on the curd and on top looks like chaat masala (matches the Hindi voiceover). Oil bottle not clearly shown."
+    "notes": "Hindi voiceover is garbled and no amounts are on screen: all quantities are guesses and cooking times are not shown. The first ~11 seconds are an intro of the creator eating it (not used). The powder sprinkled on the curd and on top looks like chaat masala (matches the voiceover). The yellow tint on the potatoes suggests turmeric was added off-screen; not included. Peanuts are already roasting in the pan at the first cooking frame (so 'dry roast' is assumed). Salt thumbnail is a small frame."
   },
   "images": {
     "cover": {
-      "t": 41.0,
+      "t": 41.2,
       "crop": [
         0,
-        200,
+        330,
         720,
-        900
+        700
       ],
       "w": 560
     },
     "i-peanut": {
-      "t": 11.0,
+      "t": 10.8,
       "crop": [
-        80,
+        50,
+        450,
+        620,
+        620
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 11.4,
+      "crop": [
+        0,
+        0,
         420,
-        560,
-        560
+        420
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 13.5,
+      "crop": [
+        200,
+        400,
+        400,
+        400
       ],
       "w": 200
     },
     "i-potato": {
-      "t": 15.5,
+      "t": 15.4,
       "crop": [
-        60,
-        420,
-        600,
-        600
+        120,
+        330,
+        520,
+        520
       ],
       "w": 200
     },
     "i-curry": {
-      "t": 17.0,
+      "t": 17.5,
       "crop": [
-        0,
-        100,
-        480,
-        480
+        120,
+        500,
+        420,
+        420
       ],
       "w": 200
     },
     "i-salt": {
       "t": 22.0,
       "crop": [
-        120,
-        260,
-        360,
-        360
+        370,
+        330,
+        340,
+        340
       ],
       "w": 200
     },
     "i-chilli": {
-      "t": 29.5,
+      "t": 29.0,
       "crop": [
-        0,
-        340,
+        90,
+        190,
         440,
         440
       ],
@@ -247,90 +292,120 @@
     "i-curd": {
       "t": 31.5,
       "crop": [
-        180,
-        350,
-        520,
-        520
+        200,
+        400,
+        460,
+        460
       ],
       "w": 200
     },
     "i-cucumber": {
-      "t": 36.5,
+      "t": 33.7,
       "crop": [
-        100,
-        340,
-        300,
-        300
-      ],
-      "w": 200
-    },
-    "i-onion": {
-      "t": 36.5,
-      "crop": [
-        0,
-        560,
-        340,
-        340
+        60,
+        540,
+        420,
+        420
       ],
       "w": 200
     },
     "i-tomato": {
-      "t": 36.5,
+      "t": 34.5,
       "crop": [
+        330,
+        520,
         380,
-        480,
-        340,
-        340
+        380
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 35.3,
+      "crop": [
+        40,
+        650,
+        420,
+        420
       ],
       "w": 200
     },
     "i-chaat": {
-      "t": 42.0,
+      "t": 36.8,
       "crop": [
         150,
-        0,
-        480,
-        480
+        730,
+        360,
+        360
       ],
       "w": 200
     },
     "s-peanut-1": {
-      "t": 11.0,
+      "t": 10.8,
       "crop": [
         0,
-        400,
+        240,
         720,
-        600
+        700
       ],
       "w": 480
     },
     "s-oil-1": {
-      "t": 12.5,
+      "t": 12.0,
       "crop": [
         0,
-        400,
+        240,
         720,
-        600
+        700
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 12.3,
+      "crop": [
+        0,
+        240,
+        720,
+        700
       ],
       "w": 480
     },
     "s-cumin-1": {
-      "t": 14.0,
+      "t": 13.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 14.1,
+      "crop": [
+        0,
+        330,
+        720,
+        640
       ],
       "w": 480
     },
     "s-potato-1": {
-      "t": 15.5,
+      "t": 14.8,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 15.4,
+      "crop": [
+        0,
+        330,
+        720,
+        640
       ],
       "w": 480
     },
@@ -338,19 +413,69 @@
       "t": 17.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
     "s-leaf-2": {
-      "t": 18.5,
+      "t": 17.5,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
+      ],
+      "w": 480
+    },
+    "s-leaf-3": {
+      "t": 18.2,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 19.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 20.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-lid-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-lid-2": {
+      "t": 24.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
       ],
       "w": 480
     },
@@ -358,39 +483,39 @@
       "t": 22.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
-    "s-lid-1": {
-      "t": 24.0,
+    "s-salt-2": {
+      "t": 23.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
     "s-gold-1": {
-      "t": 26.0,
+      "t": 25.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
     "s-gold-2": {
-      "t": 26.5,
+      "t": 26.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
@@ -398,29 +523,29 @@
       "t": 27.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
     "s-pnut-2": {
-      "t": 27.5,
+      "t": 28.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
     "s-chilli-1": {
-      "t": 29.5,
+      "t": 29.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
@@ -428,9 +553,9 @@
       "t": 30.0,
       "crop": [
         0,
-        400,
+        330,
         720,
-        600
+        640
       ],
       "w": 480
     },
@@ -438,77 +563,127 @@
       "t": 31.5,
       "crop": [
         0,
-        350,
+        330,
         720,
-        650
+        700
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 32.3,
+      "crop": [
+        0,
+        330,
+        720,
+        700
       ],
       "w": 480
     },
     "s-veg-1": {
-      "t": 33.5,
+      "t": 33.7,
       "crop": [
         0,
-        350,
+        330,
         720,
-        650
+        700
       ],
       "w": 480
     },
     "s-veg-2": {
-      "t": 35.0,
+      "t": 34.5,
       "crop": [
         0,
-        350,
+        330,
         720,
-        650
+        700
+      ],
+      "w": 480
+    },
+    "s-veg-3": {
+      "t": 35.3,
+      "crop": [
+        0,
+        330,
+        720,
+        700
       ],
       "w": 480
     },
     "s-chaat-1": {
-      "t": 36.5,
+      "t": 36.0,
       "crop": [
         0,
-        350,
+        330,
         720,
-        650
+        700
       ],
       "w": 480
     },
     "s-chaat-2": {
-      "t": 38.0,
+      "t": 36.8,
       "crop": [
         0,
-        350,
+        330,
         720,
-        650
+        700
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 37.5,
+      "crop": [
+        0,
+        330,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 38.4,
+      "crop": [
+        0,
+        330,
+        720,
+        700
       ],
       "w": 480
     },
     "s-top-1": {
-      "t": 40.5,
+      "t": 40.0,
       "crop": [
         0,
-        300,
+        330,
         720,
         700
       ],
       "w": 480
     },
     "s-top-2": {
-      "t": 41.0,
+      "t": 40.6,
       "crop": [
         0,
-        300,
+        330,
         720,
         700
       ],
       "w": 480
     },
     "s-top-3": {
+      "t": 41.2,
+      "crop": [
+        0,
+        330,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-top-4": {
       "t": 42.0,
       "crop": [
         0,
-        300,
+        330,
         720,
         700
       ],

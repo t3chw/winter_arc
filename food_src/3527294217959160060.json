@@ -1,0 +1,464 @@
+{
+ "videos": [
+  "3527294217959160060"
+ ],
+ "dish": {
+  "id": "strawberry-chia-curd-pudding",
+  "name": "Strawberry chia curd pudding",
+  "meal": "Breakfast",
+  "minutes": 10,
+  "protein": 10,
+  "how": "No cooking",
+  "tools": "Bowl, spoon, fridge",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (~250 g)",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~2 tbsp dry seeds, already soaked in water",
+    "n": "Chia seeds, soaked",
+    "tag": "chia-seeds",
+    "img": "i-chia"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Honey",
+    "tag": "honey",
+    "img": "i-honey"
+   },
+   {
+    "q": "~1 cup, chopped (~150 g)",
+    "n": "Strawberries",
+    "tag": "berries",
+    "img": "i-strawberry"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Almonds, sliced (badam)",
+    "tag": "almonds",
+    "img": "i-almond"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Pumpkin seeds",
+    "tag": "pumpkin-seeds",
+    "img": "i-pumpkin"
+   },
+   {
+    "q": "~4, chopped",
+    "n": "Dates (khajoor)",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Raisins (kishmish)",
+    "tag": "raisins",
+    "img": "i-raisins"
+   },
+   {
+    "q": "a few, chopped",
+    "n": "Walnuts (akhrot), for the top",
+    "tag": "walnuts",
+    "img": "i-walnut",
+    "opt": true
+   },
+   {
+    "q": "a few",
+    "n": "Pistachios, for the top",
+    "tag": "pistachios",
+    "img": "i-pistachio",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Pour the curd into a large bowl.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add the soaked chia seeds.",
+    "imgs": [
+     "s-chia-1",
+     "s-chia-2"
+    ]
+   },
+   {
+    "t": "Drizzle honey over the chia seeds.",
+    "imgs": [
+     "s-honey-1",
+     "s-honey-2"
+    ]
+   },
+   {
+    "t": "Mix well until the chia and curd are smooth and creamy.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Add the chopped strawberries.",
+    "imgs": [
+     "s-straw-1",
+     "s-straw-2"
+    ]
+   },
+   {
+    "t": "Add the sliced almonds and pumpkin seeds.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2"
+    ]
+   },
+   {
+    "t": "Add the chopped dates.",
+    "imgs": [
+     "s-dates-1"
+    ]
+   },
+   {
+    "t": "Add the raisins.",
+    "imgs": [
+     "s-raisin-1",
+     "s-raisin-2"
+    ]
+   },
+   {
+    "t": "Mix everything well until the pudding turns light pink.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   },
+   {
+    "t": "Refrigerate for 1 to 2 hours to set.",
+    "imgs": [
+     "s-chill-1"
+    ]
+   },
+   {
+    "t": "Top with strawberries, nuts and raisins. Serve chilled.",
+    "imgs": [
+     "s-top-1"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "high-fibre"
+  ],
+  "credit": "@Mumbaifoodiz",
+  "notes": "No amounts are shown or said, all quantities are my estimates. Chia soaking time is not shown (video starts with chia already soaked). The 'refrigerate' text appears while mixing, so I put chilling after mixing, then topping; the video does not show the topping step separately (the last shot just shows the finished bowl with fruit, nuts and raisins on top). 10 min does not include the 1-2 h chill. Protein is about 10 g per serving, so not high-protein. Faint creator watermark sits on the bowl in most frames and cannot be cropped out."
+ },
+ "images": {
+  "cover": {
+   "t": 1.0,
+   "crop": [
+    0,
+    320,
+    720,
+    660
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 3.0,
+   "crop": [
+    200,
+    500,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-chia": {
+   "t": 4.0,
+   "crop": [
+    160,
+    450,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-honey": {
+   "t": 5.5,
+   "crop": [
+    340,
+    0,
+    270,
+    270
+   ],
+   "w": 200
+  },
+  "i-strawberry": {
+   "t": 8.5,
+   "crop": [
+    360,
+    560,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-almond": {
+   "t": 9.5,
+   "crop": [
+    290,
+    600,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-pumpkin": {
+   "t": 9.5,
+   "crop": [
+    440,
+    330,
+    270,
+    270
+   ],
+   "w": 200
+  },
+  "i-dates": {
+   "t": 11.0,
+   "crop": [
+    150,
+    650,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-raisins": {
+   "t": 14.0,
+   "crop": [
+    250,
+    560,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-walnut": {
+   "t": 14.0,
+   "crop": [
+    20,
+    650,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-pistachio": {
+   "t": 14.0,
+   "crop": [
+    40,
+    560,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "s-curd-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 3.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chia-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chia-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-1": {
+   "t": 5.75,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-2": {
+   "t": 6.25,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 6.75,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-straw-1": {
+   "t": 7.75,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-straw-2": {
+   "t": 8.25,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dates-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-raisin-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-raisin-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 12.25,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chill-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 14.25,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

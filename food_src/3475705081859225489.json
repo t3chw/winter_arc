@@ -7,10 +7,10 @@
   "name": "Creamy cauliflower chickpea bowl",
   "meal": "Lunch or dinner",
   "minutes": 20,
-  "protein": 20,
+  "protein": 30,
   "how": "Gas + blender",
   "tools": "Non-stick pan, gas, small blender jar, wide bowl",
-  "serves": 2,
+  "serves": 1,
   "cover": "cover",
   "ingredients": [
    {
@@ -71,7 +71,7 @@
    {
     "q": "~3",
     "n": "Dried red chillies (sabut lal mirch)",
-    "tag": "dried-red-chilli",
+    "tag": "dry-red-chilli",
     "img": "i-chillies"
    },
    {
@@ -217,7 +217,7 @@
    "high-fibre"
   ],
   "credit": "Nidslid",
-  "notes": "No amounts shown (said 'spices mentioned', likely in the caption): all amounts are guesses. Cooking times not shown; 20 min is my estimate. Spice mix looked like red chilli, dark dried herb and a brown powder; Blending is not shown (jar spins away): I used the finished-sauce pour frames. Protein is about 35 g for the whole bowl (2 servings). Dried chillies look soaked/soft; soak if very hard."
+  "notes": "No amounts shown (said 'spices mentioned', likely in the caption): all amounts are guesses. Cooking times not shown; 20 min is my estimate. Spice mix looked like red chilli, dark dried herb and a brown powder; Blending is not shown (jar spins away): I used the finished-sauce pour frames. Treated as one big bowl (video shows one bowl); protein is about 30 g. Dried chillies look soaked/soft; soak if very hard."
  },
  "images": {
   "cover": {

@@ -1,0 +1,516 @@
+{
+ "videos": [
+  "3565493038446644146"
+ ],
+ "dish": {
+  "id": "asian-cucumber-sesame-salad",
+  "name": "Asian cucumber sesame salad",
+  "meal": "Side",
+  "minutes": 15,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Knife, small pan, 2 bowls, spoon",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 small (~250 g)",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Sesame seeds (til)",
+    "tag": "sesame-seeds",
+    "img": "i-sesame"
+   },
+   {
+    "q": "~2 tbsp, roasted and crushed",
+    "n": "Peanuts (moongphali)",
+    "tag": "peanuts",
+    "img": "i-peanut"
+   },
+   {
+    "q": "~4 cloves, chopped",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/4 tsp",
+    "n": "Pink salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~2 tbsp, hot",
+    "n": "Olive oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Honey",
+    "tag": "honey",
+    "img": "i-honey"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the cucumber in half lengthwise.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Cut each half into thin long sticks.",
+    "imgs": [
+     "s-stick-1",
+     "s-stick-2"
+    ]
+   },
+   {
+    "t": "Add the crushed peanuts on top of the cucumber sticks.",
+    "imgs": [
+     "s-peanut-1",
+     "s-peanut-2",
+     "s-peanut-3"
+    ]
+   },
+   {
+    "t": "Toast the sesame seeds in a dry pan on the gas, shaking the pan.",
+    "imgs": [
+     "s-toast-1",
+     "s-toast-2",
+     "s-toast-3"
+    ]
+   },
+   {
+    "t": "Tip the toasted sesame seeds into the cucumber bowl.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "For the dressing, put the chopped garlic in a small bowl.",
+    "imgs": [
+     "s-garlic-1",
+     "s-garlic-2"
+    ]
+   },
+   {
+    "t": "Add the chilli flakes.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Add the salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Pour the hot olive oil over the garlic and chilli.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Add the honey.",
+    "imgs": [
+     "s-honey-1",
+     "s-honey-2"
+    ]
+   },
+   {
+    "t": "Mix the dressing well.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Pour the dressing over the cucumber.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Toss well and serve.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "credit": "@Mumbaifoodiz",
+  "notes": "Silent video, no amounts: all quantities are my estimates. Oil heating is not shown (the pan is already hot when poured), so heat the oil until it shimmers and pour carefully. Sesame toasting time and heat are not shown. Faint creator watermark sits on the food in most frames and could not be cropped out."
+ },
+ "images": {
+  "cover": {
+   "t": 3.0,
+   "crop": [
+    0,
+    280,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-cucumber": {
+   "t": 4.0,
+   "crop": [
+    100,
+    480,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 7.0,
+   "crop": [
+    150,
+    450,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-peanut": {
+   "t": 6.5,
+   "crop": [
+    230,
+    400,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 10.5,
+   "crop": [
+    180,
+    640,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 11.0,
+   "crop": [
+    380,
+    460,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 12.0,
+   "crop": [
+    340,
+    380,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 12.5,
+   "crop": [
+    260,
+    440,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-honey": {
+   "t": 14.0,
+   "crop": [
+    160,
+    0,
+    340,
+    330
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stick-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stick-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanut-1": {
+   "t": 6.25,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanut-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanut-3": {
+   "t": 6.75,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toast-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    270,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toast-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    270,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toast-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    270,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 9.75,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-honey-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

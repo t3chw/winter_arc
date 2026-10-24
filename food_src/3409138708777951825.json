@@ -1,0 +1,677 @@
+{
+ "videos": [
+  "3409138708777951825"
+ ],
+ "dish": {
+  "id": "black-chana-dosa",
+  "name": "Black chana dosa",
+  "meal": "Breakfast",
+  "minutes": 25,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Mixie (blender), non-stick tawa, gas, ladle, spatula, spoon",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1½ cups (250 g), soaked",
+    "n": "Black chana (kala chana), soaked overnight",
+    "tag": "kala-chana",
+    "img": "i-chana",
+    "alt": [
+     "chickpeas"
+    ]
+   },
+   {
+    "q": "~¼ cup (40 g)",
+    "n": "Suji (rava)",
+    "tag": "suji",
+    "img": "i-suji"
+   },
+   {
+    "q": "~½ cup (100 g)",
+    "n": "Thick curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1 big handful",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "~1 inch (2 chunks)",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-ginger"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Salt (pink salt in video)",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~½ cup (120 ml)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp, for the tawa",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "a small bowl, to serve",
+    "n": "Chutney (orange and green shown)",
+    "tag": "chutney",
+    "img": "i-chutney",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Tip the soaked black chana into a big bowl.",
+    "imgs": [
+     "s-chana-1",
+     "s-chana-2",
+     "s-chana-3"
+    ]
+   },
+   {
+    "t": "Add the suji.",
+    "imgs": [
+     "s-suji-1",
+     "s-suji-2"
+    ]
+   },
+   {
+    "t": "Add the thick curd.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add a big handful of coriander and the green chilli.",
+    "imgs": [
+     "s-green-1",
+     "s-green-2"
+    ]
+   },
+   {
+    "t": "Add the ginger.",
+    "imgs": [
+     "s-green-3"
+    ]
+   },
+   {
+    "t": "Add the salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Pour in the water.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Blend everything to a thick, smooth batter.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Stir the batter with a spoon.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   },
+   {
+    "t": "Heat a non-stick tawa on gas. Pour a ladle of batter in the middle.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Spread the batter in a round spiral with the back of the ladle.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2",
+     "s-spread-3"
+    ]
+   },
+   {
+    "t": "Drizzle a little oil over the top.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Cook until the underside turns golden brown.",
+    "imgs": [
+     "s-cook-1"
+    ]
+   },
+   {
+    "t": "Flip it over with a spatula.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2"
+    ]
+   },
+   {
+    "t": "Cook the other side until golden.",
+    "imgs": [
+     "s-cook-2"
+    ]
+   },
+   {
+    "t": "Fold the dosa in half.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2"
+    ]
+   },
+   {
+    "t": "Slide it onto a plate.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Serve hot with chutneys.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2",
+     "s-serve-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "credit": "Thenutricookhouse (watermark on the video)",
+  "notes": "No speech or recipe text, so amounts are guesses (~), judged from the bowls. The blending step is not shown (the video cuts from the water to a ready batter), so a mixie is assumed. The chana looks soaked (swollen, in water) rather than roasted; soak time is not shown (overnight is the usual). The cream powder looks like fine suji (could be rice flour). The pink powder is salt. Heat, cooking times and oil amount are not shown; the oil may be ghee. The spice box in the background is not used. Chutney recipes are not shown. Makes about 3 dosas (my guess from the bowl size). Watermark removed from the pictures by a small blur."
+ },
+ "images": {
+  "cover": {
+   "t": 0.7,
+   "crop": [
+    0,
+    495,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-chana": {
+   "t": 4.5,
+   "crop": [
+    70,
+    780,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-suji": {
+   "t": 5.0,
+   "crop": [
+    370,
+    540,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 6.5,
+   "crop": [
+    110,
+    780,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 7.0,
+   "crop": [
+    10,
+    590,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 8.0,
+   "crop": [
+    250,
+    680,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-ginger": {
+   "t": 8.0,
+   "crop": [
+    280,
+    700,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 8.5,
+   "crop": [
+    220,
+    600,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 9.2,
+   "crop": [
+    400,
+    320,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 24.5,
+   "crop": [
+    320,
+    470,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "s-chana-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chana-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chana-3": {
+   "t": 4.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-suji-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-suji-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-green-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-green-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-green-3": {
+   "t": 8.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 8.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 9.6,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-spread-3": {
+   "t": 15.0,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 16.8,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 17.6,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    420,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 21.5,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-3": {
+   "t": 25.5,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "i-oil": {
+   "t": 16.0,
+   "crop": [
+    130,
+    300,
+    380,
+    380
+   ],
+   "w": 200
+  }
+ }
+}

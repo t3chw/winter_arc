@@ -1,0 +1,861 @@
+{
+ "videos": [
+  "3554673094564361125"
+ ],
+ "dish": {
+  "id": "cheesy-oats-poha-tikki-wrap",
+  "name": "Cheesy oats poha tikki wrap",
+  "meal": "Lunch or dinner",
+  "minutes": 45,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Frying pan with lid, grill pan, bowl, plate, spatula",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1/2 cup (~40 g)",
+    "n": "Poha (flattened rice)",
+    "tag": "poha",
+    "img": "i-poha"
+   },
+   {
+    "q": "~1/2 cup (~45 g)",
+    "n": "Rolled oats",
+    "tag": "oats",
+    "img": "i-oats"
+   },
+   {
+    "q": "~1/3 cup (~80 ml)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~3 small (~200 g), boiled",
+    "n": "Potatoes (aloo)",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "~3/4 cup (~120 g), boiled",
+    "n": "Sweet corn kernels (1/2 cup for the tikki, a little for the wraps)",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~1 small, chopped",
+    "n": "Onion (for the tikki)",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Brown spice powder (looks like chaat masala or roasted cumin powder)",
+    "tag": "chaat-masala",
+    "alt": [
+     "cumin-powder",
+     "garam-masala"
+    ],
+    "img": "i-spice"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/2 tsp, to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "opt": true
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Corn flour (white powder)",
+    "tag": "corn-flour",
+    "alt": [
+     "rice-flour"
+    ],
+    "img": "i-cornflour"
+   },
+   {
+    "q": "~3 tbsp, for shallow frying",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1/2 cup, grated (~40 g)",
+    "n": "Cheese",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "2",
+    "n": "Roti (whole wheat chapati)",
+    "tag": "atta",
+    "img": "i-roti"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Tomato ketchup",
+    "tag": "tomato-ketchup",
+    "img": "i-ketchup"
+   },
+   {
+    "q": "~1/2, sliced in rounds",
+    "n": "Tomato (for the wraps)",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~1/2, sliced in thin rings",
+    "n": "Onion (for the wraps)",
+    "tag": "onion",
+    "img": "i-onion2"
+   },
+   {
+    "q": "~1/4, sliced thin",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the poha in a bowl.",
+    "imgs": [
+     "s-poha-1"
+    ]
+   },
+   {
+    "t": "Add the oats and pour in a little water.",
+    "imgs": [
+     "s-oats-1",
+     "s-oats-2"
+    ]
+   },
+   {
+    "t": "Mix until the poha and oats turn soft and sticky.",
+    "imgs": [
+     "s-soak-1",
+     "s-soak-2"
+    ]
+   },
+   {
+    "t": "Tip the mix into a wide plate and add the boiled potatoes.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Add the sweet corn, chopped onion and coriander.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2",
+     "s-veg-3"
+    ]
+   },
+   {
+    "t": "Add the brown spice powder and the red chilli powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Add the corn flour.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2"
+    ]
+   },
+   {
+    "t": "Mix and mash everything by hand into a soft dough.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Shape the dough into flat round tikkis.",
+    "imgs": [
+     "s-shape-1",
+     "s-shape-2"
+    ]
+   },
+   {
+    "t": "Heat plenty of oil in a pan and lay the tikkis in it.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Fry, spooning oil over them, and flip until golden on both sides.",
+    "imgs": [
+     "s-fry-3",
+     "s-fry-4"
+    ]
+   },
+   {
+    "t": "Sprinkle grated cheese on top of each tikki.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Cover the pan with a lid until the cheese melts.",
+    "imgs": [
+     "s-lid-1",
+     "s-lid-2"
+    ]
+   },
+   {
+    "t": "Spread tomato ketchup on a roti.",
+    "imgs": [
+     "s-roti-1"
+    ]
+   },
+   {
+    "t": "Layer on sliced onion, tomato, cucumber and a little sweet corn.",
+    "imgs": [
+     "s-fill-1"
+    ]
+   },
+   {
+    "t": "Place a cheesy tikki on the roti.",
+    "imgs": [
+     "s-fill-2"
+    ]
+   },
+   {
+    "t": "Fold in the sides and roll up tightly.",
+    "imgs": [
+     "s-roll-1",
+     "s-roll-2",
+     "s-roll-3"
+    ]
+   },
+   {
+    "t": "Heat a grill pan and place the wrap on it.",
+    "imgs": [
+     "s-grill-1",
+     "s-grill-2"
+    ]
+   },
+   {
+    "t": "Press with your hand and cook, flipping once, until golden with grill marks.",
+    "imgs": [
+     "s-press-1",
+     "s-press-2",
+     "s-press-3"
+    ]
+   },
+   {
+    "t": "Lift off the pan and serve hot or pack in a lunchbox.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "No amounts, soaking time, frying time or heat levels are shown or readable (speech is garbled), so all quantities are my estimates. The video shows the finished wrap first, then the wrap assembly, then the tikki; I put the tikki first because you need it to make the wrap. Not sure about two powders: brown spice (chaat masala or roasted cumin?) and the white powder (looks like corn flour). Salt is not shown being added; I listed it as optional, taste the mix. The cheese looks like grated mozzarella. A faint round logo sits near the bottom of most frames; I kept the crops above it where possible. Wrap grilling has no oil shown."
+ },
+ "images": {
+  "cover": {
+   "t": 5.0,
+   "crop": [
+    0,
+    360,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-poha": {
+   "t": 23.0,
+   "crop": [
+    100,
+    430,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-oats": {
+   "t": 24.0,
+   "crop": [
+    120,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 24.2,
+   "crop": [
+    400,
+    330,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-potato": {
+   "t": 28.0,
+   "crop": [
+    440,
+    440,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 29.0,
+   "crop": [
+    60,
+    380,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 29.5,
+   "crop": [
+    200,
+    360,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 30.0,
+   "crop": [
+    100,
+    360,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-spice": {
+   "t": 30.0,
+   "crop": [
+    250,
+    0,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 31.5,
+   "crop": [
+    200,
+    520,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-cornflour": {
+   "t": 33.0,
+   "crop": [
+    100,
+    380,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 42.0,
+   "crop": [
+    60,
+    380,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 45.5,
+   "crop": [
+    40,
+    380,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-roti": {
+   "t": 9.0,
+   "crop": [
+    380,
+    700,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-ketchup": {
+   "t": 9.0,
+   "crop": [
+    180,
+    430,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 10.0,
+   "crop": [
+    200,
+    470,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-onion2": {
+   "t": 10.0,
+   "crop": [
+    300,
+    430,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 10.0,
+   "crop": [
+    170,
+    560,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "s-poha-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oats-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oats-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 29.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 29.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-3": {
+   "t": 30.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 31.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 33.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 35.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-1": {
+   "t": 37.25,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-2": {
+   "t": 38.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 39.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 40.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 42.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-4": {
+   "t": 43.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 44.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 45.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 47.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-2": {
+   "t": 48.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roti-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fill-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fill-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-3": {
+   "t": 14.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grill-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grill-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-3": {
+   "t": 20.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    370,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 49.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

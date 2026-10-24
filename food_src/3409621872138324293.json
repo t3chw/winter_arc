@@ -6,11 +6,11 @@
   "id": "dahi-tadka-kala-chana-salad",
   "name": "Dahi tadka kala chana salad",
   "meal": "Lunch or dinner",
-  "minutes": 25,
-  "protein": 30,
+  "minutes": 30,
+  "protein": 15,
   "how": "Gas",
-  "tools": "Small tadka pan, gas, knife, 2 bowls",
-  "serves": 1,
+  "tools": "Small tadka pan, gas, knife, peeler, wooden bowl, white serving bowl",
+  "serves": 2,
   "cover": "cover",
   "ingredients": [
    {
@@ -26,16 +26,22 @@
     "img": "i-tomato"
    },
    {
-    "q": "~1 small",
-    "n": "Cucumber, peeled",
+    "q": "1 small",
+    "n": "Cucumber",
     "tag": "cucumber",
     "img": "i-cucumber"
    },
    {
-    "q": "~1 small",
-    "n": "Red onion",
+    "q": "1 small",
+    "n": "Red onion, sliced",
     "tag": "onion",
     "img": "i-onion"
+   },
+   {
+    "q": "~3/4 cup (150 g)",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
    },
    {
     "q": "~1 tsp",
@@ -48,6 +54,12 @@
     "n": "Cumin seeds (jeera)",
     "tag": "cumin",
     "img": "i-cumin"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Mustard seeds (rai)",
+    "tag": "mustard-seeds",
+    "img": "i-mustard"
    },
    {
     "q": "~8 leaves",
@@ -77,7 +89,7 @@
     "q": "~1 tsp",
     "n": "Red chilli powder",
     "tag": "red-chilli-powder",
-    "img": "i-chillipowder"
+    "img": "i-chilli"
    },
    {
     "q": "~1/2 tsp",
@@ -86,32 +98,26 @@
     "img": "i-corpowder"
    },
    {
-    "q": "~1/2 cup (100 g)",
-    "n": "Curd (dahi)",
-    "tag": "curd",
-    "img": "i-curd"
-   },
-   {
     "q": "~1/2 tsp",
     "n": "Salt",
     "tag": "salt",
     "img": "i-salt"
    },
    {
-    "q": "~2 tbsp",
+    "q": "~3 tbsp",
     "n": "Coriander leaves, chopped",
     "tag": "coriander-leaves",
     "img": "i-corleaf"
    },
    {
-    "q": "~3/4 cup (120 g), boiled",
+    "q": "~3/4 cup (130 g), boiled",
     "n": "Black chana (kala chana)",
     "tag": "kala-chana",
     "img": "i-chana"
    },
    {
-    "q": "~75 g",
-    "n": "Paneer or tofu, cut in strips and pan-cooked",
+    "q": "~75 g, cut in strips and pan-cooked",
+    "n": "Paneer or tofu",
     "tag": "paneer",
     "alt": [
      "tofu"
@@ -119,10 +125,19 @@
     "img": "i-paneer"
    },
    {
+    "q": "~1/4 tsp",
+    "n": "Black pepper",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
     "q": "~1/2 tsp",
-    "n": "Chaat masala",
-    "tag": "chaat-masala",
-    "img": "i-masala"
+    "n": "Roasted cumin powder",
+    "tag": "cumin-powder",
+    "alt": [
+     "chaat-masala"
+    ],
+    "img": "i-cuminpowder"
    },
    {
     "q": "~1/2",
@@ -136,33 +151,47 @@
     "t": "Peel the carrot. Cut it into thin sticks.",
     "imgs": [
      "s-carrot-1",
-     "s-carrot-2"
+     "s-carrot-2",
+     "s-carrot-3"
     ]
    },
    {
-    "t": "Cut the tomato, peeled cucumber and red onion into thin slices.",
+    "t": "Slice the tomato.",
     "imgs": [
-     "s-veg-1",
-     "s-veg-2",
-     "s-veg-3"
+     "s-tomato-1",
+     "s-tomato-2"
     ]
    },
    {
-    "t": "Heat about 1 tsp oil in a small pan on the gas.",
+    "t": "Peel the cucumber. Cut it into small pieces.",
+    "imgs": [
+     "s-cuc-1",
+     "s-cuc-2",
+     "s-cuc-3"
+    ]
+   },
+   {
+    "t": "For the tadka, heat the oil in a small pan on the gas.",
     "imgs": [
      "s-oil"
     ]
    },
    {
-    "t": "Add cumin seeds, curry leaves and chopped green chilli. Let them sizzle.",
+    "t": "Add cumin seeds and mustard seeds. Let them sizzle.",
     "imgs": [
      "s-seeds-1",
-     "s-seeds-2",
-     "s-seeds-3"
+     "s-seeds-2"
     ]
    },
    {
-    "t": "Add chopped garlic. Stir until it turns light golden.",
+    "t": "Add curry leaves and chopped green chilli.",
+    "imgs": [
+     "s-leaf-1",
+     "s-leaf-2"
+    ]
+   },
+   {
+    "t": "Add chopped garlic. Stir.",
     "imgs": [
      "s-garlic-1",
      "s-garlic-2"
@@ -177,73 +206,97 @@
     ]
    },
    {
-    "t": "Pour the hot tadka over the curd in a bowl.",
+    "t": "Pour the hot tadka over the curd in a white bowl.",
     "imgs": [
-     "s-curd-1"
+     "s-pour-1",
+     "s-pour-2"
     ]
    },
    {
-    "t": "Add salt and chopped coriander. Mix until smooth.",
+    "t": "Add salt and chopped coriander leaves.",
     "imgs": [
-     "s-curd-2",
-     "s-curd-3",
-     "s-curd-4"
+     "s-salt-1",
+     "s-salt-2"
     ]
    },
    {
-    "t": "In a big bowl, put the boiled kala chana, then the carrot and onion.",
+    "t": "Mix until smooth and creamy.",
     "imgs": [
-     "s-bowl-1",
-     "s-bowl-2"
+     "s-mix-1",
+     "s-mix-2"
     ]
    },
    {
-    "t": "Add the cucumber, tomato and the pan-cooked paneer strips.",
+    "t": "Put the boiled black chana in a wooden bowl.",
+    "imgs": [
+     "s-chana-1",
+     "s-chana-2"
+    ]
+   },
+   {
+    "t": "Add the carrot sticks, sliced onion, tomato and cucumber.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Add the pan-cooked paneer or tofu strips.",
     "imgs": [
      "s-paneer-1",
      "s-paneer-2"
     ]
    },
    {
-    "t": "Sprinkle chaat masala, red chilli powder and coriander leaves. Squeeze lemon over it.",
+    "t": "Sprinkle salt, black pepper, roasted cumin powder and red chilli powder.",
     "imgs": [
      "s-season-1",
      "s-season-2",
-     "s-season-3"
+     "s-chilli"
+    ]
+   },
+   {
+    "t": "Add chopped coriander leaves. Squeeze lemon juice over it.",
+    "imgs": [
+     "s-lime-1",
+     "s-lime-2",
+     "s-lime-3"
     ]
    },
    {
     "t": "Toss everything well with your hand.",
     "imgs": [
      "s-toss-1",
-     "s-toss-2"
+     "s-toss-2",
+     "s-toss-3"
     ]
    },
    {
     "t": "Pour the spiced curd into a wide bowl.",
     "imgs": [
-     "s-pour"
+     "s-curd-1",
+     "s-curd-2"
     ]
    },
    {
-    "t": "Heap the salad on the curd and serve.",
+    "t": "Heap the salad on top of the curd and serve.",
     "imgs": [
      "s-plate-1",
-     "s-plate-2"
+     "s-plate-2",
+     "s-plate-3"
     ]
    }
   ],
   "tags": [
    "gas",
-   "high-protein",
    "high-fibre"
   ],
   "credit": "Oh,Cheat Day!",
-  "notes": "No amounts in the video (recipe was in the caption): all amounts are guesses. Boiled chana and the pan-cooked paneer/tofu are shown ready, not cooked. Pink powder = salt (could be black salt); brown powder in step 11 looks like chaat masala."
+  "notes": "No amounts on screen or in the (garbled) speech, so all amounts are guesses. Boiled black chana and the pan-cooked paneer/tofu strips are shown ready, not cooked. Slicing the onion is not shown. Light-green bits in the tadka are curry leaves and a green chilli (hard to tell). Brown powder at the end looks like roasted cumin (could be chaat masala). The face-cam part (5 to 7 s) is cropped out."
  },
  "images": {
   "cover": {
-   "t": 2.0,
+   "t": 3.0,
    "crop": [
     0,
     320,
@@ -252,53 +305,33 @@
    ],
    "w": 560
   },
-  "i-chana": {
-   "t": 24.75,
-   "crop": [
-    180,
-    520,
-    430,
-    430
-   ],
-   "w": 200
-  },
-  "i-paneer": {
-   "t": 27.0,
-   "crop": [
-    200,
-    500,
-    380,
-    380
-   ],
-   "w": 200
-  },
   "i-carrot": {
    "t": 7.5,
    "crop": [
-    130,
-    520,
-    400,
-    400
+    0,
+    430,
+    420,
+    420
    ],
    "w": 200
   },
   "i-tomato": {
    "t": 9.5,
    "crop": [
-    300,
-    690,
-    290,
-    290
+    440,
+    390,
+    240,
+    240
    ],
    "w": 200
   },
   "i-cucumber": {
-   "t": 9.0,
+   "t": 9.5,
    "crop": [
-    290,
-    30,
-    380,
-    380
+    280,
+    0,
+    360,
+    360
    ],
    "w": 200
   },
@@ -306,7 +339,7 @@
    "t": 25.0,
    "crop": [
     420,
-    500,
+    480,
     300,
     300
    ],
@@ -315,80 +348,80 @@
   "i-curd": {
    "t": 20.0,
    "crop": [
-    110,
-    640,
-    300,
-    300
+    30,
+    560,
+    420,
+    420
    ],
    "w": 200
   },
   "i-oil": {
-   "t": 13.8,
+   "t": 14.0,
    "crop": [
     100,
-    290,
-    450,
-    450
+    330,
+    420,
+    420
    ],
    "w": 200
   },
   "i-cumin": {
-   "t": 14.6,
+   "t": 14.5,
    "crop": [
-    290,
-    415,
-    300,
-    300
+    180,
+    480,
+    260,
+    260
    ],
    "w": 200
   },
-  "i-curryleaf": {
-   "t": 15.8,
+  "i-mustard": {
+   "t": 15.0,
    "crop": [
-    290,
-    415,
     300,
-    300
+    230,
+    200,
+    200
    ],
    "w": 200
   },
   "i-greenchilli": {
-   "t": 16.5,
+   "t": 16.0,
    "crop": [
-    290,
-    415,
-    300,
-    300
+    190,
+    450,
+    260,
+    260
    ],
    "w": 200
   },
   "i-garlic": {
    "t": 17.0,
    "crop": [
-    290,
-    415,
-    300,
-    300
+    190,
+    450,
+    260,
+    260
    ],
    "w": 200
   },
   "i-turmeric": {
-   "t": 18.25,
+   "t": 18.5,
    "crop": [
-    290,
-    415,
-    300,
-    300
+    190,
+    500,
+    220,
+    220
    ],
    "w": 200
   },
-  "i-chillipowder": {
-   "t": 18.75,
+  "i-chilli": {
+   "t": 19.0,
    "crop": [
-    290,
-    415,
-    300,
-    300
+    200,
+    490,
+    220,
+    220
    ],
    "w": 200
   },
@@ -396,49 +429,89 @@
    "t": 19.5,
    "crop": [
     290,
-    415,
-    300,
-    300
+    200,
+    240,
+    240
    ],
    "w": 200
   },
   "i-salt": {
    "t": 21.0,
    "crop": [
-    250,
-    230,
-    220,
-    220
+    200,
+    300,
+    300,
+    300
    ],
    "w": 200
   },
-  "i-masala": {
+  "i-pepper": {
+   "t": 27.5,
+   "crop": [
+    180,
+    100,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-cuminpowder": {
    "t": 28.5,
    "crop": [
-    200,
-    40,
-    350,
-    350
+    230,
+    100,
+    320,
+    320
    ],
    "w": 200
   },
   "i-corleaf": {
-   "t": 22.0,
+   "t": 21.5,
    "crop": [
-    190,
-    560,
+    210,
+    230,
     320,
     320
+   ],
+   "w": 200
+  },
+  "i-chana": {
+   "t": 25.0,
+   "crop": [
+    150,
+    600,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 26.5,
+   "crop": [
+    230,
+    130,
+    420,
+    420
    ],
    "w": 200
   },
   "i-lemon": {
    "t": 30.5,
    "crop": [
-    230,
-    150,
-    300,
-    300
+    250,
+    200,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-curryleaf": {
+   "t": 15.5,
+   "crop": [
+    180,
+    480,
+    260,
+    260
    ],
    "w": 200
   },
@@ -446,54 +519,84 @@
    "t": 7.5,
    "crop": [
     0,
-    380,
+    330,
     720,
     540
    ],
    "w": 480
   },
   "s-carrot-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-carrot-3": {
    "t": 8.5,
    "crop": [
     0,
-    380,
+    330,
     720,
     540
    ],
    "w": 480
   },
-  "s-veg-1": {
-   "t": 10.0,
-   "crop": [
-    0,
-    400,
-    720,
-    540
-   ],
-   "w": 480
-  },
-  "s-veg-2": {
-   "t": 11.0,
+  "s-tomato-1": {
+   "t": 9.5,
    "crop": [
     0,
     300,
     720,
-    640
+    540
    ],
    "w": 480
   },
-  "s-veg-3": {
-   "t": 12.5,
+  "s-tomato-2": {
+   "t": 10.5,
    "crop": [
     0,
-    500,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-3": {
+   "t": 13.0,
+   "crop": [
+    0,
+    300,
     720,
     540
    ],
    "w": 480
   },
   "s-oil": {
-   "t": 13.8,
+   "t": 14.0,
    "crop": [
     0,
     200,
@@ -503,7 +606,7 @@
    "w": 480
   },
   "s-seeds-1": {
-   "t": 14.6,
+   "t": 14.5,
    "crop": [
     0,
     200,
@@ -513,7 +616,7 @@
    "w": 480
   },
   "s-seeds-2": {
-   "t": 15.8,
+   "t": 15.0,
    "crop": [
     0,
     200,
@@ -522,8 +625,18 @@
    ],
    "w": 480
   },
-  "s-seeds-3": {
-   "t": 16.5,
+  "s-leaf-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-leaf-2": {
+   "t": 16.0,
    "crop": [
     0,
     200,
@@ -543,7 +656,7 @@
    "w": 480
   },
   "s-garlic-2": {
-   "t": 18.0,
+   "t": 17.5,
    "crop": [
     0,
     200,
@@ -553,7 +666,7 @@
    "w": 480
   },
   "s-spice-1": {
-   "t": 18.25,
+   "t": 18.5,
    "crop": [
     0,
     200,
@@ -563,7 +676,7 @@
    "w": 480
   },
   "s-spice-2": {
-   "t": 18.75,
+   "t": 19.0,
    "crop": [
     0,
     200,
@@ -582,73 +695,113 @@
    ],
    "w": 480
   },
-  "s-curd-1": {
+  "s-pour-1": {
    "t": 20.0,
    "crop": [
     0,
-    200,
+    300,
     720,
-    780
+    540
    ],
    "w": 480
   },
-  "s-curd-2": {
+  "s-pour-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
    "t": 21.0,
    "crop": [
     0,
-    180,
+    300,
     720,
-    760
+    540
    ],
    "w": 480
   },
-  "s-curd-3": {
-   "t": 22.0,
+  "s-salt-2": {
+   "t": 21.5,
    "crop": [
     0,
-    150,
+    300,
     720,
-    780
+    540
    ],
    "w": 480
   },
-  "s-curd-4": {
+  "s-mix-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
    "t": 23.0,
    "crop": [
     0,
     300,
     720,
-    720
+    540
    ],
    "w": 480
   },
-  "s-bowl-1": {
-   "t": 24.75,
+  "s-chana-1": {
+   "t": 24.5,
    "crop": [
     0,
-    200,
+    250,
     720,
-    800
+    600
    ],
    "w": 480
   },
-  "s-bowl-2": {
+  "s-chana-2": {
    "t": 25.0,
    "crop": [
     0,
-    200,
+    250,
     720,
-    800
+    600
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    250,
+    720,
+    600
    ],
    "w": 480
   },
   "s-paneer-1": {
-   "t": 26.0,
+   "t": 26.5,
    "crop": [
     0,
-    60,
+    250,
     720,
-    800
+    600
    ],
    "w": 480
   },
@@ -656,39 +809,69 @@
    "t": 27.0,
    "crop": [
     0,
-    200,
+    250,
     720,
-    800
+    600
    ],
    "w": 480
   },
   "s-season-1": {
-   "t": 28.5,
+   "t": 27.5,
    "crop": [
     0,
-    100,
+    250,
     720,
-    800
+    600
    ],
    "w": 480
   },
   "s-season-2": {
-   "t": 29.0,
+   "t": 28.5,
    "crop": [
     0,
-    100,
+    250,
     720,
-    800
+    600
    ],
    "w": 480
   },
-  "s-season-3": {
+  "s-chilli": {
+   "t": 29.0,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-lime-1": {
+   "t": 29.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-lime-2": {
    "t": 30.5,
    "crop": [
     0,
-    100,
+    250,
     720,
-    800
+    600
+   ],
+   "w": 480
+  },
+  "s-lime-3": {
+   "t": 31.0,
+   "crop": [
+    0,
+    250,
+    720,
+    600
    ],
    "w": 480
   },
@@ -698,27 +881,47 @@
     0,
     250,
     720,
-    780
+    600
    ],
    "w": 480
   },
   "s-toss-2": {
-   "t": 33.0,
+   "t": 32.5,
    "crop": [
     0,
     250,
     720,
-    780
+    600
    ],
    "w": 480
   },
-  "s-pour": {
+  "s-toss-3": {
+   "t": 33.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
    "t": 34.0,
    "crop": [
     0,
-    150,
+    250,
     720,
-    800
+    600
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 34.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
    ],
    "w": 480
   },
@@ -726,19 +929,29 @@
    "t": 35.0,
    "crop": [
     0,
-    300,
+    250,
     720,
-    800
+    600
    ],
    "w": 480
   },
   "s-plate-2": {
-   "t": 37.0,
+   "t": 35.5,
    "crop": [
     0,
-    330,
+    250,
     720,
-    800
+    600
+   ],
+   "w": 480
+  },
+  "s-plate-3": {
+   "t": 36.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
    ],
    "w": 480
   }

@@ -9,7 +9,7 @@
   "minutes": 45,
   "protein": 5,
   "how": "Gas",
-  "tools": "Non-stick pan, gas, mixie jar, knife, board, baking paper",
+  "tools": "Non-stick pan, gas, small mixie jar, knife, board, baking paper",
   "serves": 8,
   "cover": "cover",
   "ingredients": [
@@ -47,13 +47,13 @@
     "q": "~⅓ cup (40 g)",
     "n": "Cashews",
     "tag": "cashews",
-    "img": "i-cashews"
+    "img": "i-cashew"
    },
    {
     "q": "~⅓ cup (45 g)",
     "n": "Almonds",
     "tag": "almonds",
-    "img": "i-almonds"
+    "img": "i-almond"
    },
    {
     "q": "~¼ cup (30 g)",
@@ -88,11 +88,12 @@
     "t": "Blend the dates to a thick paste in a mixie.",
     "imgs": [
      "s-blend-1",
-     "s-blend-2"
+     "s-blend-2",
+     "s-blend-3"
     ]
    },
    {
-    "t": "Put a spoon of ghee in a pan.",
+    "t": "Put a spoon of ghee in a pan on the gas.",
     "imgs": [
      "s-ghee-1",
      "s-ghee-2"
@@ -102,7 +103,8 @@
     "t": "Add the date paste and cook it, stirring.",
     "imgs": [
      "s-paste-1",
-     "s-paste-2"
+     "s-paste-2",
+     "s-paste-3"
     ]
    },
    {
@@ -110,14 +112,17 @@
     "imgs": [
      "s-nuts-1",
      "s-nuts-2",
-     "s-nuts-3"
+     "s-nuts-3",
+     "s-roast-1",
+     "s-roast-2"
     ]
    },
    {
     "t": "Chop the roasted nuts.",
     "imgs": [
      "s-chop-1",
-     "s-chop-2"
+     "s-chop-2",
+     "s-chop-3"
     ]
    },
    {
@@ -131,29 +136,46 @@
     "t": "Mix everything well.",
     "imgs": [
      "s-mix-1",
-     "s-mix-2"
+     "s-mix-2",
+     "s-mix-3"
     ]
    },
    {
-    "t": "Put the mixture on baking paper and roll it into a log.",
+    "t": "Lay baking paper on a board.",
+    "imgs": [
+     "s-paper-1",
+     "s-paper-2"
+    ]
+   },
+   {
+    "t": "Put the mixture on the paper and roll it into a log.",
     "imgs": [
      "s-roll-1",
-     "s-roll-2",
-     "s-roll-3"
+     "s-roll-2"
     ]
    },
    {
     "t": "Roast the white sesame seeds in a dry pan.",
     "imgs": [
      "s-sesame-1",
-     "s-sesame-2"
+     "s-sesame-2",
+     "s-sesame-3"
     ]
    },
    {
-    "t": "Spread the sesame on the board. Roll the log in it until coated.",
+    "t": "Spread the sesame on the board.",
+    "imgs": [
+     "s-board-1",
+     "s-board-2",
+     "s-board-3"
+    ]
+   },
+   {
+    "t": "Roll the log in the sesame until it is coated.",
     "imgs": [
      "s-coat-1",
-     "s-coat-2"
+     "s-coat-2",
+     "s-coat-3"
     ]
    },
    {
@@ -164,7 +186,7 @@
     ]
    },
    {
-    "t": "Put the slices on a plate. Top with chopped pistachio if you like.",
+    "t": "Put the slices on a plate and serve.",
     "imgs": [
      "s-serve-1"
     ]
@@ -172,109 +194,110 @@
   ],
   "tags": [
    "gas",
-   "blender"
+   "blender",
+   "make-ahead"
   ],
   "credit": "Mysterious Fooding (watermark on the video)",
-  "notes": "No speech or text in the video, so every amount is a guess from the pictures (~). Heat and cook times are not shown. Last nut jar looks like pistachios. Flax and sunflower amounts are small sprinkles. Not clear if the paste is cooked until dry; it is only stirred for a few seconds on screen. Keeping time not stated. Serves 8 is a guess (6 slices on the plate)."
+  "notes": "No speech or text in the video, so every amount is a guess (~). Heat and cook times are not shown. The jar of nuts (third roast) looks like pistachios. Flax and sunflower amounts are small. Not shown whether the paste is cooked until dry; it is stirred for only a few seconds on screen. Keeping time not stated. Serves 8 is a guess. Small watermark blurred out in the pictures."
  },
  "images": {
   "cover": {
    "t": 0.0,
    "crop": [
     0,
-    300,
+    280,
     720,
-    720
+    800
    ],
    "w": 560
   },
   "i-pumpkin": {
    "t": 1.0,
    "crop": [
-    60,
-    420,
-    420,
-    420
+    200,
+    640,
+    300,
+    300
    ],
    "w": 200
   },
   "i-flax": {
-   "t": 2.5,
+   "t": 3.0,
    "crop": [
-    60,
-    420,
-    420,
-    420
+    130,
+    640,
+    300,
+    300
    ],
    "w": 200
   },
   "i-sunflower": {
-   "t": 4.0,
+   "t": 3.5,
    "crop": [
-    60,
-    420,
-    420,
-    420
+    90,
+    400,
+    520,
+    520
    ],
    "w": 200
   },
   "i-dates": {
-   "t": 8.0,
+   "t": 8.5,
    "crop": [
-    120,
+    60,
     800,
-    480,
-    480
+    420,
+    420
    ],
    "w": 200
   },
   "i-ghee": {
    "t": 14.5,
    "crop": [
-    40,
-    500,
-    640,
-    640
-   ],
-   "w": 200
-  },
-  "i-cashews": {
-   "t": 20.0,
-   "crop": [
-    100,
-    650,
+    80,
+    700,
     500,
     500
    ],
    "w": 200
   },
-  "i-almonds": {
-   "t": 21.0,
+  "i-cashew": {
+   "t": 20.0,
    "crop": [
     100,
-    500,
-    520,
-    520
+    700,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-almond": {
+   "t": 20.5,
+   "crop": [
+    60,
+    700,
+    450,
+    450
    ],
    "w": 200
   },
   "i-pistachio": {
    "t": 22.5,
    "crop": [
-    160,
-    500,
-    360,
-    360
+    130,
+    600,
+    430,
+    430
    ],
    "w": 200
   },
   "i-sesame": {
-   "t": 43.0,
+   "t": 38.5,
    "crop": [
-    100,
-    500,
-    500,
-    500
+    130,
+    780,
+    400,
+    400
    ],
    "w": 200
   },
@@ -282,19 +305,19 @@
    "t": 1.0,
    "crop": [
     0,
-    380,
+    300,
     720,
-    720
+    760
    ],
    "w": 480
   },
   "s-seeds-2": {
-   "t": 2.5,
+   "t": 3.2,
    "crop": [
     0,
-    380,
+    300,
     720,
-    720
+    760
    ],
    "w": 480
   },
@@ -302,9 +325,9 @@
    "t": 5.5,
    "crop": [
     0,
-    380,
+    300,
     720,
-    720
+    760
    ],
    "w": 480
   },
@@ -312,19 +335,19 @@
    "t": 7.5,
    "crop": [
     0,
-    350,
+    420,
     720,
-    800
+    700
    ],
    "w": 480
   },
   "s-dates-2": {
-   "t": 8.0,
+   "t": 8.5,
    "crop": [
     0,
-    350,
+    420,
     720,
-    800
+    700
    ],
    "w": 480
   },
@@ -332,29 +355,39 @@
    "t": 9.5,
    "crop": [
     0,
-    350,
+    400,
     720,
     800
    ],
    "w": 480
   },
   "s-blend-2": {
-   "t": 11.0,
+   "t": 10.5,
    "crop": [
     0,
-    350,
+    400,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-blend-3": {
+   "t": 11.5,
+   "crop": [
+    0,
+    400,
     720,
     800
    ],
    "w": 480
   },
   "s-ghee-1": {
-   "t": 14.5,
+   "t": 14.0,
    "crop": [
     0,
-    350,
+    400,
     720,
-    800
+    760
    ],
    "w": 480
   },
@@ -362,9 +395,9 @@
    "t": 15.0,
    "crop": [
     0,
-    230,
+    250,
     720,
-    800
+    760
    ],
    "w": 480
   },
@@ -372,9 +405,9 @@
    "t": 15.5,
    "crop": [
     0,
-    230,
+    250,
     720,
-    800
+    760
    ],
    "w": 480
   },
@@ -382,19 +415,29 @@
    "t": 16.5,
    "crop": [
     0,
-    230,
+    250,
     720,
-    800
+    760
+   ],
+   "w": 480
+  },
+  "s-paste-3": {
+   "t": 17.5,
+   "crop": [
+    0,
+    250,
+    720,
+    760
    ],
    "w": 480
   },
   "s-nuts-1": {
-   "t": 19.5,
+   "t": 19.6,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    820
    ],
    "w": 480
   },
@@ -402,39 +445,69 @@
    "t": 21.5,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    820
    ],
    "w": 480
   },
   "s-nuts-3": {
-   "t": 24.5,
+   "t": 23.0,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    820
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    330,
+    720,
+    820
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    330,
+    720,
+    820
    ],
    "w": 480
   },
   "s-chop-1": {
-   "t": 26.5,
+   "t": 26.0,
    "crop": [
     0,
-    350,
+    300,
     720,
-    800
+    760
    ],
    "w": 480
   },
   "s-chop-2": {
-   "t": 27.5,
+   "t": 26.5,
    "crop": [
     0,
-    350,
+    300,
     720,
-    800
+    760
+   ],
+   "w": 480
+  },
+  "s-chop-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    300,
+    720,
+    760
    ],
    "w": 480
   },
@@ -442,9 +515,9 @@
    "t": 28.5,
    "crop": [
     0,
-    230,
+    280,
     720,
-    800
+    760
    ],
    "w": 480
   },
@@ -452,9 +525,9 @@
    "t": 29.5,
    "crop": [
     0,
-    230,
+    280,
     720,
-    800
+    760
    ],
    "w": 480
   },
@@ -462,109 +535,179 @@
    "t": 30.5,
    "crop": [
     0,
-    230,
+    280,
     720,
-    800
+    760
    ],
    "w": 480
   },
   "s-mix-2": {
-   "t": 32.0,
+   "t": 32.5,
    "crop": [
     0,
-    230,
+    280,
     720,
-    800
+    760
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 33.5,
+   "crop": [
+    0,
+    280,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-paper-1": {
+   "t": 35.5,
+   "crop": [
+    0,
+    330,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-paper-2": {
+   "t": 36.5,
+   "crop": [
+    0,
+    330,
+    720,
+    760
    ],
    "w": 480
   },
   "s-roll-1": {
-   "t": 35.0,
+   "t": 37.5,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    760
    ],
    "w": 480
   },
   "s-roll-2": {
-   "t": 37.0,
-   "crop": [
-    0,
-    350,
-    720,
-    800
-   ],
-   "w": 480
-  },
-  "s-roll-3": {
    "t": 38.0,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    760
    ],
    "w": 480
   },
   "s-sesame-1": {
-   "t": 41.5,
+   "t": 39.5,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    820
    ],
    "w": 480
   },
   "s-sesame-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    330,
+    720,
+    820
+   ],
+   "w": 480
+  },
+  "s-sesame-3": {
    "t": 43.5,
    "crop": [
     0,
-    350,
+    330,
     720,
-    800
+    820
+   ],
+   "w": 480
+  },
+  "s-board-1": {
+   "t": 44.0,
+   "crop": [
+    0,
+    420,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-board-2": {
+   "t": 44.5,
+   "crop": [
+    0,
+    420,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-board-3": {
+   "t": 45.0,
+   "crop": [
+    0,
+    420,
+    720,
+    700
    ],
    "w": 480
   },
   "s-coat-1": {
-   "t": 45.0,
+   "t": 46.0,
    "crop": [
     0,
-    350,
+    420,
     720,
-    800
+    700
    ],
    "w": 480
   },
   "s-coat-2": {
-   "t": 46.5,
+   "t": 47.0,
    "crop": [
     0,
-    350,
+    420,
     720,
-    800
+    700
+   ],
+   "w": 480
+  },
+  "s-coat-3": {
+   "t": 48.0,
+   "crop": [
+    0,
+    420,
+    720,
+    700
    ],
    "w": 480
   },
   "s-cut-1": {
-   "t": 48.5,
+   "t": 49.0,
    "crop": [
     0,
-    350,
+    420,
     720,
-    800
+    700
    ],
    "w": 480
   },
   "s-cut-2": {
-   "t": 49.0,
+   "t": 49.5,
    "crop": [
     0,
-    350,
+    420,
     720,
-    800
+    700
    ],
    "w": 480
   },
@@ -572,9 +715,9 @@
    "t": 50.5,
    "crop": [
     0,
-    300,
+    280,
     720,
-    720
+    800
    ],
    "w": 480
   }

@@ -1,0 +1,711 @@
+{
+ "videos": [
+  "3407040372768647184"
+ ],
+ "dish": {
+  "id": "poppy-date-nut-roll",
+  "name": "Poppy seed date nut roll",
+  "meal": "Snack",
+  "minutes": 35,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Knife, board, steel pan, wooden spatula, gas, plastic gloves, plate",
+  "serves": 10,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~½ cup (60 g)",
+    "n": "Cashews",
+    "tag": "cashews",
+    "img": "i-cashew"
+   },
+   {
+    "q": "~½ cup (70 g)",
+    "n": "Almonds",
+    "tag": "almonds",
+    "img": "i-almond"
+   },
+   {
+    "q": "~½ cup (50 g)",
+    "n": "Walnuts",
+    "tag": "walnuts",
+    "img": "i-walnut"
+   },
+   {
+    "q": "~¼ cup (35 g)",
+    "n": "Pistachios, shelled",
+    "tag": "pistachios",
+    "img": "i-pistachio"
+   },
+   {
+    "q": "~¼ cup (30 g)",
+    "n": "Pumpkin seeds",
+    "tag": "pumpkin-seeds",
+    "img": "i-pumpkin"
+   },
+   {
+    "q": "~¼ cup (30 g)",
+    "n": "Melon seeds (magaz)",
+    "tag": "melon-seeds",
+    "img": "i-melon"
+   },
+   {
+    "q": "~2 tsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~½ cup (60 g)",
+    "n": "Poppy seeds (khus khus)",
+    "tag": "poppy-seeds",
+    "img": "i-poppy"
+   },
+   {
+    "q": "~15 (150 g), seeds out",
+    "n": "Dates (khajur)",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "~6 (50 g)",
+    "n": "Dried figs (anjeer)",
+    "tag": "fig",
+    "img": "i-fig"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Chop the cashews and almonds into small pieces.",
+    "imgs": [
+     "s-chop-1",
+     "s-chop-2",
+     "s-chop-3"
+    ]
+   },
+   {
+    "t": "Chop the pistachios and walnuts the same way.",
+    "imgs": [
+     "s-chop-4",
+     "s-chop-5",
+     "s-chop-6",
+     "s-chop-7"
+    ]
+   },
+   {
+    "t": "Heat a steel pan on gas. Pour in the ghee.",
+    "imgs": [
+     "s-heat-1",
+     "s-heat-2"
+    ]
+   },
+   {
+    "t": "Add all the chopped nuts, the pumpkin seeds and the melon seeds.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2",
+     "s-nuts-3"
+    ]
+   },
+   {
+    "t": "Roast, stirring, until lightly golden. Take them out into a bowl.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2"
+    ]
+   },
+   {
+    "t": "Roast the poppy seeds in the dry pan for a few seconds. Keep aside.",
+    "imgs": [
+     "s-poppy-1",
+     "s-poppy-2",
+     "s-poppy-3"
+    ]
+   },
+   {
+    "t": "Add a little ghee to the same pan.",
+    "imgs": [
+     "s-ghee-1"
+    ]
+   },
+   {
+    "t": "Mash the dates and figs into a thick, sticky paste.",
+    "imgs": [
+     "s-paste-1",
+     "s-paste-2",
+     "s-paste-3"
+    ]
+   },
+   {
+    "t": "Put the date and fig paste in the pan.",
+    "imgs": [
+     "s-add-1"
+    ]
+   },
+   {
+    "t": "Cook on low heat, stirring, until it turns dark and sticky.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2",
+     "s-cook-3"
+    ]
+   },
+   {
+    "t": "Add the roasted nuts and seeds.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Mix well until everything sticks together. Scoop it onto a board.",
+    "imgs": [
+     "s-board-1"
+    ]
+   },
+   {
+    "t": "Wear gloves. Press the mix together by hand.",
+    "imgs": [
+     "s-board-2"
+    ]
+   },
+   {
+    "t": "Roll it into a long, even log.",
+    "imgs": [
+     "s-roll-1",
+     "s-roll-2",
+     "s-roll-3"
+    ]
+   },
+   {
+    "t": "Roll the log in the poppy seeds until it is fully coated.",
+    "imgs": [
+     "s-coat-1",
+     "s-coat-2"
+    ]
+   },
+   {
+    "t": "Cut the log into round slices.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Put the slices on a plate and serve.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "make-ahead"
+  ],
+  "notes": "No speech or recipe text (only a caption about nuts being expensive), so every amount is a guess (~). The yellow liquid poured from a gold pouch looks like ghee (could be oil). The video never shows how the dates and figs become a paste (blender or hand-mashing is not shown), nor heat levels or times, nor the bowl for the roasted nuts; those steps are inferred from the pictures. Keeping time not stated; likely lasts a week or more. Different recipe from date-nut-seed-roll (that one is sesame-coated with no figs)."
+ },
+ "images": {
+  "cover": {
+   "t": 33.3,
+   "crop": [
+    0,
+    260,
+    720,
+    660
+   ],
+   "w": 560
+  },
+  "i-cashew": {
+   "t": 0.0,
+   "crop": [
+    0,
+    0,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-almond": {
+   "t": 1.0,
+   "crop": [
+    60,
+    430,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-walnut": {
+   "t": 2.0,
+   "crop": [
+    120,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-pistachio": {
+   "t": 14.2,
+   "crop": [
+    420,
+    830,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-pumpkin": {
+   "t": 14.2,
+   "crop": [
+    200,
+    440,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-melon": {
+   "t": 14.2,
+   "crop": [
+    20,
+    900,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-poppy": {
+   "t": 16.3,
+   "crop": [
+    170,
+    560,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-dates": {
+   "t": 18.8,
+   "crop": [
+    150,
+    420,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-fig": {
+   "t": 19.4,
+   "crop": [
+    200,
+    470,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 18.2,
+   "crop": [
+    0,
+    620,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-chop-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-2": {
+   "t": 4.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-3": {
+   "t": 5.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-4": {
+   "t": 6.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-5": {
+   "t": 7.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-6": {
+   "t": 8.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-7": {
+   "t": 9.2,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heat-1": {
+   "t": 10.2,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heat-2": {
+   "t": 10.8,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 11.3,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 12.3,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-3": {
+   "t": 13.5,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 15.6,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-poppy-1": {
+   "t": 16.3,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-poppy-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-poppy-3": {
+   "t": 17.6,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 18.2,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paste-1": {
+   "t": 18.8,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paste-2": {
+   "t": 19.4,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paste-3": {
+   "t": 20.2,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 20.8,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 21.4,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 23.2,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 23.8,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 24.4,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 25.2,
+   "crop": [
+    0,
+    330,
+    720,
+    660
+   ],
+   "w": 480
+  },
+  "s-board-1": {
+   "t": 25.8,
+   "crop": [
+    0,
+    150,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-board-2": {
+   "t": 26.4,
+   "crop": [
+    0,
+    150,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 27.2,
+   "crop": [
+    0,
+    150,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-roll-2": {
+   "t": 27.8,
+   "crop": [
+    0,
+    150,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-roll-3": {
+   "t": 28.2,
+   "crop": [
+    0,
+    150,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-coat-1": {
+   "t": 29.4,
+   "crop": [
+    0,
+    300,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-coat-2": {
+   "t": 30.2,
+   "crop": [
+    0,
+    300,
+    720,
+    740
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    100,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 32.0,
+   "crop": [
+    0,
+    100,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 33.3,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 34.0,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  }
+ }
+}
