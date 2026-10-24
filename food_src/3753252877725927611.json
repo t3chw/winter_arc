@@ -1,0 +1,994 @@
+{
+ "videos": [
+  "3753252877725927611"
+ ],
+ "dish": {
+  "id": "smashed-potatoes-paneer-sauce",
+  "name": "Smashed potatoes with paneer sauce",
+  "meal": "Snack",
+  "minutes": 50,
+  "protein": 20,
+  "how": "Gas",
+  "tools": "Pan with lid, tawa, mixie (blender) jar, sieve, steel bowl, spoon, spatula",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~500 g (about 20 baby potatoes)",
+    "n": "Baby potatoes",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "enough to cover the potatoes",
+    "n": "Water, for boiling",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp in all (boiling water, sauce and batter)",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~120 g (about 12 cubes)",
+    "n": "Paneer, in cubes",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~5 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Rice flour (chawal ka atta)",
+    "tag": "rice-flour",
+    "img": "i-riceflour"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Corn flour",
+    "tag": "corn-flour",
+    "img": "i-cornflour"
+   },
+   {
+    "q": "~1/4 cup, for the batter",
+    "n": "Water, for the batter",
+    "tag": "water",
+    "img": "i-batterwater"
+   },
+   {
+    "q": "~1 tbsp, very little",
+    "n": "Oil, for the pan",
+    "tag": "oil",
+    "alt": [
+     "ghee"
+    ]
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Red onion, finely chopped",
+    "tag": "onion",
+    "img": "i-onion",
+    "opt": true
+   },
+   {
+    "q": "a small handful",
+    "n": "Coriander leaves, chopped",
+    "tag": "coriander-leaves",
+    "img": "i-coriander",
+    "opt": true
+   },
+   {
+    "q": "a pinch",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut open the bag of baby potatoes.",
+    "imgs": [
+     "s-bag-1",
+     "s-bag-2"
+    ]
+   },
+   {
+    "t": "Put the potatoes in a pan of water.",
+    "imgs": [
+     "s-water-1",
+     "s-pot-1",
+     "s-pot-2"
+    ]
+   },
+   {
+    "t": "Add salt to the water.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Cover and boil the potatoes until a knife goes in easily.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-2",
+     "s-boil-3"
+    ]
+   },
+   {
+    "t": "Drain the potatoes in a sieve.",
+    "imgs": [
+     "s-drain-1"
+    ]
+   },
+   {
+    "t": "For the sauce, put the paneer cubes in a mixie jar.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the curd.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add salt, garlic cloves and red chilli powder.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2",
+     "s-add-3"
+    ]
+   },
+   {
+    "t": "Blend to a smooth, thick sauce.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Pour the sauce into a bowl.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2",
+     "s-pour-3"
+    ]
+   },
+   {
+    "t": "Smash each potato flat with the base of a steel bowl.",
+    "imgs": [
+     "s-smash-1",
+     "s-smash-2",
+     "s-smash-3"
+    ]
+   },
+   {
+    "t": "Check that every potato is smashed flat.",
+    "imgs": [
+     "s-flat-1",
+     "s-flat-2"
+    ]
+   },
+   {
+    "t": "In a bowl, put the rice flour and corn flour.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2",
+     "s-flour-3",
+     "s-flour-4"
+    ]
+   },
+   {
+    "t": "Add a pinch of salt and some water. Mix to a medium-thick batter.",
+    "imgs": [
+     "s-batter-1",
+     "s-batter-2",
+     "s-batter-3",
+     "s-batter-4"
+    ]
+   },
+   {
+    "t": "Dip each smashed potato in the batter to coat it.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2",
+     "s-dip-3"
+    ]
+   },
+   {
+    "t": "Heat a non-stick tawa with very little oil. Place the coated potatoes on it.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2",
+     "s-pan-3"
+    ]
+   },
+   {
+    "t": "Cook until the bottoms are golden, then flip.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2"
+    ]
+   },
+   {
+    "t": "Cook until golden and crisp on both sides.",
+    "imgs": [
+     "s-gold-1",
+     "s-gold-2",
+     "s-gold-3"
+    ]
+   },
+   {
+    "t": "Arrange the crisp potatoes on a plate.",
+    "imgs": [
+     "s-plate-1"
+    ]
+   },
+   {
+    "t": "Pour the sauce over the potatoes.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2",
+     "s-sauce-3",
+     "s-sauce-4"
+    ]
+   },
+   {
+    "t": "Top with chopped onion, coriander and chilli flakes.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2",
+     "s-top-3"
+    ]
+   },
+   {
+    "t": "Serve right away.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender",
+   "high-protein"
+  ],
+  "notes": "No amounts are shown on screen: all amounts are my estimates (~); the speech names rice flour, corn flour, salt and water for the batter and says to use very little oil. The video starts with the finished dish and the cook tasting it; I left those out. Boil time, heat and fry times are not shown. The flours are shown as two white piles (which is which is my guess). The sauce looks orange from the red chilli powder (the on-screen title calls the dish healthy Cajun potatoes). Protein figure depends on how much paneer you use."
+ },
+ "images": {
+  "cover": {
+   "t": 54.5,
+   "crop": [
+    0,
+    260,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-potato": {
+   "t": 10.8,
+   "crop": [
+    60,
+    260,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 12.0,
+   "crop": [
+    60,
+    330,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 14.5,
+   "crop": [
+    100,
+    0,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 16.5,
+   "crop": [
+    100,
+    100,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 17.5,
+   "crop": [
+    40,
+    350,
+    640,
+    640
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 19.0,
+   "crop": [
+    0,
+    60,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 19.5,
+   "crop": [
+    120,
+    130,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-riceflour": {
+   "t": 32.0,
+   "crop": [
+    180,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cornflour": {
+   "t": 33.5,
+   "crop": [
+    160,
+    560,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-batterwater": {
+   "t": 34.5,
+   "crop": [
+    380,
+    0,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 52.0,
+   "crop": [
+    60,
+    380,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 54.0,
+   "crop": [
+    200,
+    380,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 54.5,
+   "crop": [
+    300,
+    330,
+    350,
+    350
+   ],
+   "w": 200
+  },
+  "s-bag-1": {
+   "t": 10.8,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bag-2": {
+   "t": 11.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pot-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pot-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-3": {
+   "t": 25.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 18.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-3": {
+   "t": 19.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 21.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-3": {
+   "t": 24.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-smash-1": {
+   "t": 26.5,
+   "crop": [
+    60,
+    800,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-smash-2": {
+   "t": 28.0,
+   "crop": [
+    60,
+    800,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-smash-3": {
+   "t": 29.0,
+   "crop": [
+    60,
+    800,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-flat-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flat-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 31.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 32.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-3": {
+   "t": 33.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-4": {
+   "t": 33.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-2": {
+   "t": 34.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-3": {
+   "t": 35.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-4": {
+   "t": 36.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-3": {
+   "t": 38.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-1": {
+   "t": 39.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 40.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-3": {
+   "t": 42.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 42.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-1": {
+   "t": 43.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-2": {
+   "t": 44.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-3": {
+   "t": 45.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 49.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 49.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 50.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-3": {
+   "t": 50.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-4": {
+   "t": 51.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 52.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 53.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-3": {
+   "t": 54.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 54.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 55.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

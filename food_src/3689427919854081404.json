@@ -1,0 +1,757 @@
+{
+ "videos": [
+  "3689427919854081404"
+ ],
+ "dish": {
+  "id": "paneer-rajma-burrito-bowl",
+  "name": "Paneer rajma burrito bowl",
+  "meal": "Lunch or dinner",
+  "minutes": 45,
+  "protein": 35,
+  "how": "Gas",
+  "tools": "2 pans, gas, knife (video uses a crinkle cutter)",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~200 g",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Peri peri masala (piri piri seasoning)",
+    "tag": "peri-peri-masala",
+    "alt": [
+     "red-chilli-powder"
+    ],
+    "img": "i-piri"
+   },
+   {
+    "q": "~2 tsp in all (paneer, peppers, rice)",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "to taste (paneer, peppers, rice, salsa, yogurt)",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tbsp, for frying the paneer",
+    "n": "Oil",
+    "tag": "oil"
+   },
+   {
+    "q": "~2 tbsp in all",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "~8 cloves, chopped (peppers, rajma, rice)",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~2 medium (peppers, rajma, salsa)",
+    "n": "Onions",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~2, cut in strips (yellow and green)",
+    "n": "Bell peppers (capsicum)",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~3 (peppers and salsa)",
+    "n": "Tomatoes",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~1 cup, boiled",
+    "n": "Rajma (kidney beans)",
+    "tag": "rajma",
+    "img": "i-rajma"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Tomato sauce (ketchup)",
+    "tag": "tomato-ketchup",
+    "img": "i-ketchup"
+   },
+   {
+    "q": "~1.5 cups, cooked",
+    "n": "Rice",
+    "tag": "rice",
+    "img": "i-rice"
+   },
+   {
+    "q": "~3 tbsp, chopped (rice, salsa, yogurt)",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/2 cup, boiled",
+    "n": "Sweet corn",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Greek yogurt (thick curd)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "a pinch",
+    "n": "Black pepper",
+    "tag": "black-pepper"
+   },
+   {
+    "q": "1, sliced",
+    "n": "Avocado",
+    "tag": "avocado",
+    "opt": true,
+    "img": "i-avocado"
+   },
+   {
+    "q": "a handful",
+    "n": "Nachos (tortilla chips)",
+    "tag": "nachos",
+    "opt": true,
+    "img": "i-nachos"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the paneer block into cubes.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Toss the paneer cubes with peri peri masala, chilli flakes and salt.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2"
+    ]
+   },
+   {
+    "t": "Pan fry the paneer cubes until golden on all sides.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Melt butter in a pan and add chopped garlic.",
+    "imgs": [
+     "s-butter-1"
+    ]
+   },
+   {
+    "t": "Add bell pepper strips, onion rings and tomato slices.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Add salt and chilli flakes and toss until just soft.",
+    "imgs": [
+     "s-veg-3",
+     "s-veg-4"
+    ]
+   },
+   {
+    "t": "In another pan, fry chopped garlic in butter, then add chopped onions.",
+    "imgs": [
+     "s-rg-1",
+     "s-rg-2",
+     "s-rg-3"
+    ]
+   },
+   {
+    "t": "Add the boiled rajma and tomato sauce.",
+    "imgs": [
+     "s-rj-1",
+     "s-rj-2"
+    ]
+   },
+   {
+    "t": "Stir until the rajma is well coated.",
+    "imgs": [
+     "s-rj-3"
+    ]
+   },
+   {
+    "t": "Fry chopped garlic and chilli flakes in butter.",
+    "imgs": [
+     "s-rice-1",
+     "s-rice-2"
+    ]
+   },
+   {
+    "t": "Add the cooked rice, salt and chopped coriander and toss.",
+    "imgs": [
+     "s-rice-3",
+     "s-rice-4",
+     "s-rice-5"
+    ]
+   },
+   {
+    "t": "Mix chopped onion and tomato with boiled corn.",
+    "imgs": [
+     "s-salsa-1",
+     "s-salsa-2"
+    ]
+   },
+   {
+    "t": "Add coriander, salt and tomato sauce and mix.",
+    "imgs": [
+     "s-salsa-3",
+     "s-salsa-4"
+    ]
+   },
+   {
+    "t": "Mix Greek yogurt with chopped coriander, salt and pepper.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2",
+     "s-dip-3"
+    ]
+   },
+   {
+    "t": "Put the rice in the middle of a plate, with the paneer and rajma around it.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Add the peppers, salsa and yogurt, then top with avocado and nachos if you like.",
+    "imgs": [
+     "s-top-1"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "credit": "Foodklick",
+  "notes": "Silent video; amounts are not shown, so all quantities are estimates (~). Heat levels and times are not shown. Oil for the paneer is assumed (shiny pan, oil not shown). Avocado, nachos and cherry-tomato slices only appear in the final plating (no prep shown). Four separate pans of food, so it is a longer cook; rice, rajma and corn are already cooked/boiled."
+ },
+ "images": {
+  "cover": {
+   "t": 3.0,
+   "crop": [
+    0,
+    400,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-paneer": {
+   "t": 7.2,
+   "crop": [
+    20,
+    640,
+    640,
+    640
+   ],
+   "w": 200
+  },
+  "i-piri": {
+   "t": 13.0,
+   "crop": [
+    60,
+    450,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 11.6,
+   "crop": [
+    120,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 19.1,
+   "crop": [
+    100,
+    500,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 17.0,
+   "crop": [
+    100,
+    520,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 25.0,
+   "crop": [
+    100,
+    520,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 26.3,
+   "crop": [
+    150,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 20.0,
+   "crop": [
+    100,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 41.0,
+   "crop": [
+    100,
+    550,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-rajma": {
+   "t": 28.0,
+   "crop": [
+    0,
+    350,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-ketchup": {
+   "t": 29.0,
+   "crop": [
+    250,
+    250,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-rice": {
+   "t": 35.5,
+   "crop": [
+    220,
+    560,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 37.0,
+   "crop": [
+    250,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 42.0,
+   "crop": [
+    260,
+    450,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 47.5,
+   "crop": [
+    100,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-avocado": {
+   "t": 3.0,
+   "crop": [
+    440,
+    780,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-nachos": {
+   "t": 3.0,
+   "crop": [
+    0,
+    520,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 18.3,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 19.5,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-4": {
+   "t": 23.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rg-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rg-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rg-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rj-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rj-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rj-3": {
+   "t": 31.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-2": {
+   "t": 34.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-3": {
+   "t": 35.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-4": {
+   "t": 36.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-5": {
+   "t": 38.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salsa-1": {
+   "t": 41.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salsa-2": {
+   "t": 42.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salsa-3": {
+   "t": 44.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salsa-4": {
+   "t": 46.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 47.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 49.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-3": {
+   "t": 50.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 52.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 53.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 54.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

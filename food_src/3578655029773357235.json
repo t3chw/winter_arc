@@ -1,0 +1,683 @@
+{
+  "videos": [
+    "3578655029773357235"
+  ],
+  "dish": {
+    "id": "radish-rice-flour-puri",
+    "name": "Radish rice flour puri",
+    "meal": "Snack",
+    "minutes": 45,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Pan with lid, kadai for frying, rolling pin, round cutter (or a katori), slotted spoon, gas",
+    "serves": 3,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 cup (250 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~2 tbsp (1 for the pan, 1 for the dough)",
+        "n": "Ghee",
+        "tag": "ghee",
+        "img": "i-ghee"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Nigella seeds (kalonji)",
+        "tag": "nigella-seeds",
+        "img": "i-nigella-seeds"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Sesame seeds (til)",
+        "tag": "sesame-seeds",
+        "img": "i-sesame-seeds"
+      },
+      {
+        "q": "~1/2 tsp, a pinch",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Ginger-garlic paste",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Chilli flakes",
+        "tag": "chilli-flakes",
+        "img": "i-chilli-flakes"
+      },
+      {
+        "q": "~1 cup, grated (1 medium)",
+        "n": "Radish (mooli), grated",
+        "tag": "radish",
+        "img": "i-radish"
+      },
+      {
+        "q": "~1 cup (150 g)",
+        "n": "Rice flour",
+        "tag": "rice-flour",
+        "img": "i-rice-flour"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "~2 cups, for deep frying",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat water in a pan. Add ghee.",
+        "imgs": [
+          "s1-1",
+          "s1-2"
+        ]
+      },
+      {
+        "t": "Add nigella seeds, cumin seeds and sesame seeds.",
+        "imgs": [
+          "s2-1",
+          "s2-2",
+          "s2-3"
+        ]
+      },
+      {
+        "t": "Add a pinch of salt, ginger-garlic paste and chilli flakes.",
+        "imgs": [
+          "s3-1",
+          "s3-2",
+          "s3-3"
+        ]
+      },
+      {
+        "t": "Add grated radish. Cook for 4 to 5 minutes.",
+        "imgs": [
+          "s4-1",
+          "s4-2",
+          "s4-3"
+        ]
+      },
+      {
+        "t": "Add the rice flour and mix well.",
+        "imgs": [
+          "s5-1",
+          "s5-2",
+          "s5-3"
+        ]
+      },
+      {
+        "t": "Switch off the gas. Cover and keep aside for 10 minutes.",
+        "imgs": [
+          "s6-1",
+          "s6-2"
+        ]
+      },
+      {
+        "t": "Open the lid. Tip the crumbly mix into a bowl.",
+        "imgs": [
+          "s7-1",
+          "s7-2"
+        ]
+      },
+      {
+        "t": "Move it to a bowl. Add melted ghee and chopped coriander.",
+        "imgs": [
+          "s8-1",
+          "s8-2"
+        ]
+      },
+      {
+        "t": "Knead into a smooth, semi-soft dough.",
+        "imgs": [
+          "s9-1",
+          "s9-2",
+          "s9-3"
+        ]
+      },
+      {
+        "t": "Take a small portion and make a ball. Flatten it.",
+        "imgs": [
+          "s10-1",
+          "s10-2"
+        ]
+      },
+      {
+        "t": "Roll it out. Cut a neat round with a ring cutter.",
+        "imgs": [
+          "s11-1",
+          "s11-2",
+          "s11-3"
+        ]
+      },
+      {
+        "t": "Heat oil in a kadai. Slide the puri in gently.",
+        "imgs": [
+          "s12-1",
+          "s12-2"
+        ]
+      },
+      {
+        "t": "Fry until puffed and golden. Turn once.",
+        "imgs": [
+          "s13-1",
+          "s13-2",
+          "s13-3"
+        ]
+      },
+      {
+        "t": "Lift out with a slotted spoon. Serve hot.",
+        "imgs": [
+          "s14-1",
+          "s14-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "No amounts on screen or in the (garbled Hindi) voiceover: every quantity is my guess. Brown seeds look like cumin (could be ajwain); yellow liquid poured on the crumbled mix looks like ghee (could be oil). Frying oil heat is not shown. The tomato-potato side dish is not part of the recipe."
+  },
+  "images": {
+    "cover": {
+      "t": 8.0,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-water": {
+      "t": 10.5,
+      "crop": [
+        0,
+        80,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 12.5,
+      "crop": [
+        0,
+        400,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-nigella-seeds": {
+      "t": 15.6,
+      "crop": [
+        100,
+        500,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 16.6,
+      "crop": [
+        200,
+        250,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-sesame-seeds": {
+      "t": 16.6,
+      "crop": [
+        150,
+        560,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 19.6,
+      "crop": [
+        50,
+        150,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 20.9,
+      "crop": [
+        120,
+        450,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-chilli-flakes": {
+      "t": 21.6,
+      "crop": [
+        100,
+        0,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-radish": {
+      "t": 23.3,
+      "crop": [
+        50,
+        300,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-rice-flour": {
+      "t": 27.8,
+      "crop": [
+        0,
+        150,
+        700,
+        700
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 41.8,
+      "crop": [
+        100,
+        600,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 62.5,
+      "crop": [
+        30,
+        380,
+        620,
+        620
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 15.6,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-3": {
+      "t": 16.6,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 19.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 20.6,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-3": {
+      "t": 21.6,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 23.3,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 24.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-3": {
+      "t": 26.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 27.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-2": {
+      "t": 28.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-3": {
+      "t": 31.0,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 33.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 36.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 37.4,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 38.3,
+      "crop": [
+        0,
+        600,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 39.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 41.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 44.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 45.3,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-3": {
+      "t": 47.3,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 51.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-2": {
+      "t": 52.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 54.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-2": {
+      "t": 56.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-3": {
+      "t": 58.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-1": {
+      "t": 61.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-2": {
+      "t": 62.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-1": {
+      "t": 63.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-2": {
+      "t": 65.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-3": {
+      "t": 66.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-1": {
+      "t": 67.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-2": {
+      "t": 69.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "videos": [
+    "3604557778254740818"
+  ],
+  "dish": {
+    "id": "hung-curd-tadka-sandwich",
+    "name": "Hung curd tadka sandwich",
+    "meal": "Snack",
+    "minutes": 15,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Bowl, spoon, tawa, spatula, gas",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3/4 cup (thick curd, water drained)",
+        "n": "Hung curd",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1/4 cup, chopped",
+        "n": "Red onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2 tbsp, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-red-chilli-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Mixed herbs (or oregano)",
+        "tag": "oregano",
+        "img": "i-oregano"
+      },
+      {
+        "q": "2 slices",
+        "n": "Bread",
+        "tag": "bread",
+        "img": "i-bread"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Green chutney",
+        "tag": "green-chutney",
+        "img": "i-green-chutney"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Mustard seeds",
+        "tag": "mustard-seeds",
+        "img": "i-mustard-seeds"
+      },
+      {
+        "q": "~8 leaves",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry-leaves"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put hung curd in a bowl.",
+        "imgs": [
+          "s1-1"
+        ]
+      },
+      {
+        "t": "Add chopped red onion and coriander.",
+        "imgs": [
+          "s2-1",
+          "s2-2"
+        ]
+      },
+      {
+        "t": "Add salt, red chilli powder and mixed herbs.",
+        "imgs": [
+          "s3-1",
+          "s3-2",
+          "s3-3"
+        ]
+      },
+      {
+        "t": "Mix well.",
+        "imgs": [
+          "s4-1",
+          "s4-2"
+        ]
+      },
+      {
+        "t": "Spread the curd mix on one bread slice.",
+        "imgs": [
+          "s5-1",
+          "s5-2",
+          "s5-3"
+        ]
+      },
+      {
+        "t": "Spread green chutney on the second slice.",
+        "imgs": [
+          "s6-1",
+          "s6-2",
+          "s6-3"
+        ]
+      },
+      {
+        "t": "Close the sandwich and press it down.",
+        "imgs": [
+          "s7-1",
+          "s7-2"
+        ]
+      },
+      {
+        "t": "Tadka: put oil, mustard seeds and curry leaves on a tawa.",
+        "imgs": [
+          "s8-1",
+          "s8-2"
+        ]
+      },
+      {
+        "t": "Place the sandwich on the tawa. Press gently.",
+        "imgs": [
+          "s9-1",
+          "s9-2"
+        ]
+      },
+      {
+        "t": "Toast until golden. Flip and toast the other side.",
+        "imgs": [
+          "s10-1",
+          "s10-2",
+          "s10-3"
+        ]
+      },
+      {
+        "t": "Serve hot.",
+        "imgs": [
+          "s11-1",
+          "s11-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "Silent video: on-screen text lists ingredients but no amounts, so all amounts are my guesses; the curd mix is enough for 2 to 3 sandwiches. The curd is hung (thick, water drained); drain it for about 1 hour beforehand (not shown). The tadka seeds and leaves go straight on the tawa under the sandwich. Heat level and toasting time not shown. Salt looks like a small pinch."
+  },
+  "images": {
+    "cover": {
+      "t": 21.2,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-curd": {
+      "t": 4.8,
+      "crop": [
+        70,
+        440,
+        620,
+        620
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 5.8,
+      "crop": [
+        100,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 6.3,
+      "crop": [
+        50,
+        420,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 8.4,
+      "crop": [
+        250,
+        520,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-red-chilli-powder": {
+      "t": 8.9,
+      "crop": [
+        100,
+        420,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-oregano": {
+      "t": 9.9,
+      "crop": [
+        150,
+        520,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-bread": {
+      "t": 11.2,
+      "crop": [
+        0,
+        600,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-green-chutney": {
+      "t": 15.2,
+      "crop": [
+        100,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 17.0,
+      "crop": [
+        280,
+        840,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-mustard-seeds": {
+      "t": 17.0,
+      "crop": [
+        330,
+        480,
+        220,
+        220
+      ],
+      "w": 200
+    },
+    "i-curry-leaves": {
+      "t": 17.0,
+      "crop": [
+        150,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 4.8,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 5.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 6.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 8.4,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 8.9,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-3": {
+      "t": 9.9,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 10.3,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 10.8,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 11.8,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-3": {
+      "t": 13.3,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 14.3,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 14.8,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-3": {
+      "t": 15.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 16.3,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 16.8,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 17.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 18.3,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 18.8,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-2": {
+      "t": 20.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-3": {
+      "t": 20.8,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 21.2,
+      "crop": [
+        0,
+        50,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-2": {
+      "t": 21.5,
+      "crop": [
+        0,
+        50,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

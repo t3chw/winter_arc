@@ -1,0 +1,809 @@
+{
+ "videos": [
+  "3752511627246853239"
+ ],
+ "dish": {
+  "id": "jodhpuri-aloo-bites",
+  "name": "Jodhpuri aloo bites",
+  "meal": "Snack",
+  "minutes": 40,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Pan, steel pan, small grinder (mixie), spatula, bowl and plate",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 tbsp",
+    "n": "Fennel seeds (saunf)",
+    "tag": "fennel-seeds",
+    "img": "i-fennel"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Coriander seeds (dhania)",
+    "tag": "coriander-seeds",
+    "img": "i-coriander-seeds"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Cumin seeds (jeera)",
+    "tag": "cumin",
+    "img": "i-cumin"
+   },
+   {
+    "q": "3",
+    "n": "Dry red chillies",
+    "tag": "dry-red-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "4 small (~400 g), boiled and peeled",
+    "n": "Potatoes",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Pink rock salt (or black salt)",
+    "tag": "black-salt",
+    "alt": [
+     "salt"
+    ],
+    "img": "i-pinksalt"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Corn flour",
+    "tag": "corn-flour",
+    "img": "i-starch"
+   },
+   {
+    "q": "~2 tbsp, for shallow frying",
+    "n": "Oil",
+    "tag": "oil",
+    "alt": [
+     "ghee"
+    ]
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-redchilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Sesame seeds (til)",
+    "tag": "sesame-seeds",
+    "img": "i-sesame"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Dry mango powder (amchur), or chaat masala",
+    "tag": "amchur",
+    "alt": [
+     "chaat-masala"
+    ],
+    "img": "i-amchur"
+   },
+   {
+    "q": "~2 tbsp, finely chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "1, finely chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-coriander",
+    "opt": true
+   },
+   {
+    "q": "~1/2 lemon",
+    "n": "Lemon juice",
+    "tag": "lemon",
+    "img": "i-lemon"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Dry roast the fennel seeds in a pan.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2"
+    ]
+   },
+   {
+    "t": "Add the coriander seeds and cumin seeds. Roast, stirring.",
+    "imgs": [
+     "s-coriander-1",
+     "s-cumin-1"
+    ]
+   },
+   {
+    "t": "Add the dry red chillies and roast a little more.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Grind the roasted spices to a fine powder in a small grinder.",
+    "imgs": [
+     "s-grind-1",
+     "s-grind-2",
+     "s-grind-3"
+    ]
+   },
+   {
+    "t": "Put the boiled potatoes in a bowl. Sprinkle pink salt over them.",
+    "imgs": [
+     "s-potato-1",
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Add the corn flour.",
+    "imgs": [
+     "s-starch-1",
+     "s-starch-2",
+     "s-starch-3"
+    ]
+   },
+   {
+    "t": "Mash everything into a smooth dough.",
+    "imgs": [
+     "s-mash-1",
+     "s-mash-2",
+     "s-mash-3"
+    ]
+   },
+   {
+    "t": "Roll small balls from the dough.",
+    "imgs": [
+     "s-roll-1",
+     "s-roll-2",
+     "s-roll-3"
+    ]
+   },
+   {
+    "t": "Heat some oil in a steel pan. Place the balls in it.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2",
+     "s-pan-3"
+    ]
+   },
+   {
+    "t": "Cook until the bottoms are golden. Flip and press each ball flat.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2",
+     "s-flip-3"
+    ]
+   },
+   {
+    "t": "Fry both sides until golden and crisp.",
+    "imgs": [
+     "s-gold-1",
+     "s-gold-2",
+     "s-gold-3"
+    ]
+   },
+   {
+    "t": "Move the crisp potato rounds to a bowl.",
+    "imgs": [
+     "s-bowl-1",
+     "s-bowl-2"
+    ]
+   },
+   {
+    "t": "Sprinkle the ground spice powder, red chilli powder and pink salt.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Add the sesame seeds and the pale dry mango powder.",
+    "imgs": [
+     "s-sesame-1",
+     "s-sesame-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander and green chilli.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2",
+     "s-herb-3"
+    ]
+   },
+   {
+    "t": "Squeeze lemon juice over the top.",
+    "imgs": [
+     "s-lemon-1"
+    ]
+   },
+   {
+    "t": "Cover the bowl with a plate and shake well to coat. Serve hot.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2",
+     "s-plate-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "notes": "Silent video (music only), no amounts given: all amounts are my estimates (~). The video starts with the finished seasoning, then shows the spice grind and the potato dough; I put the steps in cooking order. The beige powder (added with sesame) is my guess for amchur (could be chaat masala). The pink powder is rock salt or black salt. The white powder on the potatoes looks like corn flour (could be arrowroot or potato starch). Boiling the potatoes, the oil amount and the heat are not shown. The video uses an induction stove, a gas flame works the same.",
+  "credit": "Mrs Yum Tum (small watermark on the video)"
+ },
+ "images": {
+  "i-fennel": {
+   "t": 12.2,
+   "crop": [
+    480,
+    430,
+    190,
+    190
+   ],
+   "w": 200
+  },
+  "i-coriander-seeds": {
+   "t": 12.2,
+   "crop": [
+    0,
+    380,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 12.2,
+   "crop": [
+    200,
+    345,
+    205,
+    205
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 12.2,
+   "crop": [
+    410,
+    285,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-potato": {
+   "t": 20.5,
+   "crop": [
+    60,
+    250,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-pinksalt": {
+   "t": 2.5,
+   "crop": [
+    270,
+    230,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-starch": {
+   "t": 21.5,
+   "crop": [
+    240,
+    80,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "s-roast-1": {
+   "t": 12.6,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 14.6,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cumin-1": {
+   "t": 15.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 16.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 17.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grind-1": {
+   "t": 18.2,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grind-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grind-3": {
+   "t": 20.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-potato-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-starch-1": {
+   "t": 21.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-starch-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-starch-3": {
+   "t": 23.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mash-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mash-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mash-3": {
+   "t": 24.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roll-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-3": {
+   "t": 31.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 32.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-3": {
+   "t": 33.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-2": {
+   "t": 35.0,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-3": {
+   "t": 36.5,
+   "crop": [
+    0,
+    260,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "cover": {
+   "t": 10.4,
+   "crop": [
+    80,
+    450,
+    560,
+    420
+   ],
+   "w": 560
+  },
+  "i-redchilli": {
+   "t": 2.0,
+   "crop": [
+    280,
+    240,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-amchur": {
+   "t": 3.0,
+   "crop": [
+    290,
+    260,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 3.9,
+   "crop": [
+    150,
+    680,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 4.4,
+   "crop": [
+    240,
+    290,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 5.8,
+   "crop": [
+    330,
+    0,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "s-bowl-1": {
+   "t": 0.2,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-bowl-2": {
+   "t": 0.8,
+   "crop": [
+    60,
+    660,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 1.4,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 2.0,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 2.5,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-sesame-1": {
+   "t": 3.0,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-sesame-2": {
+   "t": 3.9,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 4.4,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 4.9,
+   "crop": [
+    60,
+    670,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-herb-3": {
+   "t": 5.4,
+   "crop": [
+    60,
+    670,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 5.8,
+   "crop": [
+    90,
+    200,
+    540,
+    400
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    0,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    0,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-plate-3": {
+   "t": 10.4,
+   "crop": [
+    80,
+    450,
+    560,
+    420
+   ],
+   "w": 480
+  }
+ }
+}

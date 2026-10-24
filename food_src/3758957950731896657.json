@@ -1,0 +1,767 @@
+{
+ "videos": [
+  "3758957950731896657"
+ ],
+ "dish": {
+  "id": "fermented-ragi-dosa",
+  "name": "Fermented ragi dosa",
+  "meal": "Breakfast",
+  "minutes": 40,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Blender, cast iron tawa, ladle, spoon, spatula, sieve, glass bowl, plate for covering",
+  "serves": 4,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (150 g)",
+    "n": "Ragi (finger millet) grains",
+    "tag": "millet",
+    "img": "i-ragi"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "White grain (looks like urad dal or idli rice)",
+    "tag": "urad-dal",
+    "alt": [
+     "rice"
+    ],
+    "img": "i-urad"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Fenugreek seeds (methi dana)",
+    "tag": "fenugreek-seeds",
+    "img": "i-methi"
+   },
+   {
+    "q": "for washing, soaking and blending",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp, a thin drizzle per dosa",
+    "n": "Oil or ghee",
+    "tag": "oil",
+    "alt": [
+     "ghee"
+    ],
+    "img": "i-oil"
+   },
+   {
+    "q": "a pinch per dosa",
+    "n": "Chilli podi (red spice powder)",
+    "tag": "podi-masala",
+    "alt": [
+     "red-chilli-powder"
+    ],
+    "img": "i-podi",
+    "opt": true
+   },
+   {
+    "q": "a small bowl",
+    "n": "Green chutney, to serve",
+    "tag": "green-chutney",
+    "img": "i-chutney",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the ragi in a bowl.",
+    "imgs": [
+     "s-ragi-1",
+     "s-ragi-2"
+    ]
+   },
+   {
+    "t": "Add the white grains.",
+    "imgs": [
+     "s-urad-1",
+     "s-urad-2"
+    ]
+   },
+   {
+    "t": "Add the fenugreek seeds.",
+    "imgs": [
+     "s-methi-1",
+     "s-methi-2"
+    ]
+   },
+   {
+    "t": "Pour in water.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Rub the grains with your hand to wash them.",
+    "imgs": [
+     "s-wash-1",
+     "s-wash-2"
+    ]
+   },
+   {
+    "t": "Drain the water through a strainer.",
+    "imgs": [
+     "s-drain-1",
+     "s-drain-2"
+    ]
+   },
+   {
+    "t": "Add fresh water to the grains.",
+    "imgs": [
+     "s-fresh-1",
+     "s-fresh-2"
+    ]
+   },
+   {
+    "t": "Cover the bowl with a plate and leave the grains to soak.",
+    "imgs": [
+     "s-soak-1",
+     "s-soak-2"
+    ]
+   },
+   {
+    "t": "Put the soaked grains in the blender jar. Add water.",
+    "imgs": [
+     "s-jar-1",
+     "s-jar-2"
+    ]
+   },
+   {
+    "t": "Close the lid and blend to a smooth batter.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2",
+     "s-blend-3"
+    ]
+   },
+   {
+    "t": "Pour the batter into a glass bowl.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Cover the bowl with a plate and leave the batter to ferment.",
+    "imgs": [
+     "s-ferment-1",
+     "s-ferment-2",
+     "s-ferment-3"
+    ]
+   },
+   {
+    "t": "Stir the fermented batter well.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2",
+     "s-stir-3",
+     "s-stir-4"
+    ]
+   },
+   {
+    "t": "Heat the cast iron tawa. Sprinkle a few drops of water on it.",
+    "imgs": [
+     "s-heat-1"
+    ]
+   },
+   {
+    "t": "Pour a ladle of batter in the middle of the tawa.",
+    "imgs": [
+     "s-batter-1",
+     "s-batter-2"
+    ]
+   },
+   {
+    "t": "Spread the batter in circles with the back of the ladle.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2",
+     "s-spread-3",
+     "s-spread-4"
+    ]
+   },
+   {
+    "t": "Drizzle a little oil around the dosa.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Sprinkle the chilli podi on top.",
+    "imgs": [
+     "s-podi-1",
+     "s-podi-2"
+    ]
+   },
+   {
+    "t": "Cook until crisp and brown. Loosen the dosa with a spatula.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2",
+     "s-lift-3"
+    ]
+   },
+   {
+    "t": "Fold the dosa and serve with green chutney.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender",
+   "make-ahead"
+  ],
+  "notes": "Silent video (music only) and no amounts: all amounts are my estimates (~). Soaking time and fermenting time are not shown (a time-lapse cut), so 40 min is only the work, not the wait. The white grain could be urad dal or short idli rice; the video does not say. The small glass bowl holds fenugreek seeds. A thin drizzle after spreading looks like oil or ghee. The orange sprinkle on the dosa looks like a chilli podi. The video also shows the cook talking to the camera (not used)."
+ },
+ "images": {
+  "cover": {
+   "t": 35.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-ragi": {
+   "t": 9.0,
+   "crop": [
+    100,
+    100,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-urad": {
+   "t": 10.0,
+   "crop": [
+    100,
+    300,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-methi": {
+   "t": 11.0,
+   "crop": [
+    180,
+    250,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 11.5,
+   "crop": [
+    400,
+    0,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 31.0,
+   "crop": [
+    100,
+    60,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-podi": {
+   "t": 32.0,
+   "crop": [
+    120,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 35.0,
+   "crop": [
+    0,
+    400,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "s-ragi-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ragi-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-urad-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-urad-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-methi-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-methi-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-wash-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-wash-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fresh-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fresh-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-jar-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-jar-2": {
+   "t": 17.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-3": {
+   "t": 19.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ferment-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ferment-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ferment-3": {
+   "t": 22.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-3": {
+   "t": 24.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-4": {
+   "t": 25.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heat-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-3": {
+   "t": 29.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-4": {
+   "t": 30.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-podi-1": {
+   "t": 31.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-podi-2": {
+   "t": 32.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 32.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 33.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-3": {
+   "t": 34.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 34.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 35.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

@@ -1,0 +1,819 @@
+{
+  "videos": [
+    "3577889399808697021"
+  ],
+  "dish": {
+    "id": "aloo-suji-pancake",
+    "name": "Aloo suji pancakes",
+    "meal": "Breakfast",
+    "minutes": 25,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Blender (mixie), tawa, small pan, gas",
+    "serves": 3,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "2 medium (~300 g)",
+        "n": "Potato",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "40 g (~3 tbsp)",
+        "n": "Curd",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "90 g (~1/2 cup)",
+        "n": "Semolina (suji)",
+        "tag": "suji",
+        "img": "i-suji"
+      },
+      {
+        "q": "2 tbsp",
+        "n": "Gram flour (besan)",
+        "tag": "besan",
+        "img": "i-besan"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "200 ml (+ a splash)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "1 medium",
+        "n": "Onion, chopped",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "2 medium",
+        "n": "Carrot, finely chopped",
+        "tag": "carrot",
+        "img": "i-carrot"
+      },
+      {
+        "q": "1 medium",
+        "n": "Capsicum, chopped",
+        "tag": "capsicum",
+        "img": "i-capsicum"
+      },
+      {
+        "q": "1 medium",
+        "n": "Tomato, chopped",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "2 tbsp (+ a little for the tawa)",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Cumin seeds",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Mustard seeds",
+        "tag": "mustard-seeds",
+        "img": "i-mustard-seeds"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Hing (asafoetida)",
+        "tag": "hing",
+        "img": "i-hing"
+      },
+      {
+        "q": "2 to 3 sprigs",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry-leaves"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Chilli flakes",
+        "tag": "chilli-flakes",
+        "img": "i-chilli-flakes"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Dice 2 potatoes and put them in the blender jar.",
+        "imgs": [
+          "s1-1",
+          "s1-2"
+        ]
+      },
+      {
+        "t": "Add a splash of water, close the lid and blend to a thick paste.",
+        "imgs": [
+          "s2-1",
+          "s2-2",
+          "s2-3"
+        ]
+      },
+      {
+        "t": "Add 40 g curd and 90 g semolina to the jar.",
+        "imgs": [
+          "s3-1",
+          "s3-2",
+          "s3-3"
+        ]
+      },
+      {
+        "t": "Add 2 tbsp besan and 1 tsp salt.",
+        "imgs": [
+          "s4-1",
+          "s4-2"
+        ]
+      },
+      {
+        "t": "Pour in 200 ml water.",
+        "imgs": [
+          "s5-1"
+        ]
+      },
+      {
+        "t": "Close the lid and blend again until smooth.",
+        "imgs": [
+          "s6-1",
+          "s6-2"
+        ]
+      },
+      {
+        "t": "Pour the batter into a big bowl.",
+        "imgs": [
+          "s7-1",
+          "s7-2"
+        ]
+      },
+      {
+        "t": "Add chopped onion, carrot and capsicum.",
+        "imgs": [
+          "s8-1",
+          "s8-2",
+          "s8-3"
+        ]
+      },
+      {
+        "t": "Add chopped tomato and coriander. Mix well.",
+        "imgs": [
+          "s9-1",
+          "s9-2",
+          "s9-3"
+        ]
+      },
+      {
+        "t": "Tadka: heat 2 tbsp oil in a small pan. Add cumin and mustard seeds.",
+        "imgs": [
+          "s10-1",
+          "s10-2",
+          "s10-3"
+        ]
+      },
+      {
+        "t": "Add hing, curry leaves and chilli flakes.",
+        "imgs": [
+          "s11-1",
+          "s11-2",
+          "s11-3"
+        ]
+      },
+      {
+        "t": "Pour the hot tadka over the batter and mix.",
+        "imgs": [
+          "s12-1",
+          "s12-2"
+        ]
+      },
+      {
+        "t": "Heat a tawa. Wipe it with a little oil on a tissue.",
+        "imgs": [
+          "s13-1",
+          "s13-2"
+        ]
+      },
+      {
+        "t": "Pour a ladle of batter on the tawa and spread it a little.",
+        "imgs": [
+          "s14-1",
+          "s14-2"
+        ]
+      },
+      {
+        "t": "Cook until golden underneath. Flip and cook the other side.",
+        "imgs": [
+          "s15-1",
+          "s15-2",
+          "s15-3"
+        ]
+      },
+      {
+        "t": "Stack the pancakes and serve hot.",
+        "imgs": [
+          "s16-1",
+          "s16-2",
+          "s16-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender"
+    ],
+    "credit": "New Taste of India",
+    "notes": "Video says 15 minutes; I allowed 25 for cooking all pancakes. Heat level and cooking time per side are not shown (the flip is only partly visible). Potato blend: the voiceover mentions a little water, no amount shown. About 6 pancakes in the video (serves 3 is my guess); low in protein."
+  },
+  "images": {
+    "cover": {
+      "t": 49.5,
+      "crop": [
+        0,
+        560,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-potato": {
+      "t": 10.7,
+      "crop": [
+        60,
+        300,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 14.8,
+      "crop": [
+        60,
+        230,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-suji": {
+      "t": 16.0,
+      "crop": [
+        0,
+        330,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-besan": {
+      "t": 17.0,
+      "crop": [
+        200,
+        500,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 18.0,
+      "crop": [
+        150,
+        300,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 19.5,
+      "crop": [
+        180,
+        90,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 25.6,
+      "crop": [
+        0,
+        560,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-carrot": {
+      "t": 26.0,
+      "crop": [
+        60,
+        350,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-capsicum": {
+      "t": 27.0,
+      "crop": [
+        250,
+        40,
+        470,
+        470
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 27.5,
+      "crop": [
+        230,
+        250,
+        470,
+        470
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 29.4,
+      "crop": [
+        60,
+        450,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 31.9,
+      "crop": [
+        200,
+        0,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 32.6,
+      "crop": [
+        180,
+        700,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-mustard-seeds": {
+      "t": 33.7,
+      "crop": [
+        100,
+        600,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-hing": {
+      "t": 34.3,
+      "crop": [
+        250,
+        330,
+        470,
+        470
+      ],
+      "w": 200
+    },
+    "i-curry-leaves": {
+      "t": 34.9,
+      "crop": [
+        100,
+        760,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-chilli-flakes": {
+      "t": 35.5,
+      "crop": [
+        200,
+        540,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 10.2,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-2": {
+      "t": 10.7,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        60,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-3": {
+      "t": 14.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 14.9,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 15.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-3": {
+      "t": 16.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 17.2,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 18.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 23.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 24.3,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 26.3,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-3": {
+      "t": 27.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 27.8,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 29.4,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-3": {
+      "t": 30.6,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 31.9,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-3": {
+      "t": 33.7,
+      "crop": [
+        0,
+        650,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 34.3,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-2": {
+      "t": 34.9,
+      "crop": [
+        0,
+        700,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-3": {
+      "t": 35.5,
+      "crop": [
+        0,
+        560,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-1": {
+      "t": 37.3,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-2": {
+      "t": 38.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-1": {
+      "t": 40.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-2": {
+      "t": 41.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-1": {
+      "t": 42.3,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-2": {
+      "t": 43.3,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-1": {
+      "t": 44.3,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-2": {
+      "t": 45.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-3": {
+      "t": 46.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-1": {
+      "t": 49.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-2": {
+      "t": 8.5,
+      "crop": [
+        0,
+        620,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-3": {
+      "t": 9.3,
+      "crop": [
+        100,
+        380,
+        560,
+        420
+      ],
+      "w": 480
+    }
+  }
+}

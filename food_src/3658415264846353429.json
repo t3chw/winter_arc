@@ -1,0 +1,813 @@
+{
+ "videos": [
+  "3658415264846353429"
+ ],
+ "dish": {
+  "id": "thecha-paneer-pakoda",
+  "name": "Thecha paneer pakoda",
+  "meal": "Snack",
+  "minutes": 40,
+  "protein": 30,
+  "how": "Gas",
+  "tools": "Kadhai, gas, pan, mortar and pestle, strainer",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (100 g)",
+    "n": "Besan (gram flour)",
+    "tag": "besan",
+    "img": "i-besan"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Rice flour",
+    "tag": "rice-flour",
+    "img": "i-rice-flour"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Ajwain (carom seeds)",
+    "tag": "ajwain",
+    "img": "i-ajwain"
+   },
+   {
+    "q": "~1 tsp in all (batter and thecha)",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 small bunch (~4 tbsp chopped), for the batter and thecha",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~3/4 cup (180 ml), as needed",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~8 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~8",
+    "n": "Green chillies",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Cumin seeds (jeera)",
+    "tag": "cumin",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1/4 cup (35 g)",
+    "n": "Roasted peanuts",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "~1/2 lemon, juice",
+    "n": "Lemon",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "~200 g block",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "enough to deep fry",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Add besan to a bowl.",
+    "imgs": [
+     "s-besan-1",
+     "s-besan-2"
+    ]
+   },
+   {
+    "t": "Add the rice flour.",
+    "imgs": [
+     "s-rice-1"
+    ]
+   },
+   {
+    "t": "Add salt and ajwain.",
+    "imgs": [
+     "s-dry-1",
+     "s-dry-2",
+     "s-dry-3"
+    ]
+   },
+   {
+    "t": "Add chopped coriander and mix the dry flour with a fork.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Add water slowly and whisk to a thick, smooth batter.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2",
+     "s-water-3"
+    ]
+   },
+   {
+    "t": "For the thecha: put garlic, green chillies, cumin and salt in a dry pan.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2",
+     "s-roast-3"
+    ]
+   },
+   {
+    "t": "Dry roast, stirring, until the garlic gets brown spots.",
+    "imgs": [
+     "s-toast-1",
+     "s-toast-2"
+    ]
+   },
+   {
+    "t": "Tip the roasted mix into a mortar.",
+    "imgs": [
+     "s-mortar-1"
+    ]
+   },
+   {
+    "t": "Add coriander leaves and a squeeze of lemon.",
+    "imgs": [
+     "s-leaf-1",
+     "s-leaf-2",
+     "s-leaf-3"
+    ]
+   },
+   {
+    "t": "Add the roasted peanuts.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2"
+    ]
+   },
+   {
+    "t": "Crush everything into a coarse chutney (thecha).",
+    "imgs": [
+     "s-crush-1",
+     "s-crush-2"
+    ]
+   },
+   {
+    "t": "Cut the paneer block into thin slices.",
+    "imgs": [
+     "s-slice-1",
+     "s-slice-2",
+     "s-slice-3"
+    ]
+   },
+   {
+    "t": "Spread thecha on a slice.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2"
+    ]
+   },
+   {
+    "t": "Cover it with another slice and press.",
+    "imgs": [
+     "s-cover-1",
+     "s-cover-2"
+    ]
+   },
+   {
+    "t": "Cut each paneer sandwich into pieces.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Dip each piece in the batter to coat it all over.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2",
+     "s-dip-3"
+    ]
+   },
+   {
+    "t": "Slide the pieces into hot oil.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Deep fry until golden.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Lift out with a strainer and drain.",
+    "imgs": [
+     "s-drain-1",
+     "s-drain-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "Video has ingredient names on screen but no amounts: all quantities are estimates (~). Heat level and frying time not shown. Thecha is a Maharashtrian garlic-chilli-peanut chutney. Deep fried, so it needs a lot of oil."
+ },
+ "images": {
+  "cover": {
+   "t": 0.5,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 560
+  },
+  "i-besan": {
+   "t": 4.0,
+   "crop": [
+    60,
+    520,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-rice-flour": {
+   "t": 5.0,
+   "crop": [
+    100,
+    520,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-ajwain": {
+   "t": 6.0,
+   "crop": [
+    150,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 14.5,
+   "crop": [
+    60,
+    480,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 18.5,
+   "crop": [
+    100,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 8.0,
+   "crop": [
+    300,
+    380,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 12.3,
+   "crop": [
+    100,
+    450,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 13.3,
+   "crop": [
+    60,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 14.5,
+   "crop": [
+    330,
+    560,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 20.0,
+   "crop": [
+    80,
+    340,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 19.0,
+   "crop": [
+    100,
+    300,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 24.6,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 35.0,
+   "crop": [
+    40,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-besan-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-besan-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-3": {
+   "t": 6.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 6.2,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 7.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 8.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-3": {
+   "t": 11.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-3": {
+   "t": 14.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toast-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toast-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mortar-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-leaf-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-leaf-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-leaf-3": {
+   "t": 19.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crush-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crush-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-slice-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-slice-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-slice-3": {
+   "t": 26.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cover-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cover-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 32.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 32.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 34.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-3": {
+   "t": 34.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 35.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 35.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-1": {
+   "t": 39.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-2": {
+   "t": 39.6,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

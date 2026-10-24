@@ -1,0 +1,521 @@
+{
+ "videos": [
+  "3677991539936134358"
+ ],
+ "dish": {
+  "id": "aloo-toast",
+  "name": "Aloo toast",
+  "meal": "Breakfast",
+  "minutes": 25,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Tawa, gas, fork",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~4 small (300 g), boiled",
+    "n": "Potatoes (aloo), boiled",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "~1 small, chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 medium, chopped",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~2, chopped",
+    "n": "Green chillies",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "1 sachet (~6 g)",
+    "n": "Seasoning masala (Maggi Masala-ae-Magic)",
+    "tag": "seasoning-masala",
+    "alt": [
+     "chaat-masala",
+     "garam-masala"
+    ],
+    "img": "i-masala"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~4 slices",
+    "n": "Bread",
+    "tag": "bread",
+    "img": "i-bread"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "to serve",
+    "n": "Tomato ketchup",
+    "tag": "tomato-ketchup",
+    "opt": true,
+    "img": "i-ketchup"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Mash the boiled potatoes on a plate.",
+    "imgs": [
+     "s-mash-1",
+     "s-mash-2"
+    ]
+   },
+   {
+    "t": "Add chopped onion and tomato.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add chopped green chillies and coriander.",
+    "imgs": [
+     "s-green-1",
+     "s-green-2"
+    ]
+   },
+   {
+    "t": "Add the masala sachet and some salt.",
+    "imgs": [
+     "s-masala-1",
+     "s-masala-2"
+    ]
+   },
+   {
+    "t": "Mix everything well by hand.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Spread the mixture thickly on the bread slices.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2",
+     "s-spread-3"
+    ]
+   },
+   {
+    "t": "Melt butter on a tawa.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2"
+    ]
+   },
+   {
+    "t": "Place the bread on the tawa, spread side down.",
+    "imgs": [
+     "s-place-1",
+     "s-place-2"
+    ]
+   },
+   {
+    "t": "Cook until golden, then flip.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2"
+    ]
+   },
+   {
+    "t": "Toast the other side until golden too.",
+    "imgs": [
+     "s-toast-1",
+     "s-toast-2"
+    ]
+   },
+   {
+    "t": "Serve hot with ketchup.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "credit": "Kitchentipsofalka007",
+  "notes": "Silent video with on-screen names (Boiled Potatoes, Onion And Tomato, Green Chillies, Maggi Masala, Normal Salt, Butter) but no amounts: all quantities are estimates (~). Potatoes are boiled first (a pressure cooker works). Heat level and cooking time are not shown. The masala sachet can be swapped for chaat masala or garam masala."
+ },
+ "images": {
+  "cover": {
+   "t": 33.0,
+   "crop": [
+    0,
+    330,
+    716,
+    537
+   ],
+   "w": 560
+  },
+  "i-potato": {
+   "t": 4.2,
+   "crop": [
+    40,
+    480,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 7.3,
+   "crop": [
+    0,
+    630,
+    250,
+    250
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 7.3,
+   "crop": [
+    230,
+    620,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 8.1,
+   "crop": [
+    330,
+    570,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 9.0,
+   "crop": [
+    100,
+    560,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-masala": {
+   "t": 10.2,
+   "crop": [
+    0,
+    20,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 11.5,
+   "crop": [
+    140,
+    520,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 15.0,
+   "crop": [
+    40,
+    420,
+    640,
+    640
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 20.6,
+   "crop": [
+    180,
+    480,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-ketchup": {
+   "t": 33.0,
+   "crop": [
+    440,
+    760,
+    276,
+    276
+   ],
+   "w": 200
+  },
+  "s-mash-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-mash-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 6.4,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 7.3,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-green-1": {
+   "t": 8.3,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-green-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-masala-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    330,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-masala-2": {
+   "t": 11.3,
+   "crop": [
+    0,
+    300,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 14.0,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 17.5,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-spread-3": {
+   "t": 19.2,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 20.6,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-place-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-place-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 25.5,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-toast-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-toast-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    420,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    350,
+    716,
+    537
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 33.0,
+   "crop": [
+    0,
+    330,
+    716,
+    537
+   ],
+   "w": 480
+  }
+ }
+}

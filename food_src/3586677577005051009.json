@@ -1,0 +1,819 @@
+{
+  "videos": [
+    "3586677577005051009"
+  ],
+  "dish": {
+    "id": "no-cook-bread-dahi-vada",
+    "name": "No-cook bread dahi vada",
+    "meal": "Snack",
+    "minutes": 25,
+    "protein": 20,
+    "how": "No cooking",
+    "tools": "Steel glass (round cutter), whisk, sieve, small grinder, bowls",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "6 slices",
+        "n": "Bread, white",
+        "tag": "bread",
+        "img": "i-bread"
+      },
+      {
+        "q": "2 cups",
+        "n": "Curd",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "2 tsp",
+        "n": "Sugar",
+        "tag": "sugar",
+        "img": "i-sugar"
+      },
+      {
+        "q": "3 small",
+        "n": "Potato, boiled",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Chaat masala",
+        "tag": "chaat-masala",
+        "img": "i-chaat-masala"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-red-chilli-powder"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Black salt",
+        "tag": "black-salt",
+        "img": "i-black-salt"
+      },
+      {
+        "q": "2 big",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "1 cup",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "a few drops",
+        "n": "Lemon juice",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "a pinch",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "1 cube",
+        "n": "Ice cube",
+        "tag": "ice",
+        "img": "i-ice"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Roasted cumin powder",
+        "tag": "cumin-powder",
+        "opt": true,
+        "img": "i-cumin-powder"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Sweet chutney (imli or date)",
+        "tag": "chutney",
+        "opt": true,
+        "img": "i-chutney"
+      },
+      {
+        "q": "~4 pieces",
+        "n": "Papdi",
+        "tag": "papdi",
+        "opt": true,
+        "img": "i-papdi"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Nachos, crushed",
+        "tag": "nachos",
+        "opt": true,
+        "img": "i-nachos"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Pomegranate seeds",
+        "tag": "pomegranate",
+        "opt": true,
+        "img": "i-pomegranate"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Cut the bread slices into rounds with a steel glass.",
+        "imgs": [
+          "s1-1",
+          "s1-2",
+          "s1-3"
+        ]
+      },
+      {
+        "t": "Whisk 2 cups curd with 2 tsp sugar.",
+        "imgs": [
+          "s2-1",
+          "s2-2",
+          "s2-3"
+        ]
+      },
+      {
+        "t": "Strain the curd through a sieve until smooth. Keep it aside.",
+        "imgs": [
+          "s3-1",
+          "s3-2",
+          "s3-3"
+        ]
+      },
+      {
+        "t": "Put green chilli and 1 cup coriander in a small grinder jar.",
+        "imgs": [
+          "s4-1",
+          "s4-2"
+        ]
+      },
+      {
+        "t": "Add salt, lemon juice and an ice cube.",
+        "imgs": [
+          "s5-1",
+          "s5-2",
+          "s5-3"
+        ]
+      },
+      {
+        "t": "Grind to a smooth green chutney.",
+        "imgs": [
+          "s6-1",
+          "s6-2"
+        ]
+      },
+      {
+        "t": "Mash 3 boiled potatoes in a bowl. Add 1/2 tsp chaat masala.",
+        "imgs": [
+          "s7-1",
+          "s7-2"
+        ]
+      },
+      {
+        "t": "Add 1/2 tsp red chilli powder and 1/2 tsp black salt.",
+        "imgs": [
+          "s8-1",
+          "s8-2",
+          "s8-3"
+        ]
+      },
+      {
+        "t": "Add 2 tsp green chutney. Mix into a smooth green filling.",
+        "imgs": [
+          "s9-1",
+          "s9-2",
+          "s9-3"
+        ]
+      },
+      {
+        "t": "Spread filling on a bread round. Cover with a second round.",
+        "imgs": [
+          "s10-1",
+          "s10-2",
+          "s10-3"
+        ]
+      },
+      {
+        "t": "Place the sandwiches on a plate.",
+        "imgs": [
+          "s11-1"
+        ]
+      },
+      {
+        "t": "Spoon the sweet curd over them until they are well covered.",
+        "imgs": [
+          "s12-1",
+          "s12-2",
+          "s12-3"
+        ]
+      },
+      {
+        "t": "Sprinkle roasted cumin powder on top.",
+        "imgs": [
+          "s13-1",
+          "s13-2"
+        ]
+      },
+      {
+        "t": "Dot with green chutney. Drizzle sweet chutney.",
+        "imgs": [
+          "s14-1",
+          "s14-2",
+          "s14-3"
+        ]
+      },
+      {
+        "t": "Top with crushed papdi, nachos and pomegranate seeds. Serve.",
+        "imgs": [
+          "s15-1",
+          "s15-2",
+          "s15-3"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "blender",
+      "high-protein"
+    ],
+    "notes": "Amounts for bread, curd, sugar, chutney ingredients and filling are on screen; topping amounts (cumin, sweet chutney, papdi, nachos, pomegranate) are my guesses. Uses boiled potatoes, so boil them beforehand. Sweet chutney was already made (bought or ready). Serves is my guess: 6 slices make about 3 vada."
+  },
+  "images": {
+    "cover": {
+      "t": 51.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-bread": {
+      "t": 8.0,
+      "crop": [
+        200,
+        280,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 17.5,
+      "crop": [
+        60,
+        380,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-sugar": {
+      "t": 13.5,
+      "crop": [
+        0,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 25.75,
+      "crop": [
+        50,
+        380,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-chaat-masala": {
+      "t": 25.5,
+      "crop": [
+        200,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-red-chilli-powder": {
+      "t": 26.2,
+      "crop": [
+        150,
+        220,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-black-salt": {
+      "t": 26.8,
+      "crop": [
+        200,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 20.0,
+      "crop": [
+        100,
+        400,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 21.0,
+      "crop": [
+        100,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 21.75,
+      "crop": [
+        60,
+        250,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 22.6,
+      "crop": [
+        150,
+        280,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-ice": {
+      "t": 23.25,
+      "crop": [
+        150,
+        420,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-cumin-powder": {
+      "t": 41.5,
+      "crop": [
+        100,
+        400,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 45.8,
+      "crop": [
+        330,
+        200,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-papdi": {
+      "t": 46.5,
+      "crop": [
+        150,
+        280,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-nachos": {
+      "t": 49.5,
+      "crop": [
+        60,
+        0,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-pomegranate": {
+      "t": 51.0,
+      "crop": [
+        100,
+        500,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 5.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-2": {
+      "t": 6.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-3": {
+      "t": 9.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 11.5,
+      "crop": [
+        0,
+        290,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-3": {
+      "t": 13.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-3": {
+      "t": 17.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 21.75,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-2": {
+      "t": 22.6,
+      "crop": [
+        0,
+        280,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-3": {
+      "t": 23.25,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 24.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 25.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 25.75,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 26.2,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 26.8,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-3": {
+      "t": 27.1,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 28.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-3": {
+      "t": 29.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-2": {
+      "t": 32.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-3": {
+      "t": 34.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 36.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-1": {
+      "t": 37.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-2": {
+      "t": 38.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-3": {
+      "t": 39.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-1": {
+      "t": 40.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-2": {
+      "t": 41.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-1": {
+      "t": 43.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-2": {
+      "t": 44.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-3": {
+      "t": 45.8,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-1": {
+      "t": 46.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-2": {
+      "t": 49.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-3": {
+      "t": 51.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

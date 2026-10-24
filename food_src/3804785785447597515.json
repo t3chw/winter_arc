@@ -1,0 +1,359 @@
+{
+ "videos": [
+  "3804785785447597515"
+ ],
+ "dish": {
+  "id": "makhana-pomegranate-raita",
+  "name": "Makhana pomegranate raita",
+  "meal": "Side",
+  "minutes": 10,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Pan, gas, glass bowl, spoon",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 1/2 cups (350 g), thick",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1 cup (30 g)",
+    "n": "Makhana (fox nuts)",
+    "tag": "makhana",
+    "img": "i-makhana"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/3 cup (50 g)",
+    "n": "Pomegranate seeds",
+    "tag": "pomegranate",
+    "img": "i-pomegranate"
+   },
+   {
+    "q": "a pinch",
+    "n": "Spice mix (looks like black pepper and roasted cumin powder)",
+    "tag": "black-pepper",
+    "alt": [
+     "cumin-powder",
+     "chaat-masala"
+    ],
+    "img": "i-spice"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the thick curd in a glass bowl.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Dry roast the makhana in a pan, stirring, until crisp.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2"
+    ]
+   },
+   {
+    "t": "Sprinkle a pinch of salt over the roasted makhana.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Add the roasted makhana to the curd.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Add the pomegranate seeds on top.",
+    "imgs": [
+     "s-pom-1",
+     "s-pom-2",
+     "s-pom-3"
+    ]
+   },
+   {
+    "t": "Spoon a little more curd on top.",
+    "imgs": [
+     "s-curd2-1",
+     "s-curd2-2"
+    ]
+   },
+   {
+    "t": "Sprinkle the spice mix over the top.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Mix gently and serve right away.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "quick"
+  ],
+  "notes": "No amounts given (speech is garbled, on-screen text is only chat): all amounts are my estimates (~). Roasting time and heat are not stated; the makhana looks dry roasted with no oil. The white pinch on the makhana looks like salt (red specks may be chilli powder); the final sprinkle looks like black pepper plus a golden spice (maybe roasted cumin or chaat masala). Not sure how much of the curd is added at the end (a small cup of curd is used). I left out the health claims that the speaker makes."
+ },
+ "images": {
+  "cover": {
+   "t": 31.0,
+   "crop": [
+    20,
+    360,
+    640,
+    480
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 18.5,
+   "crop": [
+    40,
+    500,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-makhana": {
+   "t": 22.0,
+   "crop": [
+    30,
+    10,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-pomegranate": {
+   "t": 25.0,
+   "crop": [
+    70,
+    10,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 21.0,
+   "crop": [
+    90,
+    330,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-spice": {
+   "t": 29.8,
+   "crop": [
+    150,
+    380,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "s-curd-1": {
+   "t": 18.0,
+   "crop": [
+    20,
+    380,
+    680,
+    510
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 19.0,
+   "crop": [
+    20,
+    380,
+    680,
+    510
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 20.2,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 22.0,
+   "crop": [
+    20,
+    0,
+    680,
+    510
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 22.3,
+   "crop": [
+    20,
+    0,
+    680,
+    510
+   ],
+   "w": 480
+  },
+  "s-pom-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pom-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pom-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd2-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd2-2": {
+   "t": 28.2,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 28.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 29.2,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 29.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 30.4,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

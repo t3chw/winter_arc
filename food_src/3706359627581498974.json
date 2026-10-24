@@ -1,0 +1,564 @@
+{
+ "videos": [
+  "3706359627581498974"
+ ],
+ "dish": {
+  "id": "pan-fried-chickpea-salad",
+  "name": "Pan-fried chickpea salad",
+  "meal": "Breakfast",
+  "minutes": 15,
+  "protein": 20,
+  "how": "Gas",
+  "tools": "Non-stick pan, gas, knife",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1.5 cups (250 g), boiled",
+    "n": "Chickpeas (kabuli chana), boiled",
+    "tag": "chickpeas",
+    "img": "i-chickpeas"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "1 small, sliced",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1 medium, sliced",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "1 small (~100 g), cut in thin strips",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~2, sliced",
+    "n": "Green chillies",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Roasted cumin powder (or chaat masala)",
+    "tag": "cumin-powder",
+    "alt": [
+     "chaat-masala"
+    ],
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1/2 lemon, juice",
+    "n": "Lemon",
+    "tag": "lemon",
+    "img": "i-lemon"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the cucumber into thin strips.",
+    "imgs": [
+     "s-cuc-1",
+     "s-cuc-2",
+     "s-cuc-3"
+    ]
+   },
+   {
+    "t": "Slice the tomato.",
+    "imgs": [
+     "s-tom-1",
+     "s-tom-2"
+    ]
+   },
+   {
+    "t": "Slice the onion.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Heat a pan on the gas and add the oil.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2",
+     "s-oil-3"
+    ]
+   },
+   {
+    "t": "Add the boiled chickpeas and fry, stirring often.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2",
+     "s-fry-3",
+     "s-fry-4"
+    ]
+   },
+   {
+    "t": "Add the sliced onion and tomato.",
+    "imgs": [
+     "s-ot-1",
+     "s-ot-2"
+    ]
+   },
+   {
+    "t": "Add the cucumber strips.",
+    "imgs": [
+     "s-cuc2-1"
+    ]
+   },
+   {
+    "t": "Add the green chillies and chopped coriander.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Add salt and cumin powder, then squeeze in the lemon juice.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-lemon-1",
+     "s-lemon-2"
+    ]
+   },
+   {
+    "t": "Toss everything together.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Serve on a plate.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein",
+   "high-fibre"
+  ],
+  "notes": "Silent video (caption: the high protein breakfast), no amounts, heat or times shown: all quantities are estimates (~). The chickpeas turn orange-red between the frying and the next step, so a spice (probably chilli powder) may be added but is not shown; I left it out. The brown powder looks like roasted cumin powder (could be chaat masala). Cucumber pale green, cut in thin strips. Chickpeas are already boiled."
+ },
+ "images": {
+  "cover": {
+   "t": 11.5,
+   "crop": [
+    0,
+    290,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-chickpeas": {
+   "t": 3.7,
+   "crop": [
+    60,
+    330,
+    620,
+    620
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 0.9,
+   "crop": [
+    60,
+    330,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 2.1,
+   "crop": [
+    100,
+    470,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 2.7,
+   "crop": [
+    100,
+    420,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 5.4,
+   "crop": [
+    100,
+    400,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 9.0,
+   "crop": [
+    130,
+    320,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 9.5,
+   "crop": [
+    0,
+    300,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 9.3,
+   "crop": [
+    185,
+    465,
+    160,
+    160
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 9.3,
+   "crop": [
+    340,
+    430,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 9.3,
+   "crop": [
+    280,
+    275,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "s-cuc-1": {
+   "t": 1.2,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-2": {
+   "t": 1.5,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-3": {
+   "t": 1.8,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tom-1": {
+   "t": 2.1,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tom-2": {
+   "t": 2.4,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 2.7,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 3.0,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 5.1,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-3": {
+   "t": 5.4,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 6.6,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 7.2,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-4": {
+   "t": 7.5,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ot-1": {
+   "t": 7.8,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ot-2": {
+   "t": 8.1,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc2-1": {
+   "t": 8.4,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 8.7,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 9.3,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 9.7,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-2": {
+   "t": 9.9,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 10.2,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 10.8,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 11.4,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 12.1,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

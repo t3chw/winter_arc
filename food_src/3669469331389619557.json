@@ -1,0 +1,242 @@
+{
+ "videos": [
+  "3669469331389619557"
+ ],
+ "dish": {
+  "id": "carrot-cucumber-lime-juice",
+  "name": "Carrot cucumber lime juice",
+  "meal": "Drink",
+  "minutes": 5,
+  "protein": 0,
+  "how": "No cooking",
+  "tools": "Blender (mixie)",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 medium (~80 g), sliced",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "1/2 (~100 g), sliced",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "juice of 2 limes",
+    "n": "Lime (nimbu)",
+    "tag": "lemon",
+    "img": "i-lime"
+   },
+   {
+    "q": "1 glass (~250 ml)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put 1 sliced carrot in the blender jar.",
+    "imgs": [
+     "s-carrot-1",
+     "s-carrot-2"
+    ]
+   },
+   {
+    "t": "Add half a cucumber, sliced.",
+    "imgs": [
+     "s-cucumber-1",
+     "s-cucumber-2"
+    ]
+   },
+   {
+    "t": "Add the juice of 2 limes.",
+    "imgs": [
+     "s-lime-1"
+    ]
+   },
+   {
+    "t": "Pour in 1 glass of water.",
+    "imgs": [
+     "s-water-1"
+    ]
+   },
+   {
+    "t": "Blend everything for 1 minute.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Pour into a glass.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "blender",
+   "quick"
+  ],
+  "notes": "Amounts (1 carrot, half a cucumber, 2 limes, 1 glass water, 1 minute) are from the voice-over; gram weights are my estimates. The video makes health claims (kidney, skin, liver, eyes) which are left out. Subtitles run across the frames, so pictures are cropped above or below them; cover is just the ingredients (finished glass always has a subtitle on it)."
+ },
+ "images": {
+  "cover": {
+   "t": 14.75,
+   "crop": [
+    20,
+    695,
+    680,
+    510
+   ],
+   "w": 560
+  },
+  "i-carrot": {
+   "t": 14.7,
+   "crop": [
+    450,
+    730,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 14.7,
+   "crop": [
+    30,
+    700,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-lime": {
+   "t": 14.7,
+   "crop": [
+    285,
+    820,
+    180,
+    180
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 12.0,
+   "crop": [
+    200,
+    60,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "s-carrot-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-carrot-2": {
+   "t": 8.7,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-1": {
+   "t": 9.6,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-2": {
+   "t": 10.4,
+   "crop": [
+    0,
+    700,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lime-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 12.75,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 13.25,
+   "crop": [
+    0,
+    700,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 14.2,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 14.7,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

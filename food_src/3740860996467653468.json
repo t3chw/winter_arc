@@ -1,0 +1,764 @@
+{
+ "videos": [
+  "3740860996467653468"
+ ],
+ "dish": {
+  "id": "guava-walnut-chutney",
+  "name": "Roasted guava walnut chutney",
+  "meal": "Side",
+  "minutes": 20,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Gas stove with wire rack, mortar and pestle (or mixie), knife, fork, brush",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 medium (~150 g)",
+    "n": "Guava (amrood)",
+    "tag": "guava",
+    "img": "i-guava"
+   },
+   {
+    "q": "~1/2 tsp, to brush the guava",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "1 inch piece, chopped",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-ginger"
+   },
+   {
+    "q": "7 to 8 (~20 g), chopped",
+    "n": "Walnuts (akhrot)",
+    "tag": "walnuts",
+    "img": "i-walnuts"
+   },
+   {
+    "q": "2 to 3",
+    "n": "Green chillies",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "a few leaves",
+    "n": "Mint leaves (pudina)",
+    "tag": "mint",
+    "img": "i-mint"
+   },
+   {
+    "q": "1 tsp",
+    "n": "Lemon juice",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-redchilli"
+   },
+   {
+    "q": "1 tsp",
+    "n": "Chaat masala",
+    "tag": "chaat-masala",
+    "img": "i-chaat"
+   },
+   {
+    "q": "1 tsp",
+    "n": "Roasted cumin powder (bhuna jeera)",
+    "tag": "cumin-powder",
+    "img": "i-jeera"
+   },
+   {
+    "q": "~1/2 tsp, to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Prick the whole guava all over with a fork.",
+    "imgs": [
+     "s-prick-1",
+     "s-prick-2",
+     "s-prick-3"
+    ]
+   },
+   {
+    "t": "Rub a little oil on the guava with a brush.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2",
+     "s-oil-3"
+    ]
+   },
+   {
+    "t": "Roast the guava directly on the gas flame, turning, until charred all over.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2",
+     "s-roast-3"
+    ]
+   },
+   {
+    "t": "Take it off the flame and cut it into small pieces.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Put the guava pieces in a mortar.",
+    "imgs": [
+     "s-mortar-1",
+     "s-mortar-2"
+    ]
+   },
+   {
+    "t": "Add the chopped ginger.",
+    "imgs": [
+     "s-ginger-1",
+     "s-ginger-2"
+    ]
+   },
+   {
+    "t": "Add the walnuts.",
+    "imgs": [
+     "s-walnut-1",
+     "s-walnut-2"
+    ]
+   },
+   {
+    "t": "Add the green chillies.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Add the mint leaves.",
+    "imgs": [
+     "s-mint-1",
+     "s-mint-2",
+     "s-mint-3"
+    ]
+   },
+   {
+    "t": "Pound everything with the pestle into a coarse mash.",
+    "imgs": [
+     "s-pound-1",
+     "s-pound-2",
+     "s-pound-3"
+    ]
+   },
+   {
+    "t": "Squeeze in the lemon juice.",
+    "imgs": [
+     "s-lemon-1",
+     "s-lemon-2"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-red-1",
+     "s-red-2"
+    ]
+   },
+   {
+    "t": "Add the chaat masala.",
+    "imgs": [
+     "s-chaat-1",
+     "s-chaat-2"
+    ]
+   },
+   {
+    "t": "Add the roasted cumin powder.",
+    "imgs": [
+     "s-jeera-1",
+     "s-jeera-2"
+    ]
+   },
+   {
+    "t": "Add salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Mix everything well with a spoon.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Spoon the chutney out into a bowl.",
+    "imgs": [
+     "s-spoon-1",
+     "s-spoon-2"
+    ]
+   },
+   {
+    "t": "Top with a mint leaf and serve.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "Amounts for guava, ginger, walnuts, chillies, mint and the four 1 tsp items are from on-screen text; oil and salt amounts and the 20 min total time are my estimates. Roasting time not shown. The voice-over says it goes well with parathas. A mixie can replace the mortar (pulse, do not liquefy). Dish-level protein is low: it is a chutney."
+ },
+ "images": {
+  "cover": {
+   "t": 41.0,
+   "crop": [
+    0,
+    390,
+    720,
+    560
+   ],
+   "w": 560
+  },
+  "i-guava": {
+   "t": 0.5,
+   "crop": [
+    130,
+    650,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 5.0,
+   "crop": [
+    60,
+    700,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-ginger": {
+   "t": 15.0,
+   "crop": [
+    130,
+    450,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-walnuts": {
+   "t": 16.0,
+   "crop": [
+    233,
+    297,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 17.0,
+   "crop": [
+    160,
+    440,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-mint": {
+   "t": 17.6,
+   "crop": [
+    180,
+    370,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 24.7,
+   "crop": [
+    57,
+    352,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-redchilli": {
+   "t": 26.0,
+   "crop": [
+    148,
+    450,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-chaat": {
+   "t": 26.7,
+   "crop": [
+    120,
+    480,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-jeera": {
+   "t": 27.6,
+   "crop": [
+    120,
+    430,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 29.0,
+   "crop": [
+    100,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-prick-1": {
+   "t": 0.3,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-prick-2": {
+   "t": 1.5,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-prick-3": {
+   "t": 2.7,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 4.2,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-3": {
+   "t": 5.8,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 13.0,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mortar-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mortar-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ginger-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ginger-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-walnut-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-walnut-2": {
+   "t": 16.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 16.6,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mint-1": {
+   "t": 17.6,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mint-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mint-3": {
+   "t": 18.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pound-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pound-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pound-3": {
+   "t": 23.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 24.7,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-2": {
+   "t": 25.3,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-red-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-red-2": {
+   "t": 26.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chaat-1": {
+   "t": 26.7,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chaat-2": {
+   "t": 27.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-jeera-1": {
+   "t": 27.6,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-jeera-2": {
+   "t": 28.2,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 28.7,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 29.2,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 32.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spoon-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spoon-2": {
+   "t": 35.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 39.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

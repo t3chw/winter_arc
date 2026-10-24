@@ -1,0 +1,686 @@
+{
+  "videos": [
+    "3605556655877797613"
+  ],
+  "dish": {
+    "id": "cucumber-paneer-sandwich",
+    "name": "Cucumber paneer sandwich",
+    "meal": "Snack",
+    "minutes": 15,
+    "protein": 15,
+    "how": "No cooking",
+    "tools": "Small blender (or fork), bowl, knife, paper towel, cling film",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1/2 cup, crumbled (100 g)",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Curd",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "1 clove",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "a pinch",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "a pinch",
+        "n": "Black pepper",
+        "tag": "black-pepper",
+        "img": "i-black-pepper"
+      },
+      {
+        "q": "~2 tbsp, chopped",
+        "n": "Spring onion (green onion)",
+        "tag": "spring-onion",
+        "img": "i-spring-onion"
+      },
+      {
+        "q": "~2 tbsp, chopped",
+        "n": "Fresh dill leaves",
+        "tag": "dill",
+        "img": "i-dill"
+      },
+      {
+        "q": "1 medium",
+        "n": "Cucumber",
+        "tag": "cucumber",
+        "img": "i-cucumber"
+      },
+      {
+        "q": "~4 slices (the video shows 2)",
+        "n": "Bread, white",
+        "tag": "bread",
+        "img": "i-bread"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put crumbled paneer in a bowl.",
+        "imgs": [
+          "s1-1",
+          "s1-2"
+        ]
+      },
+      {
+        "t": "Add curd and 1 garlic clove.",
+        "imgs": [
+          "s2-1",
+          "s2-2",
+          "s2-3"
+        ]
+      },
+      {
+        "t": "Blend into a smooth, creamy paste.",
+        "imgs": [
+          "s3-1",
+          "s3-2"
+        ]
+      },
+      {
+        "t": "Add salt and black pepper.",
+        "imgs": [
+          "s4-1",
+          "s4-2"
+        ]
+      },
+      {
+        "t": "Add chopped spring onion and fresh dill leaves.",
+        "imgs": [
+          "s5-1",
+          "s5-2",
+          "s5-3"
+        ]
+      },
+      {
+        "t": "Mix well. This is your cream cheese spread.",
+        "imgs": [
+          "s6-1",
+          "s6-2",
+          "s6-3"
+        ]
+      },
+      {
+        "t": "Slice the cucumber thin.",
+        "imgs": [
+          "s7-1",
+          "s7-2"
+        ]
+      },
+      {
+        "t": "Lay the slices on a paper towel.",
+        "imgs": [
+          "s8-1",
+          "s8-2"
+        ]
+      },
+      {
+        "t": "Cover with another paper towel. Press to soak up the water.",
+        "imgs": [
+          "s9-1",
+          "s9-2",
+          "s9-3"
+        ]
+      },
+      {
+        "t": "Optional: cut off the bread crusts.",
+        "imgs": [
+          "s10-1",
+          "s10-2",
+          "s10-3"
+        ]
+      },
+      {
+        "t": "Spread the cream cheese on one side of each bread slice.",
+        "imgs": [
+          "s11-1",
+          "s11-2",
+          "s11-3"
+        ]
+      },
+      {
+        "t": "Layer cucumber slices on one slice.",
+        "imgs": [
+          "s12-1",
+          "s12-2",
+          "s12-3"
+        ]
+      },
+      {
+        "t": "Cover with the other slice, spread side down.",
+        "imgs": [
+          "s13-1",
+          "s13-2"
+        ]
+      },
+      {
+        "t": "Cut the sandwich into halves or triangles.",
+        "imgs": [
+          "s14-1",
+          "s14-2",
+          "s14-3"
+        ]
+      },
+      {
+        "t": "To keep it, wrap each piece in cling film. Store in the fridge up to 2 days.",
+        "imgs": [
+          "s15-1",
+          "s15-2",
+          "s15-3"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "blender",
+      "make-ahead"
+    ],
+    "notes": "No amounts shown or said, so every quantity is my guess. The voice says blend paneer, curd and garlic but the blender is not shown (the bowl is smooth afterwards); a fork works if the paneer is soft. Video shows one sandwich of 2 slices; the spread makes more. Keeps up to 2 days wrapped in the fridge (from the voice). Paneer looks pre-crumbled (cottage cheese)."
+  },
+  "images": {
+    "cover": {
+      "t": 5.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-paneer": {
+      "t": 10.8,
+      "crop": [
+        60,
+        450,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 11.2,
+      "crop": [
+        250,
+        30,
+        470,
+        470
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 12.1,
+      "crop": [
+        200,
+        190,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 14.0,
+      "crop": [
+        150,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-black-pepper": {
+      "t": 14.5,
+      "crop": [
+        150,
+        350,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-spring-onion": {
+      "t": 15.5,
+      "crop": [
+        120,
+        520,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-dill": {
+      "t": 16.5,
+      "crop": [
+        120,
+        450,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-cucumber": {
+      "t": 19.5,
+      "crop": [
+        0,
+        200,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-bread": {
+      "t": 27.0,
+      "crop": [
+        60,
+        430,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 10.3,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-2": {
+      "t": 10.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 11.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 12.2,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-3": {
+      "t": 12.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 14.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-2": {
+      "t": 16.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-3": {
+      "t": 16.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 17.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-3": {
+      "t": 18.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 19.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 22.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 23.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 24.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-3": {
+      "t": 26.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 27.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-3": {
+      "t": 29.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-2": {
+      "t": 30.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-3": {
+      "t": 31.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-1": {
+      "t": 32.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-3": {
+      "t": 33.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-1": {
+      "t": 34.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-2": {
+      "t": 34.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-1": {
+      "t": 35.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-2": {
+      "t": 36.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-3": {
+      "t": 37.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-1": {
+      "t": 40.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-2": {
+      "t": 41.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-3": {
+      "t": 43.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

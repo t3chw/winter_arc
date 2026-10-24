@@ -1,0 +1,779 @@
+{
+ "videos": [
+  "3806259784232793112"
+ ],
+ "dish": {
+  "id": "paneer-veggie-rice-paper-parcels",
+  "name": "Paneer veggie rice paper parcels",
+  "meal": "Lunch or dinner",
+  "minutes": 40,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Chopper, kadhai, tawa, spatula, spoon",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 medium (~80 g)",
+    "n": "Carrot (red carrot)",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "1 small",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "1 small",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~4 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~100 g, crumbled",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Spice powder (grey-brown, not named in the video)",
+    "tag": "garam-masala",
+    "alt": [
+     "black-pepper"
+    ],
+    "img": "i-spice"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Chilli sauce (schezwan chutney sachet)",
+    "tag": "chilli-sauce",
+    "img": "i-chilli-sauce"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Soy sauce",
+    "tag": "soy-sauce",
+    "img": "i-soy"
+   },
+   {
+    "q": "4 sheets",
+    "n": "Rice paper sheets",
+    "tag": "rice-paper",
+    "img": "i-ricepaper"
+   },
+   {
+    "q": "~2 tsp",
+    "n": "Butter, for frying",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "~1/2 cup (120 g)",
+    "n": "Curd, thick (for the dip)",
+    "tag": "curd",
+    "img": "i-curd",
+    "opt": true
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Chilli sauce, for the dip",
+    "tag": "chilli-sauce",
+    "img": "i-dipsauce",
+    "opt": true
+   },
+   {
+    "q": "a splash",
+    "n": "Water, for the dip",
+    "tag": "water",
+    "img": "i-water",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the carrot, capsicum, onion and garlic in a chopper.",
+    "imgs": [
+     "s-chop-1",
+     "s-chop-2",
+     "s-chop-3"
+    ]
+   },
+   {
+    "t": "Close the lid and chop everything small.",
+    "imgs": [
+     "s-chop-4"
+    ]
+   },
+   {
+    "t": "Heat a little ghee in a kadhai.",
+    "imgs": [
+     "s-ghee-1"
+    ]
+   },
+   {
+    "t": "Add the chopped vegetables and cook, stirring.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Crumble the paneer by hand into the kadhai.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the salt and the spice powder.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2"
+    ]
+   },
+   {
+    "t": "Add the chilli sauce and the soy sauce.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2"
+    ]
+   },
+   {
+    "t": "Mix well and cook until the filling is dry and crumbly.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Move the filling to a plate.",
+    "imgs": [
+     "s-plate-1"
+    ]
+   },
+   {
+    "t": "Dip a rice paper sheet in water for 2 seconds.",
+    "imgs": [
+     "s-paper-1",
+     "s-paper-2",
+     "s-paper-3"
+    ]
+   },
+   {
+    "t": "Put a spoon of filling near one edge of the wet sheet.",
+    "imgs": [
+     "s-fill-1"
+    ]
+   },
+   {
+    "t": "Fold the edges in towards the centre to make a flat parcel.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2",
+     "s-fold-3"
+    ]
+   },
+   {
+    "t": "Repeat with the other sheets to make 4 parcels.",
+    "imgs": [
+     "s-parcels-1"
+    ]
+   },
+   {
+    "t": "Melt a little butter on a tawa. Place the parcels on it.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Shallow fry, flipping, until golden and crisp on both sides.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2",
+     "s-flip-3"
+    ]
+   },
+   {
+    "t": "For the dip, put the curd in a small bowl. Add the chilli sauce.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2"
+    ]
+   },
+   {
+    "t": "Add a splash of water and stir to a smooth dip.",
+    "imgs": [
+     "s-dip-3",
+     "s-dip-4",
+     "s-dip-5"
+    ]
+   },
+   {
+    "t": "Serve the hot parcels with the dip.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2",
+     "s-serve-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "No amounts shown and speech is garbled: all amounts are my estimates (~). The white crumbs look like paneer (hand-crumbled from a block); I saw no egg. Chopped vegetables look like red carrot, capsicum, onion, garlic. The grey-brown spice powder is unnamed (maybe garam masala or pepper). The dark paste and the sachet in the dip look like a chilli sauce (schezwan chutney). The dip is curd, chilli sauce and water (my reading). Soaking in water for 2 seconds is from the speech; dipping is not clearly shown. Heat levels and fry times not shown. The same video also shows a mushroom, broccoli and paneer stir-fry, made as a separate dish."
+ },
+ "images": {
+  "cover": {
+   "t": 46.0,
+   "crop": [
+    0,
+    280,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-carrot": {
+   "t": 6.0,
+   "crop": [
+    230,
+    520,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 6.5,
+   "crop": [
+    250,
+    520,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 8.5,
+   "crop": [
+    250,
+    800,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 8.5,
+   "crop": [
+    400,
+    830,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 9.5,
+   "crop": [
+    130,
+    640,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 12.0,
+   "crop": [
+    100,
+    660,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 13.5,
+   "crop": [
+    200,
+    300,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-spice": {
+   "t": 13.5,
+   "crop": [
+    250,
+    560,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-chilli-sauce": {
+   "t": 15.0,
+   "crop": [
+    40,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-soy": {
+   "t": 16.0,
+   "crop": [
+    140,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-ricepaper": {
+   "t": 30.0,
+   "crop": [
+    0,
+    330,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 37.0,
+   "crop": [
+    0,
+    330,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 40.5,
+   "crop": [
+    0,
+    700,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-dipsauce": {
+   "t": 41.0,
+   "crop": [
+    280,
+    680,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 41.5,
+   "crop": [
+    380,
+    640,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "s-chop-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-3": {
+   "t": 8.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chop-4": {
+   "t": 9.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paper-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paper-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paper-3": {
+   "t": 32.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fill-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 34.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-3": {
+   "t": 35.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-parcels-1": {
+   "t": 36.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 38.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 39.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-3": {
+   "t": 40.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 40.5,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 41.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-3": {
+   "t": 41.5,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-4": {
+   "t": 42.5,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-5": {
+   "t": 44.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 44.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 46.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-3": {
+   "t": 49.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

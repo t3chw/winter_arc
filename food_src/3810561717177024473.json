@@ -1,0 +1,900 @@
+{
+ "videos": [
+  "3810561717177024473"
+ ],
+ "dish": {
+  "id": "roti-noodles-stir-fry",
+  "name": "Roti noodles stir-fry",
+  "meal": "Lunch or dinner",
+  "minutes": 30,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Pan, kadhai, gas, pizza cutter, spatula, spoon",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "3 (leftover or fresh)",
+    "n": "Rotis, wheat (atta)",
+    "tag": "atta",
+    "img": "i-roti"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Ghee, for the boiling water",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~4 cups, for boiling",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp in all",
+    "n": "Salt (some for the water, some for the vegetables)",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 1/2 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~4 cloves, chopped",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-aromatics"
+   },
+   {
+    "q": "~1 inch, chopped",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-aromatics"
+   },
+   {
+    "q": "1, chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-aromatics"
+   },
+   {
+    "q": "1 medium, sliced",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1 medium, red and green, in strips",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~2 cups (150 g), shredded",
+    "n": "Cabbage",
+    "tag": "cabbage",
+    "img": "i-cabbage"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Schezwan masala (seasoning powder)",
+    "tag": "schezwan-masala",
+    "img": "i-masala"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Red chilli sauce",
+    "tag": "chilli-sauce",
+    "img": "i-chillisauce"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Soy sauce",
+    "tag": "soy-sauce",
+    "img": "i-soy"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Vinegar",
+    "tag": "vinegar",
+    "img": "i-vinegar"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Fill a pan with water. Add the ghee and salt and bring to a boil.",
+    "imgs": [
+     "s-water-1",
+     "s-ghee-1",
+     "s-ghee-2"
+    ]
+   },
+   {
+    "t": "Put the roti in the boiling water.",
+    "imgs": [
+     "s-roti-1",
+     "s-roti-2",
+     "s-roti-3"
+    ]
+   },
+   {
+    "t": "Boil the roti for about 5 minutes.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-2",
+     "s-boil-3"
+    ]
+   },
+   {
+    "t": "Lift the roti out and let it cool on a board.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2",
+     "s-lift-3"
+    ]
+   },
+   {
+    "t": "Cut the cooled roti into thin strips with a pizza cutter.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Separate the strips. These are your roti noodles.",
+    "imgs": [
+     "s-strips-1",
+     "s-strips-2"
+    ]
+   },
+   {
+    "t": "Heat the oil in a kadhai.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Add the chopped garlic, ginger and green chilli.",
+    "imgs": [
+     "s-aro-1",
+     "s-aro-2"
+    ]
+   },
+   {
+    "t": "Add the sliced onion and stir.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2",
+     "s-onion-3"
+    ]
+   },
+   {
+    "t": "Add the red and green capsicum strips.",
+    "imgs": [
+     "s-cap-1",
+     "s-cap-2"
+    ]
+   },
+   {
+    "t": "Add the shredded cabbage and stir-fry.",
+    "imgs": [
+     "s-cab-1",
+     "s-cab-2",
+     "s-cab-3"
+    ]
+   },
+   {
+    "t": "Add the salt and the black pepper.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Add the Schezwan masala.",
+    "imgs": [
+     "s-mas-1",
+     "s-mas-2",
+     "s-mas-3"
+    ]
+   },
+   {
+    "t": "Add the red chilli sauce.",
+    "imgs": [
+     "s-chs-1",
+     "s-chs-2"
+    ]
+   },
+   {
+    "t": "Add the soy sauce.",
+    "imgs": [
+     "s-soy-1",
+     "s-soy-2"
+    ]
+   },
+   {
+    "t": "Add the vinegar.",
+    "imgs": [
+     "s-vin-1"
+    ]
+   },
+   {
+    "t": "Toss the vegetables until they are coated with the sauces.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2"
+    ]
+   },
+   {
+    "t": "Add the roti noodles.",
+    "imgs": [
+     "s-nood-1",
+     "s-nood-2",
+     "s-nood-3"
+    ]
+   },
+   {
+    "t": "Toss well until the noodles are coated and hot.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Serve hot.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "No amounts shown: all amounts are my estimates (~). Boil time (about 5 min) is from the speech; flame levels and stir-fry times are not shown. The yellow lump put in the boiling water is ghee (speech says ghee and salt), though it looks a bit like a yolk; no egg is mentioned. The white and brown powders at 22 s look like salt and black pepper (my guess). The orange powder is a ready Schezwan seasoning from a jar, so you need to buy it. The golden liquid at the end looks like vinegar (my guess). Roti count is a guess from the pile of noodles."
+ },
+ "images": {
+  "cover": {
+   "t": 50.0,
+   "crop": [
+    0,
+    290,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-roti": {
+   "t": 7.5,
+   "crop": [
+    20,
+    380,
+    640,
+    640
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 0.5,
+   "crop": [
+    300,
+    480,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 0.0,
+   "crop": [
+    100,
+    380,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 13.5,
+   "crop": [
+    300,
+    260,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-aromatics": {
+   "t": 14.0,
+   "crop": [
+    300,
+    240,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 15.0,
+   "crop": [
+    140,
+    500,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 19.0,
+   "crop": [
+    320,
+    500,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-cabbage": {
+   "t": 20.0,
+   "crop": [
+    0,
+    0,
+    640,
+    640
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 22.0,
+   "crop": [
+    330,
+    300,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 22.5,
+   "crop": [
+    260,
+    400,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-masala": {
+   "t": 29.5,
+   "crop": [
+    0,
+    250,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-chillisauce": {
+   "t": 32.5,
+   "crop": [
+    200,
+    400,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-soy": {
+   "t": 34.0,
+   "crop": [
+    440,
+    330,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-vinegar": {
+   "t": 35.0,
+   "crop": [
+    380,
+    420,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "s-water-1": {
+   "t": 0.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-2": {
+   "t": 1.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roti-1": {
+   "t": 1.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roti-2": {
+   "t": 2.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roti-3": {
+   "t": 2.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-3": {
+   "t": 5.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-3": {
+   "t": 7.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 10.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-strips-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-strips-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-aro-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-aro-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-3": {
+   "t": 16.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cap-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cap-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cab-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cab-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cab-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mas-1": {
+   "t": 29.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mas-2": {
+   "t": 30.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mas-3": {
+   "t": 31.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chs-1": {
+   "t": 32.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chs-2": {
+   "t": 33.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soy-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soy-2": {
+   "t": 34.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-vin-1": {
+   "t": 35.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 36.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 37.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nood-1": {
+   "t": 38.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nood-2": {
+   "t": 38.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nood-3": {
+   "t": 39.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 40.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 41.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 43.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 49.0,
+   "crop": [
+    0,
+    290,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 50.0,
+   "crop": [
+    0,
+    290,
+    720,
+    720
+   ],
+   "w": 480
+  }
+ }
+}

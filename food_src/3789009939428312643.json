@@ -1,0 +1,495 @@
+{
+ "videos": [
+  "3789009939428312643"
+ ],
+ "dish": {
+  "id": "spinach-tofu-roti",
+  "name": "Spinach tofu roti",
+  "meal": "Lunch or dinner",
+  "minutes": 40,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Mixie (blender), tawa, gas, rolling pin, tongs, bowl",
+  "serves": 4,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 cups packed (100 g), blanched",
+    "n": "Spinach (palak)",
+    "tag": "spinach",
+    "img": "i-spinach"
+   },
+   {
+    "q": "~100 g (5 to 6 cubes)",
+    "n": "Firm tofu (or paneer), in cubes",
+    "tag": "tofu",
+    "alt": [
+     "paneer"
+    ],
+    "img": "i-tofu"
+   },
+   {
+    "q": "1 to 2",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "a big handful",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/4 cup",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~2 cups (250 g), plus extra to dust",
+    "n": "Whole wheat flour (atta)",
+    "tag": "atta",
+    "img": "i-flour"
+   },
+   {
+    "q": "a little",
+    "n": "Ghee, for the cooked rotis",
+    "tag": "ghee",
+    "img": "i-ghee",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the blanched spinach in ice-cold water.",
+    "imgs": [
+     "s-ice-1",
+     "s-ice-2"
+    ]
+   },
+   {
+    "t": "Take the spinach out and put it in the mixie jar.",
+    "imgs": [
+     "s-jar-1"
+    ]
+   },
+   {
+    "t": "Add the tofu cubes, green chilli and coriander leaves.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2",
+     "s-add-3"
+    ]
+   },
+   {
+    "t": "Add a little water. Close the lid and blend to a smooth purée.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2",
+     "s-blend-3"
+    ]
+   },
+   {
+    "t": "Put the whole wheat flour in a bowl. Pour the purée over it.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2"
+    ]
+   },
+   {
+    "t": "Mix and knead into a dough.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Roll a small ball of dough. Dip it in dry flour.",
+    "imgs": [
+     "s-ball-1",
+     "s-ball-2"
+    ]
+   },
+   {
+    "t": "Roll it into a thin round roti.",
+    "imgs": [
+     "s-roll-1",
+     "s-roll-2",
+     "s-roll-3"
+    ]
+   },
+   {
+    "t": "Cook the roti on a hot tawa until it starts to bubble.",
+    "imgs": [
+     "s-tawa-1",
+     "s-tawa-2",
+     "s-tawa-3"
+    ]
+   },
+   {
+    "t": "Lift it with tongs and puff it over the flame.",
+    "imgs": [
+     "s-puff-1",
+     "s-puff-2"
+    ]
+   },
+   {
+    "t": "Spread a little ghee on the hot rotis, if you like.",
+    "imgs": [
+     "s-ghee-1",
+     "s-ghee-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "credit": "Nutritionist_Edition",
+  "notes": "No amounts shown on screen: all amounts are my estimates (~). The spinach looks blanched and put in ice water; the blanching itself is not shown. The video shows the water, but not how much. The spoon of liquid on the stacked rotis looks like ghee or oil. Cooking times and heat levels are not shown. The video has pregnancy-health captions which I left out."
+ },
+ "images": {
+  "cover": {
+   "t": 3.2,
+   "crop": [
+    0,
+    255,
+    720,
+    560
+   ],
+   "w": 560
+  },
+  "i-spinach": {
+   "t": 9.0,
+   "crop": [
+    150,
+    330,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-tofu": {
+   "t": 10.5,
+   "crop": [
+    100,
+    540,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 11.0,
+   "crop": [
+    60,
+    535,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 11.5,
+   "crop": [
+    200,
+    540,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 12.0,
+   "crop": [
+    150,
+    535,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-flour": {
+   "t": 14.0,
+   "crop": [
+    140,
+    505,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 3.5,
+   "crop": [
+    100,
+    440,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "s-ice-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-ice-2": {
+   "t": 9.6,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-jar-1": {
+   "t": 10.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 10.5,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 11.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-add-3": {
+   "t": 11.5,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 12.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 12.5,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-blend-3": {
+   "t": 13.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 14.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 15.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 16.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 17.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 19.0,
+   "crop": [
+    135,
+    530,
+    450,
+    300
+   ],
+   "w": 480
+  },
+  "s-ball-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-ball-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-roll-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-roll-3": {
+   "t": 26.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-tawa-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-tawa-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-tawa-3": {
+   "t": 29.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-puff-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-puff-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-ghee-2": {
+   "t": 4.6,
+   "crop": [
+    0,
+    255,
+    720,
+    520
+   ],
+   "w": 480
+  }
+ }
+}

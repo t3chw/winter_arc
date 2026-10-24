@@ -1,0 +1,813 @@
+{
+ "videos": [
+  "3769141182094691467"
+ ],
+ "dish": {
+  "id": "leftover-roti-tacos",
+  "name": "Leftover roti tacos",
+  "meal": "Snack",
+  "minutes": 30,
+  "protein": 10,
+  "how": "Gas + air fryer",
+  "tools": "Pan, gas, air fryer, spatula, silicone brush",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 tbsp (1 for the pan, 1 for brushing)",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "img": "i-oregano"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "1 medium, sliced",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1 medium, in strips",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "1 small, in thin strips",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "1 to 2, sliced",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-greenchilli"
+   },
+   {
+    "q": "1 small, chopped",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~1/4 cup",
+    "n": "Sweet corn kernels",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~60 g (about 10 small cubes)",
+    "n": "Paneer, in small cubes",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Tomato ketchup (or red chilli sauce)",
+    "tag": "tomato-ketchup",
+    "img": "i-sauce"
+   },
+   {
+    "q": "3",
+    "n": "Leftover rotis",
+    "tag": "atta",
+    "img": "i-roti"
+   },
+   {
+    "q": "3 slices",
+    "n": "Cheese slices",
+    "tag": "cheese",
+    "img": "i-cheese"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Melt the butter in a pan.",
+    "imgs": [
+     "s-butter-1"
+    ]
+   },
+   {
+    "t": "Add the chilli flakes.",
+    "imgs": [
+     "s-flakes-1",
+     "s-flakes-2"
+    ]
+   },
+   {
+    "t": "Add the oregano and the black pepper.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2",
+     "s-herb-3"
+    ]
+   },
+   {
+    "t": "Stir the spices in the butter.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Add the sliced onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the capsicum, carrot and green chilli.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Stir-fry the vegetables for a few minutes.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2",
+     "s-stir-3"
+    ]
+   },
+   {
+    "t": "Add the chopped tomato.",
+    "imgs": [
+     "s-tomato-1"
+    ]
+   },
+   {
+    "t": "Add the sweet corn and the paneer cubes.",
+    "imgs": [
+     "s-corn-1",
+     "s-corn-2"
+    ]
+   },
+   {
+    "t": "Stir well until everything is mixed.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2",
+     "s-cook-3"
+    ]
+   },
+   {
+    "t": "Add the ketchup.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2",
+     "s-sauce-3"
+    ]
+   },
+   {
+    "t": "Mix until the filling is coated and thick.",
+    "imgs": [
+     "s-done-1",
+     "s-done-2"
+    ]
+   },
+   {
+    "t": "Spoon some filling on one half of a roti.",
+    "imgs": [
+     "s-fill-1"
+    ]
+   },
+   {
+    "t": "Put a cheese slice on the filling. Add a little more filling on top.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Fold the roti over and press it into a taco shape.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2",
+     "s-fold-3",
+     "s-fold-4"
+    ]
+   },
+   {
+    "t": "Place the tacos in the air fryer basket.",
+    "imgs": [
+     "s-basket-1",
+     "s-basket-2",
+     "s-basket-3"
+    ]
+   },
+   {
+    "t": "Brush the tops with melted butter.",
+    "imgs": [
+     "s-brush-1",
+     "s-brush-2",
+     "s-brush-3"
+    ]
+   },
+   {
+    "t": "Air fry until golden and crisp.",
+    "imgs": [
+     "s-air-1",
+     "s-air-2",
+     "s-air-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "air-fryer"
+  ],
+  "notes": "No amounts shown and the speech is garbled: all amounts are my estimates (~). The English captions only say Air Fryer Recipes / Leftover Roti Tacos. Air fryer temperature and time are not shown (the tacos are brushed and air fried, I think flipped once). The red sauce looks like ketchup or a chilli sauce. Spices: chilli flakes, oregano and black pepper are from the speech; brown spoonful is probably the oregano and pepper mix. Protein estimated at ~10 g per taco."
+ },
+ "images": {
+  "cover": {
+   "t": 43.0,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-butter": {
+   "t": 7.0,
+   "crop": [
+    300,
+    600,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 7.5,
+   "crop": [
+    180,
+    430,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 8.5,
+   "crop": [
+    150,
+    430,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 9.5,
+   "crop": [
+    150,
+    400,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 13.0,
+   "crop": [
+    20,
+    430,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 14.0,
+   "crop": [
+    60,
+    440,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 14.0,
+   "crop": [
+    400,
+    460,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 19.0,
+   "crop": [
+    150,
+    500,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 20.0,
+   "crop": [
+    100,
+    720,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 20.5,
+   "crop": [
+    200,
+    500,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-sauce": {
+   "t": 25.0,
+   "crop": [
+    180,
+    100,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-roti": {
+   "t": 30.0,
+   "crop": [
+    120,
+    430,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 31.0,
+   "crop": [
+    160,
+    560,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "s-butter-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-1": {
+   "t": 7.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 8.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-3": {
+   "t": 9.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 12.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-3": {
+   "t": 18.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corn-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corn-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 24.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-done-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-done-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fill-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 32.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 33.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 34.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-3": {
+   "t": 36.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-4": {
+   "t": 37.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-basket-1": {
+   "t": 38.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-basket-2": {
+   "t": 39.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-basket-3": {
+   "t": 39.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-1": {
+   "t": 40.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-2": {
+   "t": 40.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-3": {
+   "t": 41.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-air-1": {
+   "t": 42.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-air-2": {
+   "t": 42.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-air-3": {
+   "t": 43.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "i-greenchilli": {
+   "t": 18.0,
+   "crop": [
+    300,
+    640,
+    230,
+    230
+   ],
+   "w": 200
+  }
+ }
+}

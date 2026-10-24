@@ -1,0 +1,506 @@
+{
+ "videos": [
+  "3795474518999921308"
+ ],
+ "dish": {
+  "id": "air-fryer-soya-tikka",
+  "name": "Air fryer soya tikka",
+  "meal": "Snack",
+  "minutes": 30,
+  "protein": 15,
+  "how": "Air fryer",
+  "tools": "Air fryer, baking paper, tongs, spoons",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (60 g dry), soaked and squeezed",
+    "n": "Soya chunks (mini)",
+    "tag": "soya-chunks",
+    "img": "i-soya"
+   },
+   {
+    "q": "1 medium",
+    "n": "Capsicum, cut in squares",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "1 medium",
+    "n": "Onion, in petals",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Ginger garlic paste",
+    "tag": "ginger",
+    "alt": [
+     "garlic"
+    ],
+    "img": "i-gingergarlic"
+   },
+   {
+    "q": "~1/4 cup (60 g)",
+    "n": "Curd (dahi), thick",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-redchilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Dried herb (looks like kasuri methi or oregano)",
+    "tag": "kasuri-methi",
+    "alt": [
+     "oregano"
+    ],
+    "img": "i-herb",
+    "opt": true
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Hot oil",
+    "tag": "oil",
+    "img": "i-oil"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Line the air fryer basket with baking paper. Put in the soaked soya chunks.",
+    "imgs": [
+     "s-put-1",
+     "s-put-2"
+    ]
+   },
+   {
+    "t": "Add the capsicum pieces.",
+    "imgs": [
+     "s-cap-1",
+     "s-cap-2"
+    ]
+   },
+   {
+    "t": "Add the onion petals.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the ginger garlic paste.",
+    "imgs": [
+     "s-gg-1",
+     "s-gg-2"
+    ]
+   },
+   {
+    "t": "Add the curd.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2",
+     "s-curd-3"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Sprinkle the salt and the dried herb on top.",
+    "imgs": [
+     "s-dry-1",
+     "s-dry-2"
+    ]
+   },
+   {
+    "t": "Pour the hot oil over everything.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Toss well with tongs until everything is coated.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Slide the basket into the air fryer and set the timer.",
+    "imgs": [
+     "s-fryer-1",
+     "s-fryer-2"
+    ]
+   },
+   {
+    "t": "Air fry until the soya chunks are golden and the edges are crisp.",
+    "imgs": [
+     "s-done-1",
+     "s-done-2"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer"
+  ],
+  "notes": "Silent video (music only), no amounts shown: all amounts are my estimates (~). Soaking the soya chunks is not shown (soak in hot water 10 min, squeeze dry). Air fryer time and temperature not readable (display shows 10, probably minutes) so 30 min total is a guess. Pale yellow stuff added at 3 s looks like ginger garlic paste; the white sprinkle is salt (my guess). The pan of dark hot oil poured at the end may have spices in it; not clear. The dried herb is tiny green flakes sprinkled by hand."
+ },
+ "images": {
+  "cover": {
+   "t": 14.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-soya": {
+   "t": 0.0,
+   "crop": [
+    330,
+    100,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 1.0,
+   "crop": [
+    380,
+    0,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 2.0,
+   "crop": [
+    380,
+    60,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-gingergarlic": {
+   "t": 3.0,
+   "crop": [
+    300,
+    260,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 4.5,
+   "crop": [
+    120,
+    330,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-redchilli": {
+   "t": 6.5,
+   "crop": [
+    200,
+    560,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 7.3,
+   "crop": [
+    300,
+    700,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-herb": {
+   "t": 3.3,
+   "crop": [
+    100,
+    660,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 9.0,
+   "crop": [
+    180,
+    100,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-put-1": {
+   "t": 0.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-put-2": {
+   "t": 0.7,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cap-1": {
+   "t": 1.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cap-2": {
+   "t": 1.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 2.6,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gg-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gg-2": {
+   "t": 3.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-3": {
+   "t": 5.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-1": {
+   "t": 7.3,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-2": {
+   "t": 8.3,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 10.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 11.8,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 12.5,
+   "crop": [
+    0,
+    160,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fryer-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fryer-2": {
+   "t": 13.7,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-done-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-done-2": {
+   "t": 14.8,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

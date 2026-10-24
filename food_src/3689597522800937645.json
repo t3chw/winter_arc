@@ -1,0 +1,377 @@
+{
+ "videos": [
+  "3689597522800937645"
+ ],
+ "dish": {
+  "id": "creamy-chickpea-curd-salad",
+  "name": "Creamy chickpea curd salad",
+  "meal": "Breakfast",
+  "minutes": 10,
+  "protein": 25,
+  "how": "No cooking",
+  "tools": "Knife, bowl",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 small (100 g)",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~1 small",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~3/4 cup (180 g), thick",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1/2 lime, juice",
+    "n": "Lime (nimbu)",
+    "tag": "lemon",
+    "img": "i-lime"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1 cup (160 g), boiled",
+    "n": "Chickpeas (kabuli chana)",
+    "tag": "chickpeas",
+    "img": "i-chickpeas"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the cucumber into long pieces.",
+    "imgs": [
+     "s-cuc-1",
+     "s-cuc-2"
+    ]
+   },
+   {
+    "t": "Chop the onion fine.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Put the curd in a bowl.",
+    "imgs": [
+     "s-curd"
+    ]
+   },
+   {
+    "t": "Squeeze in the lime juice.",
+    "imgs": [
+     "s-lime"
+    ]
+   },
+   {
+    "t": "Add the chilli flakes.",
+    "imgs": [
+     "s-flakes"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander and mix.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Add the boiled chickpeas.",
+    "imgs": [
+     "s-chick"
+    ]
+   },
+   {
+    "t": "Add the chopped onion and the diced cucumber.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "Mix everything well.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Serve in a bowl.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "quick",
+   "high-protein",
+   "high-fibre"
+  ],
+  "notes": "Silent video, no amounts shown: all quantities are estimates (~). The cucumber is cut in long pieces and ends up diced (the dicing is not shown). No salt is shown; add to taste. Video is letterboxed, so pictures are cropped from the middle."
+ },
+ "images": {
+  "cover": {
+   "t": 19.3,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-cucumber": {
+   "t": 3.0,
+   "crop": [
+    120,
+    400,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 5.0,
+   "crop": [
+    160,
+    380,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 6.5,
+   "crop": [
+    100,
+    520,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-lime": {
+   "t": 7.0,
+   "crop": [
+    0,
+    290,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 8.0,
+   "crop": [
+    80,
+    480,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 9.3,
+   "crop": [
+    80,
+    450,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-chickpeas": {
+   "t": 11.0,
+   "crop": [
+    100,
+    300,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "s-cuc-1": {
+   "t": 1.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-2": {
+   "t": 3.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd": {
+   "t": 6.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lime": {
+   "t": 7.0,
+   "crop": [
+    0,
+    290,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes": {
+   "t": 8.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 9.3,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 10.3,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chick": {
+   "t": 11.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 18.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

@@ -1,0 +1,928 @@
+{
+ "videos": [
+  "3793183283887058657"
+ ],
+ "dish": {
+  "id": "christmas-fruit-cake",
+  "name": "Christmas fruit cake",
+  "meal": "Snack",
+  "minutes": 90,
+  "protein": 5,
+  "how": "Gas + oven",
+  "tools": "Saucepan, non-stick pan, gas, bowl, whisk, sieve, spatula, cake tin, parchment paper, oven",
+  "serves": 8,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1/2 cup (120 ml)",
+    "n": "Orange juice",
+    "tag": "orange-juice",
+    "img": "i-orangejuice"
+   },
+   {
+    "q": "~1/4 cup, for the fruit and the caramel",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Lemon juice",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "~1/2 cup (75 g)",
+    "n": "Raisins, black and golden",
+    "tag": "raisins",
+    "img": "i-raisins"
+   },
+   {
+    "q": "~1/4 cup (40 g)",
+    "n": "Dried cranberries",
+    "tag": "cranberry",
+    "img": "i-cranberry"
+   },
+   {
+    "q": "~1/4 cup (40 g)",
+    "n": "Tutti frutti (candied fruit)",
+    "tag": "tutti-frutti",
+    "img": "i-tutti"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Sugar, for the caramel",
+    "tag": "sugar",
+    "img": "i-sugar"
+   },
+   {
+    "q": "~1/2 cup (120 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "~1/4 cup (60 ml)",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Brown sugar",
+    "tag": "brown-sugar",
+    "alt": [
+     "sugar"
+    ],
+    "img": "i-brownsugar"
+   },
+   {
+    "q": "~1 1/2 cups (190 g)",
+    "n": "Flour (maida)",
+    "tag": "all-purpose-flour",
+    "alt": [
+     "atta"
+    ],
+    "img": "i-flour"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Cocoa powder",
+    "tag": "cocoa",
+    "img": "i-cocoa"
+   },
+   {
+    "q": "~1 tsp in all",
+    "n": "Cake spice powders (cinnamon, nutmeg, ginger, clove)",
+    "tag": "cinnamon",
+    "img": "i-spices"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Baking powder",
+    "tag": "baking-powder",
+    "img": "i-bakingpowder",
+    "alt": [
+     "baking-soda"
+    ]
+   },
+   {
+    "q": "~1/4 cup (30 g)",
+    "n": "Mixed nuts, chopped (almonds, cashews)",
+    "tag": "almonds",
+    "alt": [
+     "cashews",
+     "walnuts"
+    ],
+    "img": "i-nuts"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Pour the orange juice into a saucepan.",
+    "imgs": [
+     "s-juice-1",
+     "s-juice-2"
+    ]
+   },
+   {
+    "t": "Add the water and the lemon juice.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Add the raisins, cranberries and tutti frutti.",
+    "imgs": [
+     "s-fruit-1",
+     "s-fruit-2",
+     "s-fruit-3"
+    ]
+   },
+   {
+    "t": "Heat and stir until the fruit has soaked up most of the juice.",
+    "imgs": [
+     "s-simmer-1",
+     "s-simmer-2",
+     "s-simmer-3"
+    ]
+   },
+   {
+    "t": "Put the sugar in a non-stick pan.",
+    "imgs": [
+     "s-sugar-1",
+     "s-sugar-2"
+    ]
+   },
+   {
+    "t": "Heat the sugar until it melts and turns amber.",
+    "imgs": [
+     "s-melt-1",
+     "s-melt-2"
+    ]
+   },
+   {
+    "t": "Carefully add water and stir until the caramel is smooth.",
+    "imgs": [
+     "s-cwater-1",
+     "s-cwater-2",
+     "s-cstir-1",
+     "s-cstir-2"
+    ]
+   },
+   {
+    "t": "Pour the milk into a big bowl.",
+    "imgs": [
+     "s-milk-1"
+    ]
+   },
+   {
+    "t": "Add the oil.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Add the brown sugar and whisk.",
+    "imgs": [
+     "s-bsugar-1",
+     "s-bsugar-2",
+     "s-bsugar-3"
+    ]
+   },
+   {
+    "t": "Pour in the caramel and whisk until smooth.",
+    "imgs": [
+     "s-caramel-1",
+     "s-caramel-2",
+     "s-caramel-3"
+    ]
+   },
+   {
+    "t": "Sift the flour into the bowl.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2",
+     "s-flour-3"
+    ]
+   },
+   {
+    "t": "Add the cocoa powder.",
+    "imgs": [
+     "s-cocoa-1",
+     "s-cocoa-2"
+    ]
+   },
+   {
+    "t": "Add the spice powders and the baking powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-bake-p-1",
+     "s-bake-p-2"
+    ]
+   },
+   {
+    "t": "Mix everything into a smooth batter.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Fold in the cooked fruit.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2",
+     "s-fold-3"
+    ]
+   },
+   {
+    "t": "Add the chopped nuts and fold gently.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2",
+     "s-nuts-3"
+    ]
+   },
+   {
+    "t": "Pour the batter into a cake tin lined with parchment paper.",
+    "imgs": [
+     "s-tin-1",
+     "s-tin-2",
+     "s-tin-3"
+    ]
+   },
+   {
+    "t": "Bake the cake. The video does not show the oven time or heat.",
+    "imgs": [
+     "s-bake-1"
+    ]
+   },
+   {
+    "t": "Let it cool, then peel off the paper.",
+    "imgs": [
+     "s-cool-1",
+     "s-cool-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "Silent video (music only), no amounts shown: all amounts are my estimates (~). No egg seen anywhere. Baking is not shown (no oven time, heat or tin size), so step 19 has no baking picture and the total time is a guess. The four spice powders in the small bowl (cinnamon, nutmeg, ginger, clove) and the white powder sprinkled on the flour (baking powder) are my guesses. The brown powder looks like brown sugar. Sweet cake, not high in protein. You have no oven: an air fryer or a covered pot may work, but the video does not show that."
+ },
+ "images": {
+  "cover": {
+   "t": 66.0,
+   "crop": [
+    0,
+    200,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-orangejuice": {
+   "t": 16.5,
+   "crop": [
+    60,
+    40,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 18.0,
+   "crop": [
+    0,
+    0,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 18.75,
+   "crop": [
+    0,
+    0,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-raisins": {
+   "t": 21.75,
+   "crop": [
+    400,
+    520,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-cranberry": {
+   "t": 21.75,
+   "crop": [
+    60,
+    640,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-tutti": {
+   "t": 21.75,
+   "crop": [
+    0,
+    380,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-sugar": {
+   "t": 28.5,
+   "crop": [
+    60,
+    250,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-milk": {
+   "t": 36.5,
+   "crop": [
+    0,
+    150,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 37.0,
+   "crop": [
+    0,
+    40,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-brownsugar": {
+   "t": 38.5,
+   "crop": [
+    0,
+    20,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-flour": {
+   "t": 43.0,
+   "crop": [
+    60,
+    150,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-cocoa": {
+   "t": 44.5,
+   "crop": [
+    60,
+    80,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-spices": {
+   "t": 46.0,
+   "crop": [
+    30,
+    300,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-bakingpowder": {
+   "t": 50.0,
+   "crop": [
+    140,
+    480,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-nuts": {
+   "t": 57.0,
+   "crop": [
+    150,
+    420,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-juice-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-juice-2": {
+   "t": 17.25,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 18.75,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fruit-1": {
+   "t": 20.25,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fruit-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fruit-3": {
+   "t": 24.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-simmer-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-simmer-2": {
+   "t": 26.25,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-simmer-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sugar-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sugar-2": {
+   "t": 29.25,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-melt-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-melt-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cwater-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cwater-2": {
+   "t": 32.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cstir-1": {
+   "t": 33.5,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cstir-2": {
+   "t": 36.0,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-1": {
+   "t": 36.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bsugar-1": {
+   "t": 38.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bsugar-2": {
+   "t": 38.5,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bsugar-3": {
+   "t": 39.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-caramel-1": {
+   "t": 40.5,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-caramel-2": {
+   "t": 41.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-caramel-3": {
+   "t": 42.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 42.5,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-3": {
+   "t": 44.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cocoa-1": {
+   "t": 44.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cocoa-2": {
+   "t": 45.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 46.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 47.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bake-p-1": {
+   "t": 48.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bake-p-2": {
+   "t": 50.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 53.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 54.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 55.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-3": {
+   "t": 56.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 57.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 58.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-3": {
+   "t": 59.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tin-1": {
+   "t": 60.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tin-2": {
+   "t": 61.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tin-3": {
+   "t": 62.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bake-1": {
+   "t": 63.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cool-1": {
+   "t": 64.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cool-2": {
+   "t": 65.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

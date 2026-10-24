@@ -1,0 +1,1049 @@
+{
+ "videos": [
+  "3684921941367842670"
+ ],
+ "dish": {
+  "id": "gujarati-dal-rice-aloo",
+  "name": "Gujarati dal rice aloo sabzi",
+  "meal": "Lunch or dinner",
+  "minutes": 50,
+  "protein": 25,
+  "how": "Pressure cooker + gas",
+  "tools": "Pressure cooker with stacking containers, saucepan, pan, whisk, gas",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup",
+    "n": "Basmati rice",
+    "tag": "rice",
+    "img": "i-rice"
+   },
+   {
+    "q": "~1 cup",
+    "n": "Toor dal",
+    "tag": "toor-dal",
+    "img": "i-dal"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Raw peanuts (shelled)",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "3 medium",
+    "n": "Potatoes",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "as needed",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "to taste (rice, dal, potatoes)",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp for the dal, ~1 tsp for the potatoes",
+    "n": "Coriander-cumin powder (dhana-jeera)",
+    "tag": "coriander-powder",
+    "alt": [
+     "cumin-powder"
+    ],
+    "img": "i-cc"
+   },
+   {
+    "q": "~1 tsp for the dal, ~1/2 tsp for the potatoes",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-redchilli"
+   },
+   {
+    "q": "~1 tsp, grated",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-ginger"
+   },
+   {
+    "q": "~2 tbsp for the tadka, ~2 tbsp for the potatoes",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tsp for the tadka, ~1/2 tsp for the potatoes",
+    "n": "Mustard seeds",
+    "tag": "mustard-seeds",
+    "img": "i-mustard"
+   },
+   {
+    "q": "~2",
+    "n": "Dry red chillies",
+    "tag": "dry-red-chilli",
+    "img": "i-drychilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Fenugreek seeds (methi dana)",
+    "tag": "fenugreek-seeds",
+    "img": "i-fenugreek"
+   },
+   {
+    "q": "a pinch",
+    "n": "Hing (asafoetida)",
+    "tag": "hing",
+    "img": "i-hing"
+   },
+   {
+    "q": "a small piece (~1 tbsp, crumbled)",
+    "n": "Jaggery (gur)",
+    "tag": "jaggery",
+    "img": "i-jaggery"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Tamarind pulp (imli)",
+    "tag": "tamarind",
+    "img": "i-tamarind"
+   },
+   {
+    "q": "~3 tbsp, chopped (dal and potatoes)",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Sesame seeds",
+    "tag": "sesame-seeds",
+    "opt": true,
+    "img": "i-sesame"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Add the rice to a steel container.",
+    "imgs": [
+     "s-rice-1",
+     "s-rice-2"
+    ]
+   },
+   {
+    "t": "Add water and a pinch of salt, then stir.",
+    "imgs": [
+     "s-rice-3",
+     "s-rice-4"
+    ]
+   },
+   {
+    "t": "Add the toor dal to a second container.",
+    "imgs": [
+     "s-dal-1"
+    ]
+   },
+   {
+    "t": "Pour in water, add salt and stir.",
+    "imgs": [
+     "s-dal-2",
+     "s-dal-3"
+    ]
+   },
+   {
+    "t": "Place a small bowl of peanuts in the dal and add water to it.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2"
+    ]
+   },
+   {
+    "t": "Stack the containers, cover with the lid and put the potatoes on top.",
+    "imgs": [
+     "s-stack-1",
+     "s-stack-2"
+    ]
+   },
+   {
+    "t": "Lower the stack into the pressure cooker and close the lid.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2"
+    ]
+   },
+   {
+    "t": "Pressure cook until the dal, rice and potatoes are soft.",
+    "imgs": [
+     "s-cook-3",
+     "s-cook-4"
+    ]
+   },
+   {
+    "t": "Take out the potatoes and fluff the rice with a fork.",
+    "imgs": [
+     "s-out-1",
+     "s-out-2",
+     "s-out-3"
+    ]
+   },
+   {
+    "t": "Lift out the peanut bowl and whisk the dal until smooth.",
+    "imgs": [
+     "s-whisk-1",
+     "s-whisk-2"
+    ]
+   },
+   {
+    "t": "Add coriander-cumin powder, red chilli powder and ginger to the dal.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Add the cooked peanuts and whisk again.",
+    "imgs": [
+     "s-whisk-3",
+     "s-whisk-4"
+    ]
+   },
+   {
+    "t": "Heat oil in a saucepan.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Add mustard seeds, dry red chillies, fenugreek seeds and hing.",
+    "imgs": [
+     "s-tadka-1",
+     "s-tadka-2",
+     "s-tadka-3"
+    ]
+   },
+   {
+    "t": "Pour the whisked dal into the saucepan.",
+    "imgs": [
+     "s-pour-1"
+    ]
+   },
+   {
+    "t": "Add a little water, a small piece of jaggery and tamarind pulp.",
+    "imgs": [
+     "s-sour-1",
+     "s-sour-2",
+     "s-sour-3"
+    ]
+   },
+   {
+    "t": "Stir well and add chopped coriander.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2",
+     "s-stir-3"
+    ]
+   },
+   {
+    "t": "Peel the boiled potatoes and cut them into wedges.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Heat oil in a pan.",
+    "imgs": [
+     "s-saak-1"
+    ]
+   },
+   {
+    "t": "Add mustard seeds and turmeric.",
+    "imgs": [
+     "s-saak-2",
+     "s-saak-3"
+    ]
+   },
+   {
+    "t": "Add the potato wedges and stir.",
+    "imgs": [
+     "s-pot-1",
+     "s-pot-2"
+    ]
+   },
+   {
+    "t": "Add coriander-cumin powder, red chilli powder, salt and sesame seeds.",
+    "imgs": [
+     "s-pspice-1",
+     "s-pspice-2",
+     "s-pspice-3"
+    ]
+   },
+   {
+    "t": "Toss well, add a little more salt and chopped coriander.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Put rice, potato sabzi and dal together in a bowl.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2",
+     "s-serve-3"
+    ]
+   }
+  ],
+  "tags": [
+   "pressure-cooker",
+   "gas",
+   "high-protein"
+  ],
+  "notes": "Silent video (title: Lunch | Gujarati Daal | Saak), no amounts, times or heat shown: all quantities are estimates (~). It is an Instant Pot with a stack of steel containers; a normal cooker needs the same containers or separate cooking. Pressure-cook time is not shown (I did not guess one). Guesses: yellow crumbs added to the dal look like grated ginger; the lump and dark liquid are jaggery and tamarind; the small bowl holds shelled peanuts; seeds on the potatoes look like sesame. A little water is added to the dal after the tadka (thin stream)."
+ },
+ "images": {
+  "cover": {
+   "t": 54.0,
+   "crop": [
+    0,
+    300,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-rice": {
+   "t": 1.5,
+   "crop": [
+    90,
+    480,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-dal": {
+   "t": 4.5,
+   "crop": [
+    100,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 8.5,
+   "crop": [
+    190,
+    400,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-potato": {
+   "t": 10.5,
+   "crop": [
+    100,
+    300,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 5.5,
+   "crop": [
+    330,
+    100,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 2.5,
+   "crop": [
+    180,
+    340,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cc": {
+   "t": 20.0,
+   "crop": [
+    150,
+    640,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-redchilli": {
+   "t": 20.8,
+   "crop": [
+    140,
+    620,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-ginger": {
+   "t": 21.2,
+   "crop": [
+    270,
+    600,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 24.0,
+   "crop": [
+    0,
+    0,
+    700,
+    700
+   ],
+   "w": 200
+  },
+  "i-mustard": {
+   "t": 24.6,
+   "crop": [
+    200,
+    740,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-drychilli": {
+   "t": 25.0,
+   "crop": [
+    200,
+    540,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-fenugreek": {
+   "t": 25.5,
+   "crop": [
+    200,
+    600,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-hing": {
+   "t": 26.0,
+   "crop": [
+    170,
+    580,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-jaggery": {
+   "t": 29.6,
+   "crop": [
+    200,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-tamarind": {
+   "t": 30.2,
+   "crop": [
+    200,
+    240,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 32.6,
+   "crop": [
+    20,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 44.0,
+   "crop": [
+    100,
+    560,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 39.1,
+   "crop": [
+    130,
+    600,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-rice-1": {
+   "t": 1.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-2": {
+   "t": 1.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-3": {
+   "t": 2.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-4": {
+   "t": 3.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dal-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dal-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dal-3": {
+   "t": 6.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 7.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 8.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stack-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stack-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 13.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-4": {
+   "t": 15.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-3": {
+   "t": 17.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-whisk-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-whisk-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-whisk-3": {
+   "t": 21.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-whisk-4": {
+   "t": 22.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tadka-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tadka-2": {
+   "t": 25.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tadka-3": {
+   "t": 26.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sour-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sour-2": {
+   "t": 29.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sour-3": {
+   "t": 30.3,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 32.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-3": {
+   "t": 34.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 35.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 36.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-saak-1": {
+   "t": 38.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-saak-2": {
+   "t": 38.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-saak-3": {
+   "t": 39.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pot-1": {
+   "t": 39.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pot-2": {
+   "t": 40.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pspice-1": {
+   "t": 42.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pspice-2": {
+   "t": 43.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pspice-3": {
+   "t": 44.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 45.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 46.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 47.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 50.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 52.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-3": {
+   "t": 53.5,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

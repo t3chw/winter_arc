@@ -1,0 +1,825 @@
+{
+ "videos": [
+  "3691578081899571601"
+ ],
+ "dish": {
+  "id": "cheesy-corn-tawa-pizza",
+  "name": "Cheesy corn tawa pizza",
+  "meal": "Lunch or dinner",
+  "minutes": 35,
+  "protein": 20,
+  "how": "Gas",
+  "tools": "Tawa (flat pan) with glass lid, rolling pin, fork, gas",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1/2 cup (60 g), kneaded to a soft dough",
+    "n": "Wheat flour (atta) dough",
+    "tag": "atta",
+    "img": "i-atta"
+   },
+   {
+    "q": "1",
+    "n": "Cheese slice",
+    "tag": "cheese",
+    "img": "i-cheeseslice"
+   },
+   {
+    "q": "~1/3 cup (40 g), cubes or grated",
+    "n": "Mozzarella or pizza cheese",
+    "tag": "cheese",
+    "img": "i-cheesecubes"
+   },
+   {
+    "q": "1 sachet (~6 g)",
+    "n": "Seasoning masala (Maggi Masala-ae-Magic)",
+    "tag": "seasoning-masala",
+    "alt": [
+     "chaat-masala",
+     "garam-masala"
+    ],
+    "img": "i-masala"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~3 tbsp, boiled",
+    "n": "Sweet corn",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~2 tbsp, diced",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~2 tbsp, diced (green and red)",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "opt": true,
+    "img": "i-oregano"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "opt": true,
+    "img": "i-flakes"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Flatten the dough ball with your palm.",
+    "imgs": [
+     "s-dough-1",
+     "s-dough-2",
+     "s-dough-3"
+    ]
+   },
+   {
+    "t": "Roll it into a round, thin roti.",
+    "imgs": [
+     "s-roll-1",
+     "s-roll-2"
+    ]
+   },
+   {
+    "t": "Place the cheese slice in the middle.",
+    "imgs": [
+     "s-slice-1",
+     "s-slice-2"
+    ]
+   },
+   {
+    "t": "Fold the dough over the cheese and press to seal.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2"
+    ]
+   },
+   {
+    "t": "Roll it into a ball and press flat, then roll out into a round base.",
+    "imgs": [
+     "s-reroll-1",
+     "s-reroll-2",
+     "s-reroll-3"
+    ]
+   },
+   {
+    "t": "Prick the base all over with a fork.",
+    "imgs": [
+     "s-prick-1",
+     "s-prick-2"
+    ]
+   },
+   {
+    "t": "Cook the base on a dry tawa, flipping, until it puffs and lightly browns.",
+    "imgs": [
+     "s-base-1",
+     "s-base-2",
+     "s-base-3",
+     "s-base-4"
+    ]
+   },
+   {
+    "t": "Spread the masala, red chilli powder and a little oil over the base as a sauce.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2",
+     "s-sauce-3",
+     "s-sauce-4"
+    ]
+   },
+   {
+    "t": "Cover the sauce with the cheese.",
+    "imgs": [
+     "s-cheese-1"
+    ]
+   },
+   {
+    "t": "Scatter the corn, onion and capsicum on top.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2",
+     "s-top-3"
+    ]
+   },
+   {
+    "t": "Melt butter on the tawa.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2"
+    ]
+   },
+   {
+    "t": "Put the pizza on the tawa and cover with a glass lid.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2",
+     "s-pan-3",
+     "s-pan-4"
+    ]
+   },
+   {
+    "t": "Cook until the cheese melts completely.",
+    "imgs": [
+     "s-melt-1",
+     "s-melt-2",
+     "s-melt-3"
+    ]
+   },
+   {
+    "t": "Move the pizza to a board and sprinkle with oregano.",
+    "imgs": [
+     "s-board-1",
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Sprinkle with chilli flakes.",
+    "imgs": [
+     "s-flakes-1",
+     "s-flakes-2"
+    ]
+   },
+   {
+    "t": "Cut into slices.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Eat hot while the cheese is stretchy.",
+    "imgs": [
+     "s-eat-1",
+     "s-eat-2",
+     "s-eat-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "Silent video, no amounts, heat or times shown: all quantities are estimates (~). Dough flour not named (looks like atta; the video starts with dough already kneaded). The red powder looks like red chilli powder and the golden liquid like oil (a sauce made from masala sachet + chilli + oil); a black dispenser is used near the lid step (probably oil, not shown clearly, so left out of the steps). Red cubes look like red capsicum. Cheese amounts are guesses."
+ },
+ "images": {
+  "cover": {
+   "t": 36.2,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 560
+  },
+  "i-atta": {
+   "t": 1.0,
+   "crop": [
+    130,
+    480,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-cheeseslice": {
+   "t": 5.6,
+   "crop": [
+    120,
+    420,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-cheesecubes": {
+   "t": 21.2,
+   "crop": [
+    10,
+    420,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-masala": {
+   "t": 17.4,
+   "crop": [
+    100,
+    450,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 18.6,
+   "crop": [
+    100,
+    440,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 19.0,
+   "crop": [
+    100,
+    500,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 22.2,
+   "crop": [
+    100,
+    500,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 22.4,
+   "crop": [
+    250,
+    380,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 23.4,
+   "crop": [
+    60,
+    450,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 24.6,
+   "crop": [
+    200,
+    400,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 33.2,
+   "crop": [
+    347,
+    630,
+    190,
+    190
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 35.2,
+   "crop": [
+    345,
+    610,
+    190,
+    190
+   ],
+   "w": 200
+  },
+  "s-dough-1": {
+   "t": 0.3,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-dough-2": {
+   "t": 1.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-dough-3": {
+   "t": 2.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-roll-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-roll-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-slice-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-slice-2": {
+   "t": 5.6,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 6.2,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 7.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-reroll-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-reroll-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-reroll-3": {
+   "t": 10.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-prick-1": {
+   "t": 11.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-prick-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-base-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-base-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-base-3": {
+   "t": 15.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-base-4": {
+   "t": 16.2,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 17.4,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 18.4,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-sauce-3": {
+   "t": 19.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-sauce-4": {
+   "t": 20.5,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 21.2,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 22.2,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 22.8,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-top-3": {
+   "t": 23.4,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 24.6,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-pan-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 26.8,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-pan-3": {
+   "t": 27.6,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-pan-4": {
+   "t": 28.4,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-melt-1": {
+   "t": 29.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-melt-2": {
+   "t": 29.6,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-melt-3": {
+   "t": 30.4,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-board-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 33.6,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-flakes-1": {
+   "t": 35.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-flakes-2": {
+   "t": 35.6,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 36.2,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 36.8,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 37.4,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-eat-1": {
+   "t": 40.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-eat-2": {
+   "t": 41.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  },
+  "s-eat-3": {
+   "t": 42.0,
+   "crop": [
+    0,
+    358,
+    570,
+    424
+   ],
+   "w": 480
+  }
+ }
+}

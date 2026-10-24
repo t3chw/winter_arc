@@ -1,0 +1,864 @@
+{
+ "videos": [
+  "3754023467596600216"
+ ],
+ "dish": {
+  "id": "beetroot-oats-chilla",
+  "name": "Beetroot oats chilla",
+  "meal": "Lunch or dinner",
+  "minutes": 25,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Mixie (blender), tawa, ladle or spoon, silicone brush, spatula",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1/2 cup (45 g)",
+    "n": "Rolled oats",
+    "tag": "oats",
+    "img": "i-oats"
+   },
+   {
+    "q": "1 small (~80 g), peeled",
+    "n": "Beetroot",
+    "tag": "beetroot",
+    "img": "i-beetroot"
+   },
+   {
+    "q": "1",
+    "n": "Amla (Indian gooseberry)",
+    "tag": "amla",
+    "img": "i-amla",
+    "opt": true
+   },
+   {
+    "q": "2 small pieces",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "2 small pieces",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-ginger"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin seeds (jeera)",
+    "tag": "cumin",
+    "img": "i-cumin"
+   },
+   {
+    "q": "1",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-greenchilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp (white and black)",
+    "n": "Sesame seeds (til)",
+    "tag": "sesame-seeds",
+    "img": "i-sesame"
+   },
+   {
+    "q": "~1 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oil",
+    "tag": "oil",
+    "alt": [
+     "ghee"
+    ],
+    "img": "i-oil"
+   },
+   {
+    "q": "~50 g (4 small slabs), seared",
+    "n": "Paneer, for the lunchbox",
+    "tag": "paneer",
+    "img": "i-paneer",
+    "opt": true
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Green chutney",
+    "tag": "green-chutney",
+    "img": "i-chutney",
+    "opt": true
+   },
+   {
+    "q": "a small handful",
+    "n": "Mulberries (shahtoot)",
+    "tag": "berries",
+    "img": "i-berries",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the oats on a plate.",
+    "imgs": [
+     "s-oats-1",
+     "s-oats-2"
+    ]
+   },
+   {
+    "t": "Add the beetroot and the amla.",
+    "imgs": [
+     "s-beet-1",
+     "s-beet-2",
+     "s-beet-3"
+    ]
+   },
+   {
+    "t": "Add the carrot, ginger, cumin seeds and green chilli.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Add the salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Pour in the water.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Blend everything in the mixie to a smooth pink batter.",
+    "imgs": [
+     "s-batter-1"
+    ]
+   },
+   {
+    "t": "Pour a spoon of batter on a hot tawa.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Spread it in circles into a thin round.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2",
+     "s-spread-3"
+    ]
+   },
+   {
+    "t": "Sprinkle white and black sesame seeds on top.",
+    "imgs": [
+     "s-sesame-1",
+     "s-sesame-2",
+     "s-sesame-3"
+    ]
+   },
+   {
+    "t": "Sprinkle the chopped coriander.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Drizzle a little oil over the top.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2",
+     "s-oil-3"
+    ]
+   },
+   {
+    "t": "Brush the oil over the chilla.",
+    "imgs": [
+     "s-brush-1",
+     "s-brush-2"
+    ]
+   },
+   {
+    "t": "Cook until the batter is set and the edges lift.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2",
+     "s-cook-3"
+    ]
+   },
+   {
+    "t": "Lift the chilla off with a spatula and fold it in half.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2",
+     "s-lift-3"
+    ]
+   },
+   {
+    "t": "Put the chilla in the lunchbox.",
+    "imgs": [
+     "s-box-1",
+     "s-box-2"
+    ]
+   },
+   {
+    "t": "Add the seared paneer cubes.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add a spoon of green chutney.",
+    "imgs": [
+     "s-chutney-1",
+     "s-chutney-2",
+     "s-chutney-3"
+    ]
+   },
+   {
+    "t": "Add the mulberries.",
+    "imgs": [
+     "s-berries-1",
+     "s-berries-2"
+    ]
+   },
+   {
+    "t": "Close the lid.",
+    "imgs": [
+     "s-lid-1",
+     "s-lid-2",
+     "s-lid-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "credit": "Thenutricookhouse",
+  "notes": "Silent video (music only) with no amounts: all amounts are my estimates (~). Blending is not shown: the video jumps from the ingredients on the plate to smooth pink batter, so step 6 is inferred. Cook time and heat are not shown, and the chilla is not flipped on screen. The two pale pieces next to the carrot look like ginger (one may be raw turmeric). The paneer slabs are already pan-seared with chilli powder; that is not shown. On-screen text gives the whole lunchbox as Protein 14 g, Carbs 38 g, Fats 10 g. Credit is a small watermark on the video."
+ },
+ "images": {
+  "cover": {
+   "t": 21.0,
+   "crop": [
+    0,
+    330,
+    640,
+    480
+   ],
+   "w": 560
+  },
+  "i-oats": {
+   "t": 5.0,
+   "crop": [
+    150,
+    420,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-beetroot": {
+   "t": 8.0,
+   "crop": [
+    180,
+    540,
+    210,
+    210
+   ],
+   "w": 200
+  },
+  "i-amla": {
+   "t": 8.0,
+   "crop": [
+    320,
+    660,
+    190,
+    190
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 7.0,
+   "crop": [
+    250,
+    360,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-ginger": {
+   "t": 7.0,
+   "crop": [
+    330,
+    470,
+    190,
+    190
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 7.0,
+   "crop": [
+    400,
+    360,
+    160,
+    160
+   ],
+   "w": 200
+  },
+  "i-greenchilli": {
+   "t": 7.0,
+   "crop": [
+    430,
+    380,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 8.0,
+   "crop": [
+    320,
+    430,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 8.5,
+   "crop": [
+    470,
+    250,
+    250,
+    250
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 14.0,
+   "crop": [
+    100,
+    500,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 15.0,
+   "crop": [
+    10,
+    300,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 16.5,
+   "crop": [
+    60,
+    250,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 24.0,
+   "crop": [
+    440,
+    480,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 25.0,
+   "crop": [
+    0,
+    170,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-berries": {
+   "t": 26.5,
+   "crop": [
+    240,
+    140,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "s-oats-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oats-2": {
+   "t": 5.3,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-beet-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-beet-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-beet-3": {
+   "t": 6.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 8.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-batter-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-3": {
+   "t": 12.5,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sesame-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sesame-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sesame-3": {
+   "t": 14.5,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-3": {
+   "t": 17.0,
+   "crop": [
+    0,
+    130,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 18.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 19.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-box-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-box-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-3": {
+   "t": 25.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-berries-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-berries-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-3": {
+   "t": 28.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

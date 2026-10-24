@@ -1,0 +1,756 @@
+{
+  "videos": [
+    "3604588850933718261"
+  ],
+  "dish": {
+    "id": "veg-curd-toast-sandwich",
+    "name": "Veg curd toast sandwich",
+    "meal": "Snack",
+    "minutes": 15,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Bowl, knife, spoon, tawa, spatula, gas",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "3 slices",
+        "n": "Bread, white",
+        "tag": "bread",
+        "img": "i-bread"
+      },
+      {
+        "q": "~1/4 cup, chopped",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/4 cup, chopped",
+        "n": "Capsicum",
+        "tag": "capsicum",
+        "img": "i-capsicum"
+      },
+      {
+        "q": "1, finely chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "1 small, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~2 tbsp, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Thick curd",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder (flakes)",
+        "tag": "red-chilli-powder",
+        "img": "i-red-chilli-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Chaat masala",
+        "tag": "chaat-masala",
+        "img": "i-chaat-masala"
+      },
+      {
+        "q": "a pinch",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Coriander chutney (green chutney)",
+        "tag": "green-chutney",
+        "img": "i-green-chutney"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Imli (tamarind) chutney or tomato ketchup",
+        "tag": "chutney",
+        "alt": [
+          "tomato-ketchup"
+        ],
+        "img": "i-imli-chutney"
+      },
+      {
+        "q": "~1 tsp, melted",
+        "n": "Desi ghee",
+        "tag": "ghee",
+        "img": "i-ghee"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put chopped onion, capsicum and green chilli in a bowl.",
+        "imgs": [
+          "s1-1",
+          "s1-2",
+          "s1-3"
+        ]
+      },
+      {
+        "t": "Add chopped tomato and coriander leaves.",
+        "imgs": [
+          "s2-1",
+          "s2-2",
+          "s2-3"
+        ]
+      },
+      {
+        "t": "Add thick curd.",
+        "imgs": [
+          "s3-1",
+          "s3-2"
+        ]
+      },
+      {
+        "t": "Add red chilli powder, chaat masala and salt.",
+        "imgs": [
+          "s4-1",
+          "s4-2",
+          "s4-3"
+        ]
+      },
+      {
+        "t": "Mix well.",
+        "imgs": [
+          "s5-1",
+          "s5-2"
+        ]
+      },
+      {
+        "t": "Lay out 3 slices of bread.",
+        "imgs": [
+          "s6-1",
+          "s6-2"
+        ]
+      },
+      {
+        "t": "Spread coriander chutney on the first slice.",
+        "imgs": [
+          "s7-1",
+          "s7-2"
+        ]
+      },
+      {
+        "t": "Spread the veg curd mix over the chutney.",
+        "imgs": [
+          "s8-1",
+          "s8-2",
+          "s8-3"
+        ]
+      },
+      {
+        "t": "Spread imli chutney or tomato ketchup on the second slice.",
+        "imgs": [
+          "s9-1",
+          "s9-2"
+        ]
+      },
+      {
+        "t": "Put the second slice on the mix, sauce side down. Spread chutney on top.",
+        "imgs": [
+          "s10-1"
+        ]
+      },
+      {
+        "t": "Spread the veg curd mix on it.",
+        "imgs": [
+          "s11-1",
+          "s11-2"
+        ]
+      },
+      {
+        "t": "Spread sauce on the third slice. Close the sandwich, sauce side down.",
+        "imgs": [
+          "s12-1",
+          "s12-2",
+          "s12-3"
+        ]
+      },
+      {
+        "t": "Heat a tawa. Melt desi ghee on it.",
+        "imgs": [
+          "s13-1",
+          "s13-2"
+        ]
+      },
+      {
+        "t": "Put the sandwich on the tawa. Spread ghee on top.",
+        "imgs": [
+          "s14-1",
+          "s14-2",
+          "s14-3"
+        ]
+      },
+      {
+        "t": "Toast until golden. Flip and toast the other side until crispy.",
+        "imgs": [
+          "s15-1",
+          "s15-2",
+          "s15-3"
+        ]
+      },
+      {
+        "t": "Cut in half and serve hot.",
+        "imgs": [
+          "s16-1",
+          "s16-2",
+          "s16-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "Silent video; on-screen text lists ingredient names only (no amounts), so all amounts are my guesses. The layering is my reading: slice 1 chutney + mix, slice 2 (sauce side down) chutney + mix, slice 3 sauce side down. The fat for toasting is labelled desi ghee. Heat level and toasting time are not shown. The mix looks like enough for 2 sandwiches. Salt is only a spoon over the bowl."
+  },
+  "images": {
+    "cover": {
+      "t": 3.5,
+      "crop": [
+        0,
+        260,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-bread": {
+      "t": 15.8,
+      "crop": [
+        0,
+        300,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 6.8,
+      "crop": [
+        100,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-capsicum": {
+      "t": 7.6,
+      "crop": [
+        100,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 8.3,
+      "crop": [
+        350,
+        700,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 8.9,
+      "crop": [
+        80,
+        400,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 9.7,
+      "crop": [
+        100,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 10.8,
+      "crop": [
+        50,
+        380,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-red-chilli-powder": {
+      "t": 11.8,
+      "crop": [
+        300,
+        450,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chaat-masala": {
+      "t": 12.5,
+      "crop": [
+        180,
+        430,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 13.2,
+      "crop": [
+        200,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-green-chutney": {
+      "t": 16.3,
+      "crop": [
+        200,
+        550,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-imli-chutney": {
+      "t": 22.8,
+      "crop": [
+        100,
+        560,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 25.8,
+      "crop": [
+        150,
+        500,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 6.8,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-2": {
+      "t": 7.6,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-3": {
+      "t": 8.3,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 8.9,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 9.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-3": {
+      "t": 9.9,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 10.8,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 11.2,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 11.8,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-3": {
+      "t": 13.2,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 13.9,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-2": {
+      "t": 14.4,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 15.3,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 15.8,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 16.6,
+      "crop": [
+        0,
+        550,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 17.3,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 18.2,
+      "crop": [
+        0,
+        550,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 18.7,
+      "crop": [
+        0,
+        550,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-3": {
+      "t": 19.2,
+      "crop": [
+        0,
+        550,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 19.7,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 22.8,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 20.4,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-2": {
+      "t": 21.4,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-1": {
+      "t": 23.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-2": {
+      "t": 24.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-3": {
+      "t": 25.0,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-1": {
+      "t": 25.8,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-2": {
+      "t": 26.3,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-1": {
+      "t": 26.8,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-2": {
+      "t": 27.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-3": {
+      "t": 28.2,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-1": {
+      "t": 29.5,
+      "crop": [
+        0,
+        375,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-2": {
+      "t": 30.4,
+      "crop": [
+        0,
+        375,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-3": {
+      "t": 31.3,
+      "crop": [
+        0,
+        375,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-1": {
+      "t": 33.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-2": {
+      "t": 34.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-3": {
+      "t": 0.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

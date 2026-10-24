@@ -1,0 +1,976 @@
+{
+  "videos": [
+    "3588689936620596526"
+  ],
+  "dish": {
+    "id": "palak-paneer-pulao",
+    "name": "Palak paneer pulao",
+    "meal": "Lunch or dinner",
+    "minutes": 60,
+    "protein": 20,
+    "how": "Gas",
+    "tools": "Pan, heavy pot with lid, blender cup, gas",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~200 g, one block",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~20",
+        "n": "Cashews",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "~300 g (2 bunches)",
+        "n": "Spinach (palak)",
+        "tag": "spinach",
+        "img": "i-spinach"
+      },
+      {
+        "q": "~2 cups (350 g)",
+        "n": "Basmati rice",
+        "tag": "rice",
+        "img": "i-rice"
+      },
+      {
+        "q": "~3 cups (for the rice) + water to boil spinach",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~1/2 cup (3 tbsp for the pot, rest for frying paneer)",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 tbsp mixed: cinnamon, cloves, green cardamom, black pepper, star anise",
+        "n": "Whole spices",
+        "tag": "whole-spices",
+        "img": "i-whole-spices"
+      },
+      {
+        "q": "2 leaves",
+        "n": "Bay leaf",
+        "tag": "bay-leaf",
+        "img": "i-bay-leaf"
+      },
+      {
+        "q": "1 to 2",
+        "n": "Dry red chilli",
+        "tag": "dry-red-chilli",
+        "img": "i-dry-red-chilli"
+      },
+      {
+        "q": "2 medium (~250 g)",
+        "n": "Onion, sliced",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Tomato puree",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Ginger-garlic paste",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Coriander powder",
+        "tag": "coriander-powder",
+        "img": "i-coriander-powder"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-red-chilli-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Green peas",
+        "tag": "peas",
+        "img": "i-peas"
+      },
+      {
+        "q": "~2 tbsp, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "to taste",
+        "n": "Salt",
+        "tag": "salt"
+      },
+      {
+        "q": "a few spoons",
+        "n": "Curd, to serve",
+        "tag": "curd",
+        "opt": true,
+        "img": "i-curd"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat oil in a pan. Fry the whole paneer block until golden.",
+        "imgs": [
+          "s1-1",
+          "s1-2",
+          "s1-3"
+        ]
+      },
+      {
+        "t": "Cut the paneer into cubes.",
+        "imgs": [
+          "s2-1",
+          "s2-2",
+          "s2-3"
+        ]
+      },
+      {
+        "t": "In the same oil, fry the cashews until golden. Keep them with the paneer.",
+        "imgs": [
+          "s3-1",
+          "s3-2",
+          "s3-3"
+        ]
+      },
+      {
+        "t": "Boil the spinach in hot water until it wilts.",
+        "imgs": [
+          "s4-1",
+          "s4-2",
+          "s4-3"
+        ]
+      },
+      {
+        "t": "Lift the spinach out with tongs. Put it in a blender cup.",
+        "imgs": [
+          "s5-1",
+          "s5-2"
+        ]
+      },
+      {
+        "t": "Blend into a smooth green puree.",
+        "imgs": [
+          "s6-1",
+          "s6-2"
+        ]
+      },
+      {
+        "t": "Put the rice in a bowl. Cover with water and soak.",
+        "imgs": [
+          "s7-1",
+          "s7-2",
+          "s7-3"
+        ]
+      },
+      {
+        "t": "In a heavy pot, heat oil. Add cumin, whole spices, bay leaf and dry red chilli.",
+        "imgs": [
+          "s8-1",
+          "s8-2",
+          "s8-3"
+        ]
+      },
+      {
+        "t": "Slice the onions.",
+        "imgs": [
+          "s9-1",
+          "s9-2"
+        ]
+      },
+      {
+        "t": "Add the onion. Fry until soft and golden.",
+        "imgs": [
+          "s10-1",
+          "s10-2",
+          "s10-3"
+        ]
+      },
+      {
+        "t": "Add tomato puree and ginger-garlic paste.",
+        "imgs": [
+          "s11-1",
+          "s11-2"
+        ]
+      },
+      {
+        "t": "Add coriander powder, red chilli powder and turmeric.",
+        "imgs": [
+          "s12-1",
+          "s12-2",
+          "s12-3"
+        ]
+      },
+      {
+        "t": "Cook, stirring, until the masala turns dark and thick.",
+        "imgs": [
+          "s13-1",
+          "s13-2"
+        ]
+      },
+      {
+        "t": "Pour in the spinach puree. Add salt to taste.",
+        "imgs": [
+          "s14-1"
+        ]
+      },
+      {
+        "t": "Add the green peas and mix well.",
+        "imgs": [
+          "s15-1",
+          "s15-2"
+        ]
+      },
+      {
+        "t": "Add the fried paneer and cashews.",
+        "imgs": [
+          "s16-1"
+        ]
+      },
+      {
+        "t": "Add the soaked rice and water. Sprinkle chopped coriander.",
+        "imgs": [
+          "s17-1",
+          "s17-2"
+        ]
+      },
+      {
+        "t": "Bring to a boil. Cover with a lid and cook until the rice is done.",
+        "imgs": [
+          "s18-1",
+          "s18-2",
+          "s18-3"
+        ]
+      },
+      {
+        "t": "Open the lid. Gently mix the rice.",
+        "imgs": [
+          "s19-1",
+          "s19-2",
+          "s19-3"
+        ]
+      },
+      {
+        "t": "Serve hot with curd.",
+        "imgs": [
+          "s20-1",
+          "s20-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-protein"
+    ],
+    "notes": "Silent video with no text at all: every amount, the water for the rice, the cooking times and the heat are my guesses. Salt is never shown (added to taste in the spinach step). The red puree looks like tomato puree (could be chilli paste). The video cooks on an induction hob; gas works the same. The tall cup also seems to hold a little green chilli with the spinach. Rice pack brand is cropped out."
+  },
+  "images": {
+    "cover": {
+      "t": 57.4,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-paneer": {
+      "t": 8.4,
+      "crop": [
+        100,
+        330,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 11.4,
+      "crop": [
+        30,
+        450,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-spinach": {
+      "t": 14.4,
+      "crop": [
+        0,
+        400,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 24.5,
+      "crop": [
+        0,
+        450,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 25.6,
+      "crop": [
+        0,
+        100,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 27.6,
+      "crop": [
+        0,
+        100,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 28.4,
+      "crop": [
+        180,
+        450,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-whole-spices": {
+      "t": 29.4,
+      "crop": [
+        120,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-bay-leaf": {
+      "t": 29.4,
+      "crop": [
+        150,
+        60,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-dry-red-chilli": {
+      "t": 30.4,
+      "crop": [
+        200,
+        700,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 32.4,
+      "crop": [
+        60,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 37.4,
+      "crop": [
+        30,
+        100,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 38.0,
+      "crop": [
+        150,
+        450,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander-powder": {
+      "t": 38.6,
+      "crop": [
+        100,
+        200,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-red-chilli-powder": {
+      "t": 39.2,
+      "crop": [
+        100,
+        200,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 39.8,
+      "crop": [
+        100,
+        300,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 43.4,
+      "crop": [
+        60,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 47.4,
+      "crop": [
+        150,
+        0,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 56.6,
+      "crop": [
+        60,
+        560,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s1-1": {
+      "t": 0.7,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-2": {
+      "t": 3.7,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s1-3": {
+      "t": 5.2,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-1": {
+      "t": 6.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-2": {
+      "t": 7.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s2-3": {
+      "t": 8.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-1": {
+      "t": 9.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-2": {
+      "t": 11.6,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s3-3": {
+      "t": 12.6,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-1": {
+      "t": 14.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-2": {
+      "t": 15.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s4-3": {
+      "t": 16.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-1": {
+      "t": 17.6,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s5-2": {
+      "t": 18.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-1": {
+      "t": 19.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s6-2": {
+      "t": 20.6,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-1": {
+      "t": 23.6,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-2": {
+      "t": 25.6,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s7-3": {
+      "t": 26.6,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-1": {
+      "t": 27.6,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-2": {
+      "t": 28.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s8-3": {
+      "t": 29.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-1": {
+      "t": 31.6,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s9-2": {
+      "t": 32.6,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-1": {
+      "t": 34.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-2": {
+      "t": 35.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s10-3": {
+      "t": 36.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-1": {
+      "t": 37.4,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s11-2": {
+      "t": 38.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-1": {
+      "t": 38.6,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-2": {
+      "t": 39.2,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s12-3": {
+      "t": 39.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-1": {
+      "t": 40.4,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s13-2": {
+      "t": 41.2,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s14-1": {
+      "t": 42.4,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-1": {
+      "t": 43.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s15-2": {
+      "t": 44.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s16-1": {
+      "t": 45.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s17-1": {
+      "t": 46.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s17-2": {
+      "t": 47.4,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s18-1": {
+      "t": 48.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s18-2": {
+      "t": 49.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s18-3": {
+      "t": 50.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s19-1": {
+      "t": 51.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s19-2": {
+      "t": 52.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s19-3": {
+      "t": 53.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s20-1": {
+      "t": 56.6,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s20-2": {
+      "t": 57.4,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

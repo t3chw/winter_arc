@@ -1,0 +1,408 @@
+{
+ "videos": [
+  "3806259784232793112"
+ ],
+ "dish": {
+  "id": "mushroom-broccoli-paneer-stir-fry",
+  "name": "Mushroom broccoli paneer stir-fry",
+  "meal": "Side",
+  "minutes": 20,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Kadhai, gas, spatula",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 tsp",
+    "n": "Oil or ghee",
+    "tag": "oil",
+    "alt": [
+     "ghee"
+    ]
+   },
+   {
+    "q": "~8 small (150 g), halved",
+    "n": "Button mushrooms",
+    "tag": "mushroom",
+    "img": "i-mushroom"
+   },
+   {
+    "q": "1 medium, in cubes",
+    "n": "Carrot (red carrot)",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "~15 (100 g), cut in pieces",
+    "n": "French beans",
+    "tag": "beans",
+    "img": "i-beans"
+   },
+   {
+    "q": "~1 cup (100 g) florets",
+    "n": "Broccoli",
+    "tag": "broccoli",
+    "img": "i-broccoli"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Chilli sauce (schezwan chutney sachet)",
+    "tag": "chilli-sauce",
+    "img": "i-chilli-sauce"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Soy sauce",
+    "tag": "soy-sauce",
+    "img": "i-soy"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~100 g (8 cubes)",
+    "n": "Paneer, in cubes",
+    "tag": "paneer",
+    "alt": [
+     "tofu"
+    ],
+    "img": "i-paneer"
+   }
+  ],
+  "steps": [
+   {
+    "t": "In a hot kadhai, add the halved mushrooms and carrot cubes.",
+    "imgs": [
+     "s-mush-1",
+     "s-mush-2"
+    ]
+   },
+   {
+    "t": "Add the beans and stir.",
+    "imgs": [
+     "s-beans-1"
+    ]
+   },
+   {
+    "t": "Add the broccoli florets.",
+    "imgs": [
+     "s-broc-1",
+     "s-broc-2"
+    ]
+   },
+   {
+    "t": "Squeeze in the chilli sauce.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Pour in the soy sauce.",
+    "imgs": [
+     "s-soy-1",
+     "s-soy-2"
+    ]
+   },
+   {
+    "t": "Sprinkle the salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Toss until the paneer is lightly golden and coated with sauce.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Serve hot.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-fibre"
+  ],
+  "notes": "No amounts shown and speech is garbled: all amounts are my estimates (~). Oil or ghee is not shown for this step (it is cooked in the same kadhai as the filling in the parcels dish); I added it as an assumption. Red cubes look like red carrot. Heat and cooking time not shown. The white cubes could be paneer or tofu. The red sauce comes from a green sachet (looks like schezwan chutney)."
+ },
+ "images": {
+  "cover": {
+   "t": 48.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-mushroom": {
+   "t": 20.0,
+   "crop": [
+    170,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 20.5,
+   "crop": [
+    40,
+    700,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-beans": {
+   "t": 21.0,
+   "crop": [
+    200,
+    450,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-broccoli": {
+   "t": 22.0,
+   "crop": [
+    60,
+    240,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-chilli-sauce": {
+   "t": 23.0,
+   "crop": [
+    0,
+    0,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-soy": {
+   "t": 24.0,
+   "crop": [
+    100,
+    0,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 25.0,
+   "crop": [
+    220,
+    250,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 26.0,
+   "crop": [
+    0,
+    0,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "s-mush-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mush-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-beans-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-broc-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-broc-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 23.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soy-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soy-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 29.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 47.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 48.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}
