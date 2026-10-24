@@ -1,0 +1,579 @@
+{
+  "videos": [
+    "3332797981270841775"
+  ],
+  "dish": {
+    "id": "paneer-veggie-wrap",
+    "name": "Paneer veggie wrap",
+    "meal": "Lunch or dinner",
+    "minutes": 25,
+    "protein": 20,
+    "how": "Gas",
+    "tools": "Pan, gas, bowl",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 tsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "1 tbsp",
+        "n": "Ginger, grated",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 medium",
+        "n": "Onion, chopped",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1 cup (2 small, red and yellow)",
+        "n": "Bell pepper (capsicum), diced",
+        "tag": "capsicum",
+        "img": "i-pepper"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Oregano",
+        "tag": "oregano",
+        "img": "i-oregano"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Chilli flakes",
+        "tag": "chilli-flakes",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~150 g",
+        "n": "Paneer, cut in cubes",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~1/2 cup (120 g)",
+        "n": "Hung curd dressing (thick curd, whisked smooth)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "2",
+        "n": "Roti (whole wheat)",
+        "tag": "atta",
+        "img": "i-roti"
+      },
+      {
+        "q": "~1 cup",
+        "n": "Cabbage, shredded",
+        "tag": "cabbage",
+        "img": "i-cabbage"
+      },
+      {
+        "q": "~1/2 medium",
+        "n": "Cucumber, cut in thin strips",
+        "tag": "cucumber",
+        "img": "i-cucumber"
+      },
+      {
+        "q": "~1/2 small",
+        "n": "Onion, sliced thin, for the wrap",
+        "tag": "onion",
+        "img": "i-onion-raw"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat the oil in a pan.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the grated ginger and stir for a few seconds.",
+        "imgs": [
+          "s-ginger-1",
+          "s-ginger-2"
+        ]
+      },
+      {
+        "t": "Add the chopped onion and cook until soft.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add the diced red and yellow bell pepper.",
+        "imgs": [
+          "s-pepper-1",
+          "s-pepper-2"
+        ]
+      },
+      {
+        "t": "Sprinkle in the salt, oregano and chilli flakes.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Add the paneer cubes.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "Mix well and cook until the paneer gets light golden edges.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Switch off the gas and let the filling cool down.",
+        "imgs": [
+          "s-cool-1"
+        ]
+      },
+      {
+        "t": "Move the filling to a bowl, pour in the dressing and mix.",
+        "imgs": [
+          "s-dress-1",
+          "s-dress-2"
+        ]
+      },
+      {
+        "t": "Lay a roti flat on a plate.",
+        "imgs": [
+          "s-roti-1"
+        ]
+      },
+      {
+        "t": "Spread the shredded cabbage on one half of the roti.",
+        "imgs": [
+          "s-cabbage-1",
+          "s-cabbage-2"
+        ]
+      },
+      {
+        "t": "Spoon the paneer filling over the cabbage.",
+        "imgs": [
+          "s-fill-1"
+        ]
+      },
+      {
+        "t": "Top with cucumber strips and sliced onion.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2"
+        ]
+      },
+      {
+        "t": "Roll the roti up tight into a wrap and serve.",
+        "imgs": [
+          "s-roll-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "high-protein"
+    ],
+    "notes": "The dressing recipe is only in the original caption, not in the video: it looks like thick (hung) curd with some spice and herbs, so use plain thick curd or add salt and pepper to taste. Oil, spice, vegetable and paneer amounts other than ginger are guesses (~). The rolling step is not shown, only the finished wrap."
+  },
+  "images": {
+    "cover": {
+      "t": 0.2,
+      "crop": [
+        0,
+        540,
+        720,
+        740
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 4.8,
+      "crop": [
+        230,
+        520,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 5.4,
+      "crop": [
+        390,
+        520,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 6.0,
+      "crop": [
+        200,
+        520,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-pepper": {
+      "t": 7.4,
+      "crop": [
+        220,
+        420,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 7.8,
+      "crop": [
+        120,
+        660,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-oregano": {
+      "t": 8.2,
+      "crop": [
+        300,
+        350,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 9.0,
+      "crop": [
+        330,
+        0,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 10.0,
+      "crop": [
+        300,
+        300,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 14.5,
+      "crop": [
+        60,
+        100,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-roti": {
+      "t": 1.5,
+      "crop": [
+        20,
+        480,
+        680,
+        680
+      ],
+      "w": 200
+    },
+    "i-cabbage": {
+      "t": 2.0,
+      "crop": [
+        60,
+        500,
+        660,
+        660
+      ],
+      "w": 200
+    },
+    "i-cucumber": {
+      "t": 3.2,
+      "crop": [
+        100,
+        600,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-onion-raw": {
+      "t": 4.0,
+      "crop": [
+        160,
+        500,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "s-oil-1": {
+      "t": 4.5,
+      "crop": [
+        0,
+        380,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-ginger-1": {
+      "t": 5.2,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ginger-2": {
+      "t": 5.8,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 6.0,
+      "crop": [
+        0,
+        470,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 7.0,
+      "crop": [
+        0,
+        470,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-pepper-1": {
+      "t": 7.4,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-pepper-2": {
+      "t": 7.6,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 8.2,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 9.2,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 9.6,
+      "crop": [
+        0,
+        330,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        470,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        400,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-cool-1": {
+      "t": 13.2,
+      "crop": [
+        0,
+        300,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-dress-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        100,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-dress-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        100,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-roti-1": {
+      "t": 1.5,
+      "crop": [
+        0,
+        450,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-cabbage-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        420,
+        720,
+        620
+      ],
+      "w": 480
+    },
+    "s-cabbage-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        420,
+        720,
+        620
+      ],
+      "w": 480
+    },
+    "s-fill-1": {
+      "t": 17.5,
+      "crop": [
+        0,
+        300,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        400,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 4.0,
+      "crop": [
+        0,
+        400,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-roll-1": {
+      "t": 19.8,
+      "crop": [
+        0,
+        520,
+        720,
+        700
+      ],
+      "w": 480
+    }
+  }
+}

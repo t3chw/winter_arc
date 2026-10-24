@@ -1,0 +1,405 @@
+{
+  "videos": [
+    "3511151260718713502"
+  ],
+  "dish": {
+    "id": "chocolate-makhana-mousse",
+    "name": "Chocolate makhana mousse",
+    "meal": "Snack",
+    "minutes": 10,
+    "protein": 5,
+    "how": "No cooking",
+    "tools": "Blender (mixie), small bowls, sieve, cling film, fridge",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 cup (~25 g)",
+        "n": "Roasted makhana (fox nuts)",
+        "tag": "makhana",
+        "img": "i-makhana"
+      },
+      {
+        "q": "~1/2 cup (120 ml)",
+        "n": "Milk",
+        "tag": "milk",
+        "img": "i-milk"
+      },
+      {
+        "q": "~4, soaked in the milk",
+        "n": "Dates (khajoor)",
+        "tag": "dates",
+        "img": "i-milk"
+      },
+      {
+        "q": "~3 tbsp (extra for dusting)",
+        "n": "Cocoa powder",
+        "tag": "cocoa",
+        "img": "i-cocoa"
+      },
+      {
+        "q": "a pinch",
+        "n": "Cinnamon powder (dalchini)",
+        "tag": "cinnamon",
+        "img": "i-cinnamon",
+        "opt": true
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Sliced almonds (badam)",
+        "tag": "almonds",
+        "img": "i-almond",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Grind the roasted makhana to a fine powder.",
+        "imgs": [
+          "s-grind-1",
+          "s-grind-2"
+        ]
+      },
+      {
+        "t": "Put the makhana powder in the blender jar.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2"
+        ]
+      },
+      {
+        "t": "Pour in the milk with the soaked dates.",
+        "imgs": [
+          "s-milk-1",
+          "s-milk-2"
+        ]
+      },
+      {
+        "t": "Add the cocoa powder.",
+        "imgs": [
+          "s-cocoa-1",
+          "s-cocoa-2",
+          "s-cocoa-3"
+        ]
+      },
+      {
+        "t": "Add a pinch of cinnamon powder.",
+        "imgs": [
+          "s-cin-1",
+          "s-cin-2"
+        ]
+      },
+      {
+        "t": "Blend until thick and smooth.",
+        "imgs": [
+          "s-blend-1"
+        ]
+      },
+      {
+        "t": "Pour the mousse into small bowls.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2"
+        ]
+      },
+      {
+        "t": "Top with sliced almonds.",
+        "imgs": [
+          "s-almond-1",
+          "s-almond-2"
+        ]
+      },
+      {
+        "t": "Dust cocoa powder on top through a sieve.",
+        "imgs": [
+          "s-dust-1",
+          "s-dust-2"
+        ]
+      },
+      {
+        "t": "Cover the bowls with cling film and chill in the fridge about 5 hours.",
+        "imgs": [
+          "s-chill-1",
+          "s-chill-2",
+          "s-chill-3"
+        ]
+      }
+    ],
+    "tags": [
+      "blender"
+    ],
+    "notes": "Hindi voiceover is badly garbled and there is no ingredient text: ingredients identified by sight. The pinch of reddish-brown powder is probably cinnamon but could be jaggery powder. Dark bits in the milk look like dates (maybe raisins). The chill time (about 5 hours) is my best reading of the voiceover. All amounts are guesses. The grinding of makhana and the blending are not shown (only the powder and the jar pour); the first 14 seconds are an intro of the creator eating it. A fridge shelf with eggs is visible in the chill shots only as background (cropped out)."
+  },
+  "images": {
+    "cover": {
+      "t": 35.6,
+      "crop": [
+        0,
+        480,
+        720,
+        640
+      ],
+      "w": 560
+    },
+    "i-makhana": {
+      "t": 15.8,
+      "crop": [
+        0,
+        600,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-milk": {
+      "t": 18.3,
+      "crop": [
+        330,
+        740,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-cocoa": {
+      "t": 23.4,
+      "crop": [
+        10,
+        70,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-cinnamon": {
+      "t": 15.8,
+      "crop": [
+        300,
+        630,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-almond": {
+      "t": 34.0,
+      "crop": [
+        60,
+        520,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "s-grind-1": {
+      "t": 15.6,
+      "crop": [
+        0,
+        330,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-grind-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 17.6,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 18.3,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-1": {
+      "t": 19.8,
+      "crop": [
+        0,
+        50,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cocoa-1": {
+      "t": 23.4,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cocoa-2": {
+      "t": 24.2,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cocoa-3": {
+      "t": 25.4,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cin-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cin-2": {
+      "t": 28.8,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 32.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-almond-1": {
+      "t": 33.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-almond-2": {
+      "t": 34.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dust-1": {
+      "t": 36.2,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-dust-2": {
+      "t": 37.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chill-1": {
+      "t": 38.9,
+      "crop": [
+        0,
+        330,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-chill-2": {
+      "t": 41.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chill-3": {
+      "t": 42.0,
+      "crop": [
+        0,
+        700,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

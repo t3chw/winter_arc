@@ -1,0 +1,924 @@
+{
+  "videos": [
+    "3367756238028349546"
+  ],
+  "dish": {
+    "id": "eggless-suji-chocolate-cake",
+    "name": "Eggless suji chocolate cake",
+    "meal": "Snack",
+    "minutes": 120,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Kadhai (big pot with lid and stand), round cake tin, baking paper, mixie, sieve, whisk",
+    "serves": 6,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1/2 cup (120 g), chopped",
+        "n": "Jaggery (gud)",
+        "tag": "jaggery",
+        "img": "i-jaggery"
+      },
+      {
+        "q": "2 tbsp",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "1/4 cup",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "1/3 cup",
+        "n": "Curd (dahi), or buttermilk",
+        "tag": "curd",
+        "alt": [
+          "buttermilk"
+        ],
+        "img": "i-curd"
+      },
+      {
+        "q": "~3/4 cup (120 g), ground fine",
+        "n": "Suji (rava)",
+        "tag": "suji",
+        "img": "i-suji"
+      },
+      {
+        "q": "1/4 cup + 2 tbsp, in two parts",
+        "n": "Milk",
+        "tag": "milk",
+        "img": "i-milk"
+      },
+      {
+        "q": "3 tbsp",
+        "n": "Milk powder",
+        "tag": "milk-powder",
+        "img": "i-milkpowder"
+      },
+      {
+        "q": "1/4 cup",
+        "n": "Cocoa powder",
+        "tag": "cocoa",
+        "img": "i-cocoa"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Baking powder",
+        "tag": "baking-powder",
+        "img": "i-bpowder"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Baking soda",
+        "tag": "baking-soda",
+        "img": "i-bsoda"
+      },
+      {
+        "q": "1 pinch",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/4 cup, chopped",
+        "n": "Mixed dry fruits (almonds, pistachios, walnuts)",
+        "tag": "almonds",
+        "alt": [
+          "walnuts",
+          "pistachios"
+        ],
+        "opt": true,
+        "img": "i-nuts"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Chop the jaggery into small pieces.",
+        "imgs": [
+          "s-jag-1",
+          "s-jag-2"
+        ]
+      },
+      {
+        "t": "Put the jaggery in a steel pan with 2 tbsp water.",
+        "imgs": [
+          "s-pan-1",
+          "s-pan-2"
+        ]
+      },
+      {
+        "t": "Melt it on low flame, stirring, until it turns into syrup.",
+        "imgs": [
+          "s-melt-1",
+          "s-melt-2"
+        ]
+      },
+      {
+        "t": "Strain the jaggery syrup into a bowl.",
+        "imgs": [
+          "s-strain-1",
+          "s-strain-2"
+        ]
+      },
+      {
+        "t": "Keep the syrup aside to cool.",
+        "imgs": [
+          "s-cool-1"
+        ]
+      },
+      {
+        "t": "Grind the suji (rava) to a fine powder in the mixie.",
+        "imgs": [
+          "s-suji-1",
+          "s-suji-2",
+          "s-suji-3"
+        ]
+      },
+      {
+        "t": "Add the oil to the cooled jaggery syrup.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the curd and whisk well.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2"
+        ]
+      },
+      {
+        "t": "Add the suji powder and mix.",
+        "imgs": [
+          "s-powder-1",
+          "s-powder-2"
+        ]
+      },
+      {
+        "t": "Add the milk and mix to a smooth batter.",
+        "imgs": [
+          "s-milk-1",
+          "s-milk-2"
+        ]
+      },
+      {
+        "t": "Cover the bowl with a plate. Keep it aside for 30 minutes to 1 hour.",
+        "imgs": [
+          "s-rest-1",
+          "s-rest-2"
+        ]
+      },
+      {
+        "t": "Add the milk powder and cocoa powder to a sieve.",
+        "imgs": [
+          "s-dry-1",
+          "s-dry-2"
+        ]
+      },
+      {
+        "t": "Add the baking powder, baking soda and salt to the sieve.",
+        "imgs": [
+          "s-dry-3",
+          "s-dry-4",
+          "s-dry-5"
+        ]
+      },
+      {
+        "t": "Sift the dry mix over the batter.",
+        "imgs": [
+          "s-sift-1",
+          "s-sift-2"
+        ]
+      },
+      {
+        "t": "Fold the dry mix into the batter.",
+        "imgs": [
+          "s-fold-1",
+          "s-fold-2"
+        ]
+      },
+      {
+        "t": "Add 2 tbsp milk and mix to a smooth batter.",
+        "imgs": [
+          "s-milk2-1",
+          "s-milk2-2"
+        ]
+      },
+      {
+        "t": "Line a round cake tin with baking paper.",
+        "imgs": [
+          "s-line-1"
+        ]
+      },
+      {
+        "t": "Pour the batter into the tin.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2"
+        ]
+      },
+      {
+        "t": "Sprinkle the chopped dry fruits over the top.",
+        "imgs": [
+          "s-nuts-1",
+          "s-nuts-2"
+        ]
+      },
+      {
+        "t": "Put the tin on the stand inside the kadhai.",
+        "imgs": [
+          "s-kadhai-1",
+          "s-kadhai-2",
+          "s-kadhai-3"
+        ]
+      },
+      {
+        "t": "Cover with the lid and bake for about 45 minutes.",
+        "imgs": [
+          "s-bake-1",
+          "s-bake-2"
+        ]
+      },
+      {
+        "t": "Check with a toothpick.",
+        "imgs": [
+          "s-check-1",
+          "s-check-2"
+        ]
+      },
+      {
+        "t": "Take the tin out with a mitt. Keep aside to cool.",
+        "imgs": [
+          "s-cool-2",
+          "s-cool-3"
+        ]
+      },
+      {
+        "t": "Take the cake out of the tin.",
+        "imgs": [
+          "s-unmould-1",
+          "s-unmould-2"
+        ]
+      },
+      {
+        "t": "Cut the cake into slices and serve.",
+        "imgs": [
+          "s-slice-1",
+          "s-slice-2",
+          "s-slice-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender"
+    ],
+    "credit": "anyonecancookwithdr.alisha",
+    "notes": "Amounts for jaggery, water, oil, curd, milk, milk powder, cocoa, baking powder, baking soda and salt are on screen. Suji amount is not shown (guess ~3/4 cup). Tin size and the gas heat are not shown (video says baked in kadhai, I assume low to medium heat and a preheated pot, check the original). Total time includes 45 min resting and 45 min baking. A treat, not a protein food. No egg."
+  },
+  "images": {
+    "cover": {
+      "t": 70.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 560
+    },
+    "i-jaggery": {
+      "t": 13.0,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 15.0,
+      "crop": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 25.0,
+      "crop": [
+        220,
+        300,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 26.0,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-suji": {
+      "t": 21.0,
+      "crop": [
+        100,
+        500,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-milk": {
+      "t": 32.0,
+      "crop": [
+        100,
+        420,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-milkpowder": {
+      "t": 42.0,
+      "crop": [
+        150,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-cocoa": {
+      "t": 43.5,
+      "crop": [
+        50,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-bpowder": {
+      "t": 44.5,
+      "crop": [
+        150,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-bsoda": {
+      "t": 45.5,
+      "crop": [
+        150,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 46.0,
+      "crop": [
+        150,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-nuts": {
+      "t": 56.0,
+      "crop": [
+        100,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "s-jag-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jag-2": {
+      "t": 12.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pan-1": {
+      "t": 13.2,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pan-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-melt-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-melt-2": {
+      "t": 16.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-strain-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-strain-2": {
+      "t": 18.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cool-1": {
+      "t": 19.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-suji-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-suji-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-suji-3": {
+      "t": 23.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 25.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 26.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-powder-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-powder-2": {
+      "t": 31.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-1": {
+      "t": 32.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-2": {
+      "t": 34.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rest-1": {
+      "t": 36.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rest-2": {
+      "t": 39.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dry-1": {
+      "t": 42.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dry-2": {
+      "t": 43.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dry-3": {
+      "t": 44.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dry-4": {
+      "t": 45.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dry-5": {
+      "t": 46.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sift-1": {
+      "t": 47.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sift-2": {
+      "t": 48.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fold-1": {
+      "t": 49.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fold-2": {
+      "t": 51.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk2-1": {
+      "t": 50.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk2-2": {
+      "t": 51.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-line-1": {
+      "t": 52.25,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 53.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 54.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-nuts-1": {
+      "t": 55.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-nuts-2": {
+      "t": 56.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-kadhai-1": {
+      "t": 57.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-kadhai-2": {
+      "t": 58.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-kadhai-3": {
+      "t": 59.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bake-1": {
+      "t": 59.7,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-check-1": {
+      "t": 60.5,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-check-2": {
+      "t": 62.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cool-2": {
+      "t": 63.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cool-3": {
+      "t": 64.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-unmould-1": {
+      "t": 66.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-unmould-2": {
+      "t": 67.0,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-slice-1": {
+      "t": 69.0,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-slice-2": {
+      "t": 71.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-slice-3": {
+      "t": 72.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bake-2": {
+      "t": 60.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

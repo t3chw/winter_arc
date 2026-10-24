@@ -1,0 +1,818 @@
+{
+  "videos": [
+    "3500273859838641664_3500272270189032385"
+  ],
+  "dish": {
+    "id": "masala-dosa-red-chutney",
+    "name": "Masala dosa with red chutney",
+    "meal": "Breakfast",
+    "minutes": 40,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Mixie (blender), tawa, kadhai or pan, gas",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~8 (6 for chutney, 2 for masala)",
+        "n": "Dry red chillies",
+        "tag": "dry-red-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~4 cloves",
+        "n": "Garlic (lahsun)",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Grated coconut (nariyal)",
+        "tag": "coconut",
+        "img": "i-coconut"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Roasted chana dal (bhuna chana)",
+        "tag": "roasted-chana",
+        "img": "i-roasted"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 1/2 tsp (1/2 for chutney, 1 for masala)",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~3 tbsp (for chutney)",
+        "n": "Water",
+        "tag": "water"
+      },
+      {
+        "q": "~1 tbsp for masala, plus ~1 tsp per dosa",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Mustard seeds (rai)",
+        "tag": "mustard-seeds",
+        "img": "i-mustard"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Urad dal (split black gram)",
+        "tag": "urad-dal",
+        "img": "i-mustard"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Chana dal",
+        "tag": "chana-dal",
+        "img": "i-chanadal"
+      },
+      {
+        "q": "~10 leaves",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~3 medium (~300 g), boiled",
+        "n": "Potatoes (aloo)",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~1/2",
+        "n": "Lemon, juice",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~2 cups (~450 ml)",
+        "n": "Dosa batter (ready or homemade)",
+        "tag": "dosa-batter",
+        "img": "i-batter"
+      },
+      {
+        "q": "~1/2 cup, finely chopped",
+        "n": "Raw veg for topping (onion, carrot, tomato)",
+        "tag": "mixed-vegetables",
+        "img": "i-veg",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put dry red chillies and garlic in a bowl.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Add the grated coconut.",
+        "imgs": [
+          "s-coconut-1"
+        ]
+      },
+      {
+        "t": "Add the roasted chana dal.",
+        "imgs": [
+          "s-roasted-1"
+        ]
+      },
+      {
+        "t": "Add cumin seeds, salt and a little water.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Grind to a thick, fine paste. This is the red chutney.",
+        "imgs": [
+          "s-grind-1",
+          "s-grind-2"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan for the potato masala.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add mustard seeds and urad dal.",
+        "imgs": [
+          "s-seeds-1",
+          "s-seeds-2"
+        ]
+      },
+      {
+        "t": "Add the chana dal and fry.",
+        "imgs": [
+          "s-chana-1"
+        ]
+      },
+      {
+        "t": "Add dry red chillies and curry leaves.",
+        "imgs": [
+          "s-leaf-1",
+          "s-leaf-2"
+        ]
+      },
+      {
+        "t": "Add the turmeric powder.",
+        "imgs": [
+          "s-turmeric-1",
+          "s-turmeric-2",
+          "s-turmeric-3"
+        ]
+      },
+      {
+        "t": "Add the boiled potatoes and mash them in.",
+        "imgs": [
+          "s-potato-1",
+          "s-potato-2"
+        ]
+      },
+      {
+        "t": "Add salt and squeeze in the lemon juice.",
+        "imgs": [
+          "s-lemon-1",
+          "s-lemon-2"
+        ]
+      },
+      {
+        "t": "Add chopped coriander and mix well.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-mix-3"
+        ]
+      },
+      {
+        "t": "Pour a ladle of dosa batter onto a hot tawa.",
+        "imgs": [
+          "s-batter-1",
+          "s-batter-2"
+        ]
+      },
+      {
+        "t": "Spread the batter in circles into a thin dosa.",
+        "imgs": [
+          "s-spread-1",
+          "s-spread-2",
+          "s-spread-3"
+        ]
+      },
+      {
+        "t": "Drizzle a little oil on the dosa.",
+        "imgs": [
+          "s-dosaoil-1"
+        ]
+      },
+      {
+        "t": "Spread a layer of red chutney over the dosa.",
+        "imgs": [
+          "s-red-1",
+          "s-red-2"
+        ]
+      },
+      {
+        "t": "Put a scoop of potato masala in the middle.",
+        "imgs": [
+          "s-fill-1",
+          "s-fill-2"
+        ]
+      },
+      {
+        "t": "Top with the chopped raw vegetables.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2",
+          "s-top-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender"
+    ],
+    "notes": "No audio, no amounts on screen (only ingredient names): all quantities are guesses. Dosa batter is made 'as shown in video' (the other dosa clips); any ready fermented batter works. Grinding the chutney is not shown (assumed mixie). The oil on the dosa is a guess from the bottle; crisping and folding are not shown. Topping vegetables are not named on screen (looks like onion, carrot, tomato, radish, coriander)."
+  },
+  "images": {
+    "cover": {
+      "t": 5.94,
+      "crop": [
+        0,
+        150,
+        720,
+        700
+      ],
+      "w": 560
+    },
+    "i-chilli": {
+      "t": 7.58,
+      "crop": [
+        60,
+        440,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 8.4,
+      "crop": [
+        160,
+        360,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-coconut": {
+      "t": 9.22,
+      "crop": [
+        140,
+        320,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-roasted": {
+      "t": 10.86,
+      "crop": [
+        60,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 11.68,
+      "crop": [
+        300,
+        200,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 11.68,
+      "crop": [
+        100,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 14.96,
+      "crop": [
+        0,
+        330,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-mustard": {
+      "t": 16.9,
+      "crop": [
+        60,
+        260,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-chanadal": {
+      "t": 17.42,
+      "crop": [
+        20,
+        230,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-curry": {
+      "t": 20.7,
+      "crop": [
+        0,
+        250,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 20.7,
+      "crop": [
+        100,
+        280,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 23.16,
+      "crop": [
+        150,
+        250,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 25.62,
+      "crop": [
+        180,
+        230,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 26.44,
+      "crop": [
+        60,
+        200,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-batter": {
+      "t": 31.36,
+      "crop": [
+        60,
+        220,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-veg": {
+      "t": 4.3,
+      "crop": [
+        60,
+        60,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "s-chilli-1": {
+      "t": 7.58,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 8.4,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coconut-1": {
+      "t": 9.22,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roasted-1": {
+      "t": 10.04,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 10.86,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 11.68,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 12.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-1": {
+      "t": 13.32,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-2": {
+      "t": 36.28,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 14.96,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-seeds-1": {
+      "t": 16.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seeds-2": {
+      "t": 16.9,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chana-1": {
+      "t": 17.42,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-leaf-1": {
+      "t": 18.24,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-leaf-2": {
+      "t": 19.06,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-turmeric-1": {
+      "t": 19.88,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-turmeric-2": {
+      "t": 20.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-turmeric-3": {
+      "t": 21.52,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 23.16,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 23.98,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lemon-1": {
+      "t": 24.8,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lemon-2": {
+      "t": 25.62,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 26.44,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 27.26,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-3": {
+      "t": 28.9,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-batter-1": {
+      "t": 30.54,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-batter-2": {
+      "t": 31.36,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-1": {
+      "t": 32.18,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-3": {
+      "t": 34.64,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dosaoil-1": {
+      "t": 35.46,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-red-1": {
+      "t": 37.1,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-red-2": {
+      "t": 0.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-1": {
+      "t": 1.84,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-2": {
+      "t": 2.66,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 3.48,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 4.3,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-top-3": {
+      "t": 5.12,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

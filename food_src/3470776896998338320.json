@@ -1,0 +1,543 @@
+{
+ "videos": [
+  "3470776896998338320"
+ ],
+ "dish": {
+  "id": "raw-banana-pakora",
+  "name": "Raw banana pakora",
+  "meal": "Snack",
+  "minutes": 30,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Kadhai, gas, knife, whisk, 2 bowls",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3 large",
+    "n": "Raw banana (kachcha kela)",
+    "tag": "raw-banana",
+    "img": "i-banana"
+   },
+   {
+    "q": "~1 cup (90 g)",
+    "n": "Besan (gram flour)",
+    "tag": "besan",
+    "img": "i-besan"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric (haldi)",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin powder (jeera)",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Coriander powder (dhania)",
+    "tag": "coriander-powder",
+    "img": "i-corpowder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Ajwain (carom seeds)",
+    "tag": "ajwain",
+    "img": "i-ajwain"
+   },
+   {
+    "q": "1 big handful",
+    "n": "Coriander leaves, chopped",
+    "tag": "coriander-leaves",
+    "img": "i-corleaf"
+   },
+   {
+    "q": "~3/4 cup (180 ml), to make the batter",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~2 cups (500 ml), for deep frying",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut off the ends of the raw bananas and peel them.",
+    "imgs": [
+     "s-peel-1",
+     "s-peel-2",
+     "s-peel-3"
+    ]
+   },
+   {
+    "t": "Slice each banana lengthwise into long, thin pieces.",
+    "imgs": [
+     "s-slice-1",
+     "s-slice-2",
+     "s-slice-3"
+    ]
+   },
+   {
+    "t": "Put the slices in a bowl of water.",
+    "imgs": [
+     "s-soak-1",
+     "s-soak-2"
+    ]
+   },
+   {
+    "t": "Put besan in a wide bowl.",
+    "imgs": [
+     "s-besan"
+    ]
+   },
+   {
+    "t": "Add salt, turmeric, cumin powder, coriander powder and ajwain.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Add a big handful of chopped coriander leaves.",
+    "imgs": [
+     "s-cor-1",
+     "s-cor-2"
+    ]
+   },
+   {
+    "t": "Pour in water and whisk to a thick, smooth batter.",
+    "imgs": [
+     "s-batter-1",
+     "s-batter-2",
+     "s-batter-3"
+    ]
+   },
+   {
+    "t": "Dip each banana slice in the batter to coat it.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2"
+    ]
+   },
+   {
+    "t": "Heat plenty of oil in a kadhai. Slide in the coated slices.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Fry, turning now and then, until golden.",
+    "imgs": [
+     "s-fry-3",
+     "s-fry-4",
+     "s-fry-5"
+    ]
+   },
+   {
+    "t": "Lift them out with a slotted spoon.",
+    "imgs": [
+     "s-lift"
+    ]
+   },
+   {
+    "t": "Drain on kitchen tissue and serve hot.",
+    "imgs": [
+     "s-drain-1",
+     "s-drain-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "credit": "me_haay_foodie",
+  "notes": "Deep-fried, so not a light dish. Spoken amounts unclear (transcript garbled): all amounts guessed; on-screen text only lists the spices. Oil heating and frying heat are not shown; used the closest frames. A TV-show inset at the top of the video was cropped out."
+ },
+ "images": {
+  "cover": {
+   "t": 4.0,
+   "crop": [
+    0,
+    305,
+    720,
+    655
+   ],
+   "w": 560
+  },
+  "i-banana": {
+   "t": 5.5,
+   "crop": [
+    60,
+    330,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-besan": {
+   "t": 14.0,
+   "crop": [
+    80,
+    700,
+    270,
+    270
+   ],
+   "w": 200
+  },
+  "i-ajwain": {
+   "t": 14.4,
+   "crop": [
+    50,
+    495,
+    150,
+    150
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 14.4,
+   "crop": [
+    210,
+    495,
+    160,
+    160
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 14.4,
+   "crop": [
+    40,
+    620,
+    140,
+    140
+   ],
+   "w": 200
+  },
+  "i-corpowder": {
+   "t": 14.4,
+   "crop": [
+    215,
+    610,
+    150,
+    150
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 14.4,
+   "crop": [
+    165,
+    670,
+    125,
+    125
+   ],
+   "w": 200
+  },
+  "i-corleaf": {
+   "t": 16.0,
+   "crop": [
+    200,
+    650,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 17.5,
+   "crop": [
+    0,
+    520,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 22.0,
+   "crop": [
+    60,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-peel-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-peel-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-peel-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-slice-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-slice-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-slice-3": {
+   "t": 12.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-soak-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-besan": {
+   "t": 14.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 14.4,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cor-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cor-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-batter-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-batter-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-batter-3": {
+   "t": 18.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 24.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fry-4": {
+   "t": 25.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fry-5": {
+   "t": 26.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-lift": {
+   "t": 27.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-drain-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-drain-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  }
+ }
+}

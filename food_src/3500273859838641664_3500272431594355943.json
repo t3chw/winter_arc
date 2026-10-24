@@ -1,0 +1,659 @@
+{
+  "videos": [
+    "3500273859838641664_3500272431594355943"
+  ],
+  "dish": {
+    "id": "multigrain-ragi-oats-dosa",
+    "name": "Multigrain ragi oats dosa",
+    "meal": "Breakfast",
+    "minutes": 30,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Bowl, whisk, tawa, gas",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3 cups (~700 ml)",
+        "n": "Ready dosa batter",
+        "tag": "dosa-batter",
+        "img": "i-batter"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Ragi flour (nachni atta)",
+        "tag": "millet",
+        "img": "i-ragi"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Oats, ground to powder",
+        "tag": "oats",
+        "img": "i-oats"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Flax seeds, ground (alsi)",
+        "tag": "flax-seeds",
+        "img": "i-flax"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Whole wheat flour (atta)",
+        "tag": "atta",
+        "img": "i-wheat"
+      },
+      {
+        "q": "a pinch",
+        "n": "Hing (asafoetida)",
+        "tag": "hing"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/2 cup (120 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Coriander leaves (for the paste)",
+        "tag": "coriander-leaves",
+        "img": "i-paste"
+      },
+      {
+        "q": "~10 leaves",
+        "n": "Curry leaves (for the paste)",
+        "tag": "curry-leaves",
+        "img": "i-paste"
+      },
+      {
+        "q": "~1 inch piece",
+        "n": "Ginger (for the paste)",
+        "tag": "ginger",
+        "img": "i-paste"
+      },
+      {
+        "q": "~2",
+        "n": "Green chillies (for the paste)",
+        "tag": "green-chilli",
+        "img": "i-paste"
+      },
+      {
+        "q": "~1 tsp per dosa",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "to serve",
+        "n": "Chutney",
+        "tag": "chutney",
+        "img": "i-chutney",
+        "opt": true
+      },
+      {
+        "q": "to serve",
+        "n": "Podi (chilli-lentil powder)",
+        "tag": "podi-masala",
+        "img": "i-podi",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put the dosa batter in a large bowl.",
+        "imgs": [
+          "s-batter-1",
+          "s-batter-2",
+          "s-batter-3"
+        ]
+      },
+      {
+        "t": "Add the ragi flour and ground oats.",
+        "imgs": [
+          "s-flour-1",
+          "s-flour-2",
+          "s-flour-3"
+        ]
+      },
+      {
+        "t": "Add the ground flax seeds and whole wheat flour.",
+        "imgs": [
+          "s-flax-1",
+          "s-flax-2"
+        ]
+      },
+      {
+        "t": "Add hing and salt.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Pour in the water.",
+        "imgs": [
+          "s-water-1"
+        ]
+      },
+      {
+        "t": "Whisk well until there are no lumps.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-mix-3"
+        ]
+      },
+      {
+        "t": "Pour in the green paste and whisk until the batter is even.",
+        "imgs": [
+          "s-paste-1",
+          "s-paste-2",
+          "s-paste-3"
+        ]
+      },
+      {
+        "t": "Heat a tawa on the gas until it is very hot.",
+        "imgs": [
+          "s-heat-1",
+          "s-heat-2"
+        ]
+      },
+      {
+        "t": "Pour a ladle of batter in the middle of the tawa.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2"
+        ]
+      },
+      {
+        "t": "Spread the batter in circles into a thin dosa.",
+        "imgs": [
+          "s-spread-1",
+          "s-spread-2",
+          "s-spread-3"
+        ]
+      },
+      {
+        "t": "Drizzle oil over the dosa.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Cook until the dosa turns crisp and golden.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2"
+        ]
+      },
+      {
+        "t": "Fold the dosa with a spatula.",
+        "imgs": [
+          "s-fold-1",
+          "s-fold-2"
+        ]
+      },
+      {
+        "t": "Serve hot with chutney and podi.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2",
+          "s-serve-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "No audio, no amounts on screen: all quantities are guesses. Uses ready fermented dosa batter (not made in the video). The green paste (coriander, curry leaves, ginger, green chillies) is only poured in, made off-screen, so I assumed grinding the four listed items with a little water; the four paste ingredients share one thumbnail. Hing is only a tiny pinch in the frame (no thumbnail). Ragi tagged as 'millet'."
+  },
+  "images": {
+    "cover": {
+      "t": 26.2,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-batter": {
+      "t": 2.15,
+      "crop": [
+        60,
+        130,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-ragi": {
+      "t": 5.4,
+      "crop": [
+        110,
+        330,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-oats": {
+      "t": 6.05,
+      "crop": [
+        110,
+        330,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-flax": {
+      "t": 7.35,
+      "crop": [
+        110,
+        330,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-wheat": {
+      "t": 8.0,
+      "crop": [
+        100,
+        380,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 22.3,
+      "crop": [
+        200,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 9.3,
+      "crop": [
+        110,
+        370,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 9.95,
+      "crop": [
+        100,
+        300,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-paste": {
+      "t": 12.55,
+      "crop": [
+        100,
+        200,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 28.15,
+      "crop": [
+        140,
+        480,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-podi": {
+      "t": 26.2,
+      "crop": [
+        470,
+        130,
+        250,
+        250
+      ],
+      "w": 200
+    },
+    "s-batter-1": {
+      "t": 0.2,
+      "crop": [
+        0,
+        130,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-batter-2": {
+      "t": 2.8,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-batter-3": {
+      "t": 4.75,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-flour-1": {
+      "t": 5.4,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-flour-2": {
+      "t": 6.05,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-flour-3": {
+      "t": 6.7,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-flax-1": {
+      "t": 7.35,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-flax-2": {
+      "t": 8.0,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 8.65,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 9.3,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 9.95,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 10.6,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 11.25,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mix-3": {
+      "t": 11.9,
+      "crop": [
+        0,
+        250,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-paste-1": {
+      "t": 12.55,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-paste-2": {
+      "t": 13.2,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-paste-3": {
+      "t": 14.5,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-heat-1": {
+      "t": 16.45,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-heat-2": {
+      "t": 17.1,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 17.75,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 18.4,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-spread-1": {
+      "t": 19.05,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-spread-2": {
+      "t": 19.7,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-spread-3": {
+      "t": 20.35,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 22.3,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 22.95,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 23.6,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fold-1": {
+      "t": 24.9,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fold-2": {
+      "t": 25.55,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 26.2,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 27.5,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-serve-3": {
+      "t": 28.15,
+      "crop": [
+        0,
+        200,
+        720,
+        600
+      ],
+      "w": 480
+    }
+  }
+}

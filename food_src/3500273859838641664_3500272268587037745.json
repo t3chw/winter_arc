@@ -1,0 +1,567 @@
+{
+  "videos": [
+    "3500273859838641664_3500272268587037745"
+  ],
+  "dish": {
+    "id": "oats-masoor-dal-dosa",
+    "name": "Oats masoor dal beetroot dosa",
+    "meal": "Breakfast",
+    "minutes": 20,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Mixie (blender), tawa, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1/2 cup (~45 g)",
+        "n": "Oats",
+        "tag": "oats",
+        "img": "i-oats"
+      },
+      {
+        "q": "~1/4 cup (~50 g)",
+        "n": "Masoor dal (red lentils)",
+        "tag": "masoor-dal",
+        "img": "i-masoor"
+      },
+      {
+        "q": "~1/4 cup (~50 g)",
+        "n": "Toor dal (arhar)",
+        "tag": "toor-dal",
+        "img": "i-toor"
+      },
+      {
+        "q": "~1 medium (~100 g), in cubes",
+        "n": "Beetroot",
+        "tag": "beetroot",
+        "img": "i-beet"
+      },
+      {
+        "q": "~2",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1 inch piece",
+        "n": "Ginger (adrak)",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 cup (240 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~1 tsp per dosa",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "to serve",
+        "n": "Green coconut chutney",
+        "tag": "chutney",
+        "img": "i-chutney",
+        "opt": true
+      },
+      {
+        "q": "to serve",
+        "n": "Podi (chilli-lentil powder)",
+        "tag": "podi-masala",
+        "img": "i-podi",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put the oats in the mixie jar.",
+        "imgs": [
+          "s-oats-1",
+          "s-oats-2"
+        ]
+      },
+      {
+        "t": "Add the masoor dal and toor dal.",
+        "imgs": [
+          "s-dal-1",
+          "s-dal-2"
+        ]
+      },
+      {
+        "t": "Add the beetroot cubes and green chillies.",
+        "imgs": [
+          "s-beet-1",
+          "s-beet-2"
+        ]
+      },
+      {
+        "t": "Add the ginger and cumin seeds.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Pour in the water.",
+        "imgs": [
+          "s-water-1"
+        ]
+      },
+      {
+        "t": "Grind to a smooth, pink batter.",
+        "imgs": [
+          "s-grind-1",
+          "s-grind-2",
+          "s-grind-3"
+        ]
+      },
+      {
+        "t": "Pour a ladle of batter onto a hot tawa.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2"
+        ]
+      },
+      {
+        "t": "Spread the batter in circles into a thin dosa.",
+        "imgs": [
+          "s-spread-1",
+          "s-spread-2",
+          "s-spread-3"
+        ]
+      },
+      {
+        "t": "Drizzle oil over the dosa.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Cook until the dosa is crisp, then fold it.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2"
+        ]
+      },
+      {
+        "t": "Serve hot with green chutney and podi.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2",
+          "s-serve-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-fibre"
+    ],
+    "notes": "No audio, no amounts on screen (only ingredient names): all quantities are guesses from the jar. The dals and oats go in dry (not soaked) in the video; a weak mixie may need a few hours of soaking. The white pieces labelled 'ginger' look like garlic cloves on screen. Cooking steps (oil, crisp, fold) are shown at the start of the clip and reordered here. Chutney and podi are shown but not made."
+  },
+  "images": {
+    "cover": {
+      "t": 5.2,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-oats": {
+      "t": 9.7,
+      "crop": [
+        120,
+        480,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-masoor": {
+      "t": 10.2,
+      "crop": [
+        160,
+        500,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-toor": {
+      "t": 11.2,
+      "crop": [
+        160,
+        460,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-beet": {
+      "t": 12.2,
+      "crop": [
+        80,
+        340,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 12.7,
+      "crop": [
+        100,
+        420,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 13.2,
+      "crop": [
+        150,
+        460,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 14.2,
+      "crop": [
+        200,
+        480,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 14.7,
+      "crop": [
+        90,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 15.2,
+      "crop": [
+        0,
+        170,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 1.2,
+      "crop": [
+        130,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 5.7,
+      "crop": [
+        150,
+        330,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-podi": {
+      "t": 5.2,
+      "crop": [
+        0,
+        150,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "s-oats-1": {
+      "t": 9.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oats-2": {
+      "t": 9.7,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dal-1": {
+      "t": 10.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dal-2": {
+      "t": 11.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-beet-1": {
+      "t": 11.7,
+      "crop": [
+        0,
+        360,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-beet-2": {
+      "t": 12.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 13.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 14.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 14.7,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 15.2,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-1": {
+      "t": 16.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-2": {
+      "t": 17.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-3": {
+      "t": 17.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 18.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 19.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-1": {
+      "t": 20.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-2": {
+      "t": 21.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-3": {
+      "t": 22.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 1.2,
+      "crop": [
+        0,
+        50,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 1.7,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 2.7,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 3.7,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 5.2,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 5.7,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-3": {
+      "t": 7.2,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

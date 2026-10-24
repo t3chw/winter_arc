@@ -1,0 +1,403 @@
+{
+ "videos": [
+  "3475077022957815250"
+ ],
+ "dish": {
+  "id": "cucumber-lime-curd-salad",
+  "name": "Cucumber lime curd salad",
+  "meal": "Side",
+  "minutes": 10,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Bowl, fork, grater, peeler, gas flame",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "100 g (about 1/2 cup)",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "1 small",
+    "n": "Lime (nimbu), zest and juice",
+    "tag": "lemon",
+    "img": "i-lime"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Coriander leaves, finely chopped",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "a pinch",
+    "n": "Black pepper",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "1 small",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~2 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Pour 100 g curd into a bowl.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Grate the lime zest into the curd.",
+    "imgs": [
+     "s-zest-1",
+     "s-zest-2"
+    ]
+   },
+   {
+    "t": "Squeeze in the lime juice.",
+    "imgs": [
+     "s-juice-1",
+     "s-juice-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-cor-1",
+     "s-cor-2"
+    ]
+   },
+   {
+    "t": "Sprinkle in salt and black pepper.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Peel the cucumber into thin ribbons, straight into the bowl.",
+    "imgs": [
+     "s-cuc-1",
+     "s-cuc-2",
+     "s-cuc-3"
+    ]
+   },
+   {
+    "t": "Hold the garlic on a fork over the gas flame to roast it.",
+    "imgs": [
+     "s-garlic-1",
+     "s-garlic-2"
+    ]
+   },
+   {
+    "t": "Chop the roasted garlic and add it to the bowl.",
+    "imgs": [
+     "s-chop-1",
+     "s-chop-2"
+    ]
+   },
+   {
+    "t": "Mix well with a fork.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   }
+  ],
+  "tags": [
+   "quick",
+   "gas"
+  ],
+  "notes": "Only 100 g curd is stated; all other amounts guessed (pinches, 1 lime, 2 garlic cloves). Light and low calorie (about 5 g protein): a side, not a protein dish. No creator name on screen. Pinch shakers look like salt then black pepper."
+ },
+ "images": {
+  "cover": {
+   "t": 0.5,
+   "crop": [
+    0,
+    280,
+    720,
+    780
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 7.5,
+   "crop": [
+    110,
+    640,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-lime": {
+   "t": 8.5,
+   "crop": [
+    140,
+    620,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 10.5,
+   "crop": [
+    190,
+    900,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 11.5,
+   "crop": [
+    280,
+    200,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 12.5,
+   "crop": [
+    400,
+    130,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 13.0,
+   "crop": [
+    300,
+    380,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 17.0,
+   "crop": [
+    330,
+    740,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "s-curd-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-zest-1": {
+   "t": 8.5,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-zest-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-juice-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-juice-2": {
+   "t": 10.0,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-cor-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-cor-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 11.5,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    480,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-cuc-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cuc-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    400,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cuc-3": {
+   "t": 15.5,
+   "crop": [
+    0,
+    400,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    500,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-garlic-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    500,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-chop-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    430,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-chop-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    430,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    330,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 19.5,
+   "crop": [
+    0,
+    330,
+    720,
+    780
+   ],
+   "w": 480
+  }
+ }
+}

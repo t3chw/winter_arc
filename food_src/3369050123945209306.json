@@ -1,0 +1,371 @@
+{
+ "videos": [
+  "3369050123945209306"
+ ],
+ "dish": {
+  "id": "roasted-seven-seed-mix",
+  "name": "Roasted seven seed mix",
+  "meal": "Snack",
+  "minutes": 25,
+  "protein": 0,
+  "how": "Gas",
+  "tools": "Pan, gas, plate, airtight jar, spoon",
+  "serves": 14,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "Fennel seeds (saunf)",
+    "tag": "fennel-seeds",
+    "img": "i-fennel"
+   },
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "Flax seeds (alsi)",
+    "tag": "flax-seeds",
+    "img": "i-flax"
+   },
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "White sesame seeds (til)",
+    "tag": "sesame-seeds",
+    "img": "i-sesame"
+   },
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "Pumpkin seeds",
+    "tag": "pumpkin-seeds",
+    "img": "i-pumpkin"
+   },
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "Melon seeds (magaz)",
+    "tag": "melon-seeds",
+    "img": "i-melon"
+   },
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "Sunflower seeds",
+    "tag": "sunflower-seeds",
+    "img": "i-sunflower"
+   },
+   {
+    "q": "~2 tbsp (20 g)",
+    "n": "Ajwain (carom seeds)",
+    "tag": "ajwain",
+    "img": "i-ajwain"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put one kind of seed in a dry pan on the gas.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2",
+     "s-pan-3"
+    ]
+   },
+   {
+    "t": "Roast it, shaking the pan, until it turns lightly golden.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2",
+     "s-roast-3"
+    ]
+   },
+   {
+    "t": "Roast the other seeds the same way, one kind at a time.",
+    "imgs": [
+     "s-each-1",
+     "s-each-2",
+     "s-each-3"
+    ]
+   },
+   {
+    "t": "Spread all the roasted seeds on a plate and let them cool.",
+    "imgs": [
+     "s-cool-1",
+     "s-cool-2"
+    ]
+   },
+   {
+    "t": "Mix all the seeds together by hand.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Fill an airtight jar with the mix.",
+    "imgs": [
+     "s-store-1",
+     "s-store-2"
+    ]
+   },
+   {
+    "t": "Take 1 tbsp of the mix after a meal.",
+    "imgs": [
+     "s-eat-1"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "make-ahead"
+  ],
+  "notes": "A seed mix taken by the spoonful after meals, not a meal. Amounts per seed are not stated (guessed ~2 tbsp each, ~14 tbsp total). Roasting time/heat not stated, only that each seed roasts differently. The 7th seed (tiny dark brown) is never named; it looks like ajwain. Ajwain roasting and sunflower roasting are not clearly shown. Protein is under 3 g per tbsp. Video opens with supplement bottles and makes health claims; none copied."
+ },
+ "images": {
+  "cover": {
+   "t": 28.0,
+   "crop": [
+    80,
+    430,
+    560,
+    420
+   ],
+   "w": 560
+  },
+  "i-pumpkin": {
+   "t": 4.5,
+   "crop": [
+    470,
+    340,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-sunflower": {
+   "t": 4.5,
+   "crop": [
+    500,
+    590,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-flax": {
+   "t": 6.0,
+   "crop": [
+    70,
+    250,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 6.0,
+   "crop": [
+    20,
+    560,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-fennel": {
+   "t": 6.0,
+   "crop": [
+    380,
+    450,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-melon": {
+   "t": 6.0,
+   "crop": [
+    400,
+    70,
+    310,
+    310
+   ],
+   "w": 200
+  },
+  "i-ajwain": {
+   "t": 6.0,
+   "crop": [
+    380,
+    880,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "s-pan-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    40,
+    720,
+    790
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    40,
+    720,
+    790
+   ],
+   "w": 480
+  },
+  "s-pan-3": {
+   "t": 11.5,
+   "crop": [
+    0,
+    40,
+    720,
+    790
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 14.4,
+   "crop": [
+    0,
+    100,
+    720,
+    735
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 16.6,
+   "crop": [
+    0,
+    100,
+    720,
+    735
+   ],
+   "w": 480
+  },
+  "s-roast-3": {
+   "t": 18.0,
+   "crop": [
+    0,
+    100,
+    720,
+    735
+   ],
+   "w": 480
+  },
+  "s-each-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    40,
+    720,
+    790
+   ],
+   "w": 480
+  },
+  "s-each-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    40,
+    720,
+    790
+   ],
+   "w": 480
+  },
+  "s-each-3": {
+   "t": 14.0,
+   "crop": [
+    0,
+    40,
+    720,
+    790
+   ],
+   "w": 480
+  },
+  "s-cool-1": {
+   "t": 21.5,
+   "crop": [
+    0,
+    360,
+    720,
+    475
+   ],
+   "w": 480
+  },
+  "s-cool-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    300,
+    720,
+    535
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    330,
+    720,
+    505
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    300,
+    720,
+    535
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 26.5,
+   "crop": [
+    0,
+    340,
+    720,
+    495
+   ],
+   "w": 480
+  },
+  "s-store-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    505
+   ],
+   "w": 480
+  },
+  "s-store-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    330,
+    720,
+    505
+   ],
+   "w": 480
+  },
+  "s-eat-1": {
+   "t": 28.5,
+   "crop": [
+    40,
+    390,
+    640,
+    445
+   ],
+   "w": 480
+  }
+ }
+}

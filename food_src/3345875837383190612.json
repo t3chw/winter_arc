@@ -1,0 +1,634 @@
+{
+  "videos": [
+    "3345875837383190612"
+  ],
+  "dish": {
+    "id": "savory-beetroot-chia-curd",
+    "name": "Savory beetroot chia curd",
+    "meal": "Breakfast",
+    "minutes": 45,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Bowl, whisk, grater, small pan (for the tadka), gas, 2 glass jars",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3 tbsp (30 g)",
+        "n": "Chia seeds",
+        "tag": "chia-seeds",
+        "img": "i-chia"
+      },
+      {
+        "q": "~3/4 cup (180 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~1 cup (240 g)",
+        "n": "Thick curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 small",
+        "n": "Carrot, grated",
+        "tag": "carrot",
+        "img": "i-carrot"
+      },
+      {
+        "q": "~1 small",
+        "n": "Beetroot, grated",
+        "tag": "beetroot",
+        "img": "i-beetroot"
+      },
+      {
+        "q": "~1 tsp, chopped",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-ginger-chilli"
+      },
+      {
+        "q": "~1, chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-ginger-chilli"
+      },
+      {
+        "q": "a small handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Oil, for the tadka",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Peanuts",
+        "tag": "peanuts",
+        "img": "i-peanuts"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Mustard seeds (rai)",
+        "tag": "mustard-seeds",
+        "img": "i-mustard-urad"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Urad dal",
+        "tag": "urad-dal",
+        "img": "i-mustard-urad"
+      },
+      {
+        "q": "a pinch",
+        "n": "Hing (asafoetida)",
+        "tag": "hing",
+        "img": "i-hing"
+      },
+      {
+        "q": "1 to 2",
+        "n": "Dry red chilli",
+        "tag": "dry-red-chilli",
+        "img": "i-dry-chilli"
+      },
+      {
+        "q": "a few",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry-leaves"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Add the chia seeds to a bowl.",
+        "imgs": [
+          "s-chia-1"
+        ]
+      },
+      {
+        "t": "Pour in the water.",
+        "imgs": [
+          "s-water-1"
+        ]
+      },
+      {
+        "t": "Whisk well so no lumps form.",
+        "imgs": [
+          "s-whisk-1"
+        ]
+      },
+      {
+        "t": "Let it soak for 30 minutes.",
+        "imgs": [
+          "s-soak-1"
+        ]
+      },
+      {
+        "t": "Add the curd and whisk until smooth.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2"
+        ]
+      },
+      {
+        "t": "Sprinkle in the salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Grate in the carrot.",
+        "imgs": [
+          "s-carrot-1"
+        ]
+      },
+      {
+        "t": "Grate in the beetroot.",
+        "imgs": [
+          "s-beet-1"
+        ]
+      },
+      {
+        "t": "Add the chopped ginger and green chilli.",
+        "imgs": [
+          "s-ginger-1"
+        ]
+      },
+      {
+        "t": "Add the chopped coriander leaves.",
+        "imgs": [
+          "s-coriander-1"
+        ]
+      },
+      {
+        "t": "Mix well, then spoon the mix into two jars.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-fill-1"
+        ]
+      },
+      {
+        "t": "For the tadka, heat the oil in a small pan.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the peanuts and roast until dark.",
+        "imgs": [
+          "s-peanuts-1",
+          "s-peanuts-2"
+        ]
+      },
+      {
+        "t": "Add the mustard seeds, urad dal and a pinch of hing.",
+        "imgs": [
+          "s-mustard-1",
+          "s-mustard-2"
+        ]
+      },
+      {
+        "t": "Add the dry red chilli and curry leaves.",
+        "imgs": [
+          "s-leaves-1",
+          "s-leaves-2"
+        ]
+      },
+      {
+        "t": "Spoon the tadka over each jar.",
+        "imgs": [
+          "s-tadka-1",
+          "s-tadka-2"
+        ]
+      },
+      {
+        "t": "Mix well and enjoy.",
+        "imgs": [
+          "s-eat-1",
+          "s-eat-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "high-fibre"
+    ],
+    "credit": "The Spicy Story",
+    "notes": "No amounts are shown or spoken, all amounts are guesses (~). The 30-minute soak is counted in the minutes. The ginger and green chilli are not labelled in every frame; they look like chopped ginger and green chilli. Oil, mustard seeds and urad dal amounts are small tadka amounts. Eat it cold, the tadka is poured on after the pan is off."
+  },
+  "images": {
+    "cover": {
+      "t": 35.0,
+      "crop": [
+        0,
+        200,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-chia": {
+      "t": 5.0,
+      "crop": [
+        200,
+        400,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 7.0,
+      "crop": [
+        150,
+        330,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 12.5,
+      "crop": [
+        180,
+        440,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 15.5,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-carrot": {
+      "t": 16.5,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-beetroot": {
+      "t": 18.0,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-ginger-chilli": {
+      "t": 19.0,
+      "crop": [
+        100,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 20.0,
+      "crop": [
+        100,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 26.0,
+      "crop": [
+        100,
+        400,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-peanuts": {
+      "t": 28.0,
+      "crop": [
+        50,
+        440,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-mustard-urad": {
+      "t": 29.0,
+      "crop": [
+        150,
+        430,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-dry-chilli": {
+      "t": 30.5,
+      "crop": [
+        180,
+        560,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-curry-leaves": {
+      "t": 31.5,
+      "crop": [
+        150,
+        450,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-chia-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-whisk-1": {
+      "t": 8.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 12.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-carrot-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-beet-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-ginger-1": {
+      "t": 19.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 23.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-fill-1": {
+      "t": 24.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 26.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-peanuts-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-peanuts-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-mustard-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-leaves-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-leaves-2": {
+      "t": 31.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-tadka-1": {
+      "t": 33.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-tadka-2": {
+      "t": 34.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-eat-1": {
+      "t": 37.0,
+      "crop": [
+        0,
+        370,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-eat-2": {
+      "t": 38.5,
+      "crop": [
+        0,
+        370,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "i-hing": {
+      "t": 29.5,
+      "crop": [
+        100,
+        440,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-mustard-2": {
+      "t": 29.5,
+      "crop": [
+        0,
+        380,
+        720,
+        640
+      ],
+      "w": 480
+    }
+  }
+}

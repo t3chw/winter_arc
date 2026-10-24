@@ -1,0 +1,1070 @@
+{
+  "videos": [
+    "3349463856180102986_3349462324302990596"
+  ],
+  "dish": {
+    "id": "masala-paneer-buddha-bowl",
+    "name": "Masala paneer buddha bowl",
+    "meal": "Lunch or dinner",
+    "minutes": 45,
+    "protein": 25,
+    "how": "Gas",
+    "tools": "Pan, gas, mixie (small jar), bowls, spoons",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~150 g (8 cubes)",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~3 tbsp, in parts",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Turmeric (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Pale spice powder (looks like chaat masala or amchur)",
+        "tag": "chaat-masala",
+        "alt": [
+          "amchur"
+        ],
+        "img": "i-pale"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Brown spice powder (looks like cumin or garam masala)",
+        "tag": "cumin-powder",
+        "alt": [
+          "garam-masala"
+        ],
+        "img": "i-brown"
+      },
+      {
+        "q": "~2 tsp, in parts",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~10 cloves, chopped, in parts",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "a small handful, chopped",
+        "n": "Green garlic (seasonal)",
+        "tag": "green-garlic",
+        "opt": true,
+        "img": "i-green-garlic"
+      },
+      {
+        "q": "~3",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "~1 cup, loosely packed",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1 cup, loosely packed",
+        "n": "Spinach",
+        "tag": "spinach",
+        "img": "i-spinach"
+      },
+      {
+        "q": "1 (about 2 tbsp juice)",
+        "n": "Lemon",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "~1 1/2 medium (1 for the rice, 1/2 for the salad)",
+        "n": "Onion, sliced",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2 cups (300 g)",
+        "n": "Cooked rice, basmati",
+        "tag": "rice",
+        "img": "i-rice"
+      },
+      {
+        "q": "a pinch",
+        "n": "Hing (asafoetida)",
+        "tag": "hing"
+      },
+      {
+        "q": "~1 medium, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato",
+        "alt": [
+          "carrot"
+        ]
+      },
+      {
+        "q": "~1 cup (100 g)",
+        "n": "Cauliflower, small florets",
+        "tag": "cauliflower",
+        "img": "i-cauli"
+      },
+      {
+        "q": "~1/2 cup (75 g)",
+        "n": "Green peas",
+        "tag": "peas",
+        "img": "i-peas"
+      },
+      {
+        "q": "~1 cup (240 g)",
+        "n": "Thick curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1/2 medium, grated",
+        "n": "Cucumber",
+        "tag": "cucumber",
+        "img": "i-cucumber"
+      },
+      {
+        "q": "~1 small, grated",
+        "n": "Beetroot",
+        "tag": "beetroot",
+        "img": "i-beet"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Cut the paneer into cubes and put them in a bowl.",
+        "imgs": [
+          "s-cut-2"
+        ]
+      },
+      {
+        "t": "Drizzle some oil over the paneer.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the turmeric and the pale spice powder.",
+        "imgs": [
+          "s-spice-1"
+        ]
+      },
+      {
+        "t": "Add the red chilli powder and the brown spice powder.",
+        "imgs": [
+          "s-spice-3",
+          "s-spice-4"
+        ]
+      },
+      {
+        "t": "Add the salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Toss gently until every cube is coated. Keep aside.",
+        "imgs": [
+          "s-toss-2"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan on medium heat.",
+        "imgs": [
+          "s-heat-1"
+        ]
+      },
+      {
+        "t": "Add the chopped garlic and green garlic. Stir for a few seconds.",
+        "imgs": [
+          "s-garlic-1",
+          "s-garlic-2"
+        ]
+      },
+      {
+        "t": "Add the marinated paneer.",
+        "imgs": [
+          "s-fry-1"
+        ]
+      },
+      {
+        "t": "Fry, turning, until golden on all sides. Take it out.",
+        "imgs": [
+          "s-fry-4"
+        ]
+      },
+      {
+        "t": "Put the green chillies in a small mixie jar.",
+        "imgs": [
+          "s-chutney-1"
+        ]
+      },
+      {
+        "t": "Add the coriander leaves.",
+        "imgs": [
+          "s-chutney-3"
+        ]
+      },
+      {
+        "t": "Press in the spinach leaves.",
+        "imgs": [
+          "s-chutney-5"
+        ]
+      },
+      {
+        "t": "Add the salt, a squeeze of lemon and the chopped garlic.",
+        "imgs": [
+          "s-chutney-7",
+          "s-chutney-9"
+        ]
+      },
+      {
+        "t": "Blend to a smooth green chutney.",
+        "imgs": [
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan.",
+        "imgs": [
+          "s-rice-oil-1"
+        ]
+      },
+      {
+        "t": "Add the sliced onion and cook until soft.",
+        "imgs": [
+          "s-rice-onion-1"
+        ]
+      },
+      {
+        "t": "Add the chopped garlic and green chilli. Stir.",
+        "imgs": [
+          "s-rice-garlic-1",
+          "s-rice-garlic-2"
+        ]
+      },
+      {
+        "t": "Pour in the green chutney and cook until thick.",
+        "imgs": [
+          "s-rice-chutney-1"
+        ]
+      },
+      {
+        "t": "Add the cooked rice.",
+        "imgs": [
+          "s-rice-add-1"
+        ]
+      },
+      {
+        "t": "Add salt and mix well until every grain is green.",
+        "imgs": [
+          "s-rice-mix-1",
+          "s-rice-mix-2"
+        ]
+      },
+      {
+        "t": "Put sliced onion in a bowl.",
+        "imgs": [
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Squeeze lemon juice over the onion, add salt and mix.",
+        "imgs": [
+          "s-onion-3",
+          "s-onion-4"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan. Add the chopped garlic and a pinch of hing.",
+        "imgs": [
+          "s-veg-garlic-1"
+        ]
+      },
+      {
+        "t": "Add the tomato and stir.",
+        "imgs": [
+          "s-veg-tomato-1"
+        ]
+      },
+      {
+        "t": "Add the cauliflower florets.",
+        "imgs": [
+          "s-veg-cauli-1"
+        ]
+      },
+      {
+        "t": "Add the green peas.",
+        "imgs": [
+          "s-veg-peas-1"
+        ]
+      },
+      {
+        "t": "Sprinkle a little salt and stir for 1 to 2 minutes.",
+        "imgs": [
+          "s-veg-salt-1"
+        ]
+      },
+      {
+        "t": "Put thick curd in a bowl.",
+        "imgs": [
+          "s-raita-1"
+        ]
+      },
+      {
+        "t": "Add the grated cucumber.",
+        "imgs": [
+          "s-raita-3"
+        ]
+      },
+      {
+        "t": "Add the grated beetroot.",
+        "imgs": [
+          "s-raita-4"
+        ]
+      },
+      {
+        "t": "Add a pinch of salt and the chopped coriander leaves.",
+        "imgs": [
+          "s-raita-6",
+          "s-raita-7"
+        ]
+      },
+      {
+        "t": "Mix well until the raita turns pink.",
+        "imgs": [
+          "s-raita-8"
+        ]
+      },
+      {
+        "t": "Put the fried paneer in a wide bowl.",
+        "imgs": [
+          "s-bowl-1"
+        ]
+      },
+      {
+        "t": "Add the sauteed vegetables next to the paneer.",
+        "imgs": [
+          "s-bowl-3"
+        ]
+      },
+      {
+        "t": "Add the lemon-onion salad and the chutney rice.",
+        "imgs": [
+          "s-bowl-5",
+          "s-bowl-6"
+        ]
+      },
+      {
+        "t": "Serve with a bowl of beetroot raita and a lemon wedge.",
+        "imgs": [
+          "s-serve-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-protein"
+    ],
+    "credit": "The Pink Apron (Jalpa Gada)",
+    "notes": "No amounts are given in the video, all amounts are guesses (~). Rice is already cooked. The pale and brown marinade powders are not named on screen (guessed). The red vegetable in the sauteed mix looks like tomato but could be red carrot. Hing is only in the speech, not seen. Optional mint in the chutney is not shown. The video is an induction hob and a non-stick pan; gas works the same."
+  },
+  "images": {
+    "cover": {
+      "t": 0.5,
+      "crop": [
+        0,
+        100,
+        720,
+        700
+      ],
+      "w": 560
+    },
+    "i-paneer": {
+      "t": 4.0,
+      "crop": [
+        110,
+        200,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 11.5,
+      "crop": [
+        250,
+        330,
+        470,
+        470
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 5.0,
+      "crop": [
+        100,
+        200,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-pale": {
+      "t": 5.5,
+      "crop": [
+        100,
+        200,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-chilli-powder": {
+      "t": 6.5,
+      "crop": [
+        100,
+        200,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-brown": {
+      "t": 7.0,
+      "crop": [
+        100,
+        200,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 8.0,
+      "crop": [
+        100,
+        200,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 12.0,
+      "crop": [
+        200,
+        330,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-green-garlic": {
+      "t": 13.0,
+      "crop": [
+        200,
+        330,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 18.0,
+      "crop": [
+        150,
+        250,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 19.5,
+      "crop": [
+        100,
+        250,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-spinach": {
+      "t": 20.5,
+      "crop": [
+        60,
+        250,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 0.0,
+      "crop": [
+        190,
+        598,
+        160,
+        160
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 39.0,
+      "crop": [
+        100,
+        330,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 33.75,
+      "crop": [
+        100,
+        420,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 43.75,
+      "crop": [
+        330,
+        420,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-cauli": {
+      "t": 44.5,
+      "crop": [
+        80,
+        420,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 45.5,
+      "crop": [
+        60,
+        400,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 48.5,
+      "crop": [
+        150,
+        250,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-cucumber": {
+      "t": 49.0,
+      "crop": [
+        0,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-beet": {
+      "t": 51.0,
+      "crop": [
+        0,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-cut-2": {
+      "t": 4.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 4.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 6.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-4": {
+      "t": 7.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 8.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-toss-2": {
+      "t": 10.75,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-heat-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-4": {
+      "t": 17.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chutney-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chutney-3": {
+      "t": 19.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chutney-5": {
+      "t": 20.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chutney-7": {
+      "t": 22.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chutney-9": {
+      "t": 23.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 26.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-oil-1": {
+      "t": 26.75,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-onion-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-garlic-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-garlic-2": {
+      "t": 31.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-chutney-1": {
+      "t": 31.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-add-1": {
+      "t": 33.75,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-mix-1": {
+      "t": 35.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-mix-2": {
+      "t": 38.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 39.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-3": {
+      "t": 40.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-4": {
+      "t": 41.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-garlic-1": {
+      "t": 42.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-tomato-1": {
+      "t": 43.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-cauli-1": {
+      "t": 44.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-peas-1": {
+      "t": 45.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-salt-1": {
+      "t": 47.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raita-1": {
+      "t": 48.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raita-3": {
+      "t": 50.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raita-4": {
+      "t": 50.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raita-6": {
+      "t": 52.0,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raita-7": {
+      "t": 52.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raita-8": {
+      "t": 53.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bowl-1": {
+      "t": 55.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bowl-3": {
+      "t": 56.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bowl-5": {
+      "t": 58.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bowl-6": {
+      "t": 59.5,
+      "crop": [
+        0,
+        170,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 1.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

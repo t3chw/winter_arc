@@ -6,11 +6,13 @@
   var WA = window.WA;
 
   var MEALS = ['Breakfast', 'Lunch or dinner', 'Snack', 'Drink', 'Side'];
+  /* dishes that need flatbread or batter work: hidden by default, the owner has no time for them */
+  var SLOW = /\b(roti|dosa|chilla|cheela|paratha|pancake|uttapam|thepla|puri|naan)\b/i;
 
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function byId(id) { for (var i = 0; i < WA.dishes.length; i++) if (WA.dishes[i].id === id) return WA.dishes[i]; return null; }
   /* WA_IMG is only set by the single-file preview, which carries the pictures inside the page */
-  function src(d, name) { var p = 'assets/food/' + d.id + '/' + name + '.jpg'; return (window.WA_IMG && window.WA_IMG[p]) || p; }
+  function src(d, name) { var p = 'assets/food/' + d.id + '/' + name + '.webp'; return (window.WA_IMG && window.WA_IMG[p]) || p; }
   function img(d, name, cls) { return '<img class="' + cls + '" src="' + src(d, name) + '" alt="" loading="lazy" decoding="async">'; }
   function meta(d) {
     return '<span>' + esc(d.meal) + '</span><span>' + d.minutes + ' min</span><span>' + esc(d.how) + '</span><span>≈ ' + d.protein + ' g protein</span>';
@@ -46,9 +48,10 @@
 
   function showList(root) {
     var all = WA.dishes.slice().sort(function (a, b) { return b.protein - a.protein || a.minutes - b.minutes; });
-    var have = loadPantry(), state = { meal: '', flags: {}, open: false };
-    var FLAGS = [['no-cook', 'No cooking'], ['pressure-cooker', 'Pressure cooker'], ['air-fryer', 'Air fryer'], ['quick', 'Under 10 min'], ['high', '20 g+ protein']];
-    function hasFlag(d, k) { return k === 'high' ? d.protein >= 20 : k === 'quick' ? d.minutes <= 10 : (d.tags || []).indexOf(k) >= 0; }
+    var have = loadPantry(), state = { meal: '', flags: { hideslow: true }, open: false };
+    try { if (localStorage.getItem('wa-food-slow') === 'show') state.flags.hideslow = false; } catch (e) {}
+    var FLAGS = [['hideslow', 'No roti, dosa, chilla'], ['no-cook', 'No cooking'], ['pressure-cooker', 'Pressure cooker'], ['air-fryer', 'Air fryer'], ['quick', 'Under 10 min'], ['high', '20 g+ protein']];
+    function hasFlag(d, k) { return k === 'hideslow' ? !SLOW.test(d.name) : k === 'high' ? d.protein >= 20 : k === 'quick' ? d.minutes <= 10 : (d.tags || []).indexOf(k) >= 0; }
     var meals = MEALS.filter(function (m) { return all.some(function (d) { return d.meal === m; }); });
     var groups = pickerGroups();
     var staples = T.staples.filter(function (k) { return k !== 'ice' && k !== 'water'; }).map(T.name).join(', ');
@@ -71,7 +74,7 @@
       '<button class="fd-chip on" type="button" data-meal="">All</button>' +
       meals.map(function (m) { return '<button class="fd-chip" type="button" data-meal="' + esc(m) + '">' + esc(m) + '</button>'; }).join('') +
       '<span class="fd-chip-gap"></span>' +
-      FLAGS.map(function (f) { return '<button class="fd-chip" type="button" data-flag="' + f[0] + '" aria-pressed="false">' + f[1] + '</button>'; }).join('') +
+      FLAGS.map(function (f) { var on = !!state.flags[f[0]]; return '<button class="fd-chip' + (on ? ' on' : '') + '" type="button" data-flag="' + f[0] + '" aria-pressed="' + on + '">' + f[1] + '</button>'; }).join('') +
       '</div>' +
       '<div class="fd-results" aria-live="polite"></div>' +
       '</div>';
@@ -79,7 +82,7 @@
     var results = root.querySelector('.fd-results'), pick = root.querySelector('.fd-pick'), haveBtn = root.querySelector('.fd-have');
 
     function card(d, miss) {
-      return '<a class="fd-card" href="#/food/' + d.id + '">' + img(d, d.cover, 'fd-card-img') +
+      return '<a class="fd-card" href="#/food/' + d.id + '">' + img(d, d.card || d.cover, 'fd-card-img') +
         '<span class="fd-card-name">' + esc(d.name) + '</span><span class="fd-card-meta">' + meta(d) + '</span>' +
         (miss && miss.length ? '<span class="fd-card-need"><b>Need</b> ' + miss.map(function (i) { return esc(T.name(i.tag)); }).join(', ') + '</span>' : '') + '</a>';
     }
@@ -129,7 +132,10 @@
     root.querySelector('.fd-chips').addEventListener('click', function (e) {
       var b = e.target.closest('.fd-chip');
       if (!b) return;
-      if (b.hasAttribute('data-flag')) { var f = b.getAttribute('data-flag'); state.flags[f] = !state.flags[f]; b.classList.toggle('on', !!state.flags[f]); b.setAttribute('aria-pressed', String(!!state.flags[f])); }
+      if (b.hasAttribute('data-flag')) {
+        var f = b.getAttribute('data-flag'); state.flags[f] = !state.flags[f]; b.classList.toggle('on', !!state.flags[f]); b.setAttribute('aria-pressed', String(!!state.flags[f]));
+        if (f === 'hideslow') { try { localStorage.setItem('wa-food-slow', state.flags[f] ? 'hide' : 'show'); } catch (e) {} }
+      }
       else {
         state.meal = b.getAttribute('data-meal');
         var bs = root.querySelectorAll('.fd-chip[data-meal]');

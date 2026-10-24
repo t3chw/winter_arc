@@ -1,0 +1,495 @@
+{
+ "videos": [
+  "3368333168050015542"
+ ],
+ "dish": {
+  "id": "paneer-besan-chilla",
+  "name": "Paneer besan chilla",
+  "meal": "Breakfast",
+  "minutes": 20,
+  "protein": 20,
+  "how": "Gas",
+  "tools": "Non-stick pan, gas, bowl, whisk, grater, ladle",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "100 g (~1 cup)",
+    "n": "Besan (gram flour)",
+    "tag": "besan",
+    "img": "i-besan"
+   },
+   {
+    "q": "100 g",
+    "n": "Paneer, grated",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~½ medium",
+    "n": "Onion, finely chopped",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 small",
+    "n": "Tomato, chopped",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~½ cup",
+    "n": "Capsicum, chopped",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~1 handful",
+    "n": "Coriander leaves, chopped",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Cumin powder (jeera)",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~⅔ cup (150 ml)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp, for the pan",
+    "n": "Oil",
+    "tag": "oil"
+   },
+   {
+    "q": "~½ cup, to serve",
+    "n": "Curd",
+    "tag": "curd",
+    "img": "i-curd",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put 100 g besan in a big bowl.",
+    "imgs": [
+     "s-besan-1",
+     "s-besan-2"
+    ]
+   },
+   {
+    "t": "Grate 100 g paneer over the besan.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add chopped onion, tomato, capsicum and coriander.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2",
+     "s-veg-3"
+    ]
+   },
+   {
+    "t": "Add salt, cumin powder and red chilli powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Pour in the water and whisk to a thick, smooth batter.",
+    "imgs": [
+     "s-batter-1",
+     "s-batter-2",
+     "s-batter-3"
+    ]
+   },
+   {
+    "t": "Heat a non-stick pan on gas. Pour one ladle of batter and spread it round.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2",
+     "s-pour-3"
+    ]
+   },
+   {
+    "t": "Cook until the underside turns golden brown.",
+    "imgs": [
+     "s-cook-1"
+    ]
+   },
+   {
+    "t": "Flip it and cook the other side until golden and spotty.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2"
+    ]
+   },
+   {
+    "t": "Serve hot with a bowl of curd.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "Host is a podcast guest, no creator name shown. Besan and paneer 100 g each (from audio); all other amounts, the oil, and heat/cook times are not stated, so guessed (~). Light-brown powder looks like cumin or coriander powder. Red bits could be tomato or red capsicum."
+ },
+ "images": {
+  "cover": {
+   "t": 21.6,
+   "crop": [
+    0,
+    740,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-besan": {
+   "t": 4.5,
+   "crop": [
+    210,
+    890,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 5.25,
+   "crop": [
+    250,
+    450,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 7.5,
+   "crop": [
+    250,
+    560,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 8.25,
+   "crop": [
+    290,
+    880,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 9.2,
+   "crop": [
+    195,
+    820,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 10.0,
+   "crop": [
+    180,
+    800,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 10.2,
+   "crop": [
+    340,
+    580,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 11.0,
+   "crop": [
+    230,
+    810,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 11.4,
+   "crop": [
+    200,
+    830,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 12.0,
+   "crop": [
+    380,
+    475,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 22.2,
+   "crop": [
+    220,
+    820,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "s-besan-1": {
+   "t": 3.75,
+   "crop": [
+    0,
+    560,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-besan-2": {
+   "t": 4.5,
+   "crop": [
+    0,
+    640,
+    720,
+    560
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 5.25,
+   "crop": [
+    0,
+    520,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 6.75,
+   "crop": [
+    0,
+    520,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 8.25,
+   "crop": [
+    0,
+    560,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    560,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-veg-3": {
+   "t": 10.0,
+   "crop": [
+    0,
+    620,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 10.2,
+   "crop": [
+    0,
+    560,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    560,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 11.4,
+   "crop": [
+    0,
+    560,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-batter-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    520,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-batter-2": {
+   "t": 12.75,
+   "crop": [
+    0,
+    620,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-batter-3": {
+   "t": 14.25,
+   "crop": [
+    0,
+    680,
+    720,
+    560
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 15.6,
+   "crop": [
+    0,
+    580,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 16.8,
+   "crop": [
+    0,
+    580,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-pour-3": {
+   "t": 18.0,
+   "crop": [
+    0,
+    580,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 19.2,
+   "crop": [
+    0,
+    600,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 20.4,
+   "crop": [
+    0,
+    470,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    600,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 21.6,
+   "crop": [
+    0,
+    740,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 22.2,
+   "crop": [
+    0,
+    700,
+    720,
+    580
+   ],
+   "w": 480
+  }
+ }
+}

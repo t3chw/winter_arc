@@ -7,3 +7,6 @@ exercise_videos/contact_sheets/
 # Local preview config
 .claude/
 preview.html
+
+# Original screenshots from the recipe videos; the site serves the smaller .webp versions
+site/assets/food/**/*.jpg

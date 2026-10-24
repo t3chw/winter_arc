@@ -1,0 +1,518 @@
+{
+  "videos": [
+    "3520842825134742341"
+  ],
+  "dish": {
+    "id": "aloo-peanut-salad",
+    "name": "Aloo peanut curd salad",
+    "meal": "Snack",
+    "minutes": 25,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Non-stick pan with lid, mixing bowl, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1/2 cup (~70 g)",
+        "n": "Peanuts (moongphali)",
+        "tag": "peanuts",
+        "img": "i-peanut"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Oil",
+        "tag": "oil"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin"
+      },
+      {
+        "q": "~2 medium (~200 g), diced small",
+        "n": "Potatoes (aloo)",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~8 leaves",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1 1/2 cups (~350 g)",
+        "n": "Curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1/2 medium, chopped",
+        "n": "Cucumber",
+        "tag": "cucumber",
+        "img": "i-cucumber"
+      },
+      {
+        "q": "~1 small, chopped",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1 medium, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Chaat masala",
+        "tag": "chaat-masala",
+        "img": "i-chaat"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Dry roast the peanuts in a pan, then keep them aside.",
+        "imgs": [
+          "s-peanut-1"
+        ]
+      },
+      {
+        "t": "Heat oil in a non-stick pan.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds.",
+        "imgs": [
+          "s-cumin-1"
+        ]
+      },
+      {
+        "t": "Add the diced potatoes.",
+        "imgs": [
+          "s-potato-1"
+        ]
+      },
+      {
+        "t": "Add the curry leaves and stir.",
+        "imgs": [
+          "s-leaf-1",
+          "s-leaf-2"
+        ]
+      },
+      {
+        "t": "Add the salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Cover with a lid and cook the potatoes soft.",
+        "imgs": [
+          "s-lid-1"
+        ]
+      },
+      {
+        "t": "Stir until the potatoes turn golden and crisp.",
+        "imgs": [
+          "s-gold-1",
+          "s-gold-2"
+        ]
+      },
+      {
+        "t": "Add the roasted peanuts.",
+        "imgs": [
+          "s-pnut-1",
+          "s-pnut-2"
+        ]
+      },
+      {
+        "t": "Add the red chilli powder and mix well.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Put the curd in a bowl.",
+        "imgs": [
+          "s-curd-1"
+        ]
+      },
+      {
+        "t": "Add chopped cucumber, onion and tomato.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2"
+        ]
+      },
+      {
+        "t": "Add the chaat masala and mix well.",
+        "imgs": [
+          "s-chaat-1",
+          "s-chaat-2"
+        ]
+      },
+      {
+        "t": "Top with the potato and peanut mix and sprinkle a little more masala.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2",
+          "s-top-3"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "notes": "No on-screen text for amounts: all quantities are guesses, and cooking times are not shown. The powder sprinkled on the curd and on top looks like chaat masala (matches the Hindi voiceover). Oil bottle not clearly shown."
+  },
+  "images": {
+    "cover": {
+      "t": 41.0,
+      "crop": [
+        0,
+        200,
+        720,
+        900
+      ],
+      "w": 560
+    },
+    "i-peanut": {
+      "t": 11.0,
+      "crop": [
+        80,
+        420,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 15.5,
+      "crop": [
+        60,
+        420,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-curry": {
+      "t": 17.0,
+      "crop": [
+        0,
+        100,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 22.0,
+      "crop": [
+        120,
+        260,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 29.5,
+      "crop": [
+        0,
+        340,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 31.5,
+      "crop": [
+        180,
+        350,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cucumber": {
+      "t": 36.5,
+      "crop": [
+        100,
+        340,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 36.5,
+      "crop": [
+        0,
+        560,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 36.5,
+      "crop": [
+        380,
+        480,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-chaat": {
+      "t": 42.0,
+      "crop": [
+        150,
+        0,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "s-peanut-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 12.5,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-leaf-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-leaf-2": {
+      "t": 18.5,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-lid-1": {
+      "t": 24.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-gold-1": {
+      "t": 26.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-gold-2": {
+      "t": 26.5,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pnut-1": {
+      "t": 27.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pnut-2": {
+      "t": 27.5,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 29.5,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 30.0,
+      "crop": [
+        0,
+        400,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 31.5,
+      "crop": [
+        0,
+        350,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 33.5,
+      "crop": [
+        0,
+        350,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 35.0,
+      "crop": [
+        0,
+        350,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-chaat-1": {
+      "t": 36.5,
+      "crop": [
+        0,
+        350,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-chaat-2": {
+      "t": 38.0,
+      "crop": [
+        0,
+        350,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 40.5,
+      "crop": [
+        0,
+        300,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 41.0,
+      "crop": [
+        0,
+        300,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-top-3": {
+      "t": 42.0,
+      "crop": [
+        0,
+        300,
+        720,
+        700
+      ],
+      "w": 480
+    }
+  }
+}

@@ -1,0 +1,771 @@
+{
+ "videos": [
+  "3483725438038645114"
+ ],
+ "dish": {
+  "id": "cabbage-apple-tadka-salad",
+  "name": "Cabbage apple tadka salad",
+  "meal": "Side",
+  "minutes": 30,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Knife, peeler, wooden or large bowl, whisk, small pan, gas, tongs",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1/2 small head (300 g)",
+    "n": "Cabbage (patta gobhi)",
+    "tag": "cabbage",
+    "img": "i-cabbage"
+   },
+   {
+    "q": "1 medium",
+    "n": "Red apple",
+    "tag": "apple",
+    "img": "i-apple"
+   },
+   {
+    "q": "~3/4 tsp (1/2 tsp in apple water, a pinch in curd)",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "1 medium",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "1 small",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "1 medium",
+    "n": "Red onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~3/4 cup (150 g), thick",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Mustard seeds (rai)",
+    "tag": "mustard-seeds",
+    "img": "i-mustard"
+   },
+   {
+    "q": "~2",
+    "n": "Dried red chillies",
+    "tag": "dried-red-chilli",
+    "img": "i-dchilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Urad dal (split, white)",
+    "tag": "urad-dal",
+    "alt": [
+     "chana-dal"
+    ],
+    "img": "i-urad"
+   },
+   {
+    "q": "~2",
+    "n": "Green chillies, slit",
+    "tag": "green-chilli",
+    "img": "i-greenchilli"
+   },
+   {
+    "q": "~10 leaves",
+    "n": "Curry leaves",
+    "tag": "curry-leaves",
+    "img": "i-curryleaf"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the cabbage in half.",
+    "imgs": [
+     "s-cab-1",
+     "s-cab-2"
+    ]
+   },
+   {
+    "t": "Shred the cabbage thin.",
+    "imgs": [
+     "s-shred-1",
+     "s-shred-2"
+    ]
+   },
+   {
+    "t": "Put the shredded cabbage in a bowl of cold water. Swish it around.",
+    "imgs": [
+     "s-soak-1",
+     "s-soak-2"
+    ]
+   },
+   {
+    "t": "Lift it out and drain it in a strainer lined with kitchen paper.",
+    "imgs": [
+     "s-drain"
+    ]
+   },
+   {
+    "t": "Cover it with a lid and set it aside.",
+    "imgs": [
+     "s-lid"
+    ]
+   },
+   {
+    "t": "Cut the apple into thin slices, then into thin sticks.",
+    "imgs": [
+     "s-apple-1",
+     "s-apple-2"
+    ]
+   },
+   {
+    "t": "Add a spoon of salt to a bowl of water. Put the apple sticks in.",
+    "imgs": [
+     "s-asoak-1",
+     "s-asoak-2"
+    ]
+   },
+   {
+    "t": "Peel the carrot into thin strands.",
+    "imgs": [
+     "s-carrot-1",
+     "s-carrot-2"
+    ]
+   },
+   {
+    "t": "Chop the cucumber into small pieces.",
+    "imgs": [
+     "s-cuc-1",
+     "s-cuc-2"
+    ]
+   },
+   {
+    "t": "Slice the red onion thin.",
+    "imgs": [
+     "s-onion"
+    ]
+   },
+   {
+    "t": "Pour the curd into a big bowl and sprinkle a pinch of salt.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2",
+     "s-curd-3"
+    ]
+   },
+   {
+    "t": "Whisk the curd until smooth and creamy.",
+    "imgs": [
+     "s-whisk"
+    ]
+   },
+   {
+    "t": "Layer the cabbage, carrot, onion, cucumber and drained apple on the curd.",
+    "imgs": [
+     "s-layer-1",
+     "s-layer-2",
+     "s-layer-3"
+    ]
+   },
+   {
+    "t": "Heat the oil in a pan on the gas.",
+    "imgs": [
+     "s-oil"
+    ]
+   },
+   {
+    "t": "Add the mustard seeds. Let them pop.",
+    "imgs": [
+     "s-mustard-1",
+     "s-mustard-2"
+    ]
+   },
+   {
+    "t": "Add the dried red chillies and urad dal.",
+    "imgs": [
+     "s-dal"
+    ]
+   },
+   {
+    "t": "Add the slit green chillies and curry leaves.",
+    "imgs": [
+     "s-green-1",
+     "s-green-2"
+    ]
+   },
+   {
+    "t": "Stir for a few seconds.",
+    "imgs": [
+     "s-stir"
+    ]
+   },
+   {
+    "t": "Pour the hot tadka over the salad.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Toss everything well until coated with curd.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2"
+    ]
+   },
+   {
+    "t": "Pile it on a plate and serve.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2",
+     "s-plate-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-fibre"
+  ],
+  "notes": "No speech or on-screen amounts (only the title 'Tadka salad'): all amounts are guesses. White spoon of powder in the apple water looks like salt; I assumed it is there to stop browning. Pale lentils in the tadka look like split urad dal (could be chana dal). Mix is mostly cabbage, so protein is low (about 5 g per serving). No creator name on screen."
+ },
+ "images": {
+  "cover": {
+   "t": 49.0,
+   "crop": [
+    0,
+    480,
+    720,
+    620
+   ],
+   "w": 560
+  },
+  "i-cabbage": {
+   "t": 1.0,
+   "crop": [
+    200,
+    380,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-apple": {
+   "t": 10.5,
+   "crop": [
+    190,
+    650,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 17.0,
+   "crop": [
+    200,
+    20,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 18.0,
+   "crop": [
+    100,
+    450,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 20.5,
+   "crop": [
+    200,
+    310,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 26.5,
+   "crop": [
+    180,
+    560,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 11.8,
+   "crop": [
+    20,
+    90,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 34.5,
+   "crop": [
+    60,
+    200,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-mustard": {
+   "t": 35.0,
+   "crop": [
+    380,
+    30,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-urad": {
+   "t": 36.5,
+   "crop": [
+    250,
+    440,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-dchilli": {
+   "t": 36.0,
+   "crop": [
+    280,
+    440,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-greenchilli": {
+   "t": 37.0,
+   "crop": [
+    330,
+    100,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-curryleaf": {
+   "t": 37.5,
+   "crop": [
+    380,
+    40,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "s-cab-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cab-2": {
+   "t": 2.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shred-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shred-2": {
+   "t": 3.5,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    480,
+    720,
+    560
+   ],
+   "w": 480
+  },
+  "s-soak-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    480,
+    720,
+    560
+   ],
+   "w": 480
+  },
+  "s-drain": {
+   "t": 8.0,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid": {
+   "t": 9.0,
+   "crop": [
+    0,
+    350,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-apple-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-apple-2": {
+   "t": 11.6,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-asoak-1": {
+   "t": 11.8,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-asoak-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-carrot-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-carrot-2": {
+   "t": 17.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion": {
+   "t": 20.5,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-curd-3": {
+   "t": 27.5,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-whisk": {
+   "t": 29.0,
+   "crop": [
+    0,
+    350,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-layer-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-layer-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-layer-3": {
+   "t": 33.0,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-oil": {
+   "t": 34.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mustard-1": {
+   "t": 35.0,
+   "crop": [
+    0,
+    60,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mustard-2": {
+   "t": 35.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-dal": {
+   "t": 36.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-green-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-green-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-stir": {
+   "t": 38.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 39.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 40.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 41.5,
+   "crop": [
+    0,
+    450,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    450,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 45.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 48.5,
+   "crop": [
+    0,
+    450,
+    720,
+    650
+   ],
+   "w": 480
+  },
+  "s-plate-3": {
+   "t": 50.5,
+   "crop": [
+    0,
+    350,
+    720,
+    700
+   ],
+   "w": 480
+  }
+ }
+}

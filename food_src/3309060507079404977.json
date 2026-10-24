@@ -1,0 +1,339 @@
+{
+  "videos": [
+    "3309060507079404977"
+  ],
+  "dish": {
+    "id": "coffee-ice-cube-cold-coffee",
+    "name": "Coffee ice cube cold coffee",
+    "meal": "Drink",
+    "minutes": 15,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Pan, gas, ice cube tray, freezer, hand frother",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 cup (200 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Instant coffee powder",
+        "tag": "coffee",
+        "img": "i-coffee"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Sugar",
+        "tag": "sugar",
+        "img": "i-sugar"
+      },
+      {
+        "q": "~2 cups (400 ml)",
+        "n": "Cold milk",
+        "tag": "milk",
+        "img": "i-milk"
+      },
+      {
+        "q": "a pinch",
+        "n": "Coffee powder, to sprinkle on top",
+        "tag": "coffee",
+        "opt": true,
+        "img": "i-coffee-top"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat the water in a pan on the stove.",
+        "imgs": [
+          "s-heat-1"
+        ]
+      },
+      {
+        "t": "Add the coffee powder and sugar to the hot water.",
+        "imgs": [
+          "s-add-1",
+          "s-add-2"
+        ]
+      },
+      {
+        "t": "Stir and let it bubble until the sugar melts and the coffee is dark.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2"
+        ]
+      },
+      {
+        "t": "Pour the hot coffee into ice cube trays.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2"
+        ]
+      },
+      {
+        "t": "Freeze until the coffee cubes are solid.",
+        "imgs": [
+          "s-freeze-1"
+        ]
+      },
+      {
+        "t": "Drop the coffee cubes into a glass.",
+        "imgs": [
+          "s-cubes-1",
+          "s-cubes-2"
+        ]
+      },
+      {
+        "t": "Pour cold milk over the cubes.",
+        "imgs": [
+          "s-milk-1",
+          "s-milk-2"
+        ]
+      },
+      {
+        "t": "Froth with a hand frother until the top is foamy.",
+        "imgs": [
+          "s-froth-1",
+          "s-froth-2"
+        ]
+      },
+      {
+        "t": "Sprinkle a little coffee powder on top and serve.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "make-ahead"
+    ],
+    "notes": "The video shows no amounts and has no clear speech; all amounts are guesses (~). Freezing the cubes takes several hours (not counted in minutes). The video uses an induction hob, a gas stove works the same."
+  },
+  "images": {
+    "cover": {
+      "t": 20.0,
+      "crop": [
+        20,
+        420,
+        680,
+        600
+      ],
+      "w": 560
+    },
+    "i-water": {
+      "t": 1.5,
+      "crop": [
+        110,
+        650,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coffee": {
+      "t": 0.2,
+      "crop": [
+        225,
+        330,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-sugar": {
+      "t": 0.2,
+      "crop": [
+        390,
+        680,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-milk": {
+      "t": 12.0,
+      "crop": [
+        50,
+        330,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-coffee-top": {
+      "t": 19.0,
+      "crop": [
+        180,
+        540,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "s-heat-1": {
+      "t": 1.5,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-1": {
+      "t": 0.2,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-add-2": {
+      "t": 1.7,
+      "crop": [
+        0,
+        480,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 4.0,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 4.5,
+      "crop": [
+        0,
+        300,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 7.0,
+      "crop": [
+        0,
+        300,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-freeze-1": {
+      "t": 8.6,
+      "crop": [
+        0,
+        520,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-cubes-1": {
+      "t": 9.6,
+      "crop": [
+        0,
+        380,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-cubes-2": {
+      "t": 10.8,
+      "crop": [
+        0,
+        380,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-milk-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        420,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-milk-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        420,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-froth-1": {
+      "t": 15.2,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-froth-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        400,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 21.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

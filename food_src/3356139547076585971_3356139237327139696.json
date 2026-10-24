@@ -1,0 +1,678 @@
+{
+  "videos": [
+    "3356139547076585971_3356139237327139696"
+  ],
+  "dish": {
+    "id": "paneer-corn-spinach-sandwich",
+    "name": "Paneer corn spinach sandwich",
+    "meal": "Breakfast",
+    "minutes": 20,
+    "protein": 30,
+    "how": "Gas",
+    "tools": "Pan, tawa (flat griddle), gas, spatula",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 tbsp, plus a little for the tawa",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~4 cloves, chopped",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~2, chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Chilli flakes",
+        "tag": "chilli-flakes",
+        "img": "i-flakes"
+      },
+      {
+        "q": "~1 cup, loosely packed",
+        "n": "Spinach, chopped (the leaves look like lettuce, either works)",
+        "tag": "spinach",
+        "img": "i-spinach",
+        "alt": [
+          "lettuce"
+        ]
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Sweet corn kernels",
+        "tag": "corn",
+        "img": "i-corn"
+      },
+      {
+        "q": "~100 g, grated",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Salt",
+        "tag": "salt"
+      },
+      {
+        "q": "3 slices",
+        "n": "Bread",
+        "tag": "bread",
+        "img": "i-bread"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Green chutney (mint-coriander)",
+        "tag": "green-chutney",
+        "img": "i-chutney"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "White spread (looks like cheese spread or thick curd)",
+        "tag": "cheese",
+        "alt": [
+          "curd"
+        ],
+        "opt": true,
+        "img": "i-spread"
+      },
+      {
+        "q": "a few rings",
+        "n": "Onion, sliced in rings",
+        "tag": "onion",
+        "opt": true,
+        "img": "i-onion"
+      },
+      {
+        "q": "2 slices",
+        "n": "Tomato, sliced",
+        "tag": "tomato",
+        "opt": true,
+        "img": "i-tomato"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat the oil in a pan.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds.",
+        "imgs": [
+          "s-cumin-1"
+        ]
+      },
+      {
+        "t": "Add the chopped garlic and green chilli.",
+        "imgs": [
+          "s-garlic-1",
+          "s-garlic-2"
+        ]
+      },
+      {
+        "t": "Add the chilli flakes and stir for a few seconds.",
+        "imgs": [
+          "s-flakes-1",
+          "s-flakes-2"
+        ]
+      },
+      {
+        "t": "Add the spinach.",
+        "imgs": [
+          "s-spinach-1"
+        ]
+      },
+      {
+        "t": "Add the sweet corn.",
+        "imgs": [
+          "s-corn-1"
+        ]
+      },
+      {
+        "t": "Add the grated paneer and the salt.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "Mix well on medium heat. The stuffing is ready.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Put a bread slice on a plate.",
+        "imgs": [
+          "s-bread-1"
+        ]
+      },
+      {
+        "t": "Spread green chutney on the bread.",
+        "imgs": [
+          "s-chutney-1"
+        ]
+      },
+      {
+        "t": "Spoon the paneer stuffing on top.",
+        "imgs": [
+          "s-fill-1",
+          "s-fill-2"
+        ]
+      },
+      {
+        "t": "Cover with a second bread slice.",
+        "imgs": [
+          "s-bread-2"
+        ]
+      },
+      {
+        "t": "Spread the white spread on the second slice.",
+        "imgs": [
+          "s-spread-1"
+        ]
+      },
+      {
+        "t": "Add more stuffing on top.",
+        "imgs": [
+          "s-fill-3",
+          "s-fill-4"
+        ]
+      },
+      {
+        "t": "Add an onion ring and a tomato slice.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2"
+        ]
+      },
+      {
+        "t": "Close with the third bread slice.",
+        "imgs": [
+          "s-top-1"
+        ]
+      },
+      {
+        "t": "Heat a tawa and brush it with oil.",
+        "imgs": [
+          "s-tawa-1"
+        ]
+      },
+      {
+        "t": "Place the sandwich on the tawa.",
+        "imgs": [
+          "s-tawa-2"
+        ]
+      },
+      {
+        "t": "Cook on both sides until golden and crisp. Press with a spatula.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2",
+          "s-cook-3"
+        ]
+      },
+      {
+        "t": "Cut into triangles and serve with green chutney.",
+        "imgs": [
+          "s-serve-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "high-protein"
+    ],
+    "notes": "No speech and no amounts in the video, all amounts are guesses (~). The white spread on the second layer is not named: it could be mayonnaise (many contain egg, avoid) so use cheese spread or thick hung curd. Chutney recipe is not shown. The leaf may look like lettuce but the on-screen text says spinach. Quick tag is not used since time is about 20 minutes."
+  },
+  "images": {
+    "cover": {
+      "t": 0.0,
+      "crop": [
+        0,
+        140,
+        720,
+        600
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 3.0,
+      "crop": [
+        60,
+        230,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 4.5,
+      "crop": [
+        250,
+        300,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 5.0,
+      "crop": [
+        230,
+        330,
+        260,
+        260
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 5.0,
+      "crop": [
+        400,
+        230,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-flakes": {
+      "t": 7.5,
+      "crop": [
+        150,
+        330,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-spinach": {
+      "t": 10.0,
+      "crop": [
+        20,
+        50,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-corn": {
+      "t": 11.0,
+      "crop": [
+        150,
+        250,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 13.0,
+      "crop": [
+        150,
+        200,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-bread": {
+      "t": 18.0,
+      "crop": [
+        80,
+        200,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 19.0,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-spread": {
+      "t": 25.0,
+      "crop": [
+        200,
+        300,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 29.0,
+      "crop": [
+        150,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 30.0,
+      "crop": [
+        150,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-oil-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 4.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-2": {
+      "t": 6.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flakes-1": {
+      "t": 7.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flakes-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spinach-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-corn-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 13.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bread-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chutney-1": {
+      "t": 19.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bread-2": {
+      "t": 24.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spread-1": {
+      "t": 25.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-3": {
+      "t": 26.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-4": {
+      "t": 27.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 30.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        60,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-tawa-1": {
+      "t": 32.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tawa-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 34.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 36.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-3": {
+      "t": 37.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 0.4,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

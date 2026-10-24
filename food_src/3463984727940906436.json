@@ -1,0 +1,579 @@
+{
+ "videos": [
+  "3463984727940906436"
+ ],
+ "dish": {
+  "id": "dahi-tadka-paneer-sandwich",
+  "name": "Dahi tadka paneer sandwich",
+  "meal": "Breakfast",
+  "minutes": 15,
+  "protein": 25,
+  "how": "Gas",
+  "tools": "Non-stick pan, gas, whisk, bowl",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3/4 cup (150 g)",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt (pink salt in video)",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric (haldi)",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Garam masala (brown powder)",
+    "tag": "garam-masala",
+    "img": "i-garam"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin powder (or coriander powder)",
+    "tag": "cumin-powder",
+    "alt": [
+     "coriander-powder"
+    ],
+    "img": "i-tan"
+   },
+   {
+    "q": "~2 tsp, tadka and pan",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Mustard seeds (rai)",
+    "tag": "mustard-seeds",
+    "img": "i-tadka"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin seeds (jeera)",
+    "tag": "cumin",
+    "img": "i-tadka"
+   },
+   {
+    "q": "~10 leaves",
+    "n": "Curry leaves",
+    "tag": "curry-leaves",
+    "img": "i-curryleaf"
+   },
+   {
+    "q": "~1/2 medium",
+    "n": "Red onion, sliced thin",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "2 slices",
+    "n": "Bread",
+    "tag": "bread",
+    "img": "i-bread"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Green chutney (coriander and mint)",
+    "tag": "green-chutney",
+    "img": "i-chutney"
+   },
+   {
+    "q": "~80 g (4 slices)",
+    "n": "Paneer, cut in thin slabs",
+    "tag": "paneer",
+    "img": "i-paneer"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the curd in a bowl.",
+    "imgs": [
+     "s-curd"
+    ]
+   },
+   {
+    "t": "Add salt, red chilli powder, turmeric and the masala powders.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Whisk until smooth.",
+    "imgs": [
+     "s-whisk-1",
+     "s-whisk-2"
+    ]
+   },
+   {
+    "t": "Pour in the tadka of seeds and curry leaves.",
+    "imgs": [
+     "s-tadka"
+    ]
+   },
+   {
+    "t": "Add sliced red onion and whisk again.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Dip both bread slices in the batter. Coat both sides well.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2"
+    ]
+   },
+   {
+    "t": "Heat a little oil in a non-stick pan.",
+    "imgs": [
+     "s-oil"
+    ]
+   },
+   {
+    "t": "Cook the coated slices until golden on both sides.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2",
+     "s-fry-3"
+    ]
+   },
+   {
+    "t": "Spread green chutney on one toast.",
+    "imgs": [
+     "s-chutney-1",
+     "s-chutney-2"
+    ]
+   },
+   {
+    "t": "Lay the paneer slices on the chutney. Add a little more chutney on top.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2",
+     "s-paneer-3"
+    ]
+   },
+   {
+    "t": "Cover with the second toast.",
+    "imgs": [
+     "s-cover-1",
+     "s-cover-2",
+     "s-cover-3"
+    ]
+   },
+   {
+    "t": "Cut into 2 triangles and serve.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "credit": "Oh,Cheat Day!",
+  "notes": "No recipe text; all amounts guessed. Video says 10 mins; I allowed 15. Tadka (oil, mustard, cumin, curry leaves) is shown ready, not cooked. Second slice is not shown cooking. Brown powder may be garam masala; tan powder cumin or coriander. Batter shows green flecks (curry leaf, maybe coriander). Green chutney is shown ready-made (no recipe)."
+ },
+ "images": {
+  "cover": {
+   "t": 0.0,
+   "crop": [
+    0,
+    500,
+    720,
+    560
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 10.0,
+   "crop": [
+    100,
+    520,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 10.5,
+   "crop": [
+    345,
+    330,
+    160,
+    160
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 10.5,
+   "crop": [
+    530,
+    160,
+    180,
+    180
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 10.5,
+   "crop": [
+    545,
+    310,
+    175,
+    175
+   ],
+   "w": 200
+  },
+  "i-garam": {
+   "t": 10.5,
+   "crop": [
+    350,
+    195,
+    180,
+    180
+   ],
+   "w": 200
+  },
+  "i-tan": {
+   "t": 10.5,
+   "crop": [
+    492,
+    282,
+    100,
+    100
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 17.5,
+   "crop": [
+    190,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-tadka": {
+   "t": 13.0,
+   "crop": [
+    230,
+    400,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-curryleaf": {
+   "t": 13.0,
+   "crop": [
+    220,
+    520,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 14.0,
+   "crop": [
+    150,
+    500,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 15.5,
+   "crop": [
+    30,
+    380,
+    590,
+    590
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 22.0,
+   "crop": [
+    150,
+    570,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 24.25,
+   "crop": [
+    80,
+    420,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "s-curd": {
+   "t": 10.0,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    150,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    150,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-whisk-1": {
+   "t": 11.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-whisk-2": {
+   "t": 12.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-tadka": {
+   "t": 13.0,
+   "crop": [
+    0,
+    100,
+    720,
+    860
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    150,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    300,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    300,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-oil": {
+   "t": 17.5,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    250,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    250,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 20.5,
+   "crop": [
+    0,
+    250,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-chutney-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-chutney-2": {
+   "t": 22.75,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 24.25,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-paneer-3": {
+   "t": 25.0,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cover-1": {
+   "t": 25.75,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cover-2": {
+   "t": 27.25,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cover-3": {
+   "t": 28.0,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 28.75,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 30.25,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  }
+ }
+}

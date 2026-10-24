@@ -1,0 +1,286 @@
+{
+  "videos": [
+    "3504564398593599881"
+  ],
+  "dish": {
+    "id": "homemade-coconut-milk",
+    "name": "Homemade coconut milk",
+    "meal": "Drink",
+    "minutes": 20,
+    "protein": 0,
+    "how": "No cooking",
+    "tools": "Mixer jar, cloth, sieve, bottle",
+    "serves": 3,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 coconuts, shells cracked",
+        "n": "Fresh coconut (nariyal)",
+        "tag": "coconut",
+        "img": "i-coconut"
+      },
+      {
+        "q": "~1 cup (240 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Scrape the coconut meat out of the shells with a spoon.",
+        "imgs": [
+          "s-scrape-1",
+          "s-scrape-2"
+        ]
+      },
+      {
+        "t": "Put the scraped coconut in a mixer jar.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2"
+        ]
+      },
+      {
+        "t": "Pour in a little water.",
+        "imgs": [
+          "s-water-1",
+          "s-water-2"
+        ]
+      },
+      {
+        "t": "Close the lid and grind.",
+        "imgs": [
+          "s-grind-1",
+          "s-grind-2"
+        ]
+      },
+      {
+        "t": "Pour the paste onto a cloth over a bowl.",
+        "imgs": [
+          "s-strain-1",
+          "s-strain-2"
+        ]
+      },
+      {
+        "t": "Squeeze the cloth well to get all the milk out.",
+        "imgs": [
+          "s-squeeze-1",
+          "s-squeeze-2"
+        ]
+      },
+      {
+        "t": "Pour the milk into a bottle through a funnel.",
+        "imgs": [
+          "s-bottle-1",
+          "s-bottle-2"
+        ]
+      },
+      {
+        "t": "Close the bottle and keep it in the fridge for up to a week.",
+        "imgs": [
+          "s-store-1",
+          "s-store-2"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "blender",
+      "make-ahead"
+    ],
+    "notes": "From the same '9 things from one coconut' reel (chips are their own dish). Water amount is not said ('a little water'): the 1 cup is a guess, as are the coconut count and yield. Whole-coconut cracking is shown in the chips dish. Grinding itself is not shown (lid on only). Reel also makes coconut cream, oil and desiccated coconut from the leftovers: skipped."
+  },
+  "images": {
+    "cover": {
+      "t": 48.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-coconut": {
+      "t": 35.0,
+      "crop": [
+        60,
+        200,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 38.0,
+      "crop": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "s-scrape-1": {
+      "t": 34.0,
+      "crop": [
+        0,
+        100,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-scrape-2": {
+      "t": 35.0,
+      "crop": [
+        0,
+        150,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 36.0,
+      "crop": [
+        0,
+        100,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 37.0,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 38.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-water-2": {
+      "t": 38.5,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-grind-1": {
+      "t": 39.0,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-grind-2": {
+      "t": 39.5,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-strain-1": {
+      "t": 40.0,
+      "crop": [
+        0,
+        60,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-strain-2": {
+      "t": 41.0,
+      "crop": [
+        0,
+        60,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-squeeze-1": {
+      "t": 42.0,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-squeeze-2": {
+      "t": 43.0,
+      "crop": [
+        0,
+        60,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-bottle-1": {
+      "t": 45.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-bottle-2": {
+      "t": 46.0,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-store-1": {
+      "t": 47.0,
+      "crop": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-store-2": {
+      "t": 48.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

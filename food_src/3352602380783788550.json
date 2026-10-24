@@ -1,0 +1,790 @@
+{
+  "videos": [
+    "3352602380783788550"
+  ],
+  "dish": {
+    "id": "oats-poha-makhana-namkeen",
+    "name": "Oats poha makhana namkeen",
+    "meal": "Snack",
+    "minutes": 25,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Wide pan, gas, spatula, airtight tin",
+    "serves": 6,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 1/2 cups (~120 g)",
+        "n": "Rolled oats",
+        "tag": "oats",
+        "img": "i-oats"
+      },
+      {
+        "q": "1 cup (~60 g)",
+        "n": "Poha (thin flattened rice)",
+        "tag": "poha",
+        "img": "i-poha"
+      },
+      {
+        "q": "2 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Mustard seeds (rai)",
+        "tag": "mustard-seeds",
+        "img": "i-mustard"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Fennel seeds (saunf)",
+        "tag": "fennel-seeds",
+        "img": "i-fennel"
+      },
+      {
+        "q": "a pinch",
+        "n": "Hing (asafoetida)",
+        "tag": "hing",
+        "img": "i-hing"
+      },
+      {
+        "q": "a small handful",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry"
+      },
+      {
+        "q": "~2 cups (30 g)",
+        "n": "Makhana (fox nuts)",
+        "tag": "makhana",
+        "img": "i-makhana"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Roasted chana dal (bhuna chana)",
+        "tag": "roasted-chana",
+        "img": "i-chana"
+      },
+      {
+        "q": "~1/4 cup (35 g)",
+        "n": "Peanuts",
+        "tag": "peanuts",
+        "img": "i-peanuts"
+      },
+      {
+        "q": "~10",
+        "n": "Almonds",
+        "tag": "almonds",
+        "img": "i-almonds"
+      },
+      {
+        "q": "~8 halves",
+        "n": "Walnuts",
+        "tag": "walnuts",
+        "img": "i-walnuts"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Pumpkin seeds",
+        "tag": "pumpkin-seeds",
+        "img": "i-pumpkin"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Sesame seeds (til)",
+        "tag": "sesame-seeds",
+        "img": "i-sesame"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Amchur (dry mango powder)",
+        "tag": "amchur",
+        "img": "i-amchur"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Add the oats to a dry wide pan.",
+        "imgs": [
+          "s-oats-1",
+          "s-oats-2"
+        ]
+      },
+      {
+        "t": "Dry roast the oats on low heat, stirring, until light golden. Set aside.",
+        "imgs": [
+          "s-oats-3",
+          "s-oats-4"
+        ]
+      },
+      {
+        "t": "Add the poha to the dry pan.",
+        "imgs": [
+          "s-poha-1"
+        ]
+      },
+      {
+        "t": "Roast the poha on low heat until crisp. Set it aside with the oats.",
+        "imgs": [
+          "s-poha-2",
+          "s-poha-3",
+          "s-poha-4"
+        ]
+      },
+      {
+        "t": "Heat 2 tbsp oil in the pan.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the mustard seeds, fennel seeds and a pinch of hing.",
+        "imgs": [
+          "s-tadka-1",
+          "s-tadka-2"
+        ]
+      },
+      {
+        "t": "Add the curry leaves.",
+        "imgs": [
+          "s-curry-1",
+          "s-curry-2"
+        ]
+      },
+      {
+        "t": "Add the makhana.",
+        "imgs": [
+          "s-makhana-1",
+          "s-makhana-2"
+        ]
+      },
+      {
+        "t": "Add the roasted chana dal and peanuts.",
+        "imgs": [
+          "s-chana-1",
+          "s-chana-2"
+        ]
+      },
+      {
+        "t": "Roast on low heat, stirring, until the makhana turns crisp.",
+        "imgs": [
+          "s-roast-1"
+        ]
+      },
+      {
+        "t": "Add the almonds and walnuts.",
+        "imgs": [
+          "s-nuts-1",
+          "s-nuts-2"
+        ]
+      },
+      {
+        "t": "Add the pumpkin seeds and sesame seeds.",
+        "imgs": [
+          "s-seeds-1",
+          "s-seeds-2"
+        ]
+      },
+      {
+        "t": "Add the turmeric and red chilli powder.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the amchur (dry mango powder) and the salt.",
+        "imgs": [
+          "s-spice-3",
+          "s-spice-4"
+        ]
+      },
+      {
+        "t": "Stir well so every piece is coated.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2"
+        ]
+      },
+      {
+        "t": "Add the roasted oats and poha back to the pan.",
+        "imgs": [
+          "s-back-1",
+          "s-back-2"
+        ]
+      },
+      {
+        "t": "Mix everything well on low heat.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Let it cool, then pour it into an airtight tin.",
+        "imgs": [
+          "s-tin-1",
+          "s-tin-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "make-ahead",
+      "high-fibre"
+    ],
+    "notes": "Only oats (1.5 cup), poha (1 cup) and oil (2 tbsp) have amounts on screen, all other amounts are my guesses (~). The on-screen list names the spices and nuts but gives no amounts. Cooling and storing in a tin is shown but not spoken clearly. One serving is about a small handful (50 g), protein about 8 g rounded to 10."
+  },
+  "images": {
+    "cover": {
+      "t": 4.0,
+      "crop": [
+        0,
+        420,
+        720,
+        700
+      ],
+      "w": 560
+    },
+    "i-oats": {
+      "t": 10.0,
+      "crop": [
+        60,
+        560,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-poha": {
+      "t": 14.0,
+      "crop": [
+        20,
+        480,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 20.0,
+      "crop": [
+        180,
+        640,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-mustard": {
+      "t": 22.5,
+      "crop": [
+        330,
+        560,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-fennel": {
+      "t": 22.5,
+      "crop": [
+        70,
+        600,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-hing": {
+      "t": 22.5,
+      "crop": [
+        160,
+        790,
+        250,
+        250
+      ],
+      "w": 200
+    },
+    "i-curry": {
+      "t": 25.0,
+      "crop": [
+        150,
+        700,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-makhana": {
+      "t": 25.0,
+      "crop": [
+        0,
+        150,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chana": {
+      "t": 26.0,
+      "crop": [
+        0,
+        230,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-peanuts": {
+      "t": 27.0,
+      "crop": [
+        150,
+        780,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-almonds": {
+      "t": 29.0,
+      "crop": [
+        120,
+        200,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-walnuts": {
+      "t": 29.0,
+      "crop": [
+        250,
+        230,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-pumpkin": {
+      "t": 31.0,
+      "crop": [
+        0,
+        420,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-sesame": {
+      "t": 32.0,
+      "crop": [
+        0,
+        420,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 33.0,
+      "crop": [
+        170,
+        400,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 34.0,
+      "crop": [
+        150,
+        400,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 36.5,
+      "crop": [
+        100,
+        60,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-amchur": {
+      "t": 35.5,
+      "crop": [
+        30,
+        600,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-oats-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oats-2": {
+      "t": 10.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oats-3": {
+      "t": 12.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oats-4": {
+      "t": 13.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-3": {
+      "t": 17.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-4": {
+      "t": 18.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tadka-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tadka-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curry-1": {
+      "t": 24.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curry-2": {
+      "t": 25.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-makhana-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-makhana-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chana-1": {
+      "t": 26.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chana-2": {
+      "t": 27.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-1": {
+      "t": 28.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-nuts-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-nuts-2": {
+      "t": 29.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seeds-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seeds-2": {
+      "t": 32.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 33.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 34.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 35.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-4": {
+      "t": 36.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 37.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 38.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-back-1": {
+      "t": 40.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-back-2": {
+      "t": 41.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 42.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 44.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tin-1": {
+      "t": 45.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tin-2": {
+      "t": 47.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

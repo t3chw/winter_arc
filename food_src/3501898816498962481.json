@@ -1,0 +1,623 @@
+{
+  "videos": [
+    "3501898816498962481"
+  ],
+  "dish": {
+    "id": "ghee-roasted-snack-mix",
+    "name": "Roasted nut seed snack mix",
+    "meal": "Snack",
+    "minutes": 15,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Kadhai, gas, airtight container",
+    "serves": 6,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 tbsp",
+        "n": "Ghee",
+        "tag": "ghee",
+        "img": "i-ghee"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Mustard seeds (rai)",
+        "tag": "mustard-seeds",
+        "img": "i-mustard"
+      },
+      {
+        "q": "~1, finely chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~10 leaves",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-redchilli"
+      },
+      {
+        "q": "~1/4 cup (~35 g)",
+        "n": "Almonds (badam)",
+        "tag": "almonds",
+        "img": "i-almond"
+      },
+      {
+        "q": "~1/4 cup (~35 g)",
+        "n": "Cashews (kaju)",
+        "tag": "cashews",
+        "img": "i-cashew"
+      },
+      {
+        "q": "~2 tbsp (~20 g)",
+        "n": "Sunflower seeds",
+        "tag": "sunflower-seeds",
+        "img": "i-sunflower"
+      },
+      {
+        "q": "~1/4 cup (~15 g)",
+        "n": "Dry coconut slices (khopra)",
+        "tag": "coconut",
+        "img": "i-coconut"
+      },
+      {
+        "q": "~2 tbsp (~20 g)",
+        "n": "Raisins (kishmish)",
+        "tag": "raisins",
+        "img": "i-raisin"
+      },
+      {
+        "q": "~1/4 cup (~35 g)",
+        "n": "Roasted chana (bhuna chana)",
+        "tag": "roasted-chana",
+        "img": "i-chana"
+      },
+      {
+        "q": "~1/2 cup (~25 g)",
+        "n": "Thick poha (flattened rice)",
+        "tag": "poha",
+        "img": "i-poha"
+      },
+      {
+        "q": "~2 cups (~25 g)",
+        "n": "Makhana (fox nuts)",
+        "tag": "makhana",
+        "img": "i-makhana"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat the ghee in a kadhai on the gas.",
+        "imgs": [
+          "s-ghee-1",
+          "s-ghee-2",
+          "s-ghee-3"
+        ]
+      },
+      {
+        "t": "Add the mustard seeds and let them pop.",
+        "imgs": [
+          "s-mustard-1",
+          "s-mustard-2"
+        ]
+      },
+      {
+        "t": "Add the chopped green chilli.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Add the curry leaves.",
+        "imgs": [
+          "s-curry-1",
+          "s-curry-2"
+        ]
+      },
+      {
+        "t": "Add the turmeric and red chilli powder.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the almonds and stir.",
+        "imgs": [
+          "s-almond-1",
+          "s-almond-2"
+        ]
+      },
+      {
+        "t": "Add the cashews.",
+        "imgs": [
+          "s-cashew-1"
+        ]
+      },
+      {
+        "t": "Add the sunflower seeds.",
+        "imgs": [
+          "s-sun-1",
+          "s-sun-2"
+        ]
+      },
+      {
+        "t": "Add the coconut slices.",
+        "imgs": [
+          "s-coco-1",
+          "s-coco-2"
+        ]
+      },
+      {
+        "t": "Add the raisins.",
+        "imgs": [
+          "s-raisin-1"
+        ]
+      },
+      {
+        "t": "Add the roasted chana.",
+        "imgs": [
+          "s-chana-1"
+        ]
+      },
+      {
+        "t": "Add the poha.",
+        "imgs": [
+          "s-poha-1"
+        ]
+      },
+      {
+        "t": "Add the makhana.",
+        "imgs": [
+          "s-makhana-1"
+        ]
+      },
+      {
+        "t": "Mix everything well and roast until crisp.",
+        "imgs": [
+          "s-mix-2",
+          "s-mix-1"
+        ]
+      },
+      {
+        "t": "Let it cool fully, then store in an airtight container.",
+        "imgs": [
+          "s-store-1",
+          "s-store-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "high-fibre",
+      "make-ahead"
+    ],
+    "notes": "Sponsored ghee reel: the full ingredient list is in the caption (not available), so ingredients are read from the frames and ALL amounts are guesses. No salt is shown but the mix may need some. Frame shows dark brown pieces mixed with the chana (not identified, left out). Peanuts appear in the ingredient tray but are never seen added, so left out. No stir times or heat levels shown; the video says under 15 minutes."
+  },
+  "images": {
+    "cover": {
+      "t": 22.88,
+      "crop": [
+        0,
+        380,
+        720,
+        760
+      ],
+      "w": 560
+    },
+    "i-ghee": {
+      "t": 10.28,
+      "crop": [
+        100,
+        380,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-mustard": {
+      "t": 12.6,
+      "crop": [
+        250,
+        640,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 13.4,
+      "crop": [
+        260,
+        800,
+        240,
+        240
+      ],
+      "w": 200
+    },
+    "i-curry": {
+      "t": 15.4,
+      "crop": [
+        150,
+        560,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 16.2,
+      "crop": [
+        130,
+        440,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-redchilli": {
+      "t": 16.6,
+      "crop": [
+        200,
+        640,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-almond": {
+      "t": 17.0,
+      "crop": [
+        170,
+        480,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-cashew": {
+      "t": 17.6,
+      "crop": [
+        190,
+        480,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-sunflower": {
+      "t": 17.9,
+      "crop": [
+        120,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coconut": {
+      "t": 18.8,
+      "crop": [
+        170,
+        600,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-raisin": {
+      "t": 19.1,
+      "crop": [
+        120,
+        400,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chana": {
+      "t": 19.4,
+      "crop": [
+        40,
+        640,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-poha": {
+      "t": 19.7,
+      "crop": [
+        200,
+        560,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-makhana": {
+      "t": 20.0,
+      "crop": [
+        100,
+        560,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "s-ghee-1": {
+      "t": 10.28,
+      "crop": [
+        0,
+        150,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-ghee-2": {
+      "t": 10.91,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-ghee-3": {
+      "t": 11.54,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-mustard-1": {
+      "t": 12.6,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-mustard-2": {
+      "t": 12.9,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 13.4,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 13.6,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-curry-1": {
+      "t": 14.2,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-curry-2": {
+      "t": 15.4,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 16.2,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 16.6,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-almond-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-almond-2": {
+      "t": 17.3,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-cashew-1": {
+      "t": 17.6,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-sun-1": {
+      "t": 17.9,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-sun-2": {
+      "t": 18.2,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-coco-1": {
+      "t": 18.5,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-coco-2": {
+      "t": 18.8,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-raisin-1": {
+      "t": 19.1,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-chana-1": {
+      "t": 19.4,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-poha-1": {
+      "t": 19.7,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-makhana-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 21.62,
+      "crop": [
+        0,
+        300,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        300,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-store-1": {
+      "t": 22.25,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-store-2": {
+      "t": 23.51,
+      "crop": [
+        0,
+        380,
+        720,
+        680
+      ],
+      "w": 480
+    }
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "videos": [
+    "3335217453803461046"
+  ],
+  "dish": {
+    "id": "overnight-chia-oats-jar",
+    "name": "Overnight chia oats jar",
+    "meal": "Breakfast",
+    "minutes": 10,
+    "protein": 15,
+    "how": "No cooking",
+    "tools": "Small glass jar with lid, spoon, fridge",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 tbsp",
+        "n": "Chia seeds",
+        "tag": "chia-seeds",
+        "img": "i-chia"
+      },
+      {
+        "q": "~1/4 cup (25 g)",
+        "n": "Rolled oats",
+        "tag": "oats",
+        "img": "i-oats"
+      },
+      {
+        "q": "~3/4 cup (180 ml)",
+        "n": "Milk",
+        "tag": "milk",
+        "img": "i-milk"
+      },
+      {
+        "q": "~1/4 apple, diced",
+        "n": "Apple",
+        "tag": "apple",
+        "img": "i-apple"
+      },
+      {
+        "q": "~1/2 banana, sliced",
+        "n": "Banana",
+        "tag": "banana",
+        "img": "i-banana"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Pumpkin and melon seeds",
+        "tag": "pumpkin-seeds",
+        "alt": [
+          "sunflower-seeds"
+        ],
+        "img": "i-seeds"
+      },
+      {
+        "q": "~2, chopped",
+        "n": "Dates (khajoor)",
+        "tag": "dates",
+        "img": "i-dates"
+      },
+      {
+        "q": "~4 halves",
+        "n": "Walnuts",
+        "tag": "walnuts",
+        "img": "i-walnuts"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put the chia seeds in a clean jar.",
+        "imgs": [
+          "s-chia-1",
+          "s-chia-2"
+        ]
+      },
+      {
+        "t": "Add the oats on top.",
+        "imgs": [
+          "s-oats-1",
+          "s-oats-2"
+        ]
+      },
+      {
+        "t": "Pour in the milk until the oats are covered.",
+        "imgs": [
+          "s-milk-1",
+          "s-milk-2"
+        ]
+      },
+      {
+        "t": "Close the lid and keep the jar in the fridge for 2 to 3 hours or overnight.",
+        "imgs": [
+          "s-fridge-1",
+          "s-fridge-2"
+        ]
+      },
+      {
+        "t": "Take the jar out, open the lid and stir well.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2"
+        ]
+      },
+      {
+        "t": "Add the diced apple.",
+        "imgs": [
+          "s-apple-1",
+          "s-apple-2"
+        ]
+      },
+      {
+        "t": "Add the sliced banana.",
+        "imgs": [
+          "s-banana-1",
+          "s-banana-2"
+        ]
+      },
+      {
+        "t": "Add the pumpkin and melon seeds.",
+        "imgs": [
+          "s-seeds-1",
+          "s-seeds-2"
+        ]
+      },
+      {
+        "t": "Add the chopped dates.",
+        "imgs": [
+          "s-dates-1",
+          "s-dates-2"
+        ]
+      },
+      {
+        "t": "Add the walnuts.",
+        "imgs": [
+          "s-walnuts-1",
+          "s-walnuts-2"
+        ]
+      },
+      {
+        "t": "Mix it up with a spoon and eat.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "make-ahead",
+      "high-fibre"
+    ],
+    "notes": "No amounts are given anywhere in the video (all amounts are guesses, ~). Jar looks like a 250 ml jam jar. The 'seeds' look like pumpkin seeds plus pale melon seeds. The video ignores health claims, I left them out. Chilling time (2 to 3 hours or overnight) is not counted in the 10 minutes."
+  },
+  "images": {
+    "cover": {
+      "t": 32.0,
+      "crop": [
+        0,
+        330,
+        720,
+        570
+      ],
+      "w": 560
+    },
+    "i-chia": {
+      "t": 6.0,
+      "crop": [
+        205,
+        500,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-oats": {
+      "t": 7.0,
+      "crop": [
+        205,
+        530,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-milk": {
+      "t": 9.5,
+      "crop": [
+        215,
+        330,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-apple": {
+      "t": 19.0,
+      "crop": [
+        185,
+        330,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-banana": {
+      "t": 22.0,
+      "crop": [
+        185,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-seeds": {
+      "t": 24.0,
+      "crop": [
+        185,
+        380,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-dates": {
+      "t": 25.5,
+      "crop": [
+        190,
+        470,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-walnuts": {
+      "t": 27.5,
+      "crop": [
+        330,
+        290,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "s-chia-1": {
+      "t": 4.0,
+      "crop": [
+        210,
+        380,
+        510,
+        520
+      ],
+      "w": 480
+    },
+    "s-chia-2": {
+      "t": 5.0,
+      "crop": [
+        210,
+        380,
+        510,
+        520
+      ],
+      "w": 480
+    },
+    "s-oats-1": {
+      "t": 6.0,
+      "crop": [
+        210,
+        300,
+        510,
+        580
+      ],
+      "w": 480
+    },
+    "s-oats-2": {
+      "t": 7.0,
+      "crop": [
+        210,
+        380,
+        510,
+        520
+      ],
+      "w": 480
+    },
+    "s-milk-1": {
+      "t": 9.5,
+      "crop": [
+        215,
+        280,
+        505,
+        620
+      ],
+      "w": 480
+    },
+    "s-milk-2": {
+      "t": 11.0,
+      "crop": [
+        210,
+        380,
+        510,
+        520
+      ],
+      "w": 480
+    },
+    "s-fridge-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        260,
+        720,
+        590
+      ],
+      "w": 480
+    },
+    "s-fridge-2": {
+      "t": 13.0,
+      "crop": [
+        0,
+        260,
+        720,
+        590
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        280,
+        720,
+        580
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        280,
+        720,
+        580
+      ],
+      "w": 480
+    },
+    "s-apple-1": {
+      "t": 19.0,
+      "crop": [
+        185,
+        320,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-apple-2": {
+      "t": 21.0,
+      "crop": [
+        185,
+        320,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-banana-1": {
+      "t": 22.0,
+      "crop": [
+        185,
+        300,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-banana-2": {
+      "t": 23.5,
+      "crop": [
+        185,
+        300,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-seeds-1": {
+      "t": 24.0,
+      "crop": [
+        185,
+        320,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-seeds-2": {
+      "t": 25.0,
+      "crop": [
+        185,
+        320,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-dates-1": {
+      "t": 25.5,
+      "crop": [
+        185,
+        320,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-dates-2": {
+      "t": 26.5,
+      "crop": [
+        185,
+        320,
+        535,
+        580
+      ],
+      "w": 480
+    },
+    "s-walnuts-1": {
+      "t": 27.5,
+      "crop": [
+        185,
+        280,
+        535,
+        620
+      ],
+      "w": 480
+    },
+    "s-walnuts-2": {
+      "t": 28.5,
+      "crop": [
+        185,
+        280,
+        535,
+        620
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        330,
+        720,
+        570
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 32.5,
+      "crop": [
+        0,
+        330,
+        720,
+        570
+      ],
+      "w": 480
+    }
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "videos": [
+    "3346800118042115845"
+  ],
+  "dish": {
+    "id": "butter-paneer-cashew-gravy",
+    "name": "Butter paneer",
+    "meal": "Lunch or dinner",
+    "minutes": 40,
+    "protein": 20,
+    "how": "Gas + blender",
+    "tools": "Pan, gas, mixie (blender), bowl, knife",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~200 g (1 block)",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~2 tbsp, in two parts",
+        "n": "Butter",
+        "tag": "butter",
+        "img": "i-butter"
+      },
+      {
+        "q": "~1/2 tsp, in two parts",
+        "n": "Turmeric (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp, in two parts",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli-powder"
+      },
+      {
+        "q": "~1 tsp, in two parts",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~10 (15 g)",
+        "n": "Cashews (kaju)",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "~1/2 cup (120 ml), warm",
+        "n": "Water, to soak the cashews",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~3 medium",
+        "n": "Tomatoes",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~2",
+        "n": "Dry red chilli",
+        "tag": "dry-red-chilli",
+        "img": "i-chillies"
+      },
+      {
+        "q": "~1",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-chillies"
+      },
+      {
+        "q": "~1 medium, chopped",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1 tsp, crushed",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-paste"
+      },
+      {
+        "q": "~3 cloves, crushed",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-paste"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Coriander powder (dhaniya)",
+        "tag": "coriander-powder",
+        "img": "i-coriander-powder"
+      },
+      {
+        "q": "a small handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "opt": true,
+        "img": "i-coriander-leaves"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Kasuri methi (dried fenugreek leaves)",
+        "tag": "kasuri-methi",
+        "opt": true,
+        "img": "i-kasuri"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Cut the paneer into cubes.",
+        "imgs": [
+          "s-cut-1",
+          "s-cut-2",
+          "s-cut-3"
+        ]
+      },
+      {
+        "t": "Melt some butter in a pan.",
+        "imgs": [
+          "s-butter-1"
+        ]
+      },
+      {
+        "t": "Add some turmeric, red chilli powder and salt to the butter. Stir.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the paneer cubes and coat them in the spice butter.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "Fry until golden brown on the sides, then set the paneer aside.",
+        "imgs": [
+          "s-fry-1",
+          "s-fry-2"
+        ]
+      },
+      {
+        "t": "Soak the cashews in warm water.",
+        "imgs": [
+          "s-soak-1",
+          "s-soak-2"
+        ]
+      },
+      {
+        "t": "Put the cashews and tomatoes in the mixie and blend to a smooth puree.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Melt butter in the pan. Add the cumin seeds.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add the dry red chillies and green chilli.",
+        "imgs": [
+          "s-chilli-1"
+        ]
+      },
+      {
+        "t": "Add the chopped onion and fry until soft.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add the ginger and garlic and fry for a minute.",
+        "imgs": [
+          "s-paste-1"
+        ]
+      },
+      {
+        "t": "Add salt, turmeric, red chilli powder and coriander powder. Fry well.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2",
+          "s-masala-3",
+          "s-masala-4"
+        ]
+      },
+      {
+        "t": "Pour in the tomato and cashew puree and stir until thick.",
+        "imgs": [
+          "s-puree-1",
+          "s-puree-2"
+        ]
+      },
+      {
+        "t": "Add the fried paneer cubes and mix gently.",
+        "imgs": [
+          "s-paneer2-1",
+          "s-paneer2-2"
+        ]
+      },
+      {
+        "t": "Garnish with chopped coriander leaves and kasuri methi.",
+        "imgs": [
+          "s-garnish-1",
+          "s-garnish-2"
+        ]
+      },
+      {
+        "t": "Serve hot.",
+        "imgs": [
+          "s-serve-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-protein"
+    ],
+    "credit": "food and frolic",
+    "notes": "No amounts are shown or spoken, all amounts are guesses (~). The soak time is not stated (10 to 15 minutes in warm water is usual). The blending itself and the cook time for the gravy are not shown. The beige spice powder at 26 s could be coriander powder or garam masala. The video uses an induction hob and a non-stick pan; gas works the same."
+  },
+  "images": {
+    "cover": {
+      "t": 33.0,
+      "crop": [
+        0,
+        250,
+        720,
+        740
+      ],
+      "w": 560
+    },
+    "i-paneer": {
+      "t": 3.0,
+      "crop": [
+        40,
+        300,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-butter": {
+      "t": 7.0,
+      "crop": [
+        200,
+        330,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 25.0,
+      "crop": [
+        250,
+        400,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-chilli-powder": {
+      "t": 25.5,
+      "crop": [
+        320,
+        400,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 24.4,
+      "crop": [
+        200,
+        150,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 13.0,
+      "crop": [
+        60,
+        260,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 13.5,
+      "crop": [
+        60,
+        150,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 17.0,
+      "crop": [
+        30,
+        340,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 19.0,
+      "crop": [
+        150,
+        560,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-chillies": {
+      "t": 20.0,
+      "crop": [
+        60,
+        470,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 21.5,
+      "crop": [
+        60,
+        430,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-paste": {
+      "t": 22.5,
+      "crop": [
+        260,
+        440,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander-powder": {
+      "t": 26.0,
+      "crop": [
+        330,
+        360,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-coriander-leaves": {
+      "t": 30.5,
+      "crop": [
+        60,
+        420,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-kasuri": {
+      "t": 31.5,
+      "crop": [
+        100,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "s-cut-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        180,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-cut-2": {
+      "t": 4.0,
+      "crop": [
+        0,
+        180,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-cut-3": {
+      "t": 5.0,
+      "crop": [
+        0,
+        180,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-butter-1": {
+      "t": 6.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 7.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 8.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 10.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 11.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        200,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        200,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 16.0,
+      "crop": [
+        0,
+        300,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        300,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 19.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-paste-1": {
+      "t": 22.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 24.4,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 25.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-masala-3": {
+      "t": 26.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-masala-4": {
+      "t": 27.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-puree-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-puree-2": {
+      "t": 28.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-paneer2-1": {
+      "t": 29.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-paneer2-2": {
+      "t": 30.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-garnish-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-garnish-2": {
+      "t": 31.5,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 33.0,
+      "crop": [
+        0,
+        250,
+        720,
+        740
+      ],
+      "w": 480
+    }
+  }
+}

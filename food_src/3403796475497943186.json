@@ -1,0 +1,705 @@
+{
+ "videos": [
+  "3403796475497943186"
+ ],
+ "dish": {
+  "id": "chia-curd-kala-chana-bowl",
+  "name": "Chia curd black chana bowl",
+  "meal": "Snack",
+  "minutes": 25,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Glass box with lid, spoon, small pan (tadka), gas, grater",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1½ cups (300 g), thick",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~¼ cup (60 ml)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~2 tbsp (25 g)",
+    "n": "Chia seeds",
+    "tag": "chia-seeds",
+    "img": "i-chia"
+   },
+   {
+    "q": "~¾ cup (120 g), boiled",
+    "n": "Black chana (kala chana), boiled",
+    "tag": "kala-chana",
+    "img": "i-chana",
+    "alt": [
+     "chickpeas"
+    ]
+   },
+   {
+    "q": "~½ medium, grated",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~½ medium (60 g), chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Roasted peanuts",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Black salt (kala namak)",
+    "tag": "black-salt",
+    "img": "i-blacksalt"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Cumin powder (jeera)",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oil, for the tadka",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~½ tsp",
+    "n": "Mustard seeds (rai)",
+    "tag": "mustard-seeds",
+    "img": "i-mustard"
+   },
+   {
+    "q": "~2 cloves, chopped",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1, sliced",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "~10 leaves",
+    "n": "Curry leaves",
+    "tag": "curry-leaves",
+    "img": "i-curryleaf"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Pour the thick curd into a glass box.",
+    "imgs": [
+     "s-curd-1"
+    ]
+   },
+   {
+    "t": "Pour in the water.",
+    "imgs": [
+     "s-water-1"
+    ]
+   },
+   {
+    "t": "Sprinkle the chia seeds over the curd.",
+    "imgs": [
+     "s-chia-1",
+     "s-chia-2"
+    ]
+   },
+   {
+    "t": "Stir well so the chia mixes in.",
+    "imgs": [
+     "s-stir-1"
+    ]
+   },
+   {
+    "t": "Close the lid. Keep it in the fridge for 3 to 4 hours.",
+    "imgs": [
+     "s-lid-1"
+    ]
+   },
+   {
+    "t": "Open the box and stir. The curd is now thick.",
+    "imgs": [
+     "s-thick-1"
+    ]
+   },
+   {
+    "t": "Add the boiled black chana.",
+    "imgs": [
+     "s-chana-1"
+    ]
+   },
+   {
+    "t": "Add the grated cucumber.",
+    "imgs": [
+     "s-cuc-1"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-cori-1"
+    ]
+   },
+   {
+    "t": "Add the roasted peanuts.",
+    "imgs": [
+     "s-pea-1"
+    ]
+   },
+   {
+    "t": "Add black salt, cumin powder and red chilli powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Mix everything well.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Heat oil in a small pan on gas. Add mustard seeds and let them pop.",
+    "imgs": [
+     "s-mus-1",
+     "s-mus-2"
+    ]
+   },
+   {
+    "t": "Add the chopped garlic.",
+    "imgs": [
+     "s-gar-1"
+    ]
+   },
+   {
+    "t": "Add the sliced green chilli.",
+    "imgs": [
+     "s-chi-1"
+    ]
+   },
+   {
+    "t": "Add the curry leaves and stir once.",
+    "imgs": [
+     "s-cur-1"
+    ]
+   },
+   {
+    "t": "Pour the hot tadka over the curd.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Mix the tadka in.",
+    "imgs": [
+     "s-tmix-1",
+     "s-tmix-2"
+    ]
+   },
+   {
+    "t": "Scoop into a bowl and eat. Close the lid to keep the rest.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-fibre",
+   "make-ahead"
+  ],
+  "notes": "No amounts are said or shown, so every amount is a guess (~). Water is poured from a jug (looks like plain water). Tadka heat/time not stated; the 3 to 4 hour chill is from the voiceover (Hindi, partly garbled). The three spices follow the voiceover (black salt, jeera, lal mirch); the brown powder is taken as cumin. The video ends with the lid closing, so the last step is a guess. Protein is a rough guess; minutes excludes the 3 to 4 hour chill."
+ },
+ "images": {
+  "cover": {
+   "t": 31.6,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 0.5,
+   "crop": [
+    100,
+    140,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 2.3,
+   "crop": [
+    0,
+    40,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-chia": {
+   "t": 4.3,
+   "crop": [
+    190,
+    140,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-chana": {
+   "t": 12.3,
+   "crop": [
+    150,
+    500,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 13.5,
+   "crop": [
+    10,
+    540,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 13.5,
+   "crop": [
+    180,
+    50,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 15.5,
+   "crop": [
+    0,
+    430,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 15.2,
+   "crop": [
+    250,
+    130,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-blacksalt": {
+   "t": 15.95,
+   "crop": [
+    80,
+    150,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 16.55,
+   "crop": [
+    40,
+    110,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 17.05,
+   "crop": [
+    0,
+    170,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 22.3,
+   "crop": [
+    130,
+    330,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-mustard": {
+   "t": 21.8,
+   "crop": [
+    330,
+    0,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 23.8,
+   "crop": [
+    180,
+    480,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 24.3,
+   "crop": [
+    220,
+    30,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-curryleaf": {
+   "t": 24.8,
+   "crop": [
+    250,
+    0,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "s-curd-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    130,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 2.4,
+   "crop": [
+    0,
+    40,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-chia-1": {
+   "t": 4.3,
+   "crop": [
+    0,
+    110,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-chia-2": {
+   "t": 5.8,
+   "crop": [
+    0,
+    280,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    280,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    170,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-thick-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-chana-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    60,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-cuc-1": {
+   "t": 12.4,
+   "crop": [
+    0,
+    60,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 13.6,
+   "crop": [
+    0,
+    60,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-cori-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    150,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pea-1": {
+   "t": 15.3,
+   "crop": [
+    0,
+    60,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 16.05,
+   "crop": [
+    0,
+    100,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 16.55,
+   "crop": [
+    0,
+    100,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 17.05,
+   "crop": [
+    0,
+    100,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    230,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    230,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mus-1": {
+   "t": 21.8,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mus-2": {
+   "t": 22.8,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-gar-1": {
+   "t": 23.8,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-chi-1": {
+   "t": 24.3,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-cur-1": {
+   "t": 24.8,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 25.8,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 27.2,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-tmix-1": {
+   "t": 27.8,
+   "crop": [
+    0,
+    100,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-tmix-2": {
+   "t": 30.5,
+   "crop": [
+    0,
+    230,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 33.3,
+   "crop": [
+    0,
+    60,
+    720,
+    780
+   ],
+   "w": 480
+  }
+ }
+}

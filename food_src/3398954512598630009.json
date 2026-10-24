@@ -1,0 +1,733 @@
+{
+ "videos": [
+  "3398954512598630009"
+ ],
+ "dish": {
+  "id": "jaggery-wheat-fruit-cupcakes",
+  "name": "Jaggery wheat fruit cupcakes",
+  "meal": "Snack",
+  "minutes": 45,
+  "protein": 5,
+  "how": "Gas + pressure cooker",
+  "tools": "Pan, big bowl, sieve, whisk, spatula, paper muffin cups, pressure cooker (steamer plate), gas",
+  "serves": 5,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~½ cup (100 g)",
+    "n": "Jaggery (gud), broken up",
+    "tag": "jaggery",
+    "img": "i-jaggery"
+   },
+   {
+    "q": "~¼ cup (60 ml)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 cup (120 g)",
+    "n": "Wheat flour (atta)",
+    "tag": "atta",
+    "img": "i-atta"
+   },
+   {
+    "q": "½ tsp",
+    "n": "Baking powder",
+    "tag": "baking-powder",
+    "img": "i-baking-powder"
+   },
+   {
+    "q": "½ tsp",
+    "n": "Baking soda",
+    "tag": "baking-soda",
+    "img": "i-baking-soda"
+   },
+   {
+    "q": "1 pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~¼ cup (60 ml)",
+    "n": "Refined oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Vanilla essence",
+    "tag": "vanilla-essence",
+    "img": "i-vanilla",
+    "opt": true
+   },
+   {
+    "q": "~¼ cup (60 g)",
+    "n": "Curd",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~¼ cup (60 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Dried blueberries",
+    "tag": "blueberry",
+    "img": "i-blueberry",
+    "alt": [
+     "berries",
+     "raisins"
+    ]
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Dried cranberries",
+    "tag": "cranberry",
+    "img": "i-cranberry",
+    "alt": [
+     "berries",
+     "raisins"
+    ]
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the jaggery in a steel pan.",
+    "imgs": [
+     "s-jag-1"
+    ]
+   },
+   {
+    "t": "Pour in the water.",
+    "imgs": [
+     "s-water-1"
+    ]
+   },
+   {
+    "t": "Heat on gas and stir until the jaggery melts.",
+    "imgs": [
+     "s-melt-1",
+     "s-melt-3"
+    ]
+   },
+   {
+    "t": "Boil until it becomes a thick, dark, bubbling syrup.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-3"
+    ]
+   },
+   {
+    "t": "Switch off the gas. Let the syrup cool.",
+    "imgs": [
+     "s-off-1"
+    ]
+   },
+   {
+    "t": "Put a sieve over a big bowl.",
+    "imgs": [
+     "s-sieve-1"
+    ]
+   },
+   {
+    "t": "Add the wheat flour to the sieve.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2"
+    ]
+   },
+   {
+    "t": "Add the baking powder, baking soda and a pinch of salt.",
+    "imgs": [
+     "s-powder-2",
+     "s-powder-4"
+    ]
+   },
+   {
+    "t": "Sift everything into the bowl.",
+    "imgs": [
+     "s-sift-2",
+     "s-sift-3"
+    ]
+   },
+   {
+    "t": "Pour the cooled syrup through the sieve into the flour.",
+    "imgs": [
+     "s-syrup-2",
+     "s-syrup-3"
+    ]
+   },
+   {
+    "t": "Add the oil.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Add the vanilla essence.",
+    "imgs": [
+     "s-van-1"
+    ]
+   },
+   {
+    "t": "Add the curd.",
+    "imgs": [
+     "s-curd-1"
+    ]
+   },
+   {
+    "t": "Whisk, adding the milk slowly, until the batter is thick and smooth.",
+    "imgs": [
+     "s-milk-1",
+     "s-milk-4"
+    ]
+   },
+   {
+    "t": "Add the dried blueberries and cranberries.",
+    "imgs": [
+     "s-blue-1",
+     "s-cran-1"
+    ]
+   },
+   {
+    "t": "Fold them in gently with a spatula.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-3"
+    ]
+   },
+   {
+    "t": "Set paper muffin cups out and fill each with batter.",
+    "imgs": [
+     "s-cups-1",
+     "s-fill-2"
+    ]
+   },
+   {
+    "t": "Press a few more berries on top of each cup.",
+    "imgs": [
+     "s-top-1",
+     "s-top-3"
+    ]
+   },
+   {
+    "t": "Place the cups in the cooker, on the steamer plate.",
+    "imgs": [
+     "s-cooker-1"
+    ]
+   },
+   {
+    "t": "Put the lid on. Bake for 20 minutes on a low flame.",
+    "imgs": [
+     "s-lid-1",
+     "s-done-1"
+    ]
+   },
+   {
+    "t": "Poke a stick in the middle to check they are cooked.",
+    "imgs": [
+     "s-stick-1"
+    ]
+   },
+   {
+    "t": "Peel off the paper and eat.",
+    "imgs": [
+     "s-eat-1",
+     "s-eat-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "pressure-cooker"
+  ],
+  "notes": "A sweet cupcake, not a high-protein dish (about 3 g protein each). No speech, only captions, and no amounts are shown, so all amounts are guesses (~). Syrup boil time, whether the cooker has water/gasket/whistle, and the 20 min flame are only partly clear (caption says bake 20 min on low flame, lid on, steamer plate inside). Makes about 5 (4 paper cups plus 1 steel katori). The vanilla is a small extra, marked optional. No egg is used or shown."
+ },
+ "images": {
+  "cover": {
+   "t": 50.0,
+   "crop": [
+    0,
+    270,
+    720,
+    760
+   ],
+   "w": 560
+  },
+  "i-jaggery": {
+   "t": 6.0,
+   "crop": [
+    215,
+    380,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 7.5,
+   "crop": [
+    400,
+    200,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-atta": {
+   "t": 14.5,
+   "crop": [
+    110,
+    130,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-baking-powder": {
+   "t": 17.0,
+   "crop": [
+    330,
+    220,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-baking-soda": {
+   "t": 17.5,
+   "crop": [
+    330,
+    220,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 18.5,
+   "crop": [
+    270,
+    160,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 25.5,
+   "crop": [
+    190,
+    340,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-vanilla": {
+   "t": 27.0,
+   "crop": [
+    300,
+    430,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 28.0,
+   "crop": [
+    180,
+    650,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-milk": {
+   "t": 30.5,
+   "crop": [
+    200,
+    300,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-blueberry": {
+   "t": 35.0,
+   "crop": [
+    100,
+    930,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-cranberry": {
+   "t": 37.0,
+   "crop": [
+    40,
+    820,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "s-jag-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 7.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-melt-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-melt-3": {
+   "t": 10.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-boil-3": {
+   "t": 12.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-off-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-sieve-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-powder-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-powder-4": {
+   "t": 18.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-sift-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-sift-3": {
+   "t": 21.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-syrup-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-syrup-3": {
+   "t": 23.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-van-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-milk-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-milk-4": {
+   "t": 33.0,
+   "crop": [
+    0,
+    260,
+    720,
+    680
+   ],
+   "w": 480
+  },
+  "s-blue-1": {
+   "t": 35.0,
+   "crop": [
+    0,
+    700,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-cran-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    700,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 37.5,
+   "crop": [
+    0,
+    700,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-fold-3": {
+   "t": 39.5,
+   "crop": [
+    0,
+    700,
+    720,
+    520
+   ],
+   "w": 480
+  },
+  "s-cups-1": {
+   "t": 40.0,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fill-2": {
+   "t": 41.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 43.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-top-3": {
+   "t": 45.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cooker-1": {
+   "t": 46.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 48.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-done-1": {
+   "t": 49.5,
+   "crop": [
+    0,
+    270,
+    720,
+    760
+   ],
+   "w": 480
+  },
+  "s-stick-1": {
+   "t": 50.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-eat-1": {
+   "t": 52.5,
+   "crop": [
+    0,
+    150,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-eat-2": {
+   "t": 53.5,
+   "crop": [
+    0,
+    250,
+    720,
+    800
+   ],
+   "w": 480
+  }
+ }
+}

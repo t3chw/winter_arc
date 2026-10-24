@@ -1,0 +1,684 @@
+{
+ "videos": [
+  "3475705081859225489"
+ ],
+ "dish": {
+  "id": "creamy-cauliflower-chickpea-bowl",
+  "name": "Creamy cauliflower chickpea bowl",
+  "meal": "Lunch or dinner",
+  "minutes": 20,
+  "protein": 20,
+  "how": "Gas + blender",
+  "tools": "Non-stick pan, gas, small blender jar, wide bowl",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 cups (250 g)",
+    "n": "Cauliflower florets (phool gobhi)",
+    "tag": "cauliflower",
+    "img": "i-cauli"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 cup (160 g), boiled",
+    "n": "Chickpeas (kabuli chana)",
+    "tag": "chickpeas",
+    "img": "i-chickpeas"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-redchilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin powder (jeera)",
+    "tag": "cumin-powder",
+    "img": "i-cuminpowder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Dried oregano",
+    "tag": "oregano",
+    "opt": true,
+    "img": "i-oregano"
+   },
+   {
+    "q": "1 cube (~50 g)",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1/4 cup (60 g)",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~4 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~3",
+    "n": "Dried red chillies (sabut lal mirch)",
+    "tag": "dried-red-chilli",
+    "img": "i-chillies"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin seeds (jeera)",
+    "tag": "cumin",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Red onion, chopped",
+    "tag": "onion",
+    "opt": true,
+    "img": "i-onion"
+   },
+   {
+    "q": "a few leaves",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "opt": true,
+    "img": "i-coriander"
+   },
+   {
+    "q": "1 wedge",
+    "n": "Lime (nimbu)",
+    "tag": "lemon",
+    "opt": true,
+    "img": "i-lime"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Heat oil in a non-stick pan on the gas.",
+    "imgs": [
+     "s-oil"
+    ]
+   },
+   {
+    "t": "Add the cauliflower florets. Stir until the edges brown.",
+    "imgs": [
+     "s-cauli-1",
+     "s-cauli-2",
+     "s-cauli-3"
+    ]
+   },
+   {
+    "t": "Add the boiled chickpeas.",
+    "imgs": [
+     "s-chick-1",
+     "s-chick-2"
+    ]
+   },
+   {
+    "t": "Add red chilli powder, cumin powder and the dried herb.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Toss well until the cauliflower and chickpeas are coated and golden.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "For the sauce, put the paneer in a blender jar.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the curd.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add the garlic cloves.",
+    "imgs": [
+     "s-garlic-1",
+     "s-garlic-2"
+    ]
+   },
+   {
+    "t": "Add the dried red chillies.",
+    "imgs": [
+     "s-chilli"
+    ]
+   },
+   {
+    "t": "Add salt and cumin seeds.",
+    "imgs": [
+     "s-salt",
+     "s-cumin-1",
+     "s-cumin-2"
+    ]
+   },
+   {
+    "t": "Blend until the sauce is smooth and creamy. Pour it into a wide bowl.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Spoon the hot cauliflower and chickpeas on top of the sauce.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2"
+    ]
+   },
+   {
+    "t": "Top with chopped red onion and coriander. Squeeze lime over it.",
+    "imgs": [
+     "s-garnish-1",
+     "s-garnish-2",
+     "s-garnish-3"
+    ]
+   },
+   {
+    "t": "Scoop up some sauce with every bite and enjoy.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender",
+   "high-protein",
+   "high-fibre"
+  ],
+  "credit": "Nidslid",
+  "notes": "No amounts shown (said 'spices mentioned', likely in the caption): all amounts are guesses. Cooking times not shown; 20 min is my estimate. Spice mix looked like red chilli, dark dried herb and a brown powder; Blending is not shown (jar spins away): I used the finished-sauce pour frames. Protein is about 35 g for the whole bowl (2 servings). Dried chillies look soaked/soft; soak if very hard."
+ },
+ "images": {
+  "cover": {
+   "t": 4.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-cauli": {
+   "t": 8.0,
+   "crop": [
+    0,
+    450,
+    540,
+    540
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 7.2,
+   "crop": [
+    60,
+    330,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-chickpeas": {
+   "t": 9.4,
+   "crop": [
+    180,
+    150,
+    540,
+    540
+   ],
+   "w": 200
+  },
+  "i-redchilli": {
+   "t": 9.7,
+   "crop": [
+    350,
+    250,
+    370,
+    370
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 9.5,
+   "crop": [
+    420,
+    180,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-cuminpowder": {
+   "t": 9.85,
+   "crop": [
+    270,
+    540,
+    240,
+    240
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 12.4,
+   "crop": [
+    200,
+    330,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 13.6,
+   "crop": [
+    100,
+    500,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 14.4,
+   "crop": [
+    270,
+    520,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-chillies": {
+   "t": 14.8,
+   "crop": [
+    200,
+    330,
+    470,
+    470
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 15.2,
+   "crop": [
+    100,
+    480,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 16.0,
+   "crop": [
+    180,
+    540,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 2.5,
+   "crop": [
+    280,
+    430,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 2.5,
+   "crop": [
+    100,
+    500,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-lime": {
+   "t": 3.5,
+   "crop": [
+    350,
+    260,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "s-oil": {
+   "t": 7.2,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cauli-1": {
+   "t": 7.6,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cauli-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cauli-3": {
+   "t": 8.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-chick-1": {
+   "t": 9.1,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-chick-2": {
+   "t": 9.4,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 9.55,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 9.85,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 11.5,
+   "crop": [
+    0,
+    250,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 12.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 12.8,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 13.2,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 13.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-garlic-2": {
+   "t": 14.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-chilli": {
+   "t": 14.8,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-salt": {
+   "t": 15.2,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cumin-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cumin-2": {
+   "t": 16.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    150,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 17.4,
+   "crop": [
+    0,
+    150,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 1.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 1.8,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-garnish-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-garnish-2": {
+   "t": 2.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-garnish-3": {
+   "t": 3.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    260,
+    720,
+    720
+   ],
+   "w": 480
+  }
+ }
+}

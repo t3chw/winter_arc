@@ -1,0 +1,711 @@
+{
+  "videos": [
+    "3364136011314760415"
+  ],
+  "dish": {
+    "id": "aloo-katliyan",
+    "name": "Aloo katliyan",
+    "meal": "Side",
+    "minutes": 20,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Kadhai (wok), gas, spoon, knife",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "2 tbsp",
+        "n": "Mustard oil",
+        "tag": "oil",
+        "alt": [
+          "ghee"
+        ],
+        "img": "i-oil"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Nigella seeds (kalonji)",
+        "tag": "nigella-seeds",
+        "img": "i-nigella"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Hing (asafoetida)",
+        "tag": "hing",
+        "img": "i-hing"
+      },
+      {
+        "q": "~3 medium (350 g)",
+        "n": "Potatoes, sliced into thin rounds",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "to taste (~1 tsp)",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "2 to 3 pinches",
+        "n": "Turmeric (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "2, crushed",
+        "n": "Dry red chilli",
+        "tag": "dry-red-chilli",
+        "alt": [
+          "chilli-flakes"
+        ],
+        "img": "i-chilli"
+      },
+      {
+        "q": "2 medium",
+        "n": "Onion, sliced",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "2, cut in strips",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "1 tbsp",
+        "n": "Dry fenugreek leaves (kasuri methi)",
+        "tag": "kasuri-methi",
+        "opt": true,
+        "img": "i-kasuri"
+      },
+      {
+        "q": "~1/4 cup, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Peel the potatoes and cut them into thin round slices.",
+        "imgs": [
+          "s-slice-1"
+        ]
+      },
+      {
+        "t": "Heat 2 tbsp mustard oil in a kadhai on the gas.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Add 1 tsp cumin seeds.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add 1 tsp nigella seeds (kalonji).",
+        "imgs": [
+          "s-nigella-1",
+          "s-nigella-2"
+        ]
+      },
+      {
+        "t": "Add 1/2 tsp hing.",
+        "imgs": [
+          "s-hing-1",
+          "s-hing-2"
+        ]
+      },
+      {
+        "t": "Add the potato slices.",
+        "imgs": [
+          "s-potato-1",
+          "s-potato-2"
+        ]
+      },
+      {
+        "t": "Spread the slices out and shallow fry them.",
+        "imgs": [
+          "s-fry-1",
+          "s-fry-2"
+        ]
+      },
+      {
+        "t": "Sprinkle salt over the potatoes.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Add 2 to 3 pinches of turmeric.",
+        "imgs": [
+          "s-turmeric-1",
+          "s-turmeric-2"
+        ]
+      },
+      {
+        "t": "Add the 2 crushed dry red chillies.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Stir often on medium to high heat.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2",
+          "s-stir-3"
+        ]
+      },
+      {
+        "t": "Cook until the potato is about half cooked, with golden edges.",
+        "imgs": [
+          "s-half-1",
+          "s-half-2"
+        ]
+      },
+      {
+        "t": "Add the sliced onion.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add the 2 green chillies, cut in strips.",
+        "imgs": [
+          "s-greenchilli-1"
+        ]
+      },
+      {
+        "t": "Cook for 5 to 6 minutes, stirring, until the potato is golden and soft.",
+        "imgs": [
+          "s-golden-1",
+          "s-golden-2"
+        ]
+      },
+      {
+        "t": "Sprinkle 1 tbsp dry fenugreek leaves (kasuri methi) on top.",
+        "imgs": [
+          "s-kasuri-1",
+          "s-kasuri-2"
+        ]
+      },
+      {
+        "t": "Add the chopped coriander leaves.",
+        "imgs": [
+          "s-coriander-1",
+          "s-coriander-2"
+        ]
+      },
+      {
+        "t": "Toss everything together and serve hot.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "credit": "Honest Kitchen",
+    "notes": "Amounts for oil, cumin, nigella, hing, chillies, onion and kasuri methi are shown on screen. Potato amount, salt amount and coriander amount are guesses (~). Slicing the potato is not shown (used the slices frame). Potatoes are shallow fried, not boiled. Dish is low in protein: goes well with dal or curd."
+  },
+  "images": {
+    "cover": {
+      "t": 47.5,
+      "crop": [
+        0,
+        560,
+        720,
+        560
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 9.0,
+      "crop": [
+        60,
+        120,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 9.4,
+      "crop": [
+        200,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-nigella": {
+      "t": 10.5,
+      "crop": [
+        300,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-hing": {
+      "t": 12.0,
+      "crop": [
+        150,
+        0,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 14.0,
+      "crop": [
+        50,
+        700,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 15.0,
+      "crop": [
+        260,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 16.0,
+      "crop": [
+        200,
+        170,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 21.0,
+      "crop": [
+        170,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 30.0,
+      "crop": [
+        50,
+        700,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 32.0,
+      "crop": [
+        100,
+        700,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-kasuri": {
+      "t": 36.5,
+      "crop": [
+        250,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 38.0,
+      "crop": [
+        150,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-slice-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 8.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 9.4,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 9.8,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-nigella-1": {
+      "t": 10.5,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-nigella-2": {
+      "t": 11.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-hing-1": {
+      "t": 12.0,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-hing-2": {
+      "t": 12.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 12.5,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 13.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 14.5,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 15.0,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-turmeric-1": {
+      "t": 16.5,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-turmeric-2": {
+      "t": 18.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 21.0,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 20.5,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 24.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-3": {
+      "t": 26.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-half-1": {
+      "t": 28.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-half-2": {
+      "t": 29.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 31.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-greenchilli-1": {
+      "t": 32.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-golden-1": {
+      "t": 33.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-golden-2": {
+      "t": 35.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-kasuri-1": {
+      "t": 36.5,
+      "crop": [
+        150,
+        0,
+        570,
+        428
+      ],
+      "w": 480
+    },
+    "s-kasuri-2": {
+      "t": 37.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 38.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-2": {
+      "t": 38.5,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 40.0,
+      "crop": [
+        0,
+        690,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 45.0,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

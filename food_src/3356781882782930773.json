@@ -1,0 +1,408 @@
+{
+  "videos": [
+    "3356781882782930773"
+  ],
+  "dish": {
+    "id": "chickpea-rajma-moong-curd-salad",
+    "name": "Chickpea rajma moong curd salad",
+    "meal": "Lunch or dinner",
+    "minutes": 10,
+    "protein": 15,
+    "how": "No cooking",
+    "tools": "Big bowl, spoon",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3/4 cup (120 g), boiled",
+        "n": "White chickpeas (kabuli chana)",
+        "tag": "chickpeas",
+        "img": "i-chickpeas"
+      },
+      {
+        "q": "~3/4 cup (120 g), boiled",
+        "n": "Rajma (kidney beans)",
+        "tag": "rajma",
+        "img": "i-rajma"
+      },
+      {
+        "q": "~3/4 cup (120 g), boiled",
+        "n": "Whole green moong",
+        "tag": "moong-whole",
+        "img": "i-moong"
+      },
+      {
+        "q": "~1/2 cup (120 g)",
+        "n": "Thick curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1 medium, chopped",
+        "n": "Onion (red)",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1 medium, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "a small handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Black pepper powder",
+        "tag": "black-pepper",
+        "img": "i-pepper"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put the boiled white chickpeas in a big bowl.",
+        "imgs": [
+          "s-chana-1",
+          "s-chana-2"
+        ]
+      },
+      {
+        "t": "Add the boiled rajma.",
+        "imgs": [
+          "s-rajma-1",
+          "s-rajma-2"
+        ]
+      },
+      {
+        "t": "Add the boiled whole moong.",
+        "imgs": [
+          "s-moong-1",
+          "s-moong-2"
+        ]
+      },
+      {
+        "t": "Add the thick curd on top.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2"
+        ]
+      },
+      {
+        "t": "Add the chopped onion.",
+        "imgs": [
+          "s-onion-1"
+        ]
+      },
+      {
+        "t": "Add the chopped tomato.",
+        "imgs": [
+          "s-tomato-1",
+          "s-tomato-2"
+        ]
+      },
+      {
+        "t": "Add the chopped coriander leaves.",
+        "imgs": [
+          "s-coriander-1"
+        ]
+      },
+      {
+        "t": "Sprinkle in the salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Add the black pepper.",
+        "imgs": [
+          "s-pepper-1"
+        ]
+      },
+      {
+        "t": "Mix well with a spoon and serve.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "quick",
+      "high-fibre"
+    ],
+    "notes": "No amounts are given, all amounts are guesses (~, about 1 katori of each bean). The three beans must already be boiled (soaking and boiling time is not counted in the 10 minutes). Ingredients come from the speech: chickpeas, rajma, moong, curd, onion, tomato, coriander, salt, black pepper. Health claims in the speech are left out."
+  },
+  "images": {
+    "cover": {
+      "t": 1.0,
+      "crop": [
+        0,
+        250,
+        718,
+        640
+      ],
+      "w": 560
+    },
+    "i-chickpeas": {
+      "t": 6.5,
+      "crop": [
+        80,
+        350,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-rajma": {
+      "t": 8.5,
+      "crop": [
+        60,
+        300,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-moong": {
+      "t": 10.5,
+      "crop": [
+        0,
+        330,
+        700,
+        700
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 12.0,
+      "crop": [
+        150,
+        300,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 13.0,
+      "crop": [
+        100,
+        300,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 14.0,
+      "crop": [
+        0,
+        300,
+        700,
+        700
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 14.5,
+      "crop": [
+        100,
+        350,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 15.5,
+      "crop": [
+        60,
+        330,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-pepper": {
+      "t": 16.0,
+      "crop": [
+        100,
+        450,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "s-chana-1": {
+      "t": 6.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-chana-2": {
+      "t": 7.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-rajma-1": {
+      "t": 8.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-rajma-2": {
+      "t": 9.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-moong-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-moong-2": {
+      "t": 11.0,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-1": {
+      "t": 13.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-pepper-1": {
+      "t": 16.0,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 17.5,
+      "crop": [
+        0,
+        300,
+        718,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

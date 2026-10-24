@@ -1,0 +1,394 @@
+{
+  "videos": [
+    "3504564398593599881"
+  ],
+  "dish": {
+    "id": "baked-coconut-chips",
+    "name": "Baked coconut chips",
+    "meal": "Snack",
+    "minutes": 45,
+    "protein": 0,
+    "how": "Gas + air fryer",
+    "tools": "Mandoline, baking tray with baking paper, gas, air fryer or oven",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 whole coconut (hard, brown)",
+        "n": "Fresh coconut (nariyal)",
+        "tag": "coconut",
+        "img": "i-coconut"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Powdered sugar",
+        "tag": "sugar"
+      },
+      {
+        "q": "a pinch",
+        "n": "Salt",
+        "tag": "salt"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Crack the coconut open and drain the water into a bowl.",
+        "imgs": [
+          "s-break-1",
+          "s-break-2",
+          "s-break-3"
+        ]
+      },
+      {
+        "t": "Heat each coconut half, shell side down, over the gas flame.",
+        "imgs": [
+          "s-heat-1",
+          "s-heat-2"
+        ]
+      },
+      {
+        "t": "Put the hot half in a bowl of water. Repeat until the brown shell comes off.",
+        "imgs": [
+          "s-dip-1",
+          "s-dip-2",
+          "s-dip-3"
+        ]
+      },
+      {
+        "t": "Slice the white coconut very thin on a mandoline, onto a lined baking tray.",
+        "imgs": [
+          "s-slice-1",
+          "s-slice-2"
+        ]
+      },
+      {
+        "t": "Spread the slices out in a single layer.",
+        "imgs": [
+          "s-spread-1",
+          "s-spread-2"
+        ]
+      },
+      {
+        "t": "Drizzle a little oil over the slices.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Sprinkle on the powdered sugar and salt.",
+        "imgs": [
+          "s-sugar-1",
+          "s-sugar-2",
+          "s-sugar-3"
+        ]
+      },
+      {
+        "t": "Mix with your hands so every slice is coated.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Bake until golden brown.",
+        "imgs": [
+          "s-bake-1",
+          "s-bake-2",
+          "s-bake-3"
+        ]
+      },
+      {
+        "t": "Let the chips cool, then store in an airtight jar for up to 10 days.",
+        "imgs": [
+          "s-store-1",
+          "s-store-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "air-fryer",
+      "make-ahead"
+    ],
+    "notes": "From a '9 things from one coconut' reel: only the chips are made here (water, milk, cream, oil, desiccated coconut skipped; milk is its own dish). No amounts, oven temperature or time shown: all guesses. Video bakes in an oven; air fryer not shown, so start low and watch closely. Shell-removal trick (heat, dip in water) shown briefly. No clear frame of the sugar or salt, so no thumbnails for them."
+  },
+  "images": {
+    "cover": {
+      "t": 30.0,
+      "crop": [
+        0,
+        330,
+        720,
+        640
+      ],
+      "w": 560
+    },
+    "i-coconut": {
+      "t": 5.0,
+      "crop": [
+        330,
+        740,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 23.5,
+      "crop": [
+        0,
+        0,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "s-break-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        200,
+        720,
+        750
+      ],
+      "w": 480
+    },
+    "s-break-2": {
+      "t": 6.0,
+      "crop": [
+        0,
+        200,
+        720,
+        750
+      ],
+      "w": 480
+    },
+    "s-break-3": {
+      "t": 8.5,
+      "crop": [
+        0,
+        200,
+        720,
+        750
+      ],
+      "w": 480
+    },
+    "s-heat-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        300,
+        720,
+        750
+      ],
+      "w": 480
+    },
+    "s-heat-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-dip-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        380,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-dip-2": {
+      "t": 17.5,
+      "crop": [
+        0,
+        380,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-dip-3": {
+      "t": 18.5,
+      "crop": [
+        0,
+        380,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-slice-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-slice-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spread-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        250,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-spread-2": {
+      "t": 23.0,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 23.5,
+      "crop": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 24.5,
+      "crop": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-sugar-1": {
+      "t": 25.0,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-sugar-2": {
+      "t": 25.5,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-sugar-3": {
+      "t": 26.0,
+      "crop": [
+        0,
+        300,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 28.5,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-bake-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        150,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-bake-2": {
+      "t": 29.5,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-bake-3": {
+      "t": 30.0,
+      "crop": [
+        0,
+        250,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-store-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        100,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-store-2": {
+      "t": 32.0,
+      "crop": [
+        0,
+        200,
+        720,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

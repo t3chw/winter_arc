@@ -1,0 +1,367 @@
+{
+ "videos": [
+  "3471504843443576126"
+ ],
+ "dish": {
+  "id": "chickpea-cucumber-jar-salad",
+  "name": "Chickpea cucumber jar salad",
+  "meal": "Lunch or dinner",
+  "minutes": 10,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Small pan, gas, slicer or knife, glass jar",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 medium",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~1 cup (160 g), boiled",
+    "n": "Chickpeas (kabuli chana)",
+    "tag": "chickpeas",
+    "img": "i-chickpeas"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Coriander powder (dhania)",
+    "tag": "coriander-powder",
+    "img": "i-corpowder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin powder (jeera)",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1/4 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Chilli lime dressing (recipe is in the creator's caption)",
+    "tag": "salad-dressing",
+    "opt": true,
+    "img": "i-dressing"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Wash the cucumber well in water.",
+    "imgs": [
+     "s-wash-1",
+     "s-wash-2"
+    ]
+   },
+   {
+    "t": "Slice the cucumber into a glass jar.",
+    "imgs": [
+     "s-slice-1",
+     "s-slice-2"
+    ]
+   },
+   {
+    "t": "Heat ghee in a pan. Add the boiled chickpeas.",
+    "imgs": [
+     "s-ghee-1",
+     "s-ghee-2"
+    ]
+   },
+   {
+    "t": "Add coriander, red chilli, cumin and black pepper powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Stir until the chickpeas are coated and lightly browned.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   },
+   {
+    "t": "Tip the chickpeas into the jar, over the cucumber.",
+    "imgs": [
+     "s-jar-1",
+     "s-jar-2"
+    ]
+   },
+   {
+    "t": "Pour the chilli lime dressing over the top.",
+    "imgs": [
+     "s-dress-1",
+     "s-dress-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "quick",
+   "high-fibre"
+  ],
+  "notes": "The dressing recipe is only in the creator's caption (not in the video), so I marked it optional; use lemon juice and chilli flakes if you skip it. All amounts guessed. Frying time not shown. A spoon of white powder (salt?) goes into the cucumber wash water. No creator name on screen."
+ },
+ "images": {
+  "cover": {
+   "t": 12.0,
+   "crop": [
+    0,
+    300,
+    720,
+    760
+   ],
+   "w": 560
+  },
+  "i-cucumber": {
+   "t": 18.0,
+   "crop": [
+    60,
+    470,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-chickpeas": {
+   "t": 21.5,
+   "crop": [
+    100,
+    500,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 20.2,
+   "crop": [
+    220,
+    600,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-corpowder": {
+   "t": 22.5,
+   "crop": [
+    220,
+    480,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 23.0,
+   "crop": [
+    170,
+    510,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 24.0,
+   "crop": [
+    120,
+    330,
+    230,
+    230
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 24.0,
+   "crop": [
+    200,
+    470,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-dressing": {
+   "t": 29.0,
+   "crop": [
+    50,
+    360,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "s-wash-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-wash-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    320,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-slice-1": {
+   "t": 19.6,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-slice-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 20.2,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-ghee-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 24.0,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    300,
+    720,
+    780
+   ],
+   "w": 480
+  },
+  "s-jar-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-jar-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-dress-1": {
+   "t": 1.0,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  },
+  "s-dress-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    300,
+    720,
+    800
+   ],
+   "w": 480
+  }
+ }
+}

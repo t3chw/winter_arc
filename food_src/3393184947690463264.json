@@ -1,0 +1,414 @@
+{
+ "videos": [
+  "3393184947690463264"
+ ],
+ "dish": {
+  "id": "soaked-sprouts-dry-fruit-bowl",
+  "name": "Soaked chana moong dry fruit bowl",
+  "meal": "Breakfast",
+  "minutes": 10,
+  "protein": 15,
+  "how": "No cooking",
+  "tools": "4 small bowls, 1 big bowl, water",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "25 g (~2 tbsp)",
+    "n": "Black chana (kala chana)",
+    "tag": "kala-chana",
+    "img": "i-chana"
+   },
+   {
+    "q": "25 g (~2 tbsp)",
+    "n": "Whole green moong",
+    "tag": "moong-whole",
+    "img": "i-moong"
+   },
+   {
+    "q": "25",
+    "n": "Raisins (kismis)",
+    "tag": "raisins",
+    "img": "i-raisins"
+   },
+   {
+    "q": "10 to 12",
+    "n": "Almonds",
+    "tag": "almonds",
+    "img": "i-almonds"
+   },
+   {
+    "q": "3",
+    "n": "Figs (anjeer), dried",
+    "tag": "fig",
+    "img": "i-anjeer"
+   },
+   {
+    "q": "4",
+    "n": "Dates (khajur)",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "enough to cover each bowl",
+    "n": "Water, for soaking",
+    "tag": "water"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put 25 g black chana in a small bowl.",
+    "imgs": [
+     "s-chana-1",
+     "s-chana-2"
+    ]
+   },
+   {
+    "t": "Put 25 g whole moong in another small bowl.",
+    "imgs": [
+     "s-moong-1",
+     "s-moong-2"
+    ]
+   },
+   {
+    "t": "Put 25 raisins and 10 to 12 almonds in a third bowl.",
+    "imgs": [
+     "s-dry-1"
+    ]
+   },
+   {
+    "t": "Put 3 figs and 4 dates in a fourth bowl.",
+    "imgs": [
+     "s-dry-2"
+    ]
+   },
+   {
+    "t": "Pour water into every bowl until the food is covered.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2",
+     "s-water-3"
+    ]
+   },
+   {
+    "t": "Leave all the bowls to soak overnight.",
+    "imgs": [
+     "s-soak-1"
+    ]
+   },
+   {
+    "t": "Next morning, drain the water. Tip the chana into a big bowl.",
+    "imgs": [
+     "s-chana-3",
+     "s-chana-4"
+    ]
+   },
+   {
+    "t": "Add the moong.",
+    "imgs": [
+     "s-moong-3",
+     "s-moong-4"
+    ]
+   },
+   {
+    "t": "Add the soaked almonds and raisins.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2"
+    ]
+   },
+   {
+    "t": "Add the soaked figs.",
+    "imgs": [
+     "s-fig-1",
+     "s-fig-2"
+    ]
+   },
+   {
+    "t": "Add the dates and eat.",
+    "imgs": [
+     "s-date-1",
+     "s-date-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "make-ahead"
+  ],
+  "credit": "Big Broz Body (watermark on the video)",
+  "notes": "No speech about the recipe; amounts are from on-screen labels. Soak time is not stated, only 'night' to 'morning' (assumed overnight, ~8 hours). Draining is not shown, so step 7 uses the chana-pouring clips. By morning the chana and moong already show tiny sprouts. Watermark moves around the food, so some pictures have a faint smudge where I blurred it. Minutes excludes the overnight soak. Protein is a rough estimate."
+ },
+ "images": {
+  "cover": {
+   "t": 13.8,
+   "crop": [
+    0,
+    280,
+    720,
+    625
+   ],
+   "w": 560
+  },
+  "i-chana": {
+   "t": 1.6,
+   "crop": [
+    85,
+    380,
+    195,
+    195
+   ],
+   "w": 200
+  },
+  "i-moong": {
+   "t": 1.6,
+   "crop": [
+    480,
+    390,
+    175,
+    175
+   ],
+   "w": 200
+  },
+  "i-raisins": {
+   "t": 2.2,
+   "crop": [
+    95,
+    735,
+    130,
+    130
+   ],
+   "w": 200
+  },
+  "i-almonds": {
+   "t": 10.0,
+   "crop": [
+    330,
+    590,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-anjeer": {
+   "t": 13.8,
+   "crop": [
+    130,
+    620,
+    285,
+    285
+   ],
+   "w": 200
+  },
+  "i-dates": {
+   "t": 3.8,
+   "crop": [
+    405,
+    745,
+    175,
+    175
+   ],
+   "w": 200
+  },
+  "s-chana-1": {
+   "t": 0.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chana-2": {
+   "t": 1.4,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-moong-1": {
+   "t": 1.2,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-moong-2": {
+   "t": 1.8,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-dry-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-dry-2": {
+   "t": 3.8,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 4.4,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 4.65,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-water-3": {
+   "t": 5.7,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chana-3": {
+   "t": 6.6,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-chana-4": {
+   "t": 6.9,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-moong-3": {
+   "t": 8.2,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-moong-4": {
+   "t": 9.0,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 9.1,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 9.25,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-fig-1": {
+   "t": 10.4,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-fig-2": {
+   "t": 11.2,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-date-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  },
+  "s-date-2": {
+   "t": 13.8,
+   "crop": [
+    0,
+    285,
+    720,
+    625
+   ],
+   "w": 480
+  }
+ }
+}
