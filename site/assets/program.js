@@ -4,11 +4,14 @@
   'use strict';
   var WA = window.WA = window.WA || {};
 
+  /* The plan is tied to the calendar: START is day 1, the next date is day 2, and so on. A missed date is simply skipped. */
+  var START = [2026, 10, 24];
   var CYCLE = ['A', 'hiit', 'B', 'burn', 'full', 'core', 'reset'];
   var NAMES = {
     A: 'Strength A', hiit: 'Quiet HIIT', B: 'Strength B', burn: 'Plank + cardio burn',
     full: 'Full-body dumbbells', core: 'Core + stretch', reset: 'Reset day'
   };
+  var SHORT = { A: 'Str A', hiit: 'HIIT', B: 'Str B', burn: 'Burn', full: 'Full', core: 'Core', reset: 'Reset' };
   var DESC = {
     A: 'Dumbbells: squats, push-ups, rows, lunges, presses. Ends with a 4-minute all-out finisher.',
     hiit: 'Four quiet HIIT blocks, no jumping. Heart rate high the whole time.',
@@ -47,7 +50,8 @@
 
   function info(day) {
     var week = Math.ceil(day / 7), kind = CYCLE[(day - 1) % 7];
-    return { day: day, week: week, kind: kind, name: NAMES[kind], desc: DESC[kind], test: kind === 'reset' && week % 2 === 0 };
+    var test = kind === 'reset' && week % 2 === 0;
+    return { day: day, week: week, kind: kind, name: NAMES[kind], short: test ? 'Test' : SHORT[kind], easy: kind === 'core' || kind === 'reset', desc: DESC[kind], test: test };
   }
 
   function step(id, work, rest, block, label) { return { id: id, work: work, rest: rest, block: block, label: label || '' }; }
@@ -130,5 +134,12 @@
     return d;
   }
 
-  WA.program = { build: build, info: info, params: params, lists: LISTS, cycle: CYCLE, names: NAMES, days: 84 };
+  function utcDays(d) { return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 86400000); }
+  var START_DATE = new Date(START[0], START[1] - 1, START[2]);
+  /* day number for a calendar date (0 or less = before the plan starts) */
+  function dayForDate(d) { return utcDays(d) - utcDays(START_DATE) + 1; }
+  function dateForDay(n) { return new Date(START[0], START[1] - 1, START[2] + n - 1); }
+
+  WA.program = { build: build, info: info, params: params, lists: LISTS, cycle: CYCLE, names: NAMES, days: 84,
+    start: START_DATE, dayForDate: dayForDate, dateForDay: dateForDay };
 })();

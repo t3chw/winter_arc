@@ -1,5 +1,5 @@
-/* Winter Arc app: today's workout (one Start runs the whole day), exercise library, silent follow-along player,
-   and a pose check sheet (#/check). Progress (which day you are on) lives in this browser only. */
+/* Winter Arc app: today's workout picked by the calendar date (one Start runs the whole day), a month calendar,
+   exercise library, silent follow-along player, and a pose check sheet (#/check). Nothing is tracked or saved. */
 (function () {
   'use strict';
   var WA = window.WA, E = WA.engine, X = WA.exercises, SESSIONS = WA.sessions, PROGRAM = WA.program;
@@ -29,69 +29,59 @@
     return m + ':' + (s < 10 ? '0' : '') + s;
   }
 
-  /* ---------------- Progress (this browser only) ---------------- */
-  var PKEY = 'wa-progress';
-  function pad(n) { return (n < 10 ? '0' : '') + n; }
-  function dateStr(d) { return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); }
-  function loadProg() {
-    try { var p = JSON.parse(localStorage.getItem(PKEY)); if (p && p.day >= 1 && Array.isArray(p.history)) return p; } catch (e) {}
-    return { day: 1, history: [] };
-  }
-  function saveProg(p) { try { localStorage.setItem(PKEY, JSON.stringify(p)); } catch (e) {} }
-  function streak(p) {
-    var seen = {};
-    p.history.forEach(function (h) { seen[h.date] = true; });
-    var d = new Date();
-    if (!seen[dateStr(d)]) d.setDate(d.getDate() - 1);
-    var n = 0;
-    while (seen[dateStr(d)]) { n++; d.setDate(d.getDate() - 1); }
-    return n;
-  }
-  function doneToday(p) { var h = p.history[p.history.length - 1]; return !!h && h.date === dateStr(new Date()); }
-  function markDone(day, mode) {
-    var p = loadProg();
-    if (day === p.day) p.day = day + 1;
-    p.history.push({ day: day, date: dateStr(new Date()), mode: mode });
-    if (p.history.length > 400) p.history = p.history.slice(-400);
-    saveProg(p);
-    return p;
-  }
+  /* ---------------- Dates ---------------- */
+  var DAY_NAMES = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+  var MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  function longDate(d) { return DAY_NAMES[d.getDay()] + ' ' + d.getDate() + ' ' + MONTHS[d.getMonth()]; }
+  function todayDay() { return Math.max(1, PROGRAM.dayForDate(new Date())); }
 
   /* ---------------- Home ---------------- */
   function blockList(d) {
     return d.blocks.map(function (b) { return '<li><span>' + esc(b.name) + '</span><span>' + Math.max(1, Math.round(b.seconds / 60)) + ' min</span></li>'; }).join('');
   }
-  function showHome() {
-    var p = loadProg(), today = PROGRAM.build(p.day), done = doneToday(p), st = streak(p);
+  /* Month grid, Monday first. Each date shows its workout; today is the big one. */
+  function calendarHtml(y, m) {
+    var now = new Date(), tN = PROGRAM.dayForDate(now);
+    var first = new Date(y, m, 1), lead = (first.getDay() + 6) % 7, nDays = new Date(y, m + 1, 0).getDate();
+    var startD = PROGRAM.start, endD = PROGRAM.dateForDay(PROGRAM.days);
+    var canPrev = y * 12 + m > startD.getFullYear() * 12 + startD.getMonth();
+    var canNext = y * 12 + m < endD.getFullYear() * 12 + endD.getMonth();
+    var html = '<div class="cal-head"><button class="cal-nav" type="button" data-cal="-1" aria-label="Previous month"' + (canPrev ? '' : ' disabled') + '>‹</button>' +
+      '<h3>' + MONTHS[m] + ' ' + y + '</h3>' +
+      '<button class="cal-nav" type="button" data-cal="1" aria-label="Next month"' + (canNext ? '' : ' disabled') + '>›</button></div>' +
+      '<div class="cal-grid" role="grid">' +
+      ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'].map(function (w) { return '<span class="cal-wd">' + w + '</span>'; }).join('');
+    for (var i = 0; i < lead; i++) html += '<span class="cal-cell blank"></span>';
+    for (var dd = 1; dd <= nDays; dd++) {
+      var n = PROGRAM.dayForDate(new Date(y, m, dd));
+      if (n < 1) { html += '<span class="cal-cell blank"><span class="cal-num">' + dd + '</span></span>'; continue; }
+      var info = PROGRAM.build(n), cls = 'cal-cell ' + (info.easy ? 'easy' : 'hard');
+      var title = 'Day ' + n + ' · ' + info.name + ' · ' + info.minutes + ' min';
+      var inner = '<span class="cal-num">' + dd + '</span><span class="cal-what">' + esc(info.short) + '</span>';
+      if (n < tN) html += '<span class="' + cls + ' past" title="' + esc(title) + '">' + inner + '</span>';
+      else html += '<a class="' + cls + (n === tN ? ' is-today' : '') + '" href="#/day/' + n + '" title="' + esc(title) + '">' + inner + '</a>';
+    }
+    return html + '</div>' +
+      '<p class="cal-key"><span class="key hard"></span>Hard day <span class="key easy"></span>Easier day <span class="key key-today"></span>Today</p>' +
+      '<p class="cal-note">The plan started on ' + longDate(startD) + ' and runs 12 weeks, to ' + longDate(endD) + '. Each date has its own workout. Missed a day? Just do today\'s.</p>';
+  }
+
+  function showWorkout() {
+    var now = new Date(), n = todayDay(), today = PROGRAM.build(n);
     var html = '<div class="home">' +
-      '<header class="home-top"><p class="eyebrow">Winter Arc · ' + esc(today.phase) + '</p><h1>Today</h1></header>';
+      '<header class="home-top"><a class="work-back" href="#/">← Home</a><p class="eyebrow">' + esc(longDate(now)) + '</p><h1>Today</h1></header>' +
+      '<section class="today" aria-label="Today\'s workout">' +
+      '<p class="eyebrow">Day ' + n + ' of ' + PROGRAM.days + ' · Week ' + today.week + ' · ' + esc(today.phase) + '</p>' +
+      '<h2 class="today-name">' + esc(today.name) + '</h2>' +
+      '<p class="today-desc">' + esc(today.desc) + '</p>' +
+      '<ol class="today-blocks">' + blockList(today) + '</ol>' +
+      '<a class="btn btn-main today-start" href="#/day/' + n + '">Start · ' + today.minutes + ' min</a>' +
+      '<p class="today-hint">Press Start, put your music on and copy the figure. It runs by itself to the end.</p>' +
+      '<a class="today-alt" href="#/day/' + n + '/short">No time today? Do the 9-minute version</a>' +
+      '</section>';
 
-    html += '<section class="today" aria-label="Today\'s workout">';
-    if (done) {
-      var last = p.history[p.history.length - 1];
-      html += '<p class="eyebrow">Day ' + last.day + ' done today' + (st > 1 ? ' · ' + st + '-day streak' : '') + '</p>' +
-        '<h2 class="today-name">Rest up</h2>' +
-        '<p class="today-desc">Tomorrow: <strong>' + esc(today.name) + '</strong>, ' + today.minutes + ' minutes. Sleep, drink water, eat well.</p>' +
-        '<a class="today-alt" href="#/day/' + p.day + '">Start day ' + p.day + ' now anyway</a>';
-    } else {
-      html += '<p class="eyebrow">Day ' + p.day + ' · Week ' + today.week + (st > 0 ? ' · ' + st + '-day streak' : '') + '</p>' +
-        '<h2 class="today-name">' + esc(today.name) + '</h2>' +
-        '<p class="today-desc">' + esc(today.desc) + '</p>' +
-        '<ol class="today-blocks">' + blockList(today) + '</ol>' +
-        '<a class="btn btn-main today-start" href="#/day/' + p.day + '">Start · ' + today.minutes + ' min</a>' +
-        '<p class="today-hint">Press Start, put your music on and copy the figure. It runs by itself to the end.</p>' +
-        '<a class="today-alt" href="#/day/' + p.day + '/short">No time today? Do the 9-minute version</a>';
-    }
-    html += '</section>';
-
-    var w0 = (today.week - 1) * 7 + 1;
-    html += '<section class="session"><div class="session-head"><h2>This week</h2><p>Week ' + today.week + ' · ' + esc(today.phase) + ' plan</p></div><ol class="week">';
-    for (var d = w0; d < w0 + 7; d++) {
-      var di = PROGRAM.build(d), cls = d < p.day ? 'past' : d === p.day ? 'now' : '';
-      html += '<li class="' + cls + '"><a href="#/day/' + d + '"><span class="wk-day">Day ' + d + '</span><span class="wk-name">' + esc(di.name) +
-        '</span><span class="wk-min">' + (d < p.day ? 'Done' : di.minutes + ' min') + '</span></a></li>';
-    }
-    html += '</ol></section>';
+    html += '<section class="session cal" aria-label="Calendar"><div class="session-head"><h2>Calendar</h2><p>Tap today to start</p></div>' +
+      '<div class="cal-body"></div></section>';
 
     html += '<header class="lib-top"><h2>Exercise library</h2><p class="lede">Tap any exercise to practise it on its own.</p></header>';
     SESSIONS.forEach(function (s) {
@@ -102,17 +92,28 @@
       });
       html += '</div></section>';
     });
-    html += '<p class="reset-line"><button class="linkish" type="button" data-reset>Start the plan again from day 1</button></p></div>';
+    html += '</div>';
     root.innerHTML = html;
+
+    var calBody = root.querySelector('.cal-body');
+    var cy = now.getFullYear(), cm = now.getMonth();
+    if (PROGRAM.dayForDate(now) < 1) { cy = PROGRAM.start.getFullYear(); cm = PROGRAM.start.getMonth(); }
+    function drawCal() { calBody.innerHTML = calendarHtml(cy, cm); }
+    calBody.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-cal]');
+      if (!b || b.disabled) return;
+      cm += parseInt(b.getAttribute('data-cal'), 10);
+      if (cm < 0) { cm = 11; cy--; } else if (cm > 11) { cm = 0; cy++; }
+      drawCal();
+    });
+    drawCal();
+
     var thumbs = root.querySelectorAll('.thumb');
     for (var i = 0; i < thumbs.length; i++) {
       var ex = X[thumbs[i].getAttribute('data-ex')];
       var fig = new E.Figure(newSvg(thumbs[i]), ex, { guides: false });
       fig.draw(fig.still(thumbPose(ex)), 0.4);
     }
-    root.querySelector('[data-reset]').addEventListener('click', function () {
-      if (window.confirm('Go back to day 1? Your streak is kept.')) { var q = loadProg(); q.day = 1; saveProg(q); route('#/'); }
-    });
     document.title = 'Winter Arc';
     return { destroy: function () {} };
   }
@@ -160,7 +161,7 @@
     root.innerHTML =
       '<div class="app" data-state="watch" data-paused="false" data-mode="' + cfg.mode + '">' +
       '<header class="top"><div class="title-block">' +
-      '<a class="back hide-in-focus" href="#/">' + (session ? 'End workout' : 'All exercises') + '</a>' +
+      '<a class="back hide-in-focus" href="#/workout">' + (session ? 'End workout' : 'All exercises') + '</a>' +
       '<p class="eyebrow"></p><h1></h1></div><p class="meta hide-in-focus"></p></header>' +
       (session ? '<div class="sess" aria-hidden="true"><div class="sess-fill"></div></div>' : '') +
       '<main class="grid"><section class="stage-wrap" aria-label="Demonstration">' +
@@ -384,7 +385,7 @@
     }
     function mainAction() {
       if (state === 'watch') { unlockAudio(); keepAwake(); enter('ready'); return; }
-      if (state === 'done') { go(session ? '#/' : (cfg.nextHref || '#/')); return; }
+      if (state === 'done') { go(session ? '#/' : (cfg.nextHref || '#/workout')); return; }
       paused = !paused;
       appEl.setAttribute('data-paused', String(paused));
       clockLine.textContent = paused ? 'Paused. Press Resume when you are ready.' : UI[state].line;
@@ -512,12 +513,12 @@
 
   function showLibraryItem(sid, idx) {
     var s = sessionById(sid);
-    if (!s || !s.items[idx]) { setTimeout(function () { go('#/'); }, 0); return { destroy: function () {} }; }
+    if (!s || !s.items[idx]) { setTimeout(function () { go('#/workout'); }, 0); return { destroy: function () {} }; }
     var steps = s.items.map(function (it) {
       var ex = X[itemId(it)];
       return { id: ex.id, work: (typeof it === 'object' && it.work) || s.work || ex.work || 30, rest: s.rest != null ? s.rest : (ex.rest != null ? ex.rest : 30), block: s.name, label: '' };
     });
-    return showPlayer({ mode: 'single', steps: steps, start: idx, title: s.name, nextHref: s.items[idx + 1] ? '#/s/' + sid + '/' + (idx + 1) : '#/' });
+    return showPlayer({ mode: 'single', steps: steps, start: idx, title: s.name, nextHref: s.items[idx + 1] ? '#/s/' + sid + '/' + (idx + 1) : '#/workout' });
   }
 
   function showDay(day, mode) {
@@ -525,11 +526,10 @@
     return showPlayer({
       mode: 'session', steps: d.steps, start: 0, minutes: d.minutes, title: 'Day ' + day + ' · ' + d.name,
       onFinish: function () {
-        var p = markDone(day, d.mode), st = streak(p), tomorrow = PROGRAM.build(p.day);
+        var tomorrow = PROGRAM.build(day + 1);
         return {
           line: 'Day ' + day + ' done. Tomorrow: ' + tomorrow.name + ', ' + tomorrow.minutes + ' minutes.',
-          sub: 'see you tomorrow',
-          next: '<strong>' + (st > 1 ? st + '-day streak' : 'Streak started: day 1') + '</strong>'
+          sub: 'see you tomorrow'
         };
       }
     });
@@ -542,9 +542,10 @@
     var parts = hash.replace(/^#\/?/, '').split('/');
     if (parts[0] === 's' && parts[1]) view = showLibraryItem(parts[1], parseInt(parts[2], 10) || 0);
     else if (parts[0] === 'day' && parseInt(parts[1], 10) >= 1) view = showDay(parseInt(parts[1], 10), parts[2] === 'short' ? 'short' : 'full');
-    else if (parts[0] === 'today') view = showDay(loadProg().day, 'full');
+    else if (parts[0] === 'today') view = showDay(todayDay(), 'full');
     else if (parts[0] === 'check') view = showCheck(parts[1]);
-    else view = showHome();
+    else if (parts[0] === 'workout') view = showWorkout();
+    else view = WA.showHub(root);
     window.scrollTo(0, 0);
   }
   /* Real pages route by the address bar; a self-contained preview copy (data: or about: page) routes in memory. */

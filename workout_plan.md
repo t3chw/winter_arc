@@ -4,7 +4,9 @@
 **Equipment:** 2 × 5 kg dumbbells, a sturdy chair with no wheels (push it against a wall), a mat.
 **Limits:** quiet moves only (no jumping), about 30 minutes a day, 7 days a week with 2 easier days.
 
-**How to use it:** open the site, press **Start** on today's card, put your music on and copy the figure. The whole day runs on its own (warm-up, main part, finisher, cool-down) with no stops and nothing to decide. The next day unlocks when you finish.
+**How to use it:** open the site. It shows today's date and today's workout. Press **Start**, put your music on and copy the figure. The whole day runs on its own (warm-up, main part, finisher, cool-down) with no stops and nothing to decide.
+
+**Start date:** Saturday 24 October 2026 is day 1; the plan ends on Friday 15 January 2027. Every date has its own workout (see the calendar on the site). Missed a day? Skip it and do today's.
 
 ---
 
@@ -25,7 +27,7 @@
 
 ## The 7-day cycle (repeats for 12 weeks)
 
-Days go in order. Day 2 comes after you finish day 1, whatever the weekday.
+The calendar decides the day: 24 Oct is day 1, 25 Oct is day 2, and so on. Nothing is tracked.
 
 | Day | Session | Minutes | Feel |
 |-----|---------|---------|------|
@@ -92,7 +94,7 @@ Sumo squat + curl · renegade row (knees down) · deadlift + squat · overhead t
 2. **Stretch, 1 min each:** chest opener · standing side bend · hamstring stretch · hip-flexor stretch · neck and shoulder rolls · knee hug · child's pose
 3. **Breathing,** 3 min
 
-**Test every 2nd week (days 14, 28, 42…):** warm-up, then push-ups in 60 s, squats in 60 s, and a plank held as long as you can, with 1 min rest between. The walk is 8 min that day. Write the three numbers down.
+**Test every 2nd week (days 14, 28, 42…, e.g. 6 Nov and 20 Nov):** warm-up, then push-ups in 60 s, squats in 60 s, and a plank held as long as you can, with 1 min rest between. The walk is 8 min that day. Write the three numbers down.
 - **Starting point:** 1 push-up, about 20 squats.
 - **Rough targets for week 12:** 5–10 push-ups, 30+ squats in 60 s, 60 s plank.
 
@@ -100,7 +102,7 @@ Sumo squat + curl · renegade row (knees down) · deadlift + squat · overhead t
 
 ## Bad day? The 9-minute version
 
-The link under the Start button: 2 warm-up moves, one round of today's moves, 1 min of breathing. On days 6 and 7 it is a 5-minute walk instead. It counts, and your streak continues.
+The link under the Start button: 2 warm-up moves, one round of today's moves, 1 min of breathing. On days 6 and 7 it is a 5-minute walk instead. It still counts.
 
 ---
 
