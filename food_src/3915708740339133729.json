@@ -1,0 +1,747 @@
+{
+ "videos": [
+  "3915708740339133729"
+ ],
+ "dish": {
+  "id": "peri-peri-corn-paneer-sandwich",
+  "name": "Peri peri corn paneer sandwich",
+  "meal": "Snack",
+  "minutes": 20,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Big bowl, spoon, pan, gas, knife",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3/4 cup (120 g), boiled",
+    "n": "Sweet corn kernels",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~1/2 cup, finely chopped",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~1/4 cup, finely chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~100 g, small cubes",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli-powder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-blackpepper"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "img": "i-oregano"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Low fat mayonnaise (eggless)",
+    "tag": "mayonnaise",
+    "img": "i-mayo"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Red chilli sauce",
+    "tag": "chilli-sauce",
+    "img": "i-sauce"
+   },
+   {
+    "q": "~1/4 cup (30 g), grated or diced",
+    "n": "Cheese",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "6 slices",
+    "n": "Bread",
+    "tag": "bread",
+    "img": "i-bread"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the boiled sweet corn in a big bowl.",
+    "imgs": [
+     "s-corn-1",
+     "s-corn-2"
+    ]
+   },
+   {
+    "t": "Add the chopped capsicum.",
+    "imgs": [
+     "s-capsicum-1",
+     "s-capsicum-2"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2",
+     "s-paneer-3"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder, salt, black pepper, chilli flakes and oregano.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Add the mayonnaise.",
+    "imgs": [
+     "s-mayo-1",
+     "s-mayo-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-coriander-1",
+     "s-coriander-2"
+    ]
+   },
+   {
+    "t": "Add the red chilli sauce.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2",
+     "s-sauce-3"
+    ]
+   },
+   {
+    "t": "Add the cheese.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2",
+     "s-cheese-3"
+    ]
+   },
+   {
+    "t": "Mix everything well.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Pile a thick layer of the filling on a slice of bread.",
+    "imgs": [
+     "s-fill-1",
+     "s-fill-2",
+     "s-fill-3"
+    ]
+   },
+   {
+    "t": "Cover with a second slice of bread.",
+    "imgs": [
+     "s-close-1",
+     "s-close-2"
+    ]
+   },
+   {
+    "t": "Place the sandwich on a hot pan and press it down.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2"
+    ]
+   },
+   {
+    "t": "Toast until golden brown on both sides.",
+    "imgs": [
+     "s-toast-1",
+     "s-toast-3"
+    ]
+   },
+   {
+    "t": "Cut the sandwich in half.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Serve hot.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "The speaker gives no amounts (says all you need is 15 minutes): all quantities are guesses from the pictures. The filling looks like enough for about 3 sandwiches; the video makes one. The pan heat and toasting time are not shown or said; no butter or oil is shown on the pan. The 'spice powders' are read from the spice dish."
+ },
+ "images": {
+  "cover": {
+   "t": 7.0,
+   "crop": [
+    0,
+    240,
+    720,
+    600
+   ],
+   "w": 560
+  },
+  "i-corn": {
+   "t": 9.5,
+   "crop": [
+    270,
+    570,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 11.0,
+   "crop": [
+    150,
+    430,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 12.0,
+   "crop": [
+    300,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 13.5,
+   "crop": [
+    250,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-chilli-powder": {
+   "t": 13.8,
+   "crop": [
+    500,
+    500,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 13.8,
+   "crop": [
+    420,
+    640,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-blackpepper": {
+   "t": 13.8,
+   "crop": [
+    290,
+    420,
+    220,
+    220
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 13.8,
+   "crop": [
+    240,
+    620,
+    190,
+    190
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 13.8,
+   "crop": [
+    380,
+    760,
+    230,
+    230
+   ],
+   "w": 200
+  },
+  "i-mayo": {
+   "t": 15.5,
+   "crop": [
+    150,
+    400,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 16.5,
+   "crop": [
+    300,
+    400,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-sauce": {
+   "t": 18.0,
+   "crop": [
+    250,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 19.5,
+   "crop": [
+    100,
+    200,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 26.0,
+   "crop": [
+    0,
+    300,
+    720,
+    720
+   ],
+   "w": 200
+  },
+  "s-corn-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-corn-2": {
+   "t": 10.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-capsicum-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-capsicum-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-3": {
+   "t": 13.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 13.8,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 15.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mayo-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mayo-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-coriander-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-3": {
+   "t": 18.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 19.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cheese-3": {
+   "t": 20.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 22.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fill-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fill-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fill-3": {
+   "t": 25.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-close-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-close-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pan-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toast-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toast-3": {
+   "t": 29.0,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 7.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  }
+ }
+}

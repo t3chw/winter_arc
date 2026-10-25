@@ -1,0 +1,519 @@
+{
+  "videos": [
+    "3610532230754949674"
+  ],
+  "dish": {
+    "id": "dahi-tadka-side",
+    "name": "Dahi tadka",
+    "meal": "Side",
+    "minutes": 10,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Pan, gas, whisk, spatula",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~2 tbsp (5 to 6 cloves)",
+        "n": "Garlic, chopped",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "1 medium (~1/2 cup)",
+        "n": "Onion, chopped",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1 cup (250 g)",
+        "n": "Curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "to serve",
+        "n": "Rice or roti",
+        "tag": "rice",
+        "alt": [
+          "atta"
+        ],
+        "opt": true,
+        "img": "i-rice"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat the oil in a pan.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add the chopped garlic.",
+        "imgs": [
+          "s-garlic-1",
+          "s-garlic-2"
+        ]
+      },
+      {
+        "t": "Add the chopped onion.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Stir and cook until the onion turns soft.",
+        "imgs": [
+          "s-saute-1",
+          "s-saute-2"
+        ]
+      },
+      {
+        "t": "Add the turmeric and red chilli powder.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Stir for a few seconds.",
+        "imgs": [
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Whisk the curd in a bowl until smooth.",
+        "imgs": [
+          "s-whisk-1",
+          "s-whisk-2"
+        ]
+      },
+      {
+        "t": "Pour the whisked curd into the pan.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2"
+        ]
+      },
+      {
+        "t": "Add the salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Add the chopped coriander leaves.",
+        "imgs": [
+          "s-coriander-1"
+        ]
+      },
+      {
+        "t": "Mix well until the curd turns evenly yellow.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-mix-3"
+        ]
+      },
+      {
+        "t": "Serve with rice or roti.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "quick"
+    ],
+    "notes": "Hindi speech, no amounts on screen, so all amounts are my estimates from the bowl sizes. The white powder added after the curd looks like salt (not named). The video does not say anything about the flame level, so none is given. Rice or roti is only shown as a serving suggestion."
+  },
+  "images": {
+    "cover": {
+      "t": 1.9,
+      "crop": [
+        0,
+        300,
+        720,
+        800
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 2.1,
+      "crop": [
+        60,
+        440,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 2.45,
+      "crop": [
+        100,
+        640,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 3.2,
+      "crop": [
+        200,
+        500,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 3.8,
+      "crop": [
+        120,
+        480,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 5.9,
+      "crop": [
+        170,
+        20,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 6.7,
+      "crop": [
+        100,
+        560,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 9.0,
+      "crop": [
+        80,
+        120,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 10.8,
+      "crop": [
+        290,
+        300,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 12.0,
+      "crop": [
+        230,
+        700,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 0.3,
+      "crop": [
+        0,
+        380,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "s-oil-1": {
+      "t": 2.1,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 2.3,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 2.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-1": {
+      "t": 2.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-2": {
+      "t": 3.1,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 3.3,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 3.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-saute-1": {
+      "t": 4.4,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-saute-2": {
+      "t": 5.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 6.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 6.7,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 7.8,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-whisk-1": {
+      "t": 8.4,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-whisk-2": {
+      "t": 9.5,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 10.4,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 10.8,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 11.4,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 11.9,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 12.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-3": {
+      "t": 13.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 1.9,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 1.5,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

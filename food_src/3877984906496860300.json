@@ -1,0 +1,492 @@
+{
+ "videos": [
+  "3877984906496860300"
+ ],
+ "dish": {
+  "id": "cucumber-cream-cheese-sandwich",
+  "name": "Cucumber cream cheese sandwiches",
+  "meal": "Breakfast",
+  "minutes": 15,
+  "protein": 10,
+  "how": "No cooking",
+  "tools": "Knife, bowl, spoon",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 medium",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~100 g (1 small block)",
+    "n": "Cream cheese",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Eggless mayonnaise (check the pack for the green dot)",
+    "tag": "mayonnaise",
+    "img": "i-mayo"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "a pinch",
+    "n": "Black pepper",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~1 tsp juice",
+    "n": "Lemon",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Fresh dill (or coriander), finely chopped",
+    "tag": "dill",
+    "alt": [
+     "coriander-leaves"
+    ],
+    "img": "i-dill"
+   },
+   {
+    "q": "4 slices",
+    "n": "White or brown bread",
+    "tag": "bread",
+    "img": "i-bread"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Slice the cucumber into thin rounds.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Put the cream cheese in a bowl.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Add the mayonnaise on top.",
+    "imgs": [
+     "s-mayo-1",
+     "s-mayo-2"
+    ]
+   },
+   {
+    "t": "Add salt, black pepper and a squeeze of lemon.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2",
+     "s-season-3"
+    ]
+   },
+   {
+    "t": "Add the chopped dill.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Mix well until it is a thick, creamy spread.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Cut the crusts off the bread slices.",
+    "imgs": [
+     "s-crust-1",
+     "s-crust-2"
+    ]
+   },
+   {
+    "t": "Spread the filling thickly on a slice.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2"
+    ]
+   },
+   {
+    "t": "Cover the spread with overlapping cucumber rounds.",
+    "imgs": [
+     "s-layer-1",
+     "s-layer-2"
+    ]
+   },
+   {
+    "t": "Close with a second slice of bread.",
+    "imgs": [
+     "s-top-1"
+    ]
+   },
+   {
+    "t": "Cut into finger-sized sandwiches.",
+    "imgs": [
+     "s-fingers-1",
+     "s-fingers-2"
+    ]
+   },
+   {
+    "t": "Serve on a plate with a few cucumber rounds.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "quick"
+  ],
+  "notes": "Silent video, no amounts shown: all quantities are guesses. The sauce poured on the cream cheese looks like mayonnaise: use an eggless one. Herb looks like dill (coriander also works). The top slice is not shown with spread; spread it too for a richer sandwich if you like."
+ },
+ "images": {
+  "cover": {
+   "t": 18.9,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-cucumber": {
+   "t": 4.2,
+   "crop": [
+    150,
+    440,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 7.0,
+   "crop": [
+    130,
+    600,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-mayo": {
+   "t": 7.8,
+   "crop": [
+    190,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 8.0,
+   "crop": [
+    300,
+    420,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 8.6,
+   "crop": [
+    150,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 9.0,
+   "crop": [
+    60,
+    450,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-dill": {
+   "t": 10.2,
+   "crop": [
+    100,
+    450,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 13.4,
+   "crop": [
+    0,
+    380,
+    700,
+    700
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 4.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 5.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 6.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 7.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mayo-1": {
+   "t": 7.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mayo-2": {
+   "t": 7.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 8.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 9.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 10.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 10.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 11.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crust-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crust-2": {
+   "t": 13.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 14.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-layer-1": {
+   "t": 15.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-layer-2": {
+   "t": 16.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 16.92,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fingers-1": {
+   "t": 17.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fingers-2": {
+   "t": 17.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 18.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 18.9,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

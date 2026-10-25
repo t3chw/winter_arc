@@ -1,0 +1,555 @@
+{
+  "videos": [
+    "3606264376914818740"
+  ],
+  "dish": {
+    "id": "masala-nimbu-shikanji",
+    "name": "Masala nimbu shikanji",
+    "meal": "Drink",
+    "minutes": 15,
+    "protein": 0,
+    "how": "Gas + blender",
+    "tools": "Pan, gas, mixie, jar, glass",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 tbsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander seeds (sabut dhania)",
+        "tag": "coriander-seeds",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Fennel seeds (saunf)",
+        "tag": "fennel-seeds",
+        "img": "i-fennel"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Black pepper (kali mirch)",
+        "tag": "black-pepper",
+        "img": "i-pepper"
+      },
+      {
+        "q": "~2 tsp",
+        "n": "Dry ginger powder (sonth)",
+        "tag": "dry-ginger-powder",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~2 tsp",
+        "n": "Black salt (kala namak)",
+        "tag": "black-salt",
+        "img": "i-blacksalt"
+      },
+      {
+        "q": "~4 pods",
+        "n": "Green cardamom (elaichi)",
+        "tag": "cardamom",
+        "img": "i-cardamom"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Rock sugar (mishri)",
+        "tag": "rock-sugar",
+        "img": "i-mishri"
+      },
+      {
+        "q": "~6 leaves",
+        "n": "Mint leaves (pudina)",
+        "tag": "mint",
+        "img": "i-mint"
+      },
+      {
+        "q": "~2 tbsp (1 to 2 lemons)",
+        "n": "Lemon juice",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "~4 cubes",
+        "n": "Ice cubes",
+        "tag": "ice",
+        "img": "i-ice"
+      },
+      {
+        "q": "~1 glass (200 ml)",
+        "n": "Soda or chilled water",
+        "tag": "soda",
+        "alt": [
+          "water"
+        ],
+        "img": "i-soda"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Dry roast cumin, coriander seeds, fennel seeds and black pepper in a pan. Stir until fragrant.",
+        "imgs": [
+          "s-roast-1",
+          "s-roast-2",
+          "s-roast-3"
+        ]
+      },
+      {
+        "t": "Tip the roasted spices into the mixie jar.",
+        "imgs": [
+          "s-jar-1"
+        ]
+      },
+      {
+        "t": "Add dry ginger powder, black salt and cardamom.",
+        "imgs": [
+          "s-add-1",
+          "s-add-2"
+        ]
+      },
+      {
+        "t": "Add the rock sugar (mishri).",
+        "imgs": [
+          "s-mishri-1",
+          "s-mishri-2"
+        ]
+      },
+      {
+        "t": "Grind everything to a fine powder.",
+        "imgs": [
+          "s-powder-1"
+        ]
+      },
+      {
+        "t": "Store the masala in a dry jar with a lid. It makes many glasses.",
+        "imgs": [
+          "s-store-1",
+          "s-store-2"
+        ]
+      },
+      {
+        "t": "Put 5 to 6 mint leaves in a glass.",
+        "imgs": [
+          "s-mint-1",
+          "s-mint-2"
+        ]
+      },
+      {
+        "t": "Add 1 spoon of the shikanji masala.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2"
+        ]
+      },
+      {
+        "t": "Pour in the lemon juice.",
+        "imgs": [
+          "s-lemon-1",
+          "s-lemon-2"
+        ]
+      },
+      {
+        "t": "Swirl the glass so the masala mixes with the juice.",
+        "imgs": [
+          "s-swirl-1"
+        ]
+      },
+      {
+        "t": "Add ice cubes.",
+        "imgs": [
+          "s-ice-1"
+        ]
+      },
+      {
+        "t": "Top up with soda or chilled water.",
+        "imgs": [
+          "s-soda-1",
+          "s-soda-2"
+        ]
+      },
+      {
+        "t": "Stir well with a straw.",
+        "imgs": [
+          "s-stir-1"
+        ]
+      },
+      {
+        "t": "Garnish with a mint sprig and a lemon slice.",
+        "imgs": [
+          "s-garnish-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender"
+    ],
+    "notes": "No speech and no amounts on screen, so all quantities are my estimates from the spoon and bowl sizes. The masala makes about 10 glasses; the last 4 ingredients are for one glass. Text shows cumin twice (roast, then in the mixie jar): I list it once. Black pepper amount is a guess; it is hard to see in the pan. Soda gives a fizzy drink, chilled water works too."
+  },
+  "images": {
+    "cover": {
+      "t": 30.0,
+      "crop": [
+        0,
+        170,
+        720,
+        760
+      ],
+      "w": 560
+    },
+    "i-cumin": {
+      "t": 5.5,
+      "crop": [
+        150,
+        380,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 6.5,
+      "crop": [
+        200,
+        450,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-fennel": {
+      "t": 7.5,
+      "crop": [
+        110,
+        470,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-pepper": {
+      "t": 7.5,
+      "crop": [
+        264,
+        470,
+        240,
+        240
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 11.5,
+      "crop": [
+        60,
+        520,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-blacksalt": {
+      "t": 12.5,
+      "crop": [
+        150,
+        620,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-cardamom": {
+      "t": 12.5,
+      "crop": [
+        330,
+        300,
+        240,
+        240
+      ],
+      "w": 200
+    },
+    "i-mishri": {
+      "t": 14.0,
+      "crop": [
+        60,
+        520,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-mint": {
+      "t": 18.0,
+      "crop": [
+        280,
+        440,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 29.2,
+      "crop": [
+        40,
+        175,
+        270,
+        270
+      ],
+      "w": 200
+    },
+    "i-ice": {
+      "t": 24.1,
+      "crop": [
+        160,
+        600,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-soda": {
+      "t": 24.5,
+      "crop": [
+        250,
+        360,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "s-roast-1": {
+      "t": 5.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-2": {
+      "t": 7.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-3": {
+      "t": 8.7,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mishri-1": {
+      "t": 13.3,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mishri-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        480,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-powder-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-store-1": {
+      "t": 15.8,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-store-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mint-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        280,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mint-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 20.5,
+      "crop": [
+        0,
+        600,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lemon-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        540,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lemon-2": {
+      "t": 21.5,
+      "crop": [
+        0,
+        600,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-swirl-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ice-1": {
+      "t": 23.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soda-1": {
+      "t": 24.1,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soda-2": {
+      "t": 25.8,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        280,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garnish-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

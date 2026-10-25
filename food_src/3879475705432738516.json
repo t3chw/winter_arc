@@ -1,0 +1,745 @@
+{
+ "videos": [
+  "3879475705432738516"
+ ],
+ "dish": {
+  "id": "paneer-cheese-cucumber-sandwich",
+  "name": "Paneer cheese cucumber sandwiches",
+  "meal": "Snack",
+  "minutes": 15,
+  "protein": 20,
+  "how": "No cooking",
+  "tools": "Blender jar (mixie), bowl, knife, tissue paper",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 medium",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~100 g (1 small block)",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Thick curd (hung curd)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~4 small cubes (40 g)",
+    "n": "Processed cheese cubes",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "4 to 5 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "a pinch",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "4 slices",
+    "n": "White bread",
+    "tag": "bread",
+    "img": "i-bread"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Slice the cucumber into thin rounds.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Lay the slices in a single layer on tissue paper.",
+    "imgs": [
+     "s-tissue-1",
+     "s-tissue-2",
+     "s-tissue-3"
+    ]
+   },
+   {
+    "t": "Cover with more tissue paper and press to soak up the water.",
+    "imgs": [
+     "s-press-1",
+     "s-press-2",
+     "s-press-3"
+    ]
+   },
+   {
+    "t": "Crumble the paneer into a blender jar.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the thick curd.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add the cheese cubes.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Add the garlic cloves.",
+    "imgs": [
+     "s-garlic-1",
+     "s-garlic-2"
+    ]
+   },
+   {
+    "t": "Blend until smooth and creamy.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Scrape the blended mix out into a bowl.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2",
+     "s-pour-3"
+    ]
+   },
+   {
+    "t": "Mix well with a spoon.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Sprinkle in the black pepper and salt.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander and mix into a thick spread.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2",
+     "s-herb-3"
+    ]
+   },
+   {
+    "t": "Cut the crusts off the bread slices.",
+    "imgs": [
+     "s-crust-1",
+     "s-crust-2",
+     "s-crust-3"
+    ]
+   },
+   {
+    "t": "Spread the filling thickly on two slices.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2",
+     "s-spread-3"
+    ]
+   },
+   {
+    "t": "Cover the spread with cucumber rounds.",
+    "imgs": [
+     "s-layer-1",
+     "s-layer-2",
+     "s-layer-3"
+    ]
+   },
+   {
+    "t": "Spread filling on the other two slices and close the sandwiches.",
+    "imgs": [
+     "s-close-1",
+     "s-close-2"
+    ]
+   },
+   {
+    "t": "Cut each sandwich diagonally into triangles.",
+    "imgs": [
+     "s-triangle-1",
+     "s-triangle-2",
+     "s-triangle-3"
+    ]
+   },
+   {
+    "t": "Serve on a plate.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "blender",
+   "high-protein"
+  ],
+  "notes": "Speech is mostly Hindi and partly lost, and no amounts are given: all quantities are guesses from what is shown. The yellow cubes look like processed cheese. The mix looks crumbly in the bowl before the herbs go in; the video does not show why. Four bread slices make two sandwiches; the top slices are spread on one side before closing."
+ },
+ "images": {
+  "cover": {
+   "t": 32.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-cucumber": {
+   "t": 1.5,
+   "crop": [
+    200,
+    250,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 11.5,
+   "crop": [
+    180,
+    0,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 12.5,
+   "crop": [
+    180,
+    150,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 13.7,
+   "crop": [
+    50,
+    300,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 14.0,
+   "crop": [
+    300,
+    100,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 18.0,
+   "crop": [
+    100,
+    480,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 18.5,
+   "crop": [
+    0,
+    150,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 19.5,
+   "crop": [
+    100,
+    500,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 21.6,
+   "crop": [
+    250,
+    300,
+    470,
+    470
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 1.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tissue-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tissue-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tissue-3": {
+   "t": 7.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-1": {
+   "t": 8.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-3": {
+   "t": 10.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 11.5,
+   "crop": [
+    0,
+    0,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    0,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 13.6,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 13.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-2": {
+   "t": 14.3,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    640,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-3": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 17.3,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 19.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crust-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crust-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crust-3": {
+   "t": 23.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-3": {
+   "t": 25.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-layer-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-layer-2": {
+   "t": 27.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-layer-3": {
+   "t": 27.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-close-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-close-2": {
+   "t": 29.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-triangle-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-triangle-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-triangle-3": {
+   "t": 32.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 33.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

@@ -1,0 +1,804 @@
+{
+ "videos": [
+  "3838721318586218447"
+ ],
+ "dish": {
+  "id": "tandoori-paneer-sliders",
+  "name": "Tandoori paneer sliders",
+  "meal": "Snack",
+  "minutes": 35,
+  "protein": 20,
+  "how": "Air fryer",
+  "tools": "Air fryer, plate, silicone brush, fork, knife",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~150 g, in small cubes",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 small, chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1/3 cup",
+    "n": "Tandoori sauce (thick, orange)",
+    "tag": "tandoori-sauce",
+    "img": "i-sauce"
+   },
+   {
+    "q": "1 block of 6 joined buns",
+    "n": "Ladi pav (soft buns)",
+    "tag": "pav",
+    "img": "i-pav",
+    "alt": [
+     "bread"
+    ]
+   },
+   {
+    "q": "~1.5 tbsp, melted",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter",
+    "alt": [
+     "oil"
+    ]
+   },
+   {
+    "q": "~1 medium, in slices",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~4 slices",
+    "n": "Cheese slices",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "img": "i-oregano"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Green chutney",
+    "tag": "green-chutney",
+    "img": "i-chutney"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the paneer cubes on a plate.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Pour the tandoori sauce over the paneer.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2"
+    ]
+   },
+   {
+    "t": "Mix well so the paneer is coated.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Cut the block of pav in half sideways.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Put the bottom half in the air fryer basket.",
+    "imgs": [
+     "s-base-1",
+     "s-base-2"
+    ]
+   },
+   {
+    "t": "Brush the top of it with melted butter.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2",
+     "s-butter-3"
+    ]
+   },
+   {
+    "t": "Air fry the base until golden.",
+    "imgs": [
+     "s-toast-1",
+     "s-toast-2"
+    ]
+   },
+   {
+    "t": "Spread the paneer mix on the toasted base.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2"
+    ]
+   },
+   {
+    "t": "Lay the tomato slices on top.",
+    "imgs": [
+     "s-tomato-1",
+     "s-tomato-2"
+    ]
+   },
+   {
+    "t": "Cover with the cheese slices.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2",
+     "s-cheese-3"
+    ]
+   },
+   {
+    "t": "Sprinkle on the oregano and chilli flakes.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2",
+     "s-season-3"
+    ]
+   },
+   {
+    "t": "Spread green chutney on the cut side of the top half of pav.",
+    "imgs": [
+     "s-chutney-1",
+     "s-chutney-2",
+     "s-chutney-3"
+    ]
+   },
+   {
+    "t": "Flip the top half over onto the cheese, chutney side down.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2"
+    ]
+   },
+   {
+    "t": "Press down. Mark the lines between the buns with a fork.",
+    "imgs": [
+     "s-press-1",
+     "s-press-2",
+     "s-press-3"
+    ]
+   },
+   {
+    "t": "Brush the tops of the buns with melted butter.",
+    "imgs": [
+     "s-brush-1",
+     "s-brush-2",
+     "s-brush-3"
+    ]
+   },
+   {
+    "t": "Air fry again until the buns are golden brown.",
+    "imgs": [
+     "s-bake-1",
+     "s-bake-2"
+    ]
+   },
+   {
+    "t": "Cut along the lines into 6 sliders.",
+    "imgs": [
+     "s-slice-1",
+     "s-slice-2",
+     "s-slice-3"
+    ]
+   },
+   {
+    "t": "Lift out a slider and eat hot.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer",
+   "high-protein"
+  ],
+  "notes": "Silent video, no amounts and no air fryer temperature or time shown: all quantities are my estimates, and you will need to set the temperature and time yourself (watch for golden colour). The orange sauce is never named: it looks like tandoori mayonnaise or a tandoori marinade. If you use mayo, pick an eggless one with the green dot. The sprinkle on the cheese looks like oregano and chilli flakes."
+ },
+ "images": {
+  "cover": {
+   "t": 1.0,
+   "crop": [
+    0,
+    350,
+    720,
+    660
+   ],
+   "w": 560
+  },
+  "i-paneer": {
+   "t": 5.5,
+   "crop": [
+    150,
+    420,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 7.0,
+   "crop": [
+    150,
+    370,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-sauce": {
+   "t": 8.0,
+   "crop": [
+    100,
+    300,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-pav": {
+   "t": 12.5,
+   "crop": [
+    80,
+    350,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 18.0,
+   "crop": [
+    100,
+    350,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 22.0,
+   "crop": [
+    150,
+    400,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 23.5,
+   "crop": [
+    100,
+    350,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 26.5,
+   "crop": [
+    20,
+    450,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 26.5,
+   "crop": [
+    220,
+    450,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 29.5,
+   "crop": [
+    60,
+    400,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "s-paneer-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 7.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 11.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-base-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-base-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 17.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-butter-3": {
+   "t": 18.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toast-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-toast-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 20.75,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-tomato-1": {
+   "t": 21.25,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-tomato-2": {
+   "t": 22.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 22.75,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 23.25,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-cheese-3": {
+   "t": 23.75,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-season-3": {
+   "t": 27.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-chutney-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-3": {
+   "t": 29.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 30.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-press-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-press-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-press-3": {
+   "t": 32.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-brush-1": {
+   "t": 33.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-brush-2": {
+   "t": 34.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-brush-3": {
+   "t": 35.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-bake-1": {
+   "t": 35.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-bake-2": {
+   "t": 36.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-slice-1": {
+   "t": 38.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-slice-2": {
+   "t": 39.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-slice-3": {
+   "t": 40.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 41.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  }
+ }
+}

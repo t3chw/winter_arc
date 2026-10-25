@@ -1,0 +1,351 @@
+{
+  "videos": [
+    "3870762232263583470"
+  ],
+  "dish": {
+    "id": "mint-jaggery-cooler",
+    "name": "Mint jaggery cooler",
+    "meal": "Drink",
+    "minutes": 5,
+    "protein": 0,
+    "how": "No cooking",
+    "tools": "Small blender cup, lemon squeezer, glass",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 handful (2 sprigs)",
+        "n": "Mint leaves (pudina)",
+        "tag": "mint",
+        "img": "i-mint"
+      },
+      {
+        "q": "~3 tbsp pieces (about 40 g)",
+        "n": "Jaggery (gur)",
+        "tag": "jaggery",
+        "img": "i-jaggery"
+      },
+      {
+        "q": "~1/2 lemon",
+        "n": "Lemon juice",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "a pinch",
+        "n": "Black salt (kala namak)",
+        "tag": "black-salt",
+        "img": "i-black-salt"
+      },
+      {
+        "q": "~5 cubes",
+        "n": "Ice",
+        "tag": "ice",
+        "img": "i-ice"
+      },
+      {
+        "q": "~1 cup (250 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "blender",
+      "quick"
+    ],
+    "credit": "ILearn Lively",
+    "notes": "Video text calls it a 1 minute 'ganne ka juice' (sugarcane juice) lookalike. No amounts are shown, so all quantities are my estimates. The white-pink powder is taken to be black salt, as the on-screen text says.",
+    "steps": [
+      {
+        "t": "Pluck the mint leaves and put them in the blender cup.",
+        "imgs": [
+          "s-mint-1",
+          "s-mint-2",
+          "s-mint-3"
+        ]
+      },
+      {
+        "t": "Add the jaggery pieces.",
+        "imgs": [
+          "s-jag-1",
+          "s-jag-2"
+        ]
+      },
+      {
+        "t": "Squeeze in the lemon juice.",
+        "imgs": [
+          "s-lem-1",
+          "s-lem-2"
+        ]
+      },
+      {
+        "t": "Add a pinch of black salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Add the ice cubes.",
+        "imgs": [
+          "s-ice-1"
+        ]
+      },
+      {
+        "t": "Pour in the water.",
+        "imgs": [
+          "s-water-1",
+          "s-water-2"
+        ]
+      },
+      {
+        "t": "Blend until smooth.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Pour into a glass and serve cold.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2",
+          "s-pour-3"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "t": 2.0,
+      "crop": [
+        60,
+        440,
+        600,
+        660
+      ],
+      "w": 560
+    },
+    "i-mint": {
+      "t": 3.5,
+      "crop": [
+        30,
+        360,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-jaggery": {
+      "t": 6.0,
+      "crop": [
+        300,
+        330,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 7.5,
+      "crop": [
+        100,
+        330,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-black-salt": {
+      "t": 8.0,
+      "crop": [
+        250,
+        400,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-ice": {
+      "t": 9.0,
+      "crop": [
+        20,
+        300,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 10.0,
+      "crop": [
+        300,
+        330,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "s-mint-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-mint-2": {
+      "t": 4.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-mint-3": {
+      "t": 5.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-jag-1": {
+      "t": 6.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-jag-2": {
+      "t": 6.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-lem-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-lem-2": {
+      "t": 7.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 8.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-ice-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 9.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-water-2": {
+      "t": 10.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 12.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 0.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 1.5,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    },
+    "s-pour-3": {
+      "t": 14.0,
+      "crop": [
+        0,
+        330,
+        720,
+        710
+      ],
+      "w": 480
+    }
+  }
+}

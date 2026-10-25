@@ -1,0 +1,1001 @@
+{
+  "videos": [
+    "3643170517810870036"
+  ],
+  "dish": {
+    "id": "jhal-muri",
+    "name": "Jhal muri spiced puffed rice",
+    "meal": "Snack",
+    "minutes": 25,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Small steel pan, gas, spice grinder or mixie, steel tin or big bowl, spoon, paper cone (optional)",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 tbsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Fennel seeds (saunf)",
+        "tag": "fennel-seeds",
+        "img": "i-fennel"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander seeds (sabut dhania)",
+        "tag": "coriander-seeds",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~5",
+        "n": "Dry red chillies",
+        "tag": "dry-red-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "2",
+        "n": "Bay leaves (tej patta)",
+        "tag": "bay-leaf",
+        "img": "i-bay"
+      },
+      {
+        "q": "~3 cups (45 g)",
+        "n": "Puffed rice (muri / murmura)",
+        "tag": "puffed-rice",
+        "img": "i-muri"
+      },
+      {
+        "q": "~1/4 cup (45 g)",
+        "n": "Black chana, boiled",
+        "tag": "kala-chana",
+        "alt": [
+          "chickpeas"
+        ],
+        "img": "i-bchana"
+      },
+      {
+        "q": "~1/4 cup (45 g)",
+        "n": "Yellow dried peas (peela matar), boiled",
+        "tag": "dried-peas",
+        "alt": [
+          "chickpeas"
+        ],
+        "img": "i-peas"
+      },
+      {
+        "q": "2",
+        "n": "Green chillies, chopped",
+        "tag": "green-chilli",
+        "img": "i-gchilli"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Onion, finely chopped",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Tomato, finely chopped",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "1 small",
+        "n": "Potato, boiled and cubed",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "img": "i-corr"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Roasted peanuts",
+        "tag": "peanuts",
+        "img": "i-peanut"
+      },
+      {
+        "q": "~4 tbsp",
+        "n": "Fried namkeen (orange crisps, yellow chana and green peas)",
+        "tag": "namkeen",
+        "opt": true,
+        "img": "i-namkeen"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Fresh coconut, small pieces and slices",
+        "tag": "coconut",
+        "opt": true,
+        "img": "i-coconut"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Black salt (kala namak)",
+        "tag": "black-salt",
+        "img": "i-blacksalt"
+      },
+      {
+        "q": "1/2 lemon",
+        "n": "Lemon juice",
+        "tag": "lemon",
+        "img": "i-lemon"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Mustard oil (sarson ka tel)",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/4 cup",
+        "n": "Bhujia sev",
+        "tag": "sev",
+        "opt": true,
+        "img": "i-sev"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat a small steel pan on the gas.",
+        "imgs": [
+          "s-heat-1",
+          "s-heat-2"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds and dry roast them.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add the fennel seeds and keep roasting.",
+        "imgs": [
+          "s-fennel-1",
+          "s-fennel-2"
+        ]
+      },
+      {
+        "t": "Add the coriander seeds and stir with a spoon.",
+        "imgs": [
+          "s-coriander-1",
+          "s-coriander-2"
+        ]
+      },
+      {
+        "t": "Add the dry red chillies.",
+        "imgs": [
+          "s-chilli-1"
+        ]
+      },
+      {
+        "t": "Add the bay leaves.",
+        "imgs": [
+          "s-bay-1"
+        ]
+      },
+      {
+        "t": "Stir until the spices are lightly roasted.",
+        "imgs": [
+          "s-roast-1",
+          "s-roast-2"
+        ]
+      },
+      {
+        "t": "Tip the roasted spices into a small pot.",
+        "imgs": [
+          "s-pot-1"
+        ]
+      },
+      {
+        "t": "Grind them to a fine powder. This is the jhal muri masala.",
+        "imgs": [
+          "s-powder-1",
+          "s-powder-2"
+        ]
+      },
+      {
+        "t": "Put the puffed rice in a big steel tin or bowl.",
+        "imgs": [
+          "s-muri-1",
+          "s-muri-2"
+        ]
+      },
+      {
+        "t": "Add the boiled black chana.",
+        "imgs": [
+          "s-bchana-1"
+        ]
+      },
+      {
+        "t": "Add the boiled yellow peas.",
+        "imgs": [
+          "s-peas-1"
+        ]
+      },
+      {
+        "t": "Add the chopped green chillies.",
+        "imgs": [
+          "s-gchilli-1"
+        ]
+      },
+      {
+        "t": "Add the chopped onion.",
+        "imgs": [
+          "s-onion-1"
+        ]
+      },
+      {
+        "t": "Add the chopped tomato.",
+        "imgs": [
+          "s-tomato-1"
+        ]
+      },
+      {
+        "t": "Cut the boiled potato into small cubes and add it.",
+        "imgs": [
+          "s-potato-1",
+          "s-potato-2"
+        ]
+      },
+      {
+        "t": "Add the chopped coriander leaves.",
+        "imgs": [
+          "s-corr-1"
+        ]
+      },
+      {
+        "t": "Add the roasted peanuts.",
+        "imgs": [
+          "s-peanut-1"
+        ]
+      },
+      {
+        "t": "Add a handful of the fried orange namkeen crisps.",
+        "imgs": [
+          "s-crisps-1",
+          "s-crisps-2"
+        ]
+      },
+      {
+        "t": "Break fresh coconut into small pieces and add them.",
+        "imgs": [
+          "s-coconut-1",
+          "s-coconut-2"
+        ]
+      },
+      {
+        "t": "Add the fried yellow chana and green peas namkeen.",
+        "imgs": [
+          "s-namkeen-1",
+          "s-namkeen-2"
+        ]
+      },
+      {
+        "t": "Add 1 spoon of the jhal muri masala.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2"
+        ]
+      },
+      {
+        "t": "Add the black salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Squeeze in the lemon juice.",
+        "imgs": [
+          "s-lemon-1"
+        ]
+      },
+      {
+        "t": "Add 1 spoon of mustard oil.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add the bhujia sev.",
+        "imgs": [
+          "s-sev-1"
+        ]
+      },
+      {
+        "t": "Mix everything well with a spoon until the puffed rice turns yellow.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Fold a paper cone and fill it with the jhal muri.",
+        "imgs": [
+          "s-cone-1",
+          "s-cone-2"
+        ]
+      },
+      {
+        "t": "Top with coconut slices and chopped coriander.",
+        "imgs": [
+          "s-top-1"
+        ]
+      },
+      {
+        "t": "Serve at once with a spoon.",
+        "imgs": [
+          "s-serve-1"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "high-fibre"
+    ],
+    "credit": "Yumbox",
+    "notes": "Silent video: no speech and no amounts, so all amounts are my estimates (spice cups look like small shot glasses). Boiled chana, peas and potato are ready-made in the video, so 25 min does not count boiling them. Grinding the masala is not shown (whole spices go in the pot, powder comes out). A pinch of pale powder is added to the pan before the seeds (hard to name, left out). Pink powder looks like black salt or pink rock salt; the yellow-orange spoon looks like mustard oil. The namkeen is a fried mix (orange crisps, then yellow chana and green peas) taken from small clay pots and not named; skip it if you cannot find it. Watermark YUMBOX used as the credit."
+  },
+  "images": {
+    "cover": {
+      "t": 56.0,
+      "crop": [
+        0,
+        290,
+        720,
+        650
+      ],
+      "w": 560
+    },
+    "i-cumin": {
+      "t": 5.0,
+      "crop": [
+        130,
+        440,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-fennel": {
+      "t": 8.5,
+      "crop": [
+        60,
+        400,
+        540,
+        540
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 10.0,
+      "crop": [
+        120,
+        380,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 12.0,
+      "crop": [
+        40,
+        330,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-bay": {
+      "t": 14.0,
+      "crop": [
+        0,
+        200,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-muri": {
+      "t": 21.5,
+      "crop": [
+        0,
+        230,
+        720,
+        720
+      ],
+      "w": 200
+    },
+    "i-bchana": {
+      "t": 53.5,
+      "crop": [
+        0,
+        620,
+        260,
+        260
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 53.5,
+      "crop": [
+        480,
+        600,
+        240,
+        240
+      ],
+      "w": 200
+    },
+    "i-gchilli": {
+      "t": 28.0,
+      "crop": [
+        385,
+        985,
+        295,
+        295
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 53.5,
+      "crop": [
+        0,
+        380,
+        260,
+        260
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 30.0,
+      "crop": [
+        150,
+        60,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 53.5,
+      "crop": [
+        520,
+        400,
+        200,
+        200
+      ],
+      "w": 200
+    },
+    "i-corr": {
+      "t": 53.5,
+      "crop": [
+        40,
+        780,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-peanut": {
+      "t": 34.0,
+      "crop": [
+        330,
+        200,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-namkeen": {
+      "t": 35.3,
+      "crop": [
+        200,
+        430,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-coconut": {
+      "t": 36.0,
+      "crop": [
+        270,
+        380,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-blacksalt": {
+      "t": 41.5,
+      "crop": [
+        200,
+        380,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 43.0,
+      "crop": [
+        100,
+        180,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 43.5,
+      "crop": [
+        250,
+        330,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-sev": {
+      "t": 44.5,
+      "crop": [
+        290,
+        130,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "s-heat-1": {
+      "t": 3.5,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-heat-2": {
+      "t": 4.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 6.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 7.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fennel-1": {
+      "t": 8.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fennel-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-2": {
+      "t": 11.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bay-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-2": {
+      "t": 16.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pot-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-powder-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-powder-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-muri-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-muri-2": {
+      "t": 23.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bchana-1": {
+      "t": 24.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-peas-1": {
+      "t": 26.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-gchilli-1": {
+      "t": 28.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 29.5,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 32.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-corr-1": {
+      "t": 33.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-peanut-1": {
+      "t": 34.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crisps-1": {
+      "t": 35.3,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crisps-2": {
+      "t": 35.7,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coconut-1": {
+      "t": 36.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coconut-2": {
+      "t": 37.4,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-namkeen-1": {
+      "t": 37.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-namkeen-2": {
+      "t": 38.6,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 39.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 40.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 41.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lemon-1": {
+      "t": 43.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 43.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sev-1": {
+      "t": 45.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 46.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 49.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cone-1": {
+      "t": 50.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cone-2": {
+      "t": 52.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 55.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 56.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

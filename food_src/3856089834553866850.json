@@ -1,0 +1,781 @@
+{
+  "videos": [
+    "3856089834553866850"
+  ],
+  "dish": {
+    "id": "fruit-cream-ice-cream",
+    "name": "Fruit cream ice cream",
+    "meal": "Snack",
+    "minutes": 270,
+    "protein": 5,
+    "how": "No cooking",
+    "tools": "Knife, big bowl, whisk, spoon, glass bowl with lid, ice-cream scoop",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 small",
+        "n": "Pomegranate",
+        "tag": "pomegranate",
+        "img": "i-pom"
+      },
+      {
+        "q": "1 small, red",
+        "n": "Apple",
+        "tag": "apple",
+        "img": "i-apple"
+      },
+      {
+        "q": "~6 medium",
+        "n": "Strawberries",
+        "tag": "berries",
+        "img": "i-straw"
+      },
+      {
+        "q": "1 ripe",
+        "n": "Mango",
+        "tag": "mango",
+        "img": "i-mango"
+      },
+      {
+        "q": "~1/2 cup, chopped (black and green)",
+        "n": "Grapes",
+        "tag": "grapes",
+        "img": "i-grapes"
+      },
+      {
+        "q": "~1 cup (250 ml)",
+        "n": "Fresh cream",
+        "tag": "cream",
+        "img": "i-cream"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Condensed milk",
+        "tag": "condensed-milk",
+        "img": "i-cm"
+      },
+      {
+        "q": "a few drops (~1/2 tsp)",
+        "n": "Vanilla essence",
+        "tag": "vanilla-essence",
+        "img": "i-vanilla"
+      },
+      {
+        "q": "a pinch",
+        "n": "Saffron (kesar)",
+        "tag": "saffron",
+        "img": "i-saffron"
+      },
+      {
+        "q": "~1/4 cup, chopped",
+        "n": "Cashews",
+        "tag": "cashews",
+        "img": "i-cashew"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Raisins",
+        "tag": "raisins",
+        "img": "i-raisin"
+      },
+      {
+        "q": "~2 tbsp, sliced",
+        "n": "Almonds",
+        "tag": "almonds",
+        "img": "i-almond"
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "make-ahead"
+    ],
+    "notes": "On-screen text only names the ingredients: all amounts are my estimates. Total time includes the 3 to 4 hours of freezing the video says (about 25 minutes of work). The grapes and nuts are shown already chopped. Whisking and chopping of grapes and nuts are not fully shown. The frozen box is a glass bowl with a lid.",
+    "steps": [
+      {
+        "t": "Cut the pomegranate open and take out the seeds.",
+        "imgs": [
+          "s-pom-1",
+          "s-pom-2",
+          "s-pom-3"
+        ]
+      },
+      {
+        "t": "Cut the apple and chop it into small pieces.",
+        "imgs": [
+          "s-apple-1",
+          "s-apple-2",
+          "s-apple-3"
+        ]
+      },
+      {
+        "t": "Chop the strawberries into small pieces.",
+        "imgs": [
+          "s-straw-1",
+          "s-straw-2",
+          "s-straw-3"
+        ]
+      },
+      {
+        "t": "Cut the mango flesh in a grid and scoop out the cubes.",
+        "imgs": [
+          "s-mango-1",
+          "s-mango-2",
+          "s-mango-3"
+        ]
+      },
+      {
+        "t": "Pour the fresh cream into a big bowl.",
+        "imgs": [
+          "s-cream-1",
+          "s-cream-2",
+          "s-cream-3"
+        ]
+      },
+      {
+        "t": "Add the condensed milk.",
+        "imgs": [
+          "s-cm-1",
+          "s-cm-2"
+        ]
+      },
+      {
+        "t": "Add a few drops of vanilla essence.",
+        "imgs": [
+          "s-van-1"
+        ]
+      },
+      {
+        "t": "Add the saffron strands.",
+        "imgs": [
+          "s-saf-1",
+          "s-saf-2"
+        ]
+      },
+      {
+        "t": "Whisk properly until smooth and thick.",
+        "imgs": [
+          "s-whisk-1",
+          "s-whisk-2"
+        ]
+      },
+      {
+        "t": "Add the chopped mango, strawberries, apple and pomegranate seeds.",
+        "imgs": [
+          "s-fruit-1",
+          "s-fruit-2"
+        ]
+      },
+      {
+        "t": "Add the chopped grapes.",
+        "imgs": [
+          "s-grape-1",
+          "s-grape-2"
+        ]
+      },
+      {
+        "t": "Add the chopped cashews.",
+        "imgs": [
+          "s-cash-1",
+          "s-cash-2"
+        ]
+      },
+      {
+        "t": "Add the raisins.",
+        "imgs": [
+          "s-rais-1"
+        ]
+      },
+      {
+        "t": "Add the sliced almonds.",
+        "imgs": [
+          "s-alm-1",
+          "s-alm-2"
+        ]
+      },
+      {
+        "t": "Mix everything well.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-mix-3"
+        ]
+      },
+      {
+        "t": "Pour the mix into a glass bowl.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2"
+        ]
+      },
+      {
+        "t": "Close the lid and freeze for 3 to 4 hours.",
+        "imgs": [
+          "s-freeze-1",
+          "s-freeze-2",
+          "s-freeze-3"
+        ]
+      },
+      {
+        "t": "Scoop out the ice cream and serve.",
+        "imgs": [
+          "s-scoop-1",
+          "s-scoop-2",
+          "s-scoop-3"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "t": 37.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-pom": {
+      "t": 2.0,
+      "crop": [
+        0,
+        600,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-apple": {
+      "t": 4.0,
+      "crop": [
+        20,
+        650,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-straw": {
+      "t": 8.0,
+      "crop": [
+        60,
+        560,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-mango": {
+      "t": 9.5,
+      "crop": [
+        0,
+        440,
+        640,
+        640
+      ],
+      "w": 200
+    },
+    "i-grapes": {
+      "t": 22.8,
+      "crop": [
+        140,
+        420,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-cream": {
+      "t": 14.0,
+      "crop": [
+        130,
+        500,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-cm": {
+      "t": 14.4,
+      "crop": [
+        330,
+        0,
+        250,
+        250
+      ],
+      "w": 200
+    },
+    "i-vanilla": {
+      "t": 15.2,
+      "crop": [
+        420,
+        310,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-saffron": {
+      "t": 16.5,
+      "crop": [
+        170,
+        640,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-cashew": {
+      "t": 22.6,
+      "crop": [
+        180,
+        400,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-raisin": {
+      "t": 23.4,
+      "crop": [
+        120,
+        440,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-almond": {
+      "t": 24.4,
+      "crop": [
+        220,
+        400,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "s-pom-1": {
+      "t": 0.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pom-2": {
+      "t": 1.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pom-3": {
+      "t": 2.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-apple-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-apple-2": {
+      "t": 4.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-apple-3": {
+      "t": 6.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-straw-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-straw-2": {
+      "t": 7.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-straw-3": {
+      "t": 8.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mango-1": {
+      "t": 9.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mango-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mango-3": {
+      "t": 11.8,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cream-1": {
+      "t": 12.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cream-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cream-3": {
+      "t": 14.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cm-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cm-2": {
+      "t": 15.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-van-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-saf-1": {
+      "t": 16.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-saf-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-whisk-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-whisk-2": {
+      "t": 18.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fruit-1": {
+      "t": 20.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fruit-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-grape-1": {
+      "t": 21.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-grape-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cash-1": {
+      "t": 22.6,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cash-2": {
+      "t": 23.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-rais-1": {
+      "t": 23.4,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-alm-1": {
+      "t": 24.4,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-alm-2": {
+      "t": 25.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 26.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-mix-3": {
+      "t": 26.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 29.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-freeze-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-freeze-2": {
+      "t": 31.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-freeze-3": {
+      "t": 33.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-scoop-1": {
+      "t": 35.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-scoop-2": {
+      "t": 36.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-scoop-3": {
+      "t": 37.0,
+      "crop": [
+        0,
+        380,
+        720,
+        600
+      ],
+      "w": 480
+    }
+  }
+}

@@ -1,0 +1,690 @@
+{
+ "videos": [
+  "3991814054045510883"
+ ],
+ "dish": {
+  "id": "paneer-tikka-skewers",
+  "name": "Paneer tikka skewers",
+  "meal": "Snack",
+  "minutes": 90,
+  "protein": 25,
+  "how": "Gas",
+  "tools": "Grill pan, skewers, mixing bowl, spatula, gas",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~250 g, in big cubes",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~3/4 cup (150 g), thick",
+    "n": "Curd (hung curd)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1/2 tsp, to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric powder",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Coriander powder",
+    "tag": "coriander-powder",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Cumin powder",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Garam masala",
+    "tag": "garam-masala",
+    "img": "i-garam"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chaat masala",
+    "tag": "chaat-masala",
+    "img": "i-chaat"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Ginger-garlic paste",
+    "tag": "ginger",
+    "alt": [
+     "garlic"
+    ],
+    "img": "i-gg"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Carom seeds (ajwain)",
+    "tag": "ajwain",
+    "img": "i-ajwain"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Kasuri methi (dried fenugreek leaves)",
+    "tag": "kasuri-methi",
+    "img": "i-methi"
+   },
+   {
+    "q": "~1 tbsp (juice of 1/2 lemon)",
+    "n": "Lemon juice",
+    "tag": "lemon",
+    "img": "i-lemon"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Roasted gram flour (besan)",
+    "tag": "besan",
+    "alt": [
+     "sattu"
+    ],
+    "img": "i-besan"
+   },
+   {
+    "q": "~1 tbsp, hot",
+    "n": "Mustard oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 medium, in chunks",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~1 medium, in petals",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 medium, in chunks",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "1 small bowl",
+    "n": "Green chutney, to serve",
+    "tag": "green-chutney",
+    "opt": true,
+    "img": "i-chutney"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the curd in a mixing bowl.",
+    "imgs": [
+     "s-curd-1"
+    ]
+   },
+   {
+    "t": "Add salt, turmeric and red chilli powder.",
+    "imgs": [
+     "s-spice1-1"
+    ]
+   },
+   {
+    "t": "Add coriander powder, cumin powder and garam masala.",
+    "imgs": [
+     "s-spice2-1"
+    ]
+   },
+   {
+    "t": "Add black pepper powder and chaat masala.",
+    "imgs": [
+     "s-spice3-1"
+    ]
+   },
+   {
+    "t": "Add ginger-garlic paste and carom seeds.",
+    "imgs": [
+     "s-paste-1"
+    ]
+   },
+   {
+    "t": "Add kasuri methi and lemon juice.",
+    "imgs": [
+     "s-methi-1"
+    ]
+   },
+   {
+    "t": "Add the roasted gram flour.",
+    "imgs": [
+     "s-besan-1"
+    ]
+   },
+   {
+    "t": "Pour in the hot mustard oil.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Mix everything well into a smooth marinade.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Add the capsicum, onion and tomato chunks.",
+    "imgs": [
+     "s-veg-1"
+    ]
+   },
+   {
+    "t": "Coat the vegetables well in the marinade.",
+    "imgs": [
+     "s-coat-1"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-paneer-1"
+    ]
+   },
+   {
+    "t": "Coat the paneer gently so the cubes do not break.",
+    "imgs": [
+     "s-gentle-1"
+    ]
+   },
+   {
+    "t": "Rest it for 1 hour.",
+    "imgs": [
+     "s-rest-1"
+    ]
+   },
+   {
+    "t": "Thread paneer, capsicum, onion and tomato onto skewers.",
+    "imgs": [
+     "s-thread-1",
+     "s-thread-2"
+    ]
+   },
+   {
+    "t": "Place the skewers on a hot grill pan.",
+    "imgs": [
+     "s-place-1"
+    ]
+   },
+   {
+    "t": "Grill on a medium flame.",
+    "imgs": [
+     "s-grill-1"
+    ]
+   },
+   {
+    "t": "Turn the skewers around so they grill evenly on all sides.",
+    "imgs": [
+     "s-turn-1",
+     "s-turn-2"
+    ]
+   },
+   {
+    "t": "Serve the paneer tikka hot.",
+    "imgs": [
+     "s-serve-1"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "On-screen captions name every ingredient and step but give no amounts: all amounts are estimates (~). Grilling time is not shown (about 10 to 15 minutes in the pan is my guess). Includes 1 hour resting time. Mustard oil can be swapped with any oil."
+ },
+ "images": {
+  "cover": {
+   "t": 0.35,
+   "crop": [
+    0,
+    150,
+    720,
+    780
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 1.4,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 2.8,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 3.5,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 4.2,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 4.9,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 5.6,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-garam": {
+   "t": 6.3,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 7.0,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-chaat": {
+   "t": 7.7,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-gg": {
+   "t": 9.1,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-ajwain": {
+   "t": 9.8,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-methi": {
+   "t": 10.5,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 11.9,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-besan": {
+   "t": 12.6,
+   "crop": [
+    290,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 14.0,
+   "crop": [
+    300,
+    330,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 20.0,
+   "crop": [
+    440,
+    230,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 20.0,
+   "crop": [
+    420,
+    400,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 20.0,
+   "crop": [
+    430,
+    580,
+    290,
+    290
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 27.5,
+   "crop": [
+    120,
+    280,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 59.5,
+   "crop": [
+    360,
+    120,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "s-curd-1": {
+   "t": 2.1,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-spice1-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-spice2-1": {
+   "t": 5.6,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-spice3-1": {
+   "t": 7.7,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-paste-1": {
+   "t": 9.8,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-methi-1": {
+   "t": 11.9,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-besan-1": {
+   "t": 13.3,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 14.7,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 18.9,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 20.3,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-coat-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-gentle-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-rest-1": {
+   "t": 32.5,
+   "crop": [
+    0,
+    260,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-thread-1": {
+   "t": 37.5,
+   "crop": [
+    0,
+    220,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-thread-2": {
+   "t": 40.0,
+   "crop": [
+    0,
+    220,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-place-1": {
+   "t": 45.0,
+   "crop": [
+    0,
+    220,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-grill-1": {
+   "t": 50.0,
+   "crop": [
+    0,
+    220,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-turn-1": {
+   "t": 55.0,
+   "crop": [
+    0,
+    220,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-turn-2": {
+   "t": 57.5,
+   "crop": [
+    0,
+    220,
+    720,
+    720
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 59.5,
+   "crop": [
+    0,
+    120,
+    720,
+    780
+   ],
+   "w": 480
+  }
+ }
+}

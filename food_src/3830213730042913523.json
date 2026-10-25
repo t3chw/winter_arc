@@ -1,0 +1,949 @@
+{
+ "videos": [
+  "3830213730042913523"
+ ],
+ "dish": {
+  "id": "makhana-peanut-chaat",
+  "name": "Makhana peanut chaat",
+  "meal": "Snack",
+  "minutes": 20,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Kadai, gas, steel mixing bowl",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3 cups (50 g)",
+    "n": "Makhana (fox nuts)",
+    "tag": "makhana",
+    "img": "i-makhana"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric (haldi)",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Chaat masala",
+    "tag": "chaat-masala",
+    "img": "i-chaat"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 small, finely chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 small, finely chopped",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~1/2, chopped small",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~1, chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-green-chilli"
+   },
+   {
+    "q": "~1/3 cup (45 g)",
+    "n": "Roasted peanuts",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Mint and coriander green chutney",
+    "tag": "green-chutney",
+    "img": "i-green-chutney"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Spicy Kashmiri chilli-garlic chutney",
+    "tag": "chutney",
+    "img": "i-chutney",
+    "opt": true
+   },
+   {
+    "q": "~3 tbsp (20 g)",
+    "n": "Sev",
+    "tag": "sev",
+    "img": "i-sev"
+   },
+   {
+    "q": "a handful, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put a kadai on the gas stove.",
+    "imgs": [
+     "s-stove-1",
+     "s-stove-2"
+    ]
+   },
+   {
+    "t": "Add the makhana to the kadai.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "Dry roast the makhana, stirring all the time.",
+    "imgs": [
+     "s-roast-1",
+     "s-roast-2"
+    ]
+   },
+   {
+    "t": "Press one makhana. When it breaks easily, it is crisp.",
+    "imgs": [
+     "s-test-1",
+     "s-test-2"
+    ]
+   },
+   {
+    "t": "Take the makhana out. Put a little oil in the empty kadai.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Add the turmeric.",
+    "imgs": [
+     "s-turmeric-1",
+     "s-turmeric-2"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Add the chaat masala.",
+    "imgs": [
+     "s-chaat-1",
+     "s-chaat-2"
+    ]
+   },
+   {
+    "t": "Mix the spices with the oil into a paste.",
+    "imgs": [
+     "s-paste-1",
+     "s-paste-2",
+     "s-paste-3"
+    ]
+   },
+   {
+    "t": "Add the salt and mix again.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Add the makhana back. Toss until every piece is coated.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Tip the spiced makhana into a steel bowl.",
+    "imgs": [
+     "s-bowl-1",
+     "s-bowl-2"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the chopped tomato.",
+    "imgs": [
+     "s-tomato-1",
+     "s-tomato-2"
+    ]
+   },
+   {
+    "t": "Add the cucumber.",
+    "imgs": [
+     "s-cucumber-1"
+    ]
+   },
+   {
+    "t": "Add the green chilli.",
+    "imgs": [
+     "s-gchilli-1",
+     "s-gchilli-2"
+    ]
+   },
+   {
+    "t": "Add the roasted peanuts.",
+    "imgs": [
+     "s-peanuts-1",
+     "s-peanuts-2"
+    ]
+   },
+   {
+    "t": "Add the green chutney.",
+    "imgs": [
+     "s-chutney-1",
+     "s-chutney-2",
+     "s-chutney-3"
+    ]
+   },
+   {
+    "t": "Add the red chilli-garlic chutney.",
+    "imgs": [
+     "s-rchutney-1",
+     "s-rchutney-2"
+    ]
+   },
+   {
+    "t": "Heap the sev on top.",
+    "imgs": [
+     "s-sev-1",
+     "s-sev-2"
+    ]
+   },
+   {
+    "t": "Toss everything together.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-coriander-1",
+     "s-coriander-2"
+    ]
+   },
+   {
+    "t": "Toss again until well mixed.",
+    "imgs": [
+     "s-toss2-1",
+     "s-toss2-2",
+     "s-toss2-3"
+    ]
+   },
+   {
+    "t": "Heap it in a bowl and eat at once.",
+    "imgs": [
+     "s-final-1",
+     "s-final-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-fibre"
+  ],
+  "credit": "@shanknagkam_pureveg_food",
+  "notes": "Silent video with no amounts: all quantities are my estimates. Heat level and roasting time are not shown, and neither is taking the makhana out before the oil goes in. The liquid in the spice paste looks like oil but could be ghee or water. The red chutney is labelled 'Spicy Kashmiri chilli-garlic chutney' on screen (shop-bought or homemade, not shown)."
+ },
+ "images": {
+  "cover": {
+   "t": 40.0,
+   "crop": [
+    0,
+    250,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-makhana": {
+   "t": 8.0,
+   "crop": [
+    110,
+    560,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 12.5,
+   "crop": [
+    150,
+    420,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 13.5,
+   "crop": [
+    100,
+    560,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 14.0,
+   "crop": [
+    180,
+    520,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-chaat": {
+   "t": 14.5,
+   "crop": [
+    230,
+    400,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 17.5,
+   "crop": [
+    60,
+    400,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 24.0,
+   "crop": [
+    100,
+    480,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 25.0,
+   "crop": [
+    120,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 25.5,
+   "crop": [
+    160,
+    430,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-green-chilli": {
+   "t": 26.5,
+   "crop": [
+    200,
+    400,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 27.5,
+   "crop": [
+    150,
+    640,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-green-chutney": {
+   "t": 30.0,
+   "crop": [
+    60,
+    760,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 31.0,
+   "crop": [
+    230,
+    440,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-sev": {
+   "t": 32.5,
+   "crop": [
+    60,
+    560,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 36.5,
+   "crop": [
+    100,
+    520,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "s-stove-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stove-2": {
+   "t": 4.5,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-test-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-test-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turmeric-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turmeric-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chaat-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chaat-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paste-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paste-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paste-3": {
+   "t": 16.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gchilli-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gchilli-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chutney-3": {
+   "t": 30.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rchutney-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rchutney-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sev-1": {
+   "t": 32.5,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sev-2": {
+   "t": 33.0,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 33.5,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 34.0,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 34.5,
+   "crop": [
+    0,
+    460,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 35.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-2": {
+   "t": 36.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss2-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss2-2": {
+   "t": 37.5,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss2-3": {
+   "t": 38.0,
+   "crop": [
+    0,
+    440,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-final-1": {
+   "t": 39.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-final-2": {
+   "t": 40.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  }
+ }
+}

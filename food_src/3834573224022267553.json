@@ -1,0 +1,669 @@
+{
+ "videos": [
+  "3834573224022267553"
+ ],
+ "dish": {
+  "id": "paneer-pizza-toast",
+  "name": "Paneer pizza toast",
+  "meal": "Snack",
+  "minutes": 15,
+  "protein": 20,
+  "how": "Gas",
+  "tools": "Non-stick pan with lid, gas, plate, small steel bowl",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 tbsp",
+    "n": "Tomato sauce (ketchup)",
+    "tag": "tomato-ketchup",
+    "img": "i-ketchup"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Mayonnaise (check for the green dot on the pack)",
+    "tag": "mayonnaise",
+    "img": "i-mayo"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Veg mayonnaise (the flavoured orange-brown one)",
+    "tag": "mayonnaise",
+    "img": "i-vegmayo"
+   },
+   {
+    "q": "~1/2 tsp, plus a pinch for the top",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~1/2 tsp, plus a pinch for the top",
+    "n": "Oregano",
+    "tag": "oregano",
+    "img": "i-oregano"
+   },
+   {
+    "q": "~10 small cubes (60 g)",
+    "n": "Paneer, cubed",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "1 slice",
+    "n": "Bread",
+    "tag": "bread",
+    "img": "i-bread"
+   },
+   {
+    "q": "~1/3 cup (35 g)",
+    "n": "Mozzarella cheese, grated",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Squeeze the tomato sauce onto a plate.",
+    "imgs": [
+     "s-ketchup-1",
+     "s-ketchup-2"
+    ]
+   },
+   {
+    "t": "Squeeze the mayonnaise on top of the sauce.",
+    "imgs": [
+     "s-mayo-1",
+     "s-mayo-2"
+    ]
+   },
+   {
+    "t": "Squeeze the veg mayonnaise on top.",
+    "imgs": [
+     "s-vegmayo-1",
+     "s-vegmayo-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the chilli flakes.",
+    "imgs": [
+     "s-flakes-1",
+     "s-flakes-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the oregano.",
+    "imgs": [
+     "s-oregano-1"
+    ]
+   },
+   {
+    "t": "Mix everything into one smooth sauce.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Mix until the paneer is covered in sauce.",
+    "imgs": [
+     "s-coat-1",
+     "s-coat-2"
+    ]
+   },
+   {
+    "t": "Spread the paneer on a slice of bread.",
+    "imgs": [
+     "s-bread-1",
+     "s-bread-2",
+     "s-bread-3"
+    ]
+   },
+   {
+    "t": "Cover it with grated mozzarella.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2",
+     "s-cheese-3"
+    ]
+   },
+   {
+    "t": "Sprinkle oregano and chilli flakes on top.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2"
+    ]
+   },
+   {
+    "t": "Melt the butter in a non-stick pan.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2"
+    ]
+   },
+   {
+    "t": "Lift the toast into the pan.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2",
+     "s-pan-3"
+    ]
+   },
+   {
+    "t": "Put a small steel bowl on the pan. Cover with a lid.",
+    "imgs": [
+     "s-lid-1",
+     "s-lid-2",
+     "s-lid-3"
+    ]
+   },
+   {
+    "t": "Cook until the cheese melts. Lift the toast onto a board.",
+    "imgs": [
+     "s-done-1",
+     "s-done-2"
+    ]
+   },
+   {
+    "t": "Cut it in half and eat hot.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "quick",
+   "high-protein"
+  ],
+  "notes": "Only name labels on screen, no amounts: all amounts are my estimates. Heat level and cooking time are not shown (the lid goes on until the cheese is fully melted). The small steel bowl goes in the pan under the lid: its purpose is not explained. The video calls the white one 'mayonnaise' and the orange-brown one 'veg mayonnaise': check the packs have the green vegetarian dot (they do in the video)."
+ },
+ "images": {
+  "cover": {
+   "t": 35.0,
+   "crop": [
+    0,
+    440,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-ketchup": {
+   "t": 0.5,
+   "crop": [
+    180,
+    580,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-mayo": {
+   "t": 2.0,
+   "crop": [
+    220,
+    580,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-vegmayo": {
+   "t": 4.0,
+   "crop": [
+    220,
+    520,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 4.5,
+   "crop": [
+    300,
+    340,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 24.0,
+   "crop": [
+    450,
+    30,
+    270,
+    270
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 10.0,
+   "crop": [
+    260,
+    160,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 16.0,
+   "crop": [
+    120,
+    460,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 23.0,
+   "crop": [
+    140,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 27.0,
+   "crop": [
+    100,
+    700,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "s-ketchup-1": {
+   "t": 0.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ketchup-2": {
+   "t": 0.5,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mayo-1": {
+   "t": 1.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mayo-2": {
+   "t": 2.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-vegmayo-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-vegmayo-2": {
+   "t": 3.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oregano-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coat-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coat-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bread-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bread-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bread-3": {
+   "t": 19.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-3": {
+   "t": 23.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 28.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-3": {
+   "t": 29.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-3": {
+   "t": 32.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-done-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-done-2": {
+   "t": 34.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 35.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 36.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 37.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

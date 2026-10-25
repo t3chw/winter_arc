@@ -1,0 +1,856 @@
+{
+  "videos": [
+    "3655397813287256527"
+  ],
+  "dish": {
+    "id": "pressure-cooker-veg-paneer-pulao",
+    "name": "Pressure cooker paneer veg pulao",
+    "meal": "Lunch or dinner",
+    "minutes": 30,
+    "protein": 15,
+    "how": "Pressure cooker",
+    "tools": "Pressure cooker, gas or induction, spoon",
+    "serves": 3,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "1 large (~1 cup)",
+        "n": "Onion, sliced",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "1 small (~1/2 cup)",
+        "n": "Carrot, small cubes",
+        "tag": "carrot",
+        "img": "i-carrot"
+      },
+      {
+        "q": "~3/4 cup (100 g)",
+        "n": "Green peas",
+        "tag": "peas",
+        "img": "i-peas"
+      },
+      {
+        "q": "2",
+        "n": "Green chillies, slit",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Ginger-garlic paste",
+        "tag": "ginger",
+        "alt": [
+          "garlic"
+        ],
+        "img": "i-gg"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-redchilli"
+      },
+      {
+        "q": "~1.5 cups (270 g)",
+        "n": "Basmati rice, washed",
+        "tag": "rice",
+        "img": "i-rice"
+      },
+      {
+        "q": "~2 cups (500 ml)",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Pulao masala or garam masala",
+        "tag": "garam-masala",
+        "img": "i-masala"
+      },
+      {
+        "q": "~100 g (8 to 10 cubes)",
+        "n": "Paneer, cubed and lightly fried",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Ghee, to finish",
+        "tag": "ghee",
+        "opt": true,
+        "img": "i-ghee"
+      },
+      {
+        "q": "a small handful",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "opt": true,
+        "img": "i-coriander"
+      },
+      {
+        "q": "1 small bowl",
+        "n": "Raita (curd with onion, tomato), to serve",
+        "tag": "curd",
+        "opt": true,
+        "img": "i-raita"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat oil in the pressure cooker.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds.",
+        "imgs": [
+          "s-cumin-1"
+        ]
+      },
+      {
+        "t": "Add the sliced onion.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Stir until the onion turns soft and light golden.",
+        "imgs": [
+          "s-fry-1",
+          "s-fry-2"
+        ]
+      },
+      {
+        "t": "Add the carrot and green peas.",
+        "imgs": [
+          "s-carrot-1",
+          "s-peas-1",
+          "s-peas-2"
+        ]
+      },
+      {
+        "t": "Add the slit green chillies and the ginger-garlic paste.",
+        "imgs": [
+          "s-chilli-1",
+          "s-gg-1"
+        ]
+      },
+      {
+        "t": "Add the salt and the red chilli powder.",
+        "imgs": [
+          "s-salt-1",
+          "s-redchilli-1",
+          "s-redchilli-2"
+        ]
+      },
+      {
+        "t": "Stir well and cook the vegetables for a minute or two.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2",
+          "s-stir-3"
+        ]
+      },
+      {
+        "t": "Add the washed rice.",
+        "imgs": [
+          "s-rice-1",
+          "s-rice-2"
+        ]
+      },
+      {
+        "t": "Pour in the water.",
+        "imgs": [
+          "s-water-1",
+          "s-water-2",
+          "s-water-3"
+        ]
+      },
+      {
+        "t": "Add the pulao masala on top.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2"
+        ]
+      },
+      {
+        "t": "Add the fried paneer cubes.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "Mix gently so the rice and water are even.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Close the lid, put on the weight and pressure cook on high flame.",
+        "imgs": [
+          "s-lid-1",
+          "s-lid-2",
+          "s-lid-3"
+        ]
+      },
+      {
+        "t": "Wait until the pressure goes, then open the lid.",
+        "imgs": [
+          "s-open-1",
+          "s-open-2"
+        ]
+      },
+      {
+        "t": "Drizzle ghee over the pulao.",
+        "imgs": [
+          "s-ghee-1",
+          "s-ghee-2"
+        ]
+      },
+      {
+        "t": "Sprinkle chopped coriander leaves on top.",
+        "imgs": [
+          "s-coriander-1",
+          "s-coriander-2"
+        ]
+      },
+      {
+        "t": "Fluff and mix gently with a spoon.",
+        "imgs": [
+          "s-fluff-1",
+          "s-fluff-2"
+        ]
+      },
+      {
+        "t": "Serve hot with raita.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "pressure-cooker",
+      "one-pot"
+    ],
+    "notes": "Hindi speech (cut off in my transcript) and no on-screen amounts, so all amounts are my estimates from the glass, spoons and bowls. The whistle count and cooking time are not shown or clearly said (basmati usually needs 1 to 2 whistles on high): I wrote 'wait until pressure goes'. The pot looks like it is on an induction plate (use your gas). The spoon after the green chilli is ginger-garlic paste (white garlic piece visible); no turmeric is shown. The brown-green powder on the rice looks like pulao masala or garam masala. Paneer is already fried golden in a glass bowl (the frying is not shown). The cooker is shown first as the finished dish; steps follow the cooking order. The raita is only shown as a side."
+  },
+  "images": {
+    "cover": {
+      "t": 38.2,
+      "crop": [
+        0,
+        440,
+        720,
+        740
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 6.5,
+      "crop": [
+        170,
+        120,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 8.0,
+      "crop": [
+        170,
+        560,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 9.0,
+      "crop": [
+        50,
+        480,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-carrot": {
+      "t": 12.0,
+      "crop": [
+        170,
+        430,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 13.0,
+      "crop": [
+        250,
+        500,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 13.0,
+      "crop": [
+        200,
+        150,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-gg": {
+      "t": 13.6,
+      "crop": [
+        260,
+        80,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 14.0,
+      "crop": [
+        250,
+        100,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-redchilli": {
+      "t": 15.0,
+      "crop": [
+        250,
+        100,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 19.0,
+      "crop": [
+        60,
+        380,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 20.5,
+      "crop": [
+        100,
+        100,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-masala": {
+      "t": 21.5,
+      "crop": [
+        300,
+        100,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 22.9,
+      "crop": [
+        250,
+        540,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 31.0,
+      "crop": [
+        280,
+        230,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 33.5,
+      "crop": [
+        100,
+        550,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-raita": {
+      "t": 38.0,
+      "crop": [
+        320,
+        430,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "s-oil-1": {
+      "t": 6.5,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 7.0,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 8.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 8.6,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 11.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-carrot-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-peas-1": {
+      "t": 12.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-peas-2": {
+      "t": 12.8,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-gg-1": {
+      "t": 13.6,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-redchilli-1": {
+      "t": 14.6,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-redchilli-2": {
+      "t": 15.2,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 16.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-stir-3": {
+      "t": 18.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-1": {
+      "t": 18.6,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-2": {
+      "t": 19.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-2": {
+      "t": 20.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-3": {
+      "t": 21.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 21.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 22.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 22.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 23.1,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 23.8,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 25.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-1": {
+      "t": 27.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-3": {
+      "t": 29.0,
+      "crop": [
+        0,
+        150,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-open-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-open-2": {
+      "t": 30.8,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ghee-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        130,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ghee-2": {
+      "t": 31.4,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-1": {
+      "t": 32.5,
+      "crop": [
+        0,
+        60,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-coriander-2": {
+      "t": 33.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fluff-1": {
+      "t": 35.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fluff-2": {
+      "t": 36.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 37.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 38.2,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

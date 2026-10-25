@@ -1,0 +1,792 @@
+{
+ "videos": [
+  "3955578402526635709"
+ ],
+ "dish": {
+  "id": "murmura-bhel-chaat",
+  "name": "Murmura bhel chaat",
+  "meal": "Snack",
+  "minutes": 15,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Kadhai (wok), gas, wooden spatula, plate",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~2 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1/2 cup (70 g)",
+    "n": "Peanuts",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "a pinch",
+    "n": "Turmeric",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli-powder"
+   },
+   {
+    "q": "~8 leaves",
+    "n": "Curry leaves",
+    "tag": "curry-leaves",
+    "img": "i-curry-leaves"
+   },
+   {
+    "q": "~4 cups (60 g)",
+    "n": "Puffed rice (murmura)",
+    "tag": "puffed-rice",
+    "img": "i-murmura"
+   },
+   {
+    "q": "1 medium, chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1 medium, chopped",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chaat masala",
+    "tag": "chaat-masala",
+    "img": "i-chaat-masala"
+   },
+   {
+    "q": "~1/4 cup",
+    "n": "Sev (thin gram flour noodles)",
+    "tag": "sev",
+    "img": "i-sev"
+   },
+   {
+    "q": "~1/4 cup",
+    "n": "Namkeen mixture",
+    "tag": "namkeen",
+    "opt": true,
+    "img": "i-namkeen"
+   },
+   {
+    "q": "1 to 2, chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-green-chilli"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Heat the oil in a kadhai on the gas.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Add the peanuts and fry, stirring often.",
+    "imgs": [
+     "s-peanuts-1",
+     "s-peanuts-2",
+     "s-peanuts-3"
+    ]
+   },
+   {
+    "t": "Add the turmeric.",
+    "imgs": [
+     "s-turmeric-1"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Stir until the peanuts are coated in the spices.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   },
+   {
+    "t": "Add the curry leaves.",
+    "imgs": [
+     "s-leaves-1",
+     "s-leaves-2"
+    ]
+   },
+   {
+    "t": "Add the puffed rice.",
+    "imgs": [
+     "s-murmura-1",
+     "s-murmura-2",
+     "s-murmura-3"
+    ]
+   },
+   {
+    "t": "Stir until the puffed rice is coated in the spices.",
+    "imgs": [
+     "s-coat-1",
+     "s-coat-2",
+     "s-coat-3"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2",
+     "s-onion-3"
+    ]
+   },
+   {
+    "t": "Add the chopped tomato.",
+    "imgs": [
+     "s-tomato-1",
+     "s-tomato-2"
+    ]
+   },
+   {
+    "t": "Add the salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the chaat masala.",
+    "imgs": [
+     "s-masala-1"
+    ]
+   },
+   {
+    "t": "Add the sev.",
+    "imgs": [
+     "s-sev-1"
+    ]
+   },
+   {
+    "t": "Add the namkeen mixture.",
+    "imgs": [
+     "s-namkeen-1",
+     "s-namkeen-2"
+    ]
+   },
+   {
+    "t": "Add the chopped green chilli.",
+    "imgs": [
+     "s-chilli2-1"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2",
+     "s-herb-3"
+    ]
+   },
+   {
+    "t": "Toss everything well so it mixes evenly.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3",
+     "s-toss-4"
+    ]
+   },
+   {
+    "t": "Serve on a plate right away so it stays crisp.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2",
+     "s-serve-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "quick"
+  ],
+  "notes": "Silent video, no amounts: all quantities are guesses. The peanuts look raw and are fried in oil (no timing). The gas flame is not shown being switched off, and the onion/tomato/sev/mixture go in after the puffed rice is mixed. The tan powder poured from a ready packet looks like chaat masala; the white powder on a spoon looks like salt. The yellow chunky pieces are packet namkeen mixture; leave out if you want it lighter. Only the on-screen title is available, no creator name."
+ },
+ "images": {
+  "cover": {
+   "t": 19.2,
+   "crop": [
+    0,
+    350,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-oil": {
+   "t": 0.0,
+   "crop": [
+    140,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 1.0,
+   "crop": [
+    100,
+    440,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 2.2,
+   "crop": [
+    380,
+    520,
+    280,
+    280
+   ],
+   "w": 200
+  },
+  "i-chilli-powder": {
+   "t": 2.4,
+   "crop": [
+    230,
+    330,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-curry-leaves": {
+   "t": 4.0,
+   "crop": [
+    200,
+    540,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-murmura": {
+   "t": 6.2,
+   "crop": [
+    100,
+    600,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 8.4,
+   "crop": [
+    90,
+    300,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 9.6,
+   "crop": [
+    380,
+    400,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 10.2,
+   "crop": [
+    290,
+    300,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-chaat-masala": {
+   "t": 10.8,
+   "crop": [
+    150,
+    350,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-sev": {
+   "t": 11.2,
+   "crop": [
+    100,
+    550,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-namkeen": {
+   "t": 12.0,
+   "crop": [
+    300,
+    500,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-green-chilli": {
+   "t": 12.9,
+   "crop": [
+    150,
+    480,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 13.6,
+   "crop": [
+    150,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-oil-1": {
+   "t": 0.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 0.2,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-2": {
+   "t": 1.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peanuts-3": {
+   "t": 1.6,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turmeric-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 2.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 2.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 3.2,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 3.6,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-leaves-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-leaves-2": {
+   "t": 4.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-murmura-1": {
+   "t": 4.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-murmura-2": {
+   "t": 5.3,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-murmura-3": {
+   "t": 5.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coat-1": {
+   "t": 6.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coat-2": {
+   "t": 7.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coat-3": {
+   "t": 8.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 8.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 8.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-3": {
+   "t": 9.2,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-1": {
+   "t": 9.6,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-2": {
+   "t": 9.9,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 10.2,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 10.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-masala-1": {
+   "t": 10.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sev-1": {
+   "t": 11.2,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-namkeen-1": {
+   "t": 11.6,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-namkeen-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli2-1": {
+   "t": 12.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 12.8,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 13.2,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-3": {
+   "t": 13.6,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 16.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-4": {
+   "t": 17.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    350,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 19.2,
+   "crop": [
+    0,
+    350,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-serve-3": {
+   "t": 20.0,
+   "crop": [
+    0,
+    350,
+    720,
+    640
+   ],
+   "w": 480
+  }
+ }
+}

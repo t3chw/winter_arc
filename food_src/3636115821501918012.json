@@ -1,0 +1,687 @@
+{
+  "videos": [
+    "3636115821501918012"
+  ],
+  "dish": {
+    "id": "moong-poha-uttapam",
+    "name": "Moong poha uttapam",
+    "meal": "Breakfast",
+    "minutes": 30,
+    "protein": 25,
+    "how": "Gas + blender",
+    "tools": "Mixie, bowl, non-stick tawa, gas, spatula",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 cup (~200 g)",
+        "n": "Whole green moong (green gram), soaked overnight",
+        "tag": "moong-whole",
+        "img": "i-moong"
+      },
+      {
+        "q": "1 cup (~60 g)",
+        "n": "Poha (flattened rice)",
+        "tag": "poha",
+        "img": "i-poha"
+      },
+      {
+        "q": "~1 inch piece",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~2",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Capsicum, finely chopped",
+        "tag": "capsicum",
+        "img": "i-capsicum"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Tomato, finely chopped",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1/2 cup",
+        "n": "Onion, finely chopped",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2 tsp",
+        "n": "Oil, to grease the tawa",
+        "tag": "oil"
+      },
+      {
+        "q": "a small bowl",
+        "n": "Orange-red dipping sauce or chutney",
+        "tag": "chutney",
+        "opt": true,
+        "img": "i-sauce"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Take 1 cup whole green moong in a bowl.",
+        "imgs": [
+          "s-moong-1",
+          "s-moong-2"
+        ]
+      },
+      {
+        "t": "Wash the moong twice with water.",
+        "imgs": [
+          "s-wash-1",
+          "s-wash-2",
+          "s-wash-3"
+        ]
+      },
+      {
+        "t": "Cover the moong with water, put a plate on top and soak overnight.",
+        "imgs": [
+          "s-soak-1",
+          "s-soak-2"
+        ]
+      },
+      {
+        "t": "Next day, drain off the soaking water.",
+        "imgs": [
+          "s-soak-3",
+          "s-soak-4"
+        ]
+      },
+      {
+        "t": "Put the soaked moong in the mixie jar.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2"
+        ]
+      },
+      {
+        "t": "Add the ginger and green chillies.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Grind to a thick, slightly coarse batter and pour it into a bowl.",
+        "imgs": [
+          "s-grind-1",
+          "s-grind-2"
+        ]
+      },
+      {
+        "t": "Rinse 1 cup poha in water.",
+        "imgs": [
+          "s-poha-1",
+          "s-poha-2",
+          "s-poha-3"
+        ]
+      },
+      {
+        "t": "Squeeze the poha lightly so it turns soft.",
+        "imgs": [
+          "s-squeeze-1",
+          "s-squeeze-2"
+        ]
+      },
+      {
+        "t": "Add the soft poha to the moong batter.",
+        "imgs": [
+          "s-addpoha-1",
+          "s-addpoha-2"
+        ]
+      },
+      {
+        "t": "Mix well until the poha blends into the batter.",
+        "imgs": [
+          "s-mixpoha-1",
+          "s-mixpoha-2"
+        ]
+      },
+      {
+        "t": "Add chopped capsicum, tomato and onion.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2",
+          "s-veg-3"
+        ]
+      },
+      {
+        "t": "Mix well. The batter should be thick, not runny.",
+        "imgs": [
+          "s-mixveg-1",
+          "s-mixveg-2"
+        ]
+      },
+      {
+        "t": "Grease a non-stick tawa and spoon on the batter in small rounds.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2",
+          "s-pour-3"
+        ]
+      },
+      {
+        "t": "Cook until the underside turns golden, then flip.",
+        "imgs": [
+          "s-flip-1",
+          "s-flip-2"
+        ]
+      },
+      {
+        "t": "Cook the other side until golden and crisp.",
+        "imgs": [
+          "s-golden-1",
+          "s-golden-2",
+          "s-golden-3"
+        ]
+      },
+      {
+        "t": "Serve hot with the dipping sauce.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-protein",
+      "high-fibre"
+    ],
+    "notes": "No speech. On-screen text gives only: 1 cup green grams, wash twice, soak overnight, 1 cup poha, ginger, green chilli, capsicum, tomato, onion. Chopped veg are about 1/2 cup each (I saw a 1/2-cup-sized cup), ginger, chilli and oil amounts are my estimates. Salt or spices are not shown or named: add salt to taste. The grinding (and whether the poha goes through the mixie) is not shown, only the jar before and the batter after. Flame level and cooking time are not shown. The dip is an orange-red sauce, not named. Overnight soak is extra to the 30 minutes. Makes about 6 to 8 small uttapam."
+  },
+  "images": {
+    "cover": {
+      "t": 18.8,
+      "crop": [
+        0,
+        235,
+        720,
+        790
+      ],
+      "w": 560
+    },
+    "i-moong": {
+      "t": 0.2,
+      "crop": [
+        230,
+        240,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-poha": {
+      "t": 7.7,
+      "crop": [
+        215,
+        250,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 6.0,
+      "crop": [
+        180,
+        380,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 6.2,
+      "crop": [
+        120,
+        430,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-capsicum": {
+      "t": 13.2,
+      "crop": [
+        0,
+        420,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 13.2,
+      "crop": [
+        200,
+        280,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 13.2,
+      "crop": [
+        430,
+        330,
+        290,
+        290
+      ],
+      "w": 200
+    },
+    "i-sauce": {
+      "t": 19.7,
+      "crop": [
+        380,
+        580,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "s-moong-1": {
+      "t": 0.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-moong-2": {
+      "t": 0.45,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-wash-1": {
+      "t": 1.2,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-wash-2": {
+      "t": 1.7,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-wash-3": {
+      "t": 2.7,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 2.9,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 3.1,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 4.7,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 5.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 5.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 6.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-1": {
+      "t": 6.8,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-2": {
+      "t": 7.3,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-1": {
+      "t": 7.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-2": {
+      "t": 8.2,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-3": {
+      "t": 8.7,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-squeeze-1": {
+      "t": 9.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-squeeze-2": {
+      "t": 9.9,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-addpoha-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-addpoha-2": {
+      "t": 10.9,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mixpoha-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mixpoha-2": {
+      "t": 12.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 12.7,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 13.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-veg-3": {
+      "t": 13.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mixveg-1": {
+      "t": 13.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mixveg-2": {
+      "t": 14.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 15.4,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-3": {
+      "t": 15.7,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flip-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flip-2": {
+      "t": 16.9,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-golden-1": {
+      "t": 17.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-golden-2": {
+      "t": 18.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 18.6,
+      "crop": [
+        0,
+        235,
+        720,
+        700
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 19.7,
+      "crop": [
+        0,
+        240,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-3": {
+      "t": 3.6,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-4": {
+      "t": 3.8,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-golden-3": {
+      "t": 18.4,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

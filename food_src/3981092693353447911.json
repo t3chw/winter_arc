@@ -1,0 +1,708 @@
+{
+ "videos": [
+  "3981092693353447911"
+ ],
+ "dish": {
+  "id": "air-fryer-paneer-tikka",
+  "name": "Air fryer paneer tikka",
+  "meal": "Snack",
+  "minutes": 30,
+  "protein": 20,
+  "how": "Air fryer",
+  "tools": "Air fryer, spoon, mixing hands",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~200 g, in big cubes",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 medium, in chunks",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 medium, in chunks",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~1 medium, in chunks",
+    "n": "Tomato",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~4 tbsp",
+    "n": "Thick curd (hung curd)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Ginger-garlic paste",
+    "tag": "ginger",
+    "alt": [
+     "garlic"
+    ],
+    "img": "i-gg"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Besan (gram flour)",
+    "tag": "besan",
+    "img": "i-besan"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Garam masala",
+    "tag": "garam-masala",
+    "img": "i-garam"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Kasuri methi (dried fenugreek leaves)",
+    "tag": "kasuri-methi",
+    "img": "i-methi"
+   },
+   {
+    "q": "~1/2 tsp, to taste",
+    "n": "Salt",
+    "tag": "salt"
+   },
+   {
+    "q": "~1 tbsp, melted",
+    "n": "Ghee or butter",
+    "tag": "ghee",
+    "alt": [
+     "butter",
+     "oil"
+    ],
+    "img": "i-ghee"
+   },
+   {
+    "q": "1 small bowl",
+    "n": "Green chutney (mint or coriander)",
+    "tag": "green-chutney",
+    "opt": true,
+    "img": "i-chutney"
+   },
+   {
+    "q": "~1/2 onion, in rings",
+    "n": "Onion rings",
+    "tag": "onion",
+    "opt": true,
+    "img": "i-rings"
+   },
+   {
+    "q": "a pinch",
+    "n": "Chaat masala",
+    "tag": "chaat-masala",
+    "opt": true,
+    "img": "i-chaat"
+   },
+   {
+    "q": "1/2",
+    "n": "Lemon",
+    "tag": "lemon",
+    "opt": true,
+    "img": "i-lemon"
+   },
+   {
+    "q": "a few leaves, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "opt": true,
+    "img": "i-coriander"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the paneer cubes in the air fryer basket.",
+    "imgs": [
+     "s-paneer-1"
+    ]
+   },
+   {
+    "t": "Add the onion, capsicum and tomato chunks.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Add the thick curd on top.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add the ginger-garlic paste and besan.",
+    "imgs": [
+     "s-paste-1",
+     "s-paste-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the red chilli powder.",
+    "imgs": [
+     "s-chilli-1"
+    ]
+   },
+   {
+    "t": "Add the turmeric and garam masala.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the kasuri methi and salt.",
+    "imgs": [
+     "s-methi-1"
+    ]
+   },
+   {
+    "t": "Pour over the melted ghee or butter.",
+    "imgs": [
+     "s-ghee-1"
+    ]
+   },
+   {
+    "t": "Mix well with your hands until everything is coated.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Slide the basket into the air fryer.",
+    "imgs": [
+     "s-in-1"
+    ]
+   },
+   {
+    "t": "Air fry at 200 C for 12 minutes.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2",
+     "s-fry-3"
+    ]
+   },
+   {
+    "t": "Take the basket out when the paneer is browned at the edges.",
+    "imgs": [
+     "s-out-1",
+     "s-out-2"
+    ]
+   },
+   {
+    "t": "Move the paneer and vegetables to a plate.",
+    "imgs": [
+     "s-plate-1"
+    ]
+   },
+   {
+    "t": "Add the green chutney and onion rings on the side.",
+    "imgs": [
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Sprinkle a pinch of chaat masala over the paneer.",
+    "imgs": [
+     "s-chaat-1"
+    ]
+   },
+   {
+    "t": "Squeeze lemon juice over the top.",
+    "imgs": [
+     "s-lemon-1"
+    ]
+   },
+   {
+    "t": "Garnish with chopped coriander and eat hot.",
+    "imgs": [
+     "s-garnish-1",
+     "s-garnish-2"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer",
+   "high-protein"
+  ],
+  "notes": "No on-screen text and no usable speech: all amounts are estimates (~). The yellow paste and pale powder (ginger-garlic paste, besan), the brown spice (garam masala), the pinch sprinkled on the plate (chaat masala) and the melted ghee-or-butter are my best guesses from the pictures. Salt and any resting time before cooking are not shown. Timer reads 12 min at 200 C."
+ },
+ "images": {
+  "cover": {
+   "t": 28.0,
+   "crop": [
+    0,
+    120,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-paneer": {
+   "t": 2.0,
+   "crop": [
+    140,
+    580,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 3.6,
+   "crop": [
+    60,
+    600,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 3.6,
+   "crop": [
+    290,
+    620,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 3.6,
+   "crop": [
+    440,
+    700,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 3.2,
+   "crop": [
+    130,
+    440,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-gg": {
+   "t": 4.4,
+   "crop": [
+    140,
+    520,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-besan": {
+   "t": 5.0,
+   "crop": [
+    380,
+    330,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 7.6,
+   "crop": [
+    150,
+    360,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 8.4,
+   "crop": [
+    200,
+    330,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-garam": {
+   "t": 9.0,
+   "crop": [
+    150,
+    420,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-methi": {
+   "t": 10.4,
+   "crop": [
+    180,
+    420,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 11.4,
+   "crop": [
+    330,
+    0,
+    390,
+    390
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 28.0,
+   "crop": [
+    380,
+    380,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-rings": {
+   "t": 28.0,
+   "crop": [
+    200,
+    270,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 25.0,
+   "crop": [
+    0,
+    480,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 25.9,
+   "crop": [
+    60,
+    620,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-chaat": {
+   "t": 24.0,
+   "crop": [
+    150,
+    420,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "s-paneer-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 2.6,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 3.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 3.2,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 4.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paste-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paste-2": {
+   "t": 6.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 8.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 9.7,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-methi-1": {
+   "t": 10.4,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 11.4,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 15.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-in-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 18.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 19.5,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-1": {
+   "t": 20.2,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-2": {
+   "t": 21.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 23.7,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chaat-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 25.4,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garnish-1": {
+   "t": 25.9,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garnish-2": {
+   "t": 27.2,
+   "crop": [
+    0,
+    150,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

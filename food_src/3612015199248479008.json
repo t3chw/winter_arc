@@ -1,0 +1,616 @@
+{
+  "videos": [
+    "3612015199248479008"
+  ],
+  "dish": {
+    "id": "grated-paneer-wrap",
+    "name": "Grated paneer wrap",
+    "meal": "Lunch or dinner",
+    "minutes": 20,
+    "protein": 30,
+    "how": "Gas",
+    "tools": "Large non-stick tawa, grater, spatula, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "250 g",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~1/2 cup (40 g)",
+        "n": "Cheese, diced or grated",
+        "tag": "cheese",
+        "img": "i-cheese"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Oregano",
+        "tag": "oregano",
+        "img": "i-oregano"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Chilli flakes",
+        "tag": "chilli-flakes",
+        "img": "i-flakes"
+      },
+      {
+        "q": "2 to 3 leaves",
+        "n": "Lettuce",
+        "tag": "lettuce",
+        "img": "i-lettuce"
+      },
+      {
+        "q": "a small handful",
+        "n": "Capsicum, cut in thin strips",
+        "tag": "capsicum",
+        "img": "i-capsicum"
+      },
+      {
+        "q": "a small handful",
+        "n": "Carrot, cut in thin strips",
+        "tag": "carrot",
+        "img": "i-carrot"
+      },
+      {
+        "q": "a few slices",
+        "n": "Red onion, sliced thin",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Boiled kidney beans (rajma)",
+        "tag": "rajma",
+        "img": "i-beans"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Peri peri masala",
+        "tag": "peri-peri-masala",
+        "img": "i-peri"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Green sauce (mint or herb)",
+        "tag": "green-chutney",
+        "opt": true,
+        "img": "i-green"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Chipotle sauce",
+        "tag": "chipotle-sauce",
+        "opt": true,
+        "img": "i-chipotle"
+      },
+      {
+        "q": "2 to 3 stalks",
+        "n": "Spring onion greens, to tie",
+        "tag": "spring-onion",
+        "opt": true,
+        "img": "i-spring"
+      },
+      {
+        "q": "2 to 3",
+        "n": "Black olives, to decorate",
+        "tag": "olives",
+        "opt": true,
+        "img": "i-olive"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Grate 250 g paneer straight onto a large non-stick tawa.",
+        "imgs": [
+          "s-grate-1",
+          "s-grate-2",
+          "s-grate-3"
+        ]
+      },
+      {
+        "t": "Spread the grated paneer into a thin round with a spatula.",
+        "imgs": [
+          "s-spread-1",
+          "s-spread-2"
+        ]
+      },
+      {
+        "t": "Sprinkle the cheese all over the paneer.",
+        "imgs": [
+          "s-cheese-1",
+          "s-cheese-2"
+        ]
+      },
+      {
+        "t": "Let the cheese melt.",
+        "imgs": [
+          "s-melt-1"
+        ]
+      },
+      {
+        "t": "Sprinkle oregano and chilli flakes on top.",
+        "imgs": [
+          "s-season-1",
+          "s-season-2"
+        ]
+      },
+      {
+        "t": "Place lettuce leaves on top.",
+        "imgs": [
+          "s-lettuce-1",
+          "s-lettuce-2"
+        ]
+      },
+      {
+        "t": "Add thin strips of capsicum and carrot, and sliced red onion.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2"
+        ]
+      },
+      {
+        "t": "Add the boiled kidney beans.",
+        "imgs": [
+          "s-beans-1",
+          "s-beans-2"
+        ]
+      },
+      {
+        "t": "Sprinkle peri peri masala over everything.",
+        "imgs": [
+          "s-peri-1",
+          "s-peri-2"
+        ]
+      },
+      {
+        "t": "Drizzle the green sauce and the chipotle sauce on top.",
+        "imgs": [
+          "s-sauce-1",
+          "s-sauce-2"
+        ]
+      },
+      {
+        "t": "Lift one side and fold the paneer sheet over the filling.",
+        "imgs": [
+          "s-fold-1",
+          "s-fold-2"
+        ]
+      },
+      {
+        "t": "Cook the wrap from both sides until golden and crisp.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2"
+        ]
+      },
+      {
+        "t": "Tie with spring onion greens and a black olive, then serve.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "high-protein"
+    ],
+    "notes": "Hindi speech: paneer amount from the voice (dhai sau gram = 250 g); other amounts are my estimates. A face-cam and a 'Send this to your chef friend' text cover the middle of the pan in every shot, so step pictures show the action above the pan (hands, shakers, sauce bags) or the lower-right edge of the pan; the middle of the food is not shown cleanly. Video text seems to say 'Oregano & chilli flakes' (first word hidden by the face); the green sauce is not clearly named (caption ends '...EY & chipotle sauce'). Capsicum thumbnail is the cut-open wrap (green chunks). No oil is used; heat level is not shown."
+  },
+  "images": {
+    "cover": {
+      "t": 20.5,
+      "crop": [
+        150,
+        280,
+        480,
+        330
+      ],
+      "w": 560
+    },
+    "i-paneer": {
+      "t": 1.5,
+      "crop": [
+        280,
+        60,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-cheese": {
+      "t": 8.0,
+      "crop": [
+        380,
+        662,
+        243,
+        243
+      ],
+      "w": 200
+    },
+    "i-oregano": {
+      "t": 9.5,
+      "crop": [
+        350,
+        130,
+        370,
+        370
+      ],
+      "w": 200
+    },
+    "i-flakes": {
+      "t": 10.25,
+      "crop": [
+        300,
+        100,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-lettuce": {
+      "t": 11.0,
+      "crop": [
+        210,
+        212,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-capsicum": {
+      "t": 24.0,
+      "crop": [
+        380,
+        400,
+        220,
+        220
+      ],
+      "w": 200
+    },
+    "i-carrot": {
+      "t": 11.5,
+      "crop": [
+        170,
+        400,
+        260,
+        200
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 11.5,
+      "crop": [
+        250,
+        430,
+        200,
+        200
+      ],
+      "w": 200
+    },
+    "i-beans": {
+      "t": 12.5,
+      "crop": [
+        180,
+        370,
+        240,
+        240
+      ],
+      "w": 200
+    },
+    "i-peri": {
+      "t": 13.75,
+      "crop": [
+        250,
+        250,
+        350,
+        350
+      ],
+      "w": 200
+    },
+    "i-green": {
+      "t": 15.25,
+      "crop": [
+        280,
+        60,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chipotle": {
+      "t": 15.75,
+      "crop": [
+        280,
+        60,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-spring": {
+      "t": 19.5,
+      "crop": [
+        80,
+        310,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-olive": {
+      "t": 20.5,
+      "crop": [
+        290,
+        480,
+        230,
+        130
+      ],
+      "w": 200
+    },
+    "s-grate-1": {
+      "t": 2.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-grate-2": {
+      "t": 3.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-grate-3": {
+      "t": 5.0,
+      "crop": [
+        393,
+        660,
+        327,
+        245
+      ],
+      "w": 480
+    },
+    "s-spread-1": {
+      "t": 5.25,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-spread-2": {
+      "t": 5.9,
+      "crop": [
+        393,
+        660,
+        327,
+        245
+      ],
+      "w": 480
+    },
+    "s-cheese-1": {
+      "t": 6.75,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-cheese-2": {
+      "t": 8.0,
+      "crop": [
+        393,
+        660,
+        327,
+        245
+      ],
+      "w": 480
+    },
+    "s-melt-1": {
+      "t": 8.5,
+      "crop": [
+        393,
+        660,
+        327,
+        245
+      ],
+      "w": 480
+    },
+    "s-season-1": {
+      "t": 9.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-season-2": {
+      "t": 10.25,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-lettuce-1": {
+      "t": 11.0,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-lettuce-2": {
+      "t": 11.25,
+      "crop": [
+        393,
+        660,
+        327,
+        245
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 11.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 11.75,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-beans-1": {
+      "t": 12.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-beans-2": {
+      "t": 13.0,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-peri-1": {
+      "t": 13.75,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-peri-2": {
+      "t": 14.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-sauce-1": {
+      "t": 15.25,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-sauce-2": {
+      "t": 15.75,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-fold-1": {
+      "t": 17.0,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-fold-2": {
+      "t": 17.25,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 17.5,
+      "crop": [
+        160,
+        237,
+        500,
+        375
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 18.5,
+      "crop": [
+        0,
+        252,
+        560,
+        360
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 20.5,
+      "crop": [
+        150,
+        280,
+        480,
+        330
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 23.5,
+      "crop": [
+        330,
+        330,
+        360,
+        270
+      ],
+      "w": 480
+    }
+  }
+}

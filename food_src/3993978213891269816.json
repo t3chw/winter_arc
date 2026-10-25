@@ -1,0 +1,678 @@
+{
+ "videos": [
+  "3993978213891269816"
+ ],
+ "dish": {
+  "id": "soya-chunk-chukauni",
+  "name": "Soya chunk chukauni",
+  "meal": "Lunch or dinner",
+  "minutes": 20,
+  "protein": 30,
+  "how": "Gas",
+  "tools": "Pan, small pan, pot, strainer, whisk, gas",
+  "serves": 1,
+  "cover": "cover",
+  "credit": "Dr Pal's Food Clinic",
+  "ingredients": [
+   {
+    "q": "~40 g dry (about 1 cup)",
+    "n": "Soya chunks",
+    "tag": "soya-chunks",
+    "img": "i-soya"
+   },
+   {
+    "q": "~1/2 tsp, for the boiling water and the yogurt",
+    "n": "Salt",
+    "tag": "salt"
+   },
+   {
+    "q": "1 tbsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~1 tsp in all (sauté and tadka)",
+    "n": "Turmeric",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1 tsp in all (sauté and tadka)",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Coriander powder",
+    "tag": "coriander-powder",
+    "img": "i-corpowder"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Ginger-garlic paste",
+    "tag": "ginger",
+    "alt": [
+     "garlic"
+    ],
+    "img": "i-gg"
+   },
+   {
+    "q": "~1/2 medium, sliced",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1, chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "a handful, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-corleaf"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Greek yogurt (or thick curd)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1 clove, finely chopped",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "a pinch",
+    "n": "Kasuri methi (dried fenugreek leaves)",
+    "tag": "kasuri-methi",
+    "img": "i-methi"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Boil the soya chunks in salted water for 5 minutes.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-2"
+    ]
+   },
+   {
+    "t": "Drain the soya chunks in a strainer.",
+    "imgs": [
+     "s-drain-1"
+    ]
+   },
+   {
+    "t": "Heat 1 tablespoon of ghee in a pan.",
+    "imgs": [
+     "s-ghee-2",
+     "s-ghee-1"
+    ]
+   },
+   {
+    "t": "Add turmeric, red chilli powder and coriander powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Add the ginger-garlic paste.",
+    "imgs": [
+     "s-gg-1"
+    ]
+   },
+   {
+    "t": "Add the boiled soya chunks.",
+    "imgs": [
+     "s-soya-1"
+    ]
+   },
+   {
+    "t": "Saute for 2 to 3 minutes.",
+    "imgs": [
+     "s-saute-1"
+    ]
+   },
+   {
+    "t": "Add the sliced onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the green chilli.",
+    "imgs": [
+     "s-gchilli-1"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander leaves.",
+    "imgs": [
+     "s-corleaf-1"
+    ]
+   },
+   {
+    "t": "Mix it well.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "In a bowl, put the Greek yogurt.",
+    "imgs": [
+     "s-curd-1"
+    ]
+   },
+   {
+    "t": "Add salt to the yogurt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Add the finely chopped garlic.",
+    "imgs": [
+     "s-garlic-1"
+    ]
+   },
+   {
+    "t": "Whisk the yogurt well.",
+    "imgs": [
+     "s-whisk-1"
+    ]
+   },
+   {
+    "t": "Heat a little oil in a small pan.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Add turmeric, red chilli powder and kasuri methi to the oil.",
+    "imgs": [
+     "s-tadka-1",
+     "s-tadka-2",
+     "s-tadka-3"
+    ]
+   },
+   {
+    "t": "Pour this tadka into the yogurt.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Whisk it again.",
+    "imgs": [
+     "s-whisk2-1"
+    ]
+   },
+   {
+    "t": "Pour the seasoned yogurt over the soya chunks.",
+    "imgs": [
+     "s-over-1",
+     "s-over-2"
+    ]
+   },
+   {
+    "t": "Mix well and serve.",
+    "imgs": [
+     "s-serve-1"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "English voice-over and captions, but no amounts are given: all amounts are estimates (~). The video claims 20 g protein, 225 kcal and 5 g fibre per serving; my protein estimate for these amounts is about 30 g. The video says it takes 15 to 20 minutes. The video calls it a Nepalese dish. Salt had no clear picture. Presenter's face is cropped out of every picture."
+ },
+ "images": {
+  "cover": {
+   "t": 71.4,
+   "crop": [
+    0,
+    150,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-soya": {
+   "t": 21.6,
+   "crop": [
+    0,
+    880,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 21.6,
+   "crop": [
+    400,
+    680,
+    230,
+    230
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 17.9,
+   "crop": [
+    100,
+    250,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 18.8,
+   "crop": [
+    100,
+    250,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-corpowder": {
+   "t": 19.7,
+   "crop": [
+    100,
+    250,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-gg": {
+   "t": 20.6,
+   "crop": [
+    100,
+    250,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 31.5,
+   "crop": [
+    100,
+    100,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 34.5,
+   "crop": [
+    100,
+    200,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-corleaf": {
+   "t": 36.0,
+   "crop": [
+    100,
+    200,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 43.5,
+   "crop": [
+    170,
+    860,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 44.0,
+   "crop": [
+    100,
+    300,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-methi": {
+   "t": 50.7,
+   "crop": [
+    160,
+    500,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 17.2,
+   "crop": [
+    100,
+    0,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "s-boil-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-2": {
+   "t": 8.9,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-1": {
+   "t": 16.1,
+   "crop": [
+    40,
+    470,
+    560,
+    360
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 22.4,
+   "crop": [
+    0,
+    930,
+    720,
+    350
+   ],
+   "w": 480
+  },
+  "s-ghee-2": {
+   "t": 17.7,
+   "crop": [
+    0,
+    100,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 17.9,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 18.8,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 19.7,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gg-1": {
+   "t": 20.6,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soya-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    740,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-saute-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    740,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 31.5,
+   "crop": [
+    0,
+    220,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gchilli-1": {
+   "t": 34.5,
+   "crop": [
+    0,
+    220,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corleaf-1": {
+   "t": 36.0,
+   "crop": [
+    0,
+    220,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 39.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 43.5,
+   "crop": [
+    0,
+    740,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 45.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 44.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-whisk-1": {
+   "t": 46.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 48.6,
+   "crop": [
+    0,
+    920,
+    720,
+    360
+   ],
+   "w": 480
+  },
+  "s-tadka-1": {
+   "t": 49.3,
+   "crop": [
+    0,
+    540,
+    720,
+    330
+   ],
+   "w": 480
+  },
+  "s-tadka-2": {
+   "t": 50.0,
+   "crop": [
+    0,
+    540,
+    720,
+    330
+   ],
+   "w": 480
+  },
+  "s-tadka-3": {
+   "t": 50.7,
+   "crop": [
+    0,
+    540,
+    720,
+    290
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 54.2,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 54.9,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-whisk2-1": {
+   "t": 57.7,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-over-1": {
+   "t": 59.8,
+   "crop": [
+    0,
+    280,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-over-2": {
+   "t": 63.8,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 71.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

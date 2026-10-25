@@ -1,0 +1,865 @@
+{
+ "videos": [
+  "3881792792397989605"
+ ],
+ "dish": {
+  "id": "rajma-paneer-roti-tacos",
+  "name": "Rajma paneer roti tacos",
+  "meal": "Lunch or dinner",
+  "minutes": 30,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Non-stick pan, gas, flat press (masher), fork, bowl, brush",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3/4 cup (130 g), boiled",
+    "n": "Kidney beans (rajma)",
+    "tag": "rajma",
+    "img": "i-rajma"
+   },
+   {
+    "q": "~50 g, grated",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli-powder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Cumin powder (jeera)",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "opt": true,
+    "img": "i-flakes"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Eggless mayonnaise (or hung curd)",
+    "tag": "mayonnaise",
+    "alt": [
+     "curd"
+    ],
+    "img": "i-mayo"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Schezwan sauce",
+    "tag": "schezwan-sauce",
+    "img": "i-schezwan"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "img": "i-oregano"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Red onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "2 small rotis",
+    "n": "Roti (chapati)",
+    "tag": "atta",
+    "img": "i-roti"
+   },
+   {
+    "q": "2 slices",
+    "n": "Cheese slices",
+    "tag": "cheese",
+    "img": "i-cheese"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the boiled kidney beans on a plate.",
+    "imgs": [
+     "s-beans-1",
+     "s-beans-2"
+    ]
+   },
+   {
+    "t": "Mash the beans with a fork.",
+    "imgs": [
+     "s-mash-1",
+     "s-mash-2"
+    ]
+   },
+   {
+    "t": "Add the grated paneer.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder, cumin powder and chilli flakes.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2",
+     "s-spice-3"
+    ]
+   },
+   {
+    "t": "Mix everything well with your hand.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Shape the mix into round, flat patties.",
+    "imgs": [
+     "s-patty-1",
+     "s-patty-2",
+     "s-patty-3"
+    ]
+   },
+   {
+    "t": "In a small bowl, put the mayo and add the schezwan sauce.",
+    "imgs": [
+     "s-mayo-1",
+     "s-mayo-2"
+    ]
+   },
+   {
+    "t": "Add salt, oregano and chilli flakes.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2"
+    ]
+   },
+   {
+    "t": "Mix well, then stir in the chopped onion.",
+    "imgs": [
+     "s-season-3",
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Heat a pan on the gas and brush it with ghee.",
+    "imgs": [
+     "s-ghee-1",
+     "s-ghee-2"
+    ]
+   },
+   {
+    "t": "Put one patty on the pan.",
+    "imgs": [
+     "s-put-1"
+    ]
+   },
+   {
+    "t": "Place a roti on top of the patty.",
+    "imgs": [
+     "s-roti-1"
+    ]
+   },
+   {
+    "t": "Press down hard with a flat press to smash it flat.",
+    "imgs": [
+     "s-press-1",
+     "s-press-2",
+     "s-press-3"
+    ]
+   },
+   {
+    "t": "Sprinkle chilli flakes on the roti.",
+    "imgs": [
+     "s-flakes-1",
+     "s-flakes-2"
+    ]
+   },
+   {
+    "t": "Flip it and brush the patty side with ghee until crisp.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2",
+     "s-flip-3"
+    ]
+   },
+   {
+    "t": "Lift it onto a plate with the patty side up.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Lay the cheese slices on the patty.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Sprinkle some oregano on the cheese.",
+    "imgs": [
+     "s-oregano-1"
+    ]
+   },
+   {
+    "t": "Spoon the onion mayo mix on top.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2"
+    ]
+   },
+   {
+    "t": "Fold the roti over to close the taco.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2"
+    ]
+   },
+   {
+    "t": "Serve hot. Repeat for the next taco.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-fibre"
+  ],
+  "notes": "No amounts given in the video: all quantities are guesses. Only the on-screen words are available; the 'basic spices' are shown but not named: red chilli powder is clear, the brown powder looks like cumin. The yellow-cap bottle on the cheese looks like oregano. Cooking times are not shown. The mix makes about 3 patties; only 2 tacos are shown. Pick an eggless mayo or use hung curd."
+ },
+ "images": {
+  "cover": {
+   "t": 29.5,
+   "crop": [
+    0,
+    420,
+    720,
+    560
+   ],
+   "w": 560
+  },
+  "i-rajma": {
+   "t": 4.6,
+   "crop": [
+    150,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 6.5,
+   "crop": [
+    100,
+    420,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 7.2,
+   "crop": [
+    100,
+    620,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-chilli-powder": {
+   "t": 8.2,
+   "crop": [
+    250,
+    500,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 8.7,
+   "crop": [
+    350,
+    500,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 20.2,
+   "crop": [
+    100,
+    300,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-mayo": {
+   "t": 12.85,
+   "crop": [
+    250,
+    350,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-schezwan": {
+   "t": 14.0,
+   "crop": [
+    200,
+    480,
+    350,
+    350
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 24.2,
+   "crop": [
+    330,
+    150,
+    390,
+    390
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 16.0,
+   "crop": [
+    60,
+    420,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 16.5,
+   "crop": [
+    150,
+    150,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-roti": {
+   "t": 18.2,
+   "crop": [
+    270,
+    200,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 24.0,
+   "crop": [
+    120,
+    620,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "s-beans-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-beans-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mash-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mash-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 6.9,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 7.2,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 7.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 8.2,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 8.7,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-3": {
+   "t": 9.2,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-patty-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-patty-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-patty-3": {
+   "t": 12.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mayo-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mayo-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-3": {
+   "t": 15.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ghee-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-put-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roti-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-1": {
+   "t": 18.5,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-press-3": {
+   "t": 19.5,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-1": {
+   "t": 20.2,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-2": {
+   "t": 20.4,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flip-3": {
+   "t": 22.0,
+   "crop": [
+    0,
+    345,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oregano-1": {
+   "t": 24.5,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 25.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 25.2,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 25.8,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    420,
+    720,
+    560
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    420,
+    720,
+    560
+   ],
+   "w": 480
+  }
+ }
+}

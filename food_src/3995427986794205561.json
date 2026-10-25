@@ -1,0 +1,418 @@
+{
+ "videos": [
+  "3995427986794205561"
+ ],
+ "dish": {
+  "id": "air-fryer-gobi-fry",
+  "name": "Air fryer gobi fry",
+  "meal": "Side",
+  "minutes": 35,
+  "protein": 5,
+  "how": "Gas + air fryer",
+  "tools": "Pot, gas, air fryer, parchment paper, mixing bowl",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 small (~400 g), cut into florets",
+    "n": "Cauliflower (gobi)",
+    "tag": "cauliflower",
+    "img": "i-cauli"
+   },
+   {
+    "q": "enough to cover the florets",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric powder",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Ginger-garlic paste",
+    "tag": "ginger",
+    "alt": [
+     "garlic"
+    ],
+    "img": "i-gg"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Spice mix (gobi or tikka masala powder, ready-made)",
+    "tag": "seasoning-masala",
+    "alt": [
+     "garam-masala"
+    ],
+    "img": "i-spice"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the cauliflower into florets.",
+    "imgs": [
+     "s-cut-1"
+    ]
+   },
+   {
+    "t": "Put the florets in a steel pot.",
+    "imgs": [
+     "s-pot-1"
+    ]
+   },
+   {
+    "t": "Pour water over the florets.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Add turmeric powder.",
+    "imgs": [
+     "s-turmeric-1"
+    ]
+   },
+   {
+    "t": "Boil until the florets are just tender, then drain the water.",
+    "imgs": [
+     "s-boil-1"
+    ]
+   },
+   {
+    "t": "Add the ginger-garlic paste.",
+    "imgs": [
+     "s-gg-1"
+    ]
+   },
+   {
+    "t": "Add the spice mix.",
+    "imgs": [
+     "s-spice-1"
+    ]
+   },
+   {
+    "t": "Add a little oil.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Mix with your hands until every floret is coated.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Line the air fryer basket with parchment paper.",
+    "imgs": [
+     "s-paper-1"
+    ]
+   },
+   {
+    "t": "Place the florets in a single layer on the paper.",
+    "imgs": [
+     "s-place-1",
+     "s-place-2"
+    ]
+   },
+   {
+    "t": "Slide in the basket and air fry until the edges are browned.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Take out the basket.",
+    "imgs": [
+     "s-out-1"
+    ]
+   },
+   {
+    "t": "Serve hot in a bowl.",
+    "imgs": [
+     "s-serve-1"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer",
+   "gas"
+  ],
+  "notes": "Silent video with no text: every amount is a guess (~). The air fryer temperature and time are NOT shown (my guess: about 200 C for 12 to 15 minutes; check the florets are browned). Boiling time is not shown (a few minutes). The brown powder from a bag is assumed to be a ready-made gobi or tikka masala mix, and the yellow packet is assumed to be turmeric. Salt is not shown: add to taste."
+ },
+ "images": {
+  "cover": {
+   "t": 19.8,
+   "crop": [
+    0,
+    330,
+    720,
+    760
+   ],
+   "w": 560
+  },
+  "i-cauli": {
+   "t": 2.1,
+   "crop": [
+    100,
+    330,
+    620,
+    620
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 3.0,
+   "crop": [
+    250,
+    0,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 4.0,
+   "crop": [
+    180,
+    0,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-gg": {
+   "t": 5.0,
+   "crop": [
+    160,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-spice": {
+   "t": 5.5,
+   "crop": [
+    260,
+    0,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 6.0,
+   "crop": [
+    260,
+    100,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pot-1": {
+   "t": 2.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 3.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turmeric-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gg-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 6.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 8.5,
+   "crop": [
+    0,
+    250,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paper-1": {
+   "t": 9.9,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-place-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-place-2": {
+   "t": 13.2,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 15.4,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-1": {
+   "t": 17.6,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 19.8,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

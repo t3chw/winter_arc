@@ -1,0 +1,731 @@
+{
+  "videos": [
+    "3875081179645227090"
+  ],
+  "dish": {
+    "id": "roti-dough-scissor-noodles",
+    "name": "Roti dough scissor noodles",
+    "meal": "Lunch or dinner",
+    "minutes": 20,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Pot, pan, scissors, strainer, spatula, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 big lump (about 1 cup flour worth)",
+        "n": "Leftover roti dough (atta dough)",
+        "tag": "atta",
+        "img": "i-dough"
+      },
+      {
+        "q": "~4 cups, for boiling",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~100 g, cubed",
+        "n": "Tofu",
+        "tag": "tofu",
+        "img": "i-tofu",
+        "alt": [
+          "paneer"
+        ]
+      },
+      {
+        "q": "1 medium, sliced",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Ginger paste",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Garlic paste",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Soy sauce",
+        "tag": "soy-sauce",
+        "img": "i-soy"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Vinegar",
+        "tag": "vinegar",
+        "img": "i-vinegar"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Chilli oil (chilli crisp)",
+        "tag": "chilli-oil",
+        "img": "i-chilli-oil"
+      },
+      {
+        "q": "~2 big handfuls (60 g)",
+        "n": "Spinach leaves",
+        "tag": "spinach",
+        "img": "i-spinach"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Sesame seeds",
+        "tag": "sesame-seeds",
+        "img": "i-sesame",
+        "opt": true
+      }
+    ],
+    "tags": [
+      "gas",
+      "quick"
+    ],
+    "notes": "No amounts are given: all quantities are my estimates. The video's captions say tofu, ginger garlic, soy sauce, vinegar and chilli oil; I matched them to the pictures (the beige lump looks like ginger-garlic paste, the clear liquid like vinegar). Boil time and frying time are not stated (noodles are done when they float). Transferring the pan to the bowl is not shown. The creator speaks to camera but no name is on screen.",
+    "steps": [
+      {
+        "t": "Bring a pot of water to a boil.",
+        "imgs": [
+          "s-boil-1",
+          "s-boil-2"
+        ]
+      },
+      {
+        "t": "Hold the dough over the pot. Snip small pieces into the water with scissors.",
+        "imgs": [
+          "s-cut-1",
+          "s-cut-2",
+          "s-cut-3"
+        ]
+      },
+      {
+        "t": "Stir gently and cook until the pieces float.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2"
+        ]
+      },
+      {
+        "t": "Lift them out with a strainer and keep aside.",
+        "imgs": [
+          "s-lift-1",
+          "s-lift-2"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Add the tofu cubes.",
+        "imgs": [
+          "s-tofu-1",
+          "s-tofu-2"
+        ]
+      },
+      {
+        "t": "Add the sliced onion and sauté until the tofu turns golden.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2",
+          "s-onion-3"
+        ]
+      },
+      {
+        "t": "Add the ginger and garlic paste.",
+        "imgs": [
+          "s-gg-1",
+          "s-gg-2"
+        ]
+      },
+      {
+        "t": "Pour in the soy sauce.",
+        "imgs": [
+          "s-soy-1",
+          "s-soy-2"
+        ]
+      },
+      {
+        "t": "Pour in the vinegar.",
+        "imgs": [
+          "s-vin-1",
+          "s-vin-2"
+        ]
+      },
+      {
+        "t": "Add the chilli oil and mix.",
+        "imgs": [
+          "s-crisp-1",
+          "s-crisp-2",
+          "s-crisp-3"
+        ]
+      },
+      {
+        "t": "Add the boiled dough noodles.",
+        "imgs": [
+          "s-noodle-1",
+          "s-noodle-2"
+        ]
+      },
+      {
+        "t": "Add the spinach leaves.",
+        "imgs": [
+          "s-spin-1",
+          "s-spin-2",
+          "s-spin-3"
+        ]
+      },
+      {
+        "t": "Toss everything until the spinach wilts and the noodles are coated.",
+        "imgs": [
+          "s-toss-1",
+          "s-toss-2",
+          "s-toss-3"
+        ]
+      },
+      {
+        "t": "Spoon it into a bowl and sprinkle sesame seeds on top.",
+        "imgs": [
+          "s-sesame-1",
+          "s-sesame-2",
+          "s-sesame-3"
+        ]
+      },
+      {
+        "t": "Toss with a fork and eat hot.",
+        "imgs": [
+          "s-eat-1",
+          "s-eat-2"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "t": 7.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-dough": {
+      "t": 3.0,
+      "crop": [
+        0,
+        360,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 13.5,
+      "crop": [
+        80,
+        380,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 15.0,
+      "crop": [
+        230,
+        200,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-tofu": {
+      "t": 16.5,
+      "crop": [
+        150,
+        330,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 17.8,
+      "crop": [
+        60,
+        400,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 19.0,
+      "crop": [
+        60,
+        340,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 19.0,
+      "crop": [
+        60,
+        340,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-soy": {
+      "t": 19.6,
+      "crop": [
+        190,
+        330,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-vinegar": {
+      "t": 20.2,
+      "crop": [
+        340,
+        220,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-chilli-oil": {
+      "t": 21.1,
+      "crop": [
+        300,
+        250,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-spinach": {
+      "t": 23.8,
+      "crop": [
+        200,
+        180,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-sesame": {
+      "t": 28.0,
+      "crop": [
+        260,
+        180,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-boil-1": {
+      "t": 3.4,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-boil-2": {
+      "t": 11.2,
+      "crop": [
+        0,
+        840,
+        720,
+        440
+      ],
+      "w": 480
+    },
+    "s-cut-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-cut-2": {
+      "t": 3.8,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-cut-3": {
+      "t": 11.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-lift-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-lift-2": {
+      "t": 14.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-tofu-1": {
+      "t": 16.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-tofu-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 17.8,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-onion-3": {
+      "t": 18.4,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-gg-1": {
+      "t": 18.8,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-gg-2": {
+      "t": 19.4,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-soy-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        100,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-soy-2": {
+      "t": 19.7,
+      "crop": [
+        0,
+        100,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-vin-1": {
+      "t": 20.3,
+      "crop": [
+        0,
+        100,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-vin-2": {
+      "t": 20.7,
+      "crop": [
+        0,
+        100,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-crisp-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-crisp-2": {
+      "t": 21.4,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-crisp-3": {
+      "t": 22.2,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-noodle-1": {
+      "t": 22.6,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-noodle-2": {
+      "t": 23.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-spin-1": {
+      "t": 23.4,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-spin-2": {
+      "t": 23.8,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-spin-3": {
+      "t": 24.2,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-toss-1": {
+      "t": 24.6,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-toss-2": {
+      "t": 25.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-toss-3": {
+      "t": 26.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-sesame-1": {
+      "t": 28.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-sesame-2": {
+      "t": 28.4,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-sesame-3": {
+      "t": 29.2,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-eat-1": {
+      "t": 7.5,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-eat-2": {
+      "t": 8.0,
+      "crop": [
+        0,
+        180,
+        720,
+        560
+      ],
+      "w": 480
+    }
+  }
+}

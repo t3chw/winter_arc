@@ -1,0 +1,717 @@
+{
+ "videos": [
+  "3983843461747467247"
+ ],
+ "dish": {
+  "id": "spicy-paneer-rice-bowl",
+  "name": "Spicy paneer rice bowl",
+  "meal": "Lunch or dinner",
+  "minutes": 35,
+  "protein": 25,
+  "how": "Gas",
+  "tools": "2 non-stick pans, tongs, wavy cutter (or knife), gas",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~200 g (1 block)",
+    "n": "Paneer (cottage cheese)",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp in all (paneer and rice)",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp in all (paneer and rice)",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~2 small (250 g)",
+    "n": "Cucumber (kheera)",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~4 cloves, chopped",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~2, chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "~1/4 cup (40 g), finely chopped",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "~1/4 cup (40 g), finely chopped",
+    "n": "Green beans",
+    "tag": "beans",
+    "img": "i-beans"
+   },
+   {
+    "q": "~1/3 cup (50 g), boiled",
+    "n": "Sweet corn",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~2 cups (300 g), cooked",
+    "n": "Rice",
+    "tag": "rice",
+    "img": "i-rice"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Greek yogurt (or thick curd)",
+    "tag": "curd",
+    "img": "i-yogurt"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Piri piri masala",
+    "tag": "peri-peri-masala",
+    "img": "i-piri"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "opt": true,
+    "img": "i-coriander"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the paneer block into thick pieces with a wavy cutter.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Sprinkle salt, red chilli powder and black pepper over the paneer.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Rub the spices into the paneer with your hands.",
+    "imgs": [
+     "s-rub-1"
+    ]
+   },
+   {
+    "t": "Cut the paneer into thick sticks.",
+    "imgs": [
+     "s-sticks-1",
+     "s-sticks-2"
+    ]
+   },
+   {
+    "t": "Cut the cucumbers into thin rounds.",
+    "imgs": [
+     "s-cuc-1",
+     "s-cuc-2"
+    ]
+   },
+   {
+    "t": "Place the paneer sticks in a non-stick pan.",
+    "imgs": [
+     "s-pan-1"
+    ]
+   },
+   {
+    "t": "Roast the paneer, turning with tongs, until golden on all sides.",
+    "imgs": [
+     "s-roast-1"
+    ]
+   },
+   {
+    "t": "Heat oil in a second pan.",
+    "imgs": [
+     "s-oil-1"
+    ]
+   },
+   {
+    "t": "Add the chopped garlic.",
+    "imgs": [
+     "s-garlic-1"
+    ]
+   },
+   {
+    "t": "Add the chopped green chilli.",
+    "imgs": [
+     "s-gchilli-1"
+    ]
+   },
+   {
+    "t": "Add the chopped carrot and green beans.",
+    "imgs": [
+     "s-veg-1"
+    ]
+   },
+   {
+    "t": "Add the boiled sweet corn.",
+    "imgs": [
+     "s-corn-1"
+    ]
+   },
+   {
+    "t": "Stir fry the vegetables.",
+    "imgs": [
+     "s-stir-1"
+    ]
+   },
+   {
+    "t": "Sprinkle on black pepper and salt.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2"
+    ]
+   },
+   {
+    "t": "Add the cooked rice.",
+    "imgs": [
+     "s-rice-1"
+    ]
+   },
+   {
+    "t": "Toss until the rice and vegetables are mixed.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Put the cucumber rounds in a bowl.",
+    "imgs": [
+     "s-bowl-1"
+    ]
+   },
+   {
+    "t": "Add the Greek yogurt.",
+    "imgs": [
+     "s-yogurt-1"
+    ]
+   },
+   {
+    "t": "Add chopped coriander.",
+    "imgs": [
+     "s-coriander-1"
+    ]
+   },
+   {
+    "t": "Sprinkle on the piri piri masala.",
+    "imgs": [
+     "s-piri-1"
+    ]
+   },
+   {
+    "t": "Mix the salad well.",
+    "imgs": [
+     "s-salad-1"
+    ]
+   },
+   {
+    "t": "Shape the rice into a mound on a plate.",
+    "imgs": [
+     "s-mound-1"
+    ]
+   },
+   {
+    "t": "Lay the paneer sticks beside the rice.",
+    "imgs": [
+     "s-plate-1"
+    ]
+   },
+   {
+    "t": "Spoon the cucumber salad onto the plate and serve.",
+    "imgs": [
+     "s-serve-1"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "On-screen text lists the ingredients but no amounts, so all amounts are estimates (~). The video shows no heat levels or times; the paneer looks pan-roasted dry (no oil shown). Paneer, rice and veg taste better hot, so eat soon after cooking."
+ },
+ "images": {
+  "cover": {
+   "t": 54.5,
+   "crop": [
+    0,
+    440,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-paneer": {
+   "t": 9.0,
+   "crop": [
+    150,
+    580,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 11.0,
+   "crop": [
+    150,
+    540,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 32.5,
+   "crop": [
+    150,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 31.5,
+   "crop": [
+    330,
+    540,
+    390,
+    390
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 7.5,
+   "crop": [
+    0,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 26.0,
+   "crop": [
+    100,
+    520,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 27.0,
+   "crop": [
+    150,
+    620,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 28.0,
+   "crop": [
+    60,
+    700,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 29.0,
+   "crop": [
+    0,
+    650,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-beans": {
+   "t": 28.0,
+   "crop": [
+    400,
+    380,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 29.0,
+   "crop": [
+    270,
+    400,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-rice": {
+   "t": 34.5,
+   "crop": [
+    220,
+    40,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-yogurt": {
+   "t": 42.0,
+   "crop": [
+    350,
+    540,
+    370,
+    370
+   ],
+   "w": 200
+  },
+  "i-piri": {
+   "t": 44.5,
+   "crop": [
+    250,
+    560,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 43.25,
+   "crop": [
+    280,
+    400,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rub-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    540,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sticks-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sticks-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    600,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cuc-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    600,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-roast-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 26.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gchilli-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corn-1": {
+   "t": 29.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 31.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 32.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-1": {
+   "t": 34.5,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    620,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-1": {
+   "t": 40.75,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-yogurt-1": {
+   "t": 42.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 43.25,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-piri-1": {
+   "t": 44.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salad-1": {
+   "t": 47.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mound-1": {
+   "t": 49.5,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 52.0,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 53.25,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

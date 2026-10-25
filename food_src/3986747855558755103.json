@@ -1,0 +1,552 @@
+{
+ "videos": [
+  "3986747855558755103"
+ ],
+ "dish": {
+  "id": "potato-bread-pakoda",
+  "name": "Potato bread pakoda",
+  "meal": "Snack",
+  "minutes": 40,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Deep pan, slotted spoon, small brush (or hands), gas",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3 medium (300 g), boiled",
+    "n": "Potato",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "~1 small, finely chopped",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~2, finely chopped",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "~3 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/4 tsp",
+    "n": "Turmeric powder",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1/2 tsp, to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~5 slices",
+    "n": "White bread",
+    "tag": "bread",
+    "img": "i-bread"
+   },
+   {
+    "q": "~1/2 cup (50 g)",
+    "n": "Bread crumbs",
+    "tag": "breadcrumbs",
+    "img": "i-crumbs"
+   },
+   {
+    "q": "~2 cups (500 ml), for deep frying",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "1 small bowl",
+    "n": "Dip or chutney, for serving",
+    "tag": "chutney",
+    "opt": true,
+    "img": "i-dip"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Mash the boiled potatoes in a bowl.",
+    "imgs": [
+     "s-mash-1"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the chopped green chilli.",
+    "imgs": [
+     "s-chilli-1"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-coriander-1"
+    ]
+   },
+   {
+    "t": "Add the turmeric powder and salt.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Mix everything well.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Shape the mixture into small oblong rolls, not too big.",
+    "imgs": [
+     "s-shape-1",
+     "s-shape-2",
+     "s-shape-3"
+    ]
+   },
+   {
+    "t": "Brush a slice of bread with water to make it soft.",
+    "imgs": [
+     "s-brush-1",
+     "s-brush-2"
+    ]
+   },
+   {
+    "t": "Press the wet bread flat on your palm.",
+    "imgs": [
+     "s-flat-1"
+    ]
+   },
+   {
+    "t": "Place a potato roll on the bread and wrap it.",
+    "imgs": [
+     "s-wrap-1",
+     "s-wrap-2"
+    ]
+   },
+   {
+    "t": "Press the bread to seal it all round.",
+    "imgs": [
+     "s-seal-1",
+     "s-seal-2"
+    ]
+   },
+   {
+    "t": "Roll it in bread crumbs.",
+    "imgs": [
+     "s-crumb-1",
+     "s-crumb-2"
+    ]
+   },
+   {
+    "t": "Slide the rolls into a pan of hot oil.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Fry, turning, until golden brown.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Lift out with a slotted spoon.",
+    "imgs": [
+     "s-lift-1"
+    ]
+   },
+   {
+    "t": "Serve hot with a dip.",
+    "imgs": [
+     "s-serve-1"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "notes": "Quantities are estimates (~): the video shows no amounts. Potatoes are assumed boiled beforehand. The bread looks crust-free: trim the crusts if you like. Oil heat and frying time are not shown. Deep fried: not a light dish. The pink dip in the video is not explained, so use any chutney or sauce."
+ },
+ "images": {
+  "cover": {
+   "t": 39.0,
+   "crop": [
+    0,
+    0,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-potato": {
+   "t": 9.0,
+   "crop": [
+    60,
+    20,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 11.7,
+   "crop": [
+    260,
+    0,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 12.6,
+   "crop": [
+    150,
+    40,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 13.5,
+   "crop": [
+    170,
+    0,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 15.0,
+   "crop": [
+    330,
+    0,
+    390,
+    390
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 16.5,
+   "crop": [
+    330,
+    0,
+    390,
+    390
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 24.4,
+   "crop": [
+    180,
+    190,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-crumbs": {
+   "t": 31.6,
+   "crop": [
+    200,
+    340,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 33.4,
+   "crop": [
+    0,
+    130,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-dip": {
+   "t": 6.0,
+   "crop": [
+    100,
+    160,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "s-mash-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    20,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 11.7,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 12.6,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    80,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-2": {
+   "t": 21.0,
+   "crop": [
+    0,
+    80,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-shape-3": {
+   "t": 22.5,
+   "crop": [
+    0,
+    80,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-1": {
+   "t": 23.8,
+   "crop": [
+    0,
+    80,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    80,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flat-1": {
+   "t": 26.8,
+   "crop": [
+    0,
+    80,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-wrap-1": {
+   "t": 27.4,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-wrap-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-seal-1": {
+   "t": 29.2,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-seal-2": {
+   "t": 30.4,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crumb-1": {
+   "t": 31.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-crumb-2": {
+   "t": 31.6,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 32.2,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 33.4,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 34.6,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 36.0,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 37.5,
+   "crop": [
+    0,
+    60,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 40.5,
+   "crop": [
+    0,
+    40,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

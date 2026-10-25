@@ -1,0 +1,531 @@
+{
+ "videos": [
+  "3842827672150338695"
+ ],
+ "dish": {
+  "id": "air-fryer-potato-wedges",
+  "name": "Air fryer potato wedges",
+  "meal": "Side",
+  "minutes": 40,
+  "protein": 5,
+  "how": "Air fryer",
+  "tools": "Air fryer, knife, steel bowl, small bowl, tongs",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~3 medium (500 g)",
+    "n": "Potatoes",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "a bowl, ~4 cups",
+    "n": "Ice and cold water, for soaking",
+    "tag": "ice",
+    "img": "i-ice"
+   },
+   {
+    "q": "~1.5 tbsp",
+    "n": "Olive oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Paprika",
+    "tag": "paprika",
+    "img": "i-paprika",
+    "alt": [
+     "red-chilli-powder"
+    ]
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Garlic powder",
+    "tag": "garlic-powder",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Dried oregano or parsley",
+    "tag": "oregano",
+    "img": "i-herb"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Grated cheese, to top",
+    "tag": "cheese",
+    "img": "i-cheese",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut the potatoes into thick wedges.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Put the wedges in a bowl of ice-cold water.",
+    "imgs": [
+     "s-ice-1",
+     "s-ice-2",
+     "s-ice-3"
+    ]
+   },
+   {
+    "t": "Drain them and tip them into a steel bowl.",
+    "imgs": [
+     "s-drain-1"
+    ]
+   },
+   {
+    "t": "Pat the wedges dry with a paper towel.",
+    "imgs": [
+     "s-dry-1",
+     "s-dry-2"
+    ]
+   },
+   {
+    "t": "Drizzle the oil over the wedges.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Mix paprika, chilli powder, garlic powder, dried herbs and salt in a small bowl.",
+    "imgs": [
+     "s-mix-1"
+    ]
+   },
+   {
+    "t": "Sprinkle the spice mix over the wedges.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Toss with your hands until every wedge is coated.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Lay the wedges in the air fryer basket in one layer.",
+    "imgs": [
+     "s-lay-1",
+     "s-lay-2"
+    ]
+   },
+   {
+    "t": "Air fry until golden and crisp.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2"
+    ]
+   },
+   {
+    "t": "Tip the hot wedges onto a plate.",
+    "imgs": [
+     "s-tip-1",
+     "s-tip-2",
+     "s-tip-3"
+    ]
+   },
+   {
+    "t": "Sprinkle grated cheese and dried herbs on top. Eat hot.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2",
+     "s-top-3"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer",
+   "quick"
+  ],
+  "notes": "Silent video with only a title card: all quantities are my estimates. Air fryer temperature and time are NOT shown (wedges look golden after one batch, around 200 C for 20 to 25 minutes is a normal guess, check as they cook). The spice piles are read from colour: paprika, red chilli, garlic powder, dried herb, salt. The cheese on top looks like parmesan, which is not always vegetarian: use any cheese or skip it. Minutes does not count the soak."
+ },
+ "images": {
+  "cover": {
+   "t": 21.0,
+   "crop": [
+    0,
+    330,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-potato": {
+   "t": 3.0,
+   "crop": [
+    0,
+    300,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-ice": {
+   "t": 5.5,
+   "crop": [
+    240,
+    40,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 9.0,
+   "crop": [
+    0,
+    560,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-paprika": {
+   "t": 10.0,
+   "crop": [
+    390,
+    440,
+    150,
+    150
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 10.0,
+   "crop": [
+    160,
+    740,
+    160,
+    160
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 10.0,
+   "crop": [
+    190,
+    440,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-herb": {
+   "t": 10.0,
+   "crop": [
+    100,
+    570,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 9.75,
+   "crop": [
+    440,
+    760,
+    210,
+    210
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 20.5,
+   "crop": [
+    100,
+    380,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ice-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ice-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ice-3": {
+   "t": 6.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drain-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dry-2": {
+   "t": 8.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 10.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 12.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 14.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lay-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lay-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tip-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tip-2": {
+   "t": 17.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tip-3": {
+   "t": 18.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

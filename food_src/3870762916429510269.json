@@ -1,0 +1,944 @@
+{
+  "videos": [
+    "3870762916429510269"
+  ],
+  "dish": {
+    "id": "dahi-aloo-rice",
+    "name": "Dahi aloo rice",
+    "meal": "Lunch or dinner",
+    "minutes": 25,
+    "protein": 10,
+    "how": "Gas",
+    "tools": "Dry pan, mortar, big bowl, whisk, small ladle (tadka), gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~3 medium, boiled",
+        "n": "Potatoes",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~1.5 tsp (1 tsp to roast, 1/2 tsp for tadka)",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1.5 cups (300 g), thick",
+        "n": "Curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "1 medium, chopped",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2, chopped",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "1 medium, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "a big handful, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1 tsp (from the roasted cumin)",
+        "n": "Roasted cumin powder (bhuna jeera)",
+        "tag": "cumin-powder",
+        "img": "i-cumin-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Black salt (kala namak)",
+        "tag": "black-salt",
+        "img": "i-black-salt"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder (deggi mirch)",
+        "tag": "red-chilli-powder",
+        "img": "i-red-chilli"
+      },
+      {
+        "q": "~1.5 cups (about 250 g), cooked",
+        "n": "Rice",
+        "tag": "rice",
+        "img": "i-rice"
+      }
+    ],
+    "tags": [
+      "gas",
+      "quick"
+    ],
+    "notes": "No amounts are given or shown clearly: all quantities are my estimates. The transcript is garbled; I read the powders as roasted cumin powder and black salt from the speech plus the colours. The video starts with potatoes already boiled and rice already cooked. The first 11 seconds show the cook standing (no food close-up), so the potato and curd pictures are small crops. The moment of pouring the tadka into the bowl is not shown: those pictures show the finished tadka, then the lid going on.",
+    "steps": [
+      {
+        "t": "Peel the boiled potatoes.",
+        "imgs": [
+          "s-peel-1",
+          "s-peel-2",
+          "s-peel-3"
+        ]
+      },
+      {
+        "t": "Roast the cumin seeds in a dry pan until they smell good.",
+        "imgs": [
+          "s-roast-1",
+          "s-roast-2"
+        ]
+      },
+      {
+        "t": "Crush the roasted cumin in a mortar to a powder.",
+        "imgs": [
+          "s-crush-1",
+          "s-crush-2",
+          "s-crush-3"
+        ]
+      },
+      {
+        "t": "Pour the thick curd into a big bowl.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2"
+        ]
+      },
+      {
+        "t": "Whisk the curd until smooth.",
+        "imgs": [
+          "s-whisk-1",
+          "s-whisk-2"
+        ]
+      },
+      {
+        "t": "Crumble the boiled potatoes into the curd by hand.",
+        "imgs": [
+          "s-pot-1",
+          "s-pot-2",
+          "s-pot-3"
+        ]
+      },
+      {
+        "t": "Add the chopped onion and green chillies.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add the chopped tomato.",
+        "imgs": [
+          "s-tom-1",
+          "s-tom-2"
+        ]
+      },
+      {
+        "t": "Add the chopped coriander.",
+        "imgs": [
+          "s-cor-1",
+          "s-cor-2"
+        ]
+      },
+      {
+        "t": "Add the roasted cumin powder.",
+        "imgs": [
+          "s-cp-1",
+          "s-cp-2"
+        ]
+      },
+      {
+        "t": "Add the black salt.",
+        "imgs": [
+          "s-bs-1",
+          "s-bs-2"
+        ]
+      },
+      {
+        "t": "Mix everything well.",
+        "imgs": [
+          "s-mix1-1",
+          "s-mix1-2",
+          "s-mix1-3"
+        ]
+      },
+      {
+        "t": "Pour the oil into a small ladle.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2",
+          "s-oil-3"
+        ]
+      },
+      {
+        "t": "Heat it on the gas and add the cumin seeds.",
+        "imgs": [
+          "s-tcum-1",
+          "s-tcum-2"
+        ]
+      },
+      {
+        "t": "Add the red chilli powder. Let it sizzle for a moment.",
+        "imgs": [
+          "s-tchi-1",
+          "s-tchi-2",
+          "s-tchi-3"
+        ]
+      },
+      {
+        "t": "Pour the hot tadka over the curd mix.",
+        "imgs": [
+          "s-tpour-1",
+          "s-tpour-2"
+        ]
+      },
+      {
+        "t": "Cover the bowl with its lid.",
+        "imgs": [
+          "s-lid-1",
+          "s-lid-2",
+          "s-lid-3"
+        ]
+      },
+      {
+        "t": "Open the lid and stir well. The dahi aloo is ready.",
+        "imgs": [
+          "s-mix2-1",
+          "s-mix2-2",
+          "s-mix2-3"
+        ]
+      },
+      {
+        "t": "Put the cooked rice on a plate.",
+        "imgs": [
+          "s-rice-1",
+          "s-rice-2"
+        ]
+      },
+      {
+        "t": "Ladle the dahi aloo over the rice.",
+        "imgs": [
+          "s-ladle-1",
+          "s-ladle-2",
+          "s-ladle-3"
+        ]
+      },
+      {
+        "t": "Mix the rice and dahi aloo together by hand.",
+        "imgs": [
+          "s-hand-1",
+          "s-hand-2",
+          "s-hand-3"
+        ]
+      },
+      {
+        "t": "Serve and eat right away.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2",
+          "s-serve-3"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "t": 65.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-potato": {
+      "t": 8.0,
+      "crop": [
+        330,
+        840,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 9.0,
+      "crop": [
+        230,
+        560,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 12.5,
+      "crop": [
+        150,
+        150,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 27.5,
+      "crop": [
+        40,
+        450,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 28.5,
+      "crop": [
+        60,
+        440,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 31.5,
+      "crop": [
+        330,
+        700,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 31.5,
+      "crop": [
+        130,
+        340,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-cumin-powder": {
+      "t": 32.0,
+      "crop": [
+        0,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-black-salt": {
+      "t": 34.0,
+      "crop": [
+        0,
+        0,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 40.5,
+      "crop": [
+        150,
+        350,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-red-chilli": {
+      "t": 45.5,
+      "crop": [
+        60,
+        250,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 58.0,
+      "crop": [
+        250,
+        20,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "s-peel-1": {
+      "t": 0.5,
+      "crop": [
+        60,
+        720,
+        420,
+        315
+      ],
+      "w": 480
+    },
+    "s-peel-2": {
+      "t": 2.5,
+      "crop": [
+        60,
+        720,
+        420,
+        315
+      ],
+      "w": 480
+    },
+    "s-peel-3": {
+      "t": 5.2,
+      "crop": [
+        100,
+        740,
+        420,
+        315
+      ],
+      "w": 480
+    },
+    "s-roast-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-2": {
+      "t": 13.0,
+      "crop": [
+        0,
+        220,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crush-1": {
+      "t": 14.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crush-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crush-3": {
+      "t": 17.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 19.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 20.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-whisk-1": {
+      "t": 21.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-whisk-2": {
+      "t": 22.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pot-1": {
+      "t": 23.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pot-2": {
+      "t": 24.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pot-3": {
+      "t": 25.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 26.7,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 28.3,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tom-1": {
+      "t": 29.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tom-2": {
+      "t": 29.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cor-1": {
+      "t": 30.2,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cor-2": {
+      "t": 30.8,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cp-1": {
+      "t": 32.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cp-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bs-1": {
+      "t": 34.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bs-2": {
+      "t": 34.5,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix1-1": {
+      "t": 35.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix1-2": {
+      "t": 36.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix1-3": {
+      "t": 37.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 39.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 40.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-3": {
+      "t": 41.3,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tcum-1": {
+      "t": 42.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tcum-2": {
+      "t": 43.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tchi-1": {
+      "t": 45.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tchi-2": {
+      "t": 46.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tchi-3": {
+      "t": 47.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tpour-1": {
+      "t": 47.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tpour-2": {
+      "t": 47.8,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-1": {
+      "t": 48.5,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-2": {
+      "t": 49.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-3": {
+      "t": 49.5,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix2-1": {
+      "t": 52.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix2-2": {
+      "t": 54.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix2-3": {
+      "t": 55.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-1": {
+      "t": 57.2,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-2": {
+      "t": 58.2,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ladle-1": {
+      "t": 59.5,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ladle-2": {
+      "t": 62.5,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ladle-3": {
+      "t": 64.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-hand-1": {
+      "t": 66.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-hand-2": {
+      "t": 67.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-hand-3": {
+      "t": 68.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 77.0,
+      "crop": [
+        0,
+        0,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 79.0,
+      "crop": [
+        0,
+        100,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-3": {
+      "t": 101.0,
+      "crop": [
+        0,
+        600,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

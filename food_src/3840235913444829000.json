@@ -1,0 +1,1290 @@
+{
+ "videos": [
+  "3840235913444829000"
+ ],
+ "dish": {
+  "id": "dahi-vada-cake",
+  "name": "Dahi vada cake",
+  "meal": "Snack",
+  "minutes": 120,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Mixie, hand mixer, steamer, round cake tin with paper, piping bags, palette knife",
+  "serves": 6,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Urad dal (white split)",
+    "tag": "urad-dal",
+    "img": "i-urad"
+   },
+   {
+    "q": "~1/2 cup (100 g)",
+    "n": "Moong dal (yellow split)",
+    "tag": "moong-dal",
+    "img": "i-moong",
+    "alt": [
+     "masoor-dal"
+    ]
+   },
+   {
+    "q": "1 to 2 cubes",
+    "n": "Ice cubes",
+    "tag": "ice",
+    "img": "i-ice"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Roasted cumin powder",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1 tsp in all",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "1 sachet (~5 g)",
+    "n": "Eno fruit salt",
+    "tag": "fruit-salt",
+    "img": "i-eno",
+    "alt": [
+     "baking-soda"
+    ]
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Water, for the syrup",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "a pinch",
+    "n": "Hing (asafoetida)",
+    "tag": "hing",
+    "img": "i-hing"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Jaggery powder",
+    "tag": "jaggery",
+    "img": "i-jaggery",
+    "alt": [
+     "sugar"
+    ]
+   },
+   {
+    "q": "~2 cups (400 g), thick",
+    "n": "Hung curd, whisked smooth",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Green chutney",
+    "tag": "green-chutney",
+    "img": "i-green"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Sweet tamarind chutney (imli)",
+    "tag": "tamarind-chutney",
+    "img": "i-tamarind"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1/3 cup",
+    "n": "Pomegranate seeds",
+    "tag": "pomegranate",
+    "img": "i-pom"
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Sev",
+    "tag": "sev",
+    "img": "i-sev"
+   },
+   {
+    "q": "~1/4 cup, whisked",
+    "n": "Curd, to pour on the plate",
+    "tag": "curd",
+    "opt": true,
+    "img": "i-curd2"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Fill a cup with urad dal. Tip it into a bowl.",
+    "imgs": [
+     "s-urad-1",
+     "s-urad-2"
+    ]
+   },
+   {
+    "t": "Fill the cup with moong dal. Tip it in.",
+    "imgs": [
+     "s-moong-1",
+     "s-moong-2"
+    ]
+   },
+   {
+    "t": "Soak both dals in water for 4 to 5 hours. Drain well.",
+    "imgs": [
+     "s-soak-1"
+    ]
+   },
+   {
+    "t": "Put the dal and the ice cubes in a mixie jar.",
+    "imgs": [
+     "s-jar-1",
+     "s-jar-2"
+    ]
+   },
+   {
+    "t": "Blend to a thick, smooth batter.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Beat the batter with a hand mixer until light and fluffy.",
+    "imgs": [
+     "s-whisk-1",
+     "s-whisk-2"
+    ]
+   },
+   {
+    "t": "Add the salt and roasted cumin powder. Fold in.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Drop a little batter in a bowl of water. It should float.",
+    "imgs": [
+     "s-float-1",
+     "s-float-2"
+    ]
+   },
+   {
+    "t": "Add the Eno on top of the batter.",
+    "imgs": [
+     "s-eno-1",
+     "s-eno-2"
+    ]
+   },
+   {
+    "t": "Pour a little water over the Eno.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Fold gently until the foam mixes in.",
+    "imgs": [
+     "s-fold-1",
+     "s-fold-2"
+    ]
+   },
+   {
+    "t": "Pour the batter into a round tin lined with paper. Spread it flat.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Put the tin in a steamer.",
+    "imgs": [
+     "s-steam-1",
+     "s-steam-2"
+    ]
+   },
+   {
+    "t": "Cover and steam until the cake is set.",
+    "imgs": [
+     "s-steam-3",
+     "s-steam-4"
+    ]
+   },
+   {
+    "t": "Turn the cake out of the tin. Peel off the paper.",
+    "imgs": [
+     "s-out-1",
+     "s-out-3"
+    ]
+   },
+   {
+    "t": "Cut the cake in half sideways into 2 layers. Let it cool.",
+    "imgs": [
+     "s-cake-1",
+     "s-cake-2"
+    ]
+   },
+   {
+    "t": "Add the salt to a bowl of water.",
+    "imgs": [
+     "s-syrup-1"
+    ]
+   },
+   {
+    "t": "Add the hing.",
+    "imgs": [
+     "s-syrup-2"
+    ]
+   },
+   {
+    "t": "Add the jaggery powder.",
+    "imgs": [
+     "s-syrup-4"
+    ]
+   },
+   {
+    "t": "Stir until the jaggery melts into a thin syrup.",
+    "imgs": [
+     "s-syrup-6"
+    ]
+   },
+   {
+    "t": "Drizzle the syrup over one cake layer.",
+    "imgs": [
+     "s-soak-l1",
+     "s-soak-l2"
+    ]
+   },
+   {
+    "t": "Pipe hung curd on the layer.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Spread it smooth with a knife.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2"
+    ]
+   },
+   {
+    "t": "Dot on the green chutney.",
+    "imgs": [
+     "s-green-1",
+     "s-green-2"
+    ]
+   },
+   {
+    "t": "Drizzle on the sweet tamarind chutney.",
+    "imgs": [
+     "s-tam-1",
+     "s-tam-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the red chilli powder.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Pipe more hung curd over the top in a ring.",
+    "imgs": [
+     "s-ring-1",
+     "s-ring-2"
+    ]
+   },
+   {
+    "t": "Smooth it flat with a knife.",
+    "imgs": [
+     "s-smooth-1",
+     "s-smooth-2"
+    ]
+   },
+   {
+    "t": "Place the second cake layer on top.",
+    "imgs": [
+     "s-layer-2",
+     "s-layer-3"
+    ]
+   },
+   {
+    "t": "Drizzle the syrup over the top layer.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2"
+    ]
+   },
+   {
+    "t": "Cover the top with hung curd. Smooth it with a knife.",
+    "imgs": [
+     "s-frost-1",
+     "s-frost-2"
+    ]
+   },
+   {
+    "t": "Coat the sides with hung curd and smooth them.",
+    "imgs": [
+     "s-side-1",
+     "s-side-2"
+    ]
+   },
+   {
+    "t": "Place pomegranate seeds on top in flower shapes.",
+    "imgs": [
+     "s-pom-1",
+     "s-pom-3"
+    ]
+   },
+   {
+    "t": "Pipe a dot of green chutney in the middle of each flower.",
+    "imgs": [
+     "s-dot-1",
+     "s-dot-2"
+    ]
+   },
+   {
+    "t": "Sprinkle sev on top and press it onto the sides.",
+    "imgs": [
+     "s-sev-1",
+     "s-sev-2"
+    ]
+   },
+   {
+    "t": "Pour whisked curd on a plate.",
+    "imgs": [
+     "s-plate-1"
+    ]
+   },
+   {
+    "t": "Cut a slice and set it on the plate.",
+    "imgs": [
+     "s-slice-1",
+     "s-slice-2"
+    ]
+   },
+   {
+    "t": "Drizzle the tamarind chutney over the slice.",
+    "imgs": [
+     "s-drizzle-1",
+     "s-drizzle-2"
+    ]
+   },
+   {
+    "t": "Top with green chutney, sev, pomegranate and chilli powder.",
+    "imgs": [
+     "s-garnish-1",
+     "s-garnish-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "notes": "Silent recipe with no amount text: all quantities are my estimates (the small red cup is about 1/2 cup). Soaking the dals is not shown: they go in already soft, so I added soak and drain (step 3 uses the closest frame). Cutting the cake into 2 layers is from the speech and the cut cake in the frames. Steaming time, flame level and how the hung curd was made are not shown. The brown and pink powders added to the batter look like roasted cumin and salt. Minutes does not count soaking, hanging the curd or cooling. Ghee/oil for the tin is not shown (the tin is lined with paper)."
+ },
+ "images": {
+  "cover": {
+   "t": 80.5,
+   "crop": [
+    0,
+    330,
+    720,
+    620
+   ],
+   "w": 560
+  },
+  "i-urad": {
+   "t": 16.5,
+   "crop": [
+    60,
+    500,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-moong": {
+   "t": 18.5,
+   "crop": [
+    60,
+    560,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-ice": {
+   "t": 21.5,
+   "crop": [
+    50,
+    330,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 25.5,
+   "crop": [
+    280,
+    130,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 42.5,
+   "crop": [
+    120,
+    330,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-eno": {
+   "t": 28.75,
+   "crop": [
+    150,
+    560,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 44.0,
+   "crop": [
+    60,
+    500,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-hing": {
+   "t": 43.0,
+   "crop": [
+    230,
+    700,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-jaggery": {
+   "t": 45.0,
+   "crop": [
+    60,
+    380,
+    600,
+    600
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 48.5,
+   "crop": [
+    100,
+    300,
+    540,
+    540
+   ],
+   "w": 200
+  },
+  "i-green": {
+   "t": 51.0,
+   "crop": [
+    160,
+    380,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-tamarind": {
+   "t": 52.5,
+   "crop": [
+    160,
+    380,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 54.5,
+   "crop": [
+    100,
+    500,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-pom": {
+   "t": 68.5,
+   "crop": [
+    100,
+    480,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-sev": {
+   "t": 72.0,
+   "crop": [
+    100,
+    520,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-curd2": {
+   "t": 72.5,
+   "crop": [
+    100,
+    320,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "s-urad-1": {
+   "t": 16.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-urad-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-moong-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-moong-2": {
+   "t": 18.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-soak-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    560,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-jar-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-jar-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 23.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-whisk-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-whisk-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 26.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-float-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-float-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-eno-1": {
+   "t": 28.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-eno-2": {
+   "t": 28.75,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-water-1": {
+   "t": 29.25,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 29.75,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fold-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-fold-2": {
+   "t": 32.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 35.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-steam-1": {
+   "t": 36.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-steam-2": {
+   "t": 36.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-steam-3": {
+   "t": 37.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-steam-4": {
+   "t": 38.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-out-1": {
+   "t": 39.5,
+   "crop": [
+    0,
+    450,
+    720,
+    650
+   ],
+   "w": 480
+  },
+  "s-out-3": {
+   "t": 40.5,
+   "crop": [
+    0,
+    450,
+    720,
+    650
+   ],
+   "w": 480
+  },
+  "s-cake-1": {
+   "t": 41.0,
+   "crop": [
+    0,
+    450,
+    720,
+    650
+   ],
+   "w": 480
+  },
+  "s-cake-2": {
+   "t": 42.0,
+   "crop": [
+    0,
+    450,
+    720,
+    650
+   ],
+   "w": 480
+  },
+  "s-syrup-1": {
+   "t": 42.5,
+   "crop": [
+    0,
+    400,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-syrup-2": {
+   "t": 43.0,
+   "crop": [
+    0,
+    400,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-syrup-4": {
+   "t": 45.0,
+   "crop": [
+    0,
+    400,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-syrup-6": {
+   "t": 46.0,
+   "crop": [
+    0,
+    400,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-soak-l1": {
+   "t": 46.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-soak-l2": {
+   "t": 47.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 48.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 49.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 50.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 50.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-green-1": {
+   "t": 51.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-green-2": {
+   "t": 51.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-tam-1": {
+   "t": 52.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-tam-2": {
+   "t": 52.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 53.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 54.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-ring-1": {
+   "t": 55.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-ring-2": {
+   "t": 57.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-smooth-1": {
+   "t": 58.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-smooth-2": {
+   "t": 58.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-layer-2": {
+   "t": 59.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-layer-3": {
+   "t": 60.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 60.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 61.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-frost-1": {
+   "t": 62.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-frost-2": {
+   "t": 64.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-side-1": {
+   "t": 65.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-side-2": {
+   "t": 66.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-pom-1": {
+   "t": 66.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-pom-3": {
+   "t": 69.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-dot-1": {
+   "t": 70.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-dot-2": {
+   "t": 70.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-sev-1": {
+   "t": 71.5,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-sev-2": {
+   "t": 72.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 72.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-slice-1": {
+   "t": 73.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-slice-2": {
+   "t": 74.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-drizzle-1": {
+   "t": 75.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-drizzle-2": {
+   "t": 76.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-garnish-1": {
+   "t": 77.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-garnish-2": {
+   "t": 80.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  }
+ }
+}

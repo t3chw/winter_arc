@@ -1,0 +1,540 @@
+{
+ "videos": [
+  "3970067690404207459"
+ ],
+ "dish": {
+  "id": "air-fryer-bread-pizza",
+  "name": "Air fryer bread pizza",
+  "meal": "Lunch or dinner",
+  "minutes": 25,
+  "protein": 30,
+  "how": "Air fryer",
+  "tools": "Air fryer, spoon, spatula",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "8 slices",
+    "n": "White bread",
+    "tag": "bread",
+    "img": "i-bread"
+   },
+   {
+    "q": "4 slices",
+    "n": "Cheese slices",
+    "tag": "cheese",
+    "img": "i-cheeseslice"
+   },
+   {
+    "q": "~4 tbsp",
+    "n": "Pizza and pasta sauce",
+    "tag": "pizza-sauce",
+    "alt": [
+     "tomato-ketchup"
+    ],
+    "img": "i-sauce"
+   },
+   {
+    "q": "~1 cup (100 g), diced",
+    "n": "Capsicum (green, yellow and red)",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~3 tbsp (40 g), boiled",
+    "n": "Sweet corn",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~1/2 medium, diced",
+    "n": "Red onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~60 g, small cubes",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1/2 cup (50 g)",
+    "n": "Cheese, grated (mozzarella)",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "opt": true,
+    "img": "i-oregano"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Place 4 slices of bread in the air fryer basket.",
+    "imgs": [
+     "s-bread-2"
+    ]
+   },
+   {
+    "t": "Lay a cheese slice on each slice of bread.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Cover each cheese slice with another slice of bread.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2"
+    ]
+   },
+   {
+    "t": "Squeeze pizza sauce over the top slices.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2"
+    ]
+   },
+   {
+    "t": "Spread the sauce evenly with a spoon.",
+    "imgs": [
+     "s-spread-2"
+    ]
+   },
+   {
+    "t": "Scatter diced green, yellow and red capsicum on top.",
+    "imgs": [
+     "s-capsicum-1",
+     "s-capsicum-2"
+    ]
+   },
+   {
+    "t": "Add the boiled sweet corn.",
+    "imgs": [
+     "s-corn-2"
+    ]
+   },
+   {
+    "t": "Add the red onion pieces.",
+    "imgs": [
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Cover everything with grated cheese.",
+    "imgs": [
+     "s-cheesetop-2"
+    ]
+   },
+   {
+    "t": "Grind or sprinkle oregano over the top.",
+    "imgs": [
+     "s-oregano-1"
+    ]
+   },
+   {
+    "t": "Slide the basket into the air fryer.",
+    "imgs": [
+     "s-close-1"
+    ]
+   },
+   {
+    "t": "Set it to 180 C for 15 minutes and start.",
+    "imgs": [
+     "s-set-1",
+     "s-set-2"
+    ]
+   },
+   {
+    "t": "Air fry until the cheese is melted and golden.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2",
+     "s-fry-3"
+    ]
+   },
+   {
+    "t": "Lift the pizza out with a spatula onto a plate.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2"
+    ]
+   },
+   {
+    "t": "Pull apart into 4 squares and eat hot.",
+    "imgs": [
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer",
+   "high-protein"
+  ],
+  "notes": "Silent video, no on-screen amounts: all quantities are estimates (~). 8 bread slices = 4 below and 4 above the cheese slices. Sauce pouch reads Pizza & Pasta. White cubes assumed paneer; seasoning grinder assumed oregano."
+ },
+ "images": {
+  "cover": {
+   "t": 40.5,
+   "crop": [
+    0,
+    280,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-bread": {
+   "t": 3.3,
+   "crop": [
+    130,
+    590,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cheeseslice": {
+   "t": 5.5,
+   "crop": [
+    100,
+    600,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-sauce": {
+   "t": 10.6,
+   "crop": [
+    400,
+    300,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 16.5,
+   "crop": [
+    140,
+    650,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 19.8,
+   "crop": [
+    140,
+    650,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 21.5,
+   "crop": [
+    140,
+    640,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 24.5,
+   "crop": [
+    150,
+    620,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 27.5,
+   "crop": [
+    300,
+    640,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 27.0,
+   "crop": [
+    180,
+    120,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "s-bread-2": {
+   "t": 3.3,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 4.4,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 6.6,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 8.8,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 9.9,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 13.2,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-capsicum-1": {
+   "t": 14.3,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-capsicum-2": {
+   "t": 16.5,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-corn-2": {
+   "t": 19.8,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheesetop-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oregano-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-close-1": {
+   "t": 29.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-set-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    320,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-set-2": {
+   "t": 31.0,
+   "crop": [
+    0,
+    320,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 33.0,
+   "crop": [
+    0,
+    520,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 35.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 36.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 38.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 39.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 44.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

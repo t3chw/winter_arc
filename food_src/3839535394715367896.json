@@ -1,0 +1,452 @@
+{
+ "videos": [
+  "3839535394715367896"
+ ],
+ "dish": {
+  "id": "heart-chocolate-dates",
+  "name": "Heart chocolate dates",
+  "meal": "Snack",
+  "minutes": 30,
+  "protein": 5,
+  "how": "Gas",
+  "tools": "Knife, fork, bowl, lined tray, piping bag, small brush",
+  "serves": 4,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~12 large",
+    "n": "Dates (Medjool), pitted",
+    "tag": "dates",
+    "img": "i-dates"
+   },
+   {
+    "q": "~12 whole",
+    "n": "Almonds",
+    "tag": "almonds",
+    "img": "i-almonds"
+   },
+   {
+    "q": "~150 g, melted",
+    "n": "Chocolate (milk or dark)",
+    "tag": "chocolate",
+    "img": "i-chocolate",
+    "alt": [
+     "chocolate-chips"
+    ]
+   },
+   {
+    "q": "~30 g, melted",
+    "n": "White chocolate",
+    "tag": "white-chocolate",
+    "img": "i-white"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Flaked almonds",
+    "tag": "almonds",
+    "img": "i-flakes",
+    "opt": true
+   },
+   {
+    "q": "a pinch",
+    "n": "Edible gold dust",
+    "tag": "edible-gold",
+    "img": "i-gold",
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut a date in two.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2"
+    ]
+   },
+   {
+    "t": "Put a whole almond between the two pieces.",
+    "imgs": [
+     "s-almond-1",
+     "s-almond-2"
+    ]
+   },
+   {
+    "t": "Press the pieces together into a heart shape.",
+    "imgs": [
+     "s-heart-1",
+     "s-heart-2",
+     "s-heart-3"
+    ]
+   },
+   {
+    "t": "Dip the heart in the melted chocolate.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2"
+    ]
+   },
+   {
+    "t": "Turn it with a fork until it is fully coated.",
+    "imgs": [
+     "s-turn-1",
+     "s-turn-2",
+     "s-turn-3"
+    ]
+   },
+   {
+    "t": "Lift it out and let the extra chocolate drip off.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2"
+    ]
+   },
+   {
+    "t": "Place it on a lined tray.",
+    "imgs": [
+     "s-tray-1",
+     "s-tray-2",
+     "s-tray-3"
+    ]
+   },
+   {
+    "t": "Drizzle melted white chocolate on top.",
+    "imgs": [
+     "s-drizzle-1",
+     "s-drizzle-2",
+     "s-drizzle-3"
+    ]
+   },
+   {
+    "t": "Press a few flaked almonds on top.",
+    "imgs": [
+     "s-flake-1",
+     "s-flake-2"
+    ]
+   },
+   {
+    "t": "Brush on a little gold dust.",
+    "imgs": [
+     "s-gold-1",
+     "s-gold-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas"
+  ],
+  "credit": "chefburcinarda",
+  "notes": "Silent video, no text, no amounts: all quantities are my estimates. Melting the chocolate is not shown (melt it in a bowl over a pan of hot water). The date looks already pitted. Setting time is not shown; the hearts look glossy and set by the end. Gold dust and flaked almonds are decoration."
+ },
+ "images": {
+  "cover": {
+   "t": 14.0,
+   "crop": [
+    0,
+    300,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-dates": {
+   "t": 0.0,
+   "crop": [
+    120,
+    450,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-almonds": {
+   "t": 2.0,
+   "crop": [
+    200,
+    560,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-chocolate": {
+   "t": 7.0,
+   "crop": [
+    100,
+    400,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-white": {
+   "t": 11.5,
+   "crop": [
+    30,
+    20,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 14.0,
+   "crop": [
+    200,
+    380,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-gold": {
+   "t": 13.5,
+   "crop": [
+    200,
+    20,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 1.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-almond-1": {
+   "t": 1.75,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-almond-2": {
+   "t": 2.25,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heart-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heart-2": {
+   "t": 3.75,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heart-3": {
+   "t": 4.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turn-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turn-2": {
+   "t": 7.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turn-3": {
+   "t": 7.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 8.5,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tray-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tray-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tray-3": {
+   "t": 10.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drizzle-1": {
+   "t": 11.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drizzle-2": {
+   "t": 11.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-drizzle-3": {
+   "t": 12.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flake-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flake-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gold-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

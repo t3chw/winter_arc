@@ -1,0 +1,944 @@
+{
+ "videos": [
+  "3948287754265551434"
+ ],
+ "dish": {
+  "id": "chilli-soya-bowl",
+  "name": "Chilli soya",
+  "meal": "Lunch or dinner",
+  "minutes": 30,
+  "protein": 30,
+  "how": "Gas",
+  "tools": "Pot, wok or deep pan, gas, brush, bowl",
+  "serves": 1,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~60 g (1 cup dry)",
+    "n": "Soya chunks",
+    "tag": "soya-chunks",
+    "img": "i-soya"
+   },
+   {
+    "q": "~1 tsp in total",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli-powder"
+   },
+   {
+    "q": "~3 tbsp in total",
+    "n": "Corn flour",
+    "tag": "corn-flour",
+    "img": "i-cornflour"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil, for brushing the pan",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~5 cloves, chopped",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "1 medium, in chunks",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1 medium, in chunks",
+    "n": "Capsicum",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "1, sliced",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "opt": true,
+    "img": "i-green-chilli"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Tomato ketchup",
+    "tag": "tomato-ketchup",
+    "img": "i-ketchup"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Vinegar",
+    "tag": "vinegar",
+    "img": "i-vinegar"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Soy sauce",
+    "tag": "soy-sauce",
+    "img": "i-soy-sauce"
+   },
+   {
+    "q": "~1/4 cup, plus water for boiling",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Sesame seeds",
+    "tag": "sesame-seeds",
+    "opt": true,
+    "img": "i-sesame"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Boil water in a pot and add a pinch of salt.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Add the soya chunks and boil until soft.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-2",
+     "s-boil-3"
+    ]
+   },
+   {
+    "t": "Lift out the chunks and squeeze out all the water.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2",
+     "s-lift-3"
+    ]
+   },
+   {
+    "t": "Add a pinch of salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-spice-1",
+     "s-spice-2"
+    ]
+   },
+   {
+    "t": "Add the corn flour.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2"
+    ]
+   },
+   {
+    "t": "Mix well until every chunk is coated.",
+    "imgs": [
+     "s-flour-3"
+    ]
+   },
+   {
+    "t": "Brush a wok with oil and heat it on the gas.",
+    "imgs": [
+     "s-brush-1",
+     "s-brush-2"
+    ]
+   },
+   {
+    "t": "Spread the chunks in the wok and fry until golden.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2",
+     "s-fry-3"
+    ]
+   },
+   {
+    "t": "Take the fried chunks out into a bowl.",
+    "imgs": [
+     "s-out-1",
+     "s-out-2"
+    ]
+   },
+   {
+    "t": "Add a little oil to the same wok.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Add the chopped garlic.",
+    "imgs": [
+     "s-garlic-1",
+     "s-garlic-2"
+    ]
+   },
+   {
+    "t": "Add the onion chunks and green chilli.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the capsicum chunks.",
+    "imgs": [
+     "s-capsicum-1",
+     "s-capsicum-2"
+    ]
+   },
+   {
+    "t": "Add the ketchup, vinegar and soy sauce.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2",
+     "s-sauce-3"
+    ]
+   },
+   {
+    "t": "Stir well.",
+    "imgs": [
+     "s-stir-1"
+    ]
+   },
+   {
+    "t": "Add a spoon of salt.",
+    "imgs": [
+     "s-salt2-1",
+     "s-salt2-2"
+    ]
+   },
+   {
+    "t": "Mix corn flour with water and pour it in.",
+    "imgs": [
+     "s-slurry-1",
+     "s-slurry-2"
+    ]
+   },
+   {
+    "t": "Add a splash of water.",
+    "imgs": [
+     "s-water2-1"
+    ]
+   },
+   {
+    "t": "Stir until the sauce turns thick and glossy.",
+    "imgs": [
+     "s-thicken-1",
+     "s-thicken-2"
+    ]
+   },
+   {
+    "t": "Add the fried soya chunks.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "Toss until every chunk is coated in sauce.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2",
+     "s-toss-3"
+    ]
+   },
+   {
+    "t": "Spoon it into a bowl.",
+    "imgs": [
+     "s-bowl-1",
+     "s-bowl-2",
+     "s-bowl-3"
+    ]
+   },
+   {
+    "t": "Sprinkle sesame seeds on top and serve hot.",
+    "imgs": [
+     "s-sesame-1",
+     "s-sesame-2",
+     "s-sesame-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "Hindi speech is garbled and no amounts are given: all quantities are guesses (the on-screen text says 30 g protein and 380 kcal for the finished bowl). The white powder added to the soya before frying looks like corn flour, and the white milky mix poured into the sauce looks like corn flour in water; the white powder spooned into the sauce looks like salt (could be sugar). Boiling and frying times are not shown."
+ },
+ "images": {
+  "cover": {
+   "t": 5.0,
+   "crop": [
+    0,
+    370,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-soya": {
+   "t": 18.1,
+   "crop": [
+    120,
+    300,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 22.0,
+   "crop": [
+    200,
+    500,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-chilli-powder": {
+   "t": 22.6,
+   "crop": [
+    0,
+    500,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-cornflour": {
+   "t": 23.9,
+   "crop": [
+    250,
+    440,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 30.9,
+   "crop": [
+    150,
+    260,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 32.0,
+   "crop": [
+    250,
+    300,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 33.2,
+   "crop": [
+    100,
+    420,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 34.4,
+   "crop": [
+    150,
+    420,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-green-chilli": {
+   "t": 33.8,
+   "crop": [
+    260,
+    520,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-ketchup": {
+   "t": 36.4,
+   "crop": [
+    150,
+    500,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-vinegar": {
+   "t": 36.8,
+   "crop": [
+    400,
+    350,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-soy-sauce": {
+   "t": 37.3,
+   "crop": [
+    250,
+    300,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 17.0,
+   "crop": [
+    150,
+    450,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-water-1": {
+   "t": 17.2,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 17.6,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-2": {
+   "t": 18.8,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-3": {
+   "t": 19.4,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    390,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 20.8,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-3": {
+   "t": 21.4,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 22.6,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 23.6,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flour-3": {
+   "t": 25.0,
+   "crop": [
+    0,
+    420,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-1": {
+   "t": 25.7,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-brush-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 28.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 28.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-1": {
+   "t": 29.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-out-2": {
+   "t": 30.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 30.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 31.2,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-2": {
+   "t": 32.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 33.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 33.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-capsicum-1": {
+   "t": 34.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-capsicum-2": {
+   "t": 35.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 36.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 36.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sauce-3": {
+   "t": 37.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 39.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt2-1": {
+   "t": 39.4,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt2-2": {
+   "t": 39.9,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-slurry-1": {
+   "t": 40.3,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-slurry-2": {
+   "t": 40.8,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-water2-1": {
+   "t": 41.3,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-thicken-1": {
+   "t": 42.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-thicken-2": {
+   "t": 42.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 43.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 44.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 45.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 46.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-3": {
+   "t": 47.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-1": {
+   "t": 48.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-2": {
+   "t": 49.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bowl-3": {
+   "t": 50.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sesame-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sesame-2": {
+   "t": 10.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sesame-3": {
+   "t": 17.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "i-water": {
+   "t": 17.2,
+   "crop": [
+    100,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  }
+ }
+}

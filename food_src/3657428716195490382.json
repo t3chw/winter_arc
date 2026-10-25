@@ -1,0 +1,767 @@
+{
+  "videos": [
+    "3657428716195490382"
+  ],
+  "dish": {
+    "id": "soaked-dry-fruit-milk-shake",
+    "name": "Soaked dry fruit milk shake",
+    "meal": "Drink",
+    "minutes": 10,
+    "protein": 15,
+    "how": "No cooking",
+    "tools": "Tall glass, strainer, mixie jar, small bowl",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 tall glass (250 ml)",
+        "n": "Water, for soaking",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "8",
+        "n": "Almonds (badam)",
+        "tag": "almonds",
+        "img": "i-almonds"
+      },
+      {
+        "q": "4",
+        "n": "Cashews (kaju)",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "2",
+        "n": "Walnuts (akhrot)",
+        "tag": "walnuts",
+        "img": "i-walnuts"
+      },
+      {
+        "q": "10 to 12",
+        "n": "Raisins (kishmish)",
+        "tag": "raisins",
+        "img": "i-raisins"
+      },
+      {
+        "q": "2",
+        "n": "Dried figs (anjeer)",
+        "tag": "fig",
+        "img": "i-fig"
+      },
+      {
+        "q": "4",
+        "n": "Dates (khajoor)",
+        "tag": "dates",
+        "img": "i-dates"
+      },
+      {
+        "q": "10",
+        "n": "Pistachios (pista)",
+        "tag": "pistachios",
+        "img": "i-pistachios"
+      },
+      {
+        "q": "1 tbsp",
+        "n": "Pumpkin seeds (kaddu ke beej)",
+        "tag": "pumpkin-seeds",
+        "img": "i-pumpkin"
+      },
+      {
+        "q": "~1 cup (250 ml)",
+        "n": "Milk",
+        "tag": "milk",
+        "img": "i-milk"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Honey or syrup",
+        "tag": "honey",
+        "opt": true,
+        "img": "i-honey"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Fill a tall glass with water.",
+        "imgs": [
+          "s-water-1"
+        ]
+      },
+      {
+        "t": "Add 8 almonds.",
+        "imgs": [
+          "s-almonds-1",
+          "s-almonds-2"
+        ]
+      },
+      {
+        "t": "Add 4 cashews.",
+        "imgs": [
+          "s-cashews-1",
+          "s-cashews-2"
+        ]
+      },
+      {
+        "t": "Add 2 walnuts.",
+        "imgs": [
+          "s-walnuts-1",
+          "s-walnuts-2"
+        ]
+      },
+      {
+        "t": "Add 10 to 12 raisins.",
+        "imgs": [
+          "s-raisins-1",
+          "s-raisins-2"
+        ]
+      },
+      {
+        "t": "Add 2 dried figs.",
+        "imgs": [
+          "s-fig-1",
+          "s-fig-2"
+        ]
+      },
+      {
+        "t": "Add 4 dates.",
+        "imgs": [
+          "s-dates-1",
+          "s-dates-2"
+        ]
+      },
+      {
+        "t": "Add 10 pistachios.",
+        "imgs": [
+          "s-pistachios-1",
+          "s-pistachios-2"
+        ]
+      },
+      {
+        "t": "Add 1 tbsp pumpkin seeds.",
+        "imgs": [
+          "s-pumpkin-1",
+          "s-pumpkin-2"
+        ]
+      },
+      {
+        "t": "Stir, then leave everything to soak overnight.",
+        "imgs": [
+          "s-soak-1",
+          "s-soak-2",
+          "s-soak-3"
+        ]
+      },
+      {
+        "t": "Next morning, pour the glass through a strainer.",
+        "imgs": [
+          "s-strain-1",
+          "s-strain-2",
+          "s-strain-3"
+        ]
+      },
+      {
+        "t": "Let the water drain out and throw it away.",
+        "imgs": [
+          "s-drain-1",
+          "s-drain-2"
+        ]
+      },
+      {
+        "t": "Tip the soaked nuts and fruit into the mixie jar.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2",
+          "s-jar-3"
+        ]
+      },
+      {
+        "t": "Pour in the milk.",
+        "imgs": [
+          "s-milk-1",
+          "s-milk-2",
+          "s-milk-3"
+        ]
+      },
+      {
+        "t": "Add the honey.",
+        "imgs": [
+          "s-honey-1",
+          "s-honey-2",
+          "s-honey-3"
+        ]
+      },
+      {
+        "t": "Close the lid and blend until smooth and creamy.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2",
+          "s-blend-3"
+        ]
+      },
+      {
+        "t": "Pour the shake into a tall glass.",
+        "imgs": [
+          "s-pour-1",
+          "s-pour-2",
+          "s-pour-3"
+        ]
+      },
+      {
+        "t": "Drink it fresh.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "blender"
+    ],
+    "credit": "ASMR Indian Chef",
+    "notes": "Hindi speech: counts and amounts come from the voice (8 almonds, 4 cashews, 2 walnuts, 10 to 12 raisins, 2 figs, 4 dates, 10 pistachios, 1 tbsp pumpkin seeds). Milk amount (about 1 cup from the steel jug) and honey amount are my estimates. The part of the speech between draining and drinking was cut off, so the order of milk, honey and blending is from the pictures. After the milk, an amber liquid from a small bowl and then a thin stream from a squeeze bottle go in: I read both as honey (or a sweet syrup), so honey is marked optional. Soaking is overnight and is extra to the 10 minutes. The video then makes health claims (about weakness and tiredness): left out. A white chunk floats in the glass while pouring: not explained, ignore it."
+  },
+  "images": {
+    "cover": {
+      "t": 36.0,
+      "crop": [
+        60,
+        240,
+        600,
+        720
+      ],
+      "w": 560
+    },
+    "i-water": {
+      "t": 0.05,
+      "crop": [
+        150,
+        340,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-almonds": {
+      "t": 0.2,
+      "crop": [
+        180,
+        0,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 1.4,
+      "crop": [
+        130,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-walnuts": {
+      "t": 3.8,
+      "crop": [
+        170,
+        520,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-raisins": {
+      "t": 4.3,
+      "crop": [
+        130,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-fig": {
+      "t": 5.0,
+      "crop": [
+        130,
+        20,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-dates": {
+      "t": 7.0,
+      "crop": [
+        200,
+        80,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-pistachios": {
+      "t": 8.2,
+      "crop": [
+        130,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-pumpkin": {
+      "t": 9.8,
+      "crop": [
+        150,
+        0,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-milk": {
+      "t": 21.2,
+      "crop": [
+        300,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-honey": {
+      "t": 24.5,
+      "crop": [
+        150,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-water-1": {
+      "t": 0.05,
+      "crop": [
+        0,
+        330,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-almonds-1": {
+      "t": 0.2,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-almonds-2": {
+      "t": 0.8,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cashews-1": {
+      "t": 1.4,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-cashews-2": {
+      "t": 2.2,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-walnuts-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-walnuts-2": {
+      "t": 3.8,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-raisins-1": {
+      "t": 4.3,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-raisins-2": {
+      "t": 4.8,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fig-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fig-2": {
+      "t": 6.2,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-dates-1": {
+      "t": 6.6,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-dates-2": {
+      "t": 7.4,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pistachios-1": {
+      "t": 8.2,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pistachios-2": {
+      "t": 8.6,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pumpkin-1": {
+      "t": 9.8,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-pumpkin-2": {
+      "t": 10.4,
+      "crop": [
+        0,
+        100,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-soak-3": {
+      "t": 13.5,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-strain-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        0,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-strain-2": {
+      "t": 15.0,
+      "crop": [
+        0,
+        0,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-strain-3": {
+      "t": 16.0,
+      "crop": [
+        0,
+        0,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-drain-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-drain-2": {
+      "t": 18.0,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        0,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 20.0,
+      "crop": [
+        0,
+        0,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-jar-3": {
+      "t": 20.8,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-1": {
+      "t": 21.2,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-milk-2": {
+      "t": 21.8,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-3": {
+      "t": 22.6,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-honey-1": {
+      "t": 23.0,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-honey-2": {
+      "t": 24.0,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-honey-3": {
+      "t": 25.5,
+      "crop": [
+        0,
+        150,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 27.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 28.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-blend-3": {
+      "t": 29.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pour-1": {
+      "t": 30.2,
+      "crop": [
+        0,
+        250,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-pour-2": {
+      "t": 31.4,
+      "crop": [
+        0,
+        250,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-pour-3": {
+      "t": 32.6,
+      "crop": [
+        0,
+        250,
+        720,
+        650
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 35.0,
+      "crop": [
+        60,
+        240,
+        600,
+        720
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 36.5,
+      "crop": [
+        60,
+        240,
+        600,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

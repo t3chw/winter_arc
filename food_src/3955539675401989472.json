@@ -1,0 +1,624 @@
+{
+ "videos": [
+  "3955539675401989472"
+ ],
+ "dish": {
+  "id": "hung-curd-veg-sandwich",
+  "name": "Hung curd veggie sandwich",
+  "meal": "Breakfast",
+  "minutes": 15,
+  "protein": 10,
+  "how": "No cooking",
+  "tools": "Bowl, spoon, knife",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (200 g)",
+    "n": "Hung curd (thick curd, water drained)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~1/4 cup, grated",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "~1/4 cup, finely chopped",
+    "n": "Cucumber",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "~1/4 cup, shredded",
+    "n": "Lettuce",
+    "tag": "lettuce",
+    "img": "i-lettuce"
+   },
+   {
+    "q": "~2 tbsp, finely chopped",
+    "n": "Red onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 tbsp, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "a pinch",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Green chutney (mint-coriander)",
+    "tag": "green-chutney",
+    "img": "i-chutney"
+   },
+   {
+    "q": "4 slices",
+    "n": "White bread, crusts removed",
+    "tag": "bread",
+    "img": "i-bread"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Put the hung curd in a wide bowl.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add the grated carrot.",
+    "imgs": [
+     "s-carrot-1",
+     "s-carrot-2"
+    ]
+   },
+   {
+    "t": "Add the chopped cucumber.",
+    "imgs": [
+     "s-cucumber-1",
+     "s-cucumber-2"
+    ]
+   },
+   {
+    "t": "Add the shredded lettuce.",
+    "imgs": [
+     "s-lettuce-1",
+     "s-lettuce-2"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Add a pinch of salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Add a pinch of black pepper.",
+    "imgs": [
+     "s-pepper-1",
+     "s-pepper-2"
+    ]
+   },
+   {
+    "t": "Mix well until everything is coated in the curd.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Spread green chutney on two slices of bread.",
+    "imgs": [
+     "s-chutney-1",
+     "s-chutney-2"
+    ]
+   },
+   {
+    "t": "Pile the curd filling on the chutney.",
+    "imgs": [
+     "s-fill-1",
+     "s-fill-2",
+     "s-fill-3"
+    ]
+   },
+   {
+    "t": "Spread chutney on two more slices and close the sandwiches, chutney side down.",
+    "imgs": [
+     "s-close-1",
+     "s-close-2"
+    ]
+   },
+   {
+    "t": "Press down gently.",
+    "imgs": [
+     "s-press-1",
+     "s-press-2"
+    ]
+   },
+   {
+    "t": "Cut each sandwich into slices.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Serve with green chutney on the side.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "no-cook",
+   "quick"
+  ],
+  "notes": "Silent video with no amounts: all quantities are guesses; filling is probably enough for more than 2 sandwiches. The pale diced vegetable looks like cucumber, the frilly green looks like coriander (could be parsley or mint). The crusts are already off the bread; the video does not show cutting them. The video label says 'Everyday Sandwiches' (series title only)."
+ },
+ "images": {
+  "cover": {
+   "t": 1.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-curd": {
+   "t": 5.0,
+   "crop": [
+    200,
+    660,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 3.6,
+   "crop": [
+    150,
+    520,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 5.0,
+   "crop": [
+    0,
+    720,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-lettuce": {
+   "t": 6.45,
+   "crop": [
+    400,
+    680,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 6.45,
+   "crop": [
+    320,
+    580,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 6.45,
+   "crop": [
+    100,
+    580,
+    290,
+    290
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 6.6,
+   "crop": [
+    180,
+    230,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 7.3,
+   "crop": [
+    170,
+    340,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-chutney": {
+   "t": 10.0,
+   "crop": [
+    180,
+    640,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-bread": {
+   "t": 3.8,
+   "crop": [
+    170,
+    20,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-curd-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 3.2,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-carrot-1": {
+   "t": 3.5,
+   "crop": [
+    0,
+    400,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-carrot-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    400,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cucumber-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cucumber-2": {
+   "t": 4.7,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-lettuce-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-lettuce-2": {
+   "t": 5.2,
+   "crop": [
+    0,
+    480,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 5.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 5.7,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 5.95,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 6.2,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 6.6,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-pepper-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-pepper-2": {
+   "t": 7.4,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 8.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 9.0,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chutney-1": {
+   "t": 9.6,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chutney-2": {
+   "t": 10.0,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fill-1": {
+   "t": 10.6,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fill-2": {
+   "t": 11.2,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-fill-3": {
+   "t": 11.8,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-close-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    200,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-close-2": {
+   "t": 13.0,
+   "crop": [
+    0,
+    200,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-press-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-press-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 15.8,
+   "crop": [
+    0,
+    380,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 0.3,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 2.0,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  }
+ }
+}

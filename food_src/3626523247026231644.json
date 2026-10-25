@@ -1,0 +1,505 @@
+{
+  "videos": [
+    "3626523247026231644"
+  ],
+  "dish": {
+    "id": "makhana-milk-fruit-bowl",
+    "name": "Makhana milk fruit bowl",
+    "meal": "Breakfast",
+    "minutes": 10,
+    "protein": 15,
+    "how": "No cooking",
+    "tools": "Bowl with lid, small steel bowl, spoon",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "20 g (about 1 cup)",
+        "n": "Makhana (fox nuts)",
+        "tag": "makhana",
+        "img": "i-makhana"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Chia seeds",
+        "tag": "chia-seeds",
+        "img": "i-chia"
+      },
+      {
+        "q": "~6",
+        "n": "Almonds",
+        "tag": "almonds",
+        "img": "i-almonds"
+      },
+      {
+        "q": "~6",
+        "n": "Cashews",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Pistachios",
+        "tag": "pistachios",
+        "img": "i-pistachios"
+      },
+      {
+        "q": "~1 tbsp",
+        "n": "Raisins (kismis)",
+        "tag": "raisins",
+        "img": "i-raisins"
+      },
+      {
+        "q": "a few strands",
+        "n": "Saffron (kesar)",
+        "tag": "saffron",
+        "img": "i-saffron"
+      },
+      {
+        "q": "150 ml",
+        "n": "Milk",
+        "tag": "milk",
+        "img": "i-milk"
+      },
+      {
+        "q": "~1/2 apple",
+        "n": "Apple, sliced and diced",
+        "tag": "apple",
+        "img": "i-apple"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put 20 g makhana in a bowl.",
+        "imgs": [
+          "s-makhana-1",
+          "s-makhana-2"
+        ]
+      },
+      {
+        "t": "Add 1 tsp chia seeds.",
+        "imgs": [
+          "s-chia-1",
+          "s-chia-2"
+        ]
+      },
+      {
+        "t": "Add the almonds.",
+        "imgs": [
+          "s-almonds-1",
+          "s-almonds-2"
+        ]
+      },
+      {
+        "t": "Add the cashews.",
+        "imgs": [
+          "s-cashews-1",
+          "s-cashews-2"
+        ]
+      },
+      {
+        "t": "Add the pistachios.",
+        "imgs": [
+          "s-pistachios-1"
+        ]
+      },
+      {
+        "t": "Add the raisins (kismis).",
+        "imgs": [
+          "s-raisins-1"
+        ]
+      },
+      {
+        "t": "Add a few strands of saffron.",
+        "imgs": [
+          "s-saffron-1",
+          "s-saffron-2"
+        ]
+      },
+      {
+        "t": "Pour in 150 ml milk.",
+        "imgs": [
+          "s-milk-1",
+          "s-milk-2",
+          "s-milk-3"
+        ]
+      },
+      {
+        "t": "Cover with a lid and press a small steel bowl on top.",
+        "imgs": [
+          "s-lid-1",
+          "s-lid-2"
+        ]
+      },
+      {
+        "t": "Leave it until the makhana turn soft and soaked.",
+        "imgs": [
+          "s-soak-1",
+          "s-soak-2"
+        ]
+      },
+      {
+        "t": "Place thin apple slices on the side.",
+        "imgs": [
+          "s-apple-1",
+          "s-apple-2",
+          "s-apple-3"
+        ]
+      },
+      {
+        "t": "Sprinkle diced apple on top and serve.",
+        "imgs": [
+          "s-dice-1",
+          "s-dice-2"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook"
+    ],
+    "credit": "@iamitbaisoya",
+    "notes": "Hindi speech (transcript cuts off after the saffron). Amounts for makhana (20 g), chia (1 tsp) and milk (150 ml) are shown on screen; nuts, raisins, saffron and apple amounts are my estimates. The soaking time is NOT shown or said; it looks like it was left for a while (probably overnight in the fridge, ask or test). The video says it is a no-cook breakfast to prepare ahead; protein is about 15 g from milk, nuts and makhana."
+  },
+  "images": {
+    "cover": {
+      "t": 20.0,
+      "crop": [
+        0,
+        90,
+        720,
+        770
+      ],
+      "w": 560
+    },
+    "i-makhana": {
+      "t": 7.5,
+      "crop": [
+        110,
+        250,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-chia": {
+      "t": 8.5,
+      "crop": [
+        300,
+        370,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-almonds": {
+      "t": 11.0,
+      "crop": [
+        230,
+        480,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 10.5,
+      "crop": [
+        370,
+        590,
+        310,
+        310
+      ],
+      "w": 200
+    },
+    "i-pistachios": {
+      "t": 11.5,
+      "crop": [
+        380,
+        480,
+        290,
+        290
+      ],
+      "w": 200
+    },
+    "i-raisins": {
+      "t": 12.0,
+      "crop": [
+        190,
+        480,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-saffron": {
+      "t": 12.5,
+      "crop": [
+        300,
+        430,
+        240,
+        240
+      ],
+      "w": 200
+    },
+    "i-milk": {
+      "t": 13.5,
+      "crop": [
+        300,
+        180,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-apple": {
+      "t": 18.0,
+      "crop": [
+        250,
+        0,
+        470,
+        470
+      ],
+      "w": 200
+    },
+    "s-makhana-1": {
+      "t": 6.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-makhana-2": {
+      "t": 7.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chia-1": {
+      "t": 8.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chia-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-almonds-1": {
+      "t": 9.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-almonds-2": {
+      "t": 10.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cashews-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cashews-2": {
+      "t": 11.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pistachios-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-raisins-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-saffron-1": {
+      "t": 12.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-saffron-2": {
+      "t": 13.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-1": {
+      "t": 13.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-milk-3": {
+      "t": 14.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lid-2": {
+      "t": 16.5,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-apple-1": {
+      "t": 17.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-apple-2": {
+      "t": 18.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-apple-3": {
+      "t": 19.0,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dice-1": {
+      "t": 20.5,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dice-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        50,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

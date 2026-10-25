@@ -1,0 +1,579 @@
+{
+ "videos": [
+  "3926756322416556426"
+ ],
+ "dish": {
+  "id": "spiced-chickpea-paneer-salad",
+  "name": "Spiced chickpea paneer salad",
+  "meal": "Lunch or dinner",
+  "minutes": 20,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Non-stick pan, gas, spatula, bowl or box",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 cup (165 g), boiled",
+    "n": "Chickpeas (kabuli chana)",
+    "tag": "chickpeas",
+    "img": "i-chickpeas"
+   },
+   {
+    "q": "a pinch",
+    "n": "Turmeric",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli-powder"
+   },
+   {
+    "q": "a pinch",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "1 small",
+    "n": "Cucumber, cut in half moons",
+    "tag": "cucumber",
+    "img": "i-cucumber"
+   },
+   {
+    "q": "1 small",
+    "n": "Red onion, chopped",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1 medium",
+    "n": "Tomato, chopped",
+    "tag": "tomato",
+    "img": "i-tomato"
+   },
+   {
+    "q": "~50 g, crumbled",
+    "n": "Paneer",
+    "tag": "paneer",
+    "alt": [
+     "cheese"
+    ],
+    "img": "i-paneer"
+   },
+   {
+    "q": "a handful, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Salad dressing (olive oil, lemon and herbs)",
+    "tag": "salad-dressing",
+    "img": "i-dressing"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Heat a non-stick pan on the gas and add the boiled chickpeas.",
+    "imgs": [
+     "s-pan-1",
+     "s-pan-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on a pinch of turmeric.",
+    "imgs": [
+     "s-turmeric-1",
+     "s-turmeric-2"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-chilli-1",
+     "s-chilli-2"
+    ]
+   },
+   {
+    "t": "Add a pinch of salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Stir and fry until the chickpeas turn golden and crisp.",
+    "imgs": [
+     "s-fry-1",
+     "s-fry-2",
+     "s-fry-3"
+    ]
+   },
+   {
+    "t": "In a box, add the cucumber half moons.",
+    "imgs": [
+     "s-cucumber-1",
+     "s-cucumber-2"
+    ]
+   },
+   {
+    "t": "Add the chopped red onion.",
+    "imgs": [
+     "s-onion-1"
+    ]
+   },
+   {
+    "t": "Add the chopped tomato.",
+    "imgs": [
+     "s-tomato-1"
+    ]
+   },
+   {
+    "t": "Tip in the crisp chickpeas.",
+    "imgs": [
+     "s-chickpeas-1",
+     "s-chickpeas-2"
+    ]
+   },
+   {
+    "t": "Crumble the paneer on top.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Scatter the chopped coriander on top.",
+    "imgs": [
+     "s-coriander-1",
+     "s-coriander-2"
+    ]
+   },
+   {
+    "t": "Spoon the dressing over the salad.",
+    "imgs": [
+     "s-dressing-1",
+     "s-dressing-2",
+     "s-dressing-3"
+    ]
+   },
+   {
+    "t": "Toss well, then shake the box to mix.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2"
+    ]
+   },
+   {
+    "t": "Serve right away.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "quick",
+   "high-fibre"
+  ],
+  "notes": "Silent-ish video (speech is garbled) with no amounts: all quantities are guesses. The dressing is dark green-brown and the video never says what is in it: olive oil, lemon and herbs is a guess. The crumble looks like paneer; it could be feta, which also works. No oil is shown in the pan; add a few drops if the chickpeas stick. Frying time is not shown."
+ },
+ "images": {
+  "cover": {
+   "t": 0.3,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-chickpeas": {
+   "t": 1.5,
+   "crop": [
+    150,
+    450,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 2.5,
+   "crop": [
+    250,
+    400,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-chilli-powder": {
+   "t": 3.2,
+   "crop": [
+    100,
+    500,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 3.8,
+   "crop": [
+    210,
+    390,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 10.5,
+   "crop": [
+    130,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 11.5,
+   "crop": [
+    200,
+    560,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-tomato": {
+   "t": 12.5,
+   "crop": [
+    130,
+    540,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 15.5,
+   "crop": [
+    0,
+    260,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 17.4,
+   "crop": [
+    120,
+    470,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-dressing": {
+   "t": 19.0,
+   "crop": [
+    100,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-pan-1": {
+   "t": 1.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pan-2": {
+   "t": 2.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turmeric-1": {
+   "t": 2.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-turmeric-2": {
+   "t": 2.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilli-2": {
+   "t": 3.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 3.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-2": {
+   "t": 6.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fry-3": {
+   "t": 8.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-1": {
+   "t": 9.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cucumber-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 11.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-tomato-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chickpeas-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chickpeas-2": {
+   "t": 13.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 15.7,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 16.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-coriander-2": {
+   "t": 17.4,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dressing-1": {
+   "t": 18.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dressing-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dressing-3": {
+   "t": 19.4,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 23.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 4.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

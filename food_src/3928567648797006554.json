@@ -1,0 +1,577 @@
+{
+ "videos": [
+  "3928567648797006554"
+ ],
+ "dish": {
+  "id": "peri-peri-potato-wedges",
+  "name": "Peri peri potato wedges",
+  "meal": "Snack",
+  "minutes": 40,
+  "protein": 5,
+  "how": "Gas + air fryer",
+  "tools": "Pot, gas, bowl, slotted spoon, air fryer (or oven), baking paper",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~4 medium (600 g)",
+    "n": "Potatoes (aloo)",
+    "tag": "potato",
+    "img": "i-potato"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Oregano",
+    "tag": "oregano",
+    "img": "i-oregano"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Turmeric",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Garlic powder",
+    "tag": "garlic-powder",
+    "img": "i-garlic-powder"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Fresh coriander",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Peri peri masala, to finish",
+    "tag": "peri-peri-masala",
+    "opt": true,
+    "img": "i-peri"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Tandoori mayo dip (ready-made, check it is eggless)",
+    "tag": "tandoori-sauce",
+    "opt": true,
+    "img": "i-mayo"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Cut each potato lengthwise into thick wedges.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Rinse the wedges in a bowl of water.",
+    "imgs": [
+     "s-rinse-1",
+     "s-rinse-2"
+    ]
+   },
+   {
+    "t": "Drop the wedges into a pot of boiling water and boil until 80% cooked.",
+    "imgs": [
+     "s-boil-1",
+     "s-boil-2",
+     "s-boil-3",
+     "s-boil-4"
+    ]
+   },
+   {
+    "t": "Melt the butter in a big bowl.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2"
+    ]
+   },
+   {
+    "t": "Add oregano, turmeric, chilli flakes, garlic powder, salt and black pepper.",
+    "imgs": [
+     "s-spice-1"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-herb-1",
+     "s-herb-2"
+    ]
+   },
+   {
+    "t": "Mix into a loose herb butter.",
+    "imgs": [
+     "s-mixherb-1"
+    ]
+   },
+   {
+    "t": "Lift the boiled wedges into the bowl with a slotted spoon.",
+    "imgs": [
+     "s-lift-1",
+     "s-lift-2",
+     "s-lift-3"
+    ]
+   },
+   {
+    "t": "Toss until every wedge is coated.",
+    "imgs": [
+     "s-toss-1",
+     "s-toss-2"
+    ]
+   },
+   {
+    "t": "Bake or air fry until golden and crisp.",
+    "imgs": [
+     "s-bake-1"
+    ]
+   },
+   {
+    "t": "Tip the hot wedges onto baking paper.",
+    "imgs": [
+     "s-paper-1",
+     "s-paper-2"
+    ]
+   },
+   {
+    "t": "Sprinkle peri peri masala on top.",
+    "imgs": [
+     "s-peri-1",
+     "s-peri-2"
+    ]
+   },
+   {
+    "t": "Serve with tandoori mayo for dipping.",
+    "imgs": [
+     "s-dip-1",
+     "s-dip-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "air-fryer"
+  ],
+  "notes": "No amounts, oven temperature or baking time are given (the video only says 'bake or airfry'): amounts are guesses and you must pick the time yourself, about 200 C and 20 to 25 minutes is typical (my guess, not from the video). The baking itself is not shown: the bake step uses the coated wedges just before baking. The tandoori mayo is only shown, not made; it is probably mayo with tandoori masala, so check for an eggless one. The 'peri peri' finish is a sprinkle whose pack is not shown. Butter melting is not shown, only the result."
+ },
+ "images": {
+  "cover": {
+   "t": 0.2,
+   "crop": [
+    0,
+    310,
+    720,
+    540
+   ],
+   "w": 560
+  },
+  "i-potato": {
+   "t": 2.4,
+   "crop": [
+    360,
+    40,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 6.8,
+   "crop": [
+    250,
+    640,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 7.4,
+   "crop": [
+    361,
+    621,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 7.4,
+   "crop": [
+    117,
+    822,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 7.4,
+   "crop": [
+    203,
+    549,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-garlic-powder": {
+   "t": 7.4,
+   "crop": [
+    45,
+    649,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 7.4,
+   "crop": [
+    318,
+    808,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 7.4,
+   "crop": [
+    189,
+    678,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 8.0,
+   "crop": [
+    100,
+    100,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-peri": {
+   "t": 12.1,
+   "crop": [
+    200,
+    380,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-mayo": {
+   "t": 0.8,
+   "crop": [
+    80,
+    520,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-cut-1": {
+   "t": 2.4,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 2.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 3.2,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rinse-1": {
+   "t": 3.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rinse-2": {
+   "t": 4.2,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-1": {
+   "t": 4.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-2": {
+   "t": 5.2,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-3": {
+   "t": 5.8,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-boil-4": {
+   "t": 6.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-1": {
+   "t": 8.8,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-2": {
+   "t": 9.2,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lift-3": {
+   "t": 9.6,
+   "crop": [
+    0,
+    430,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-toss-2": {
+   "t": 10.4,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paper-1": {
+   "t": 11.2,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paper-2": {
+   "t": 11.6,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peri-1": {
+   "t": 11.9,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-peri-2": {
+   "t": 12.1,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-1": {
+   "t": 0.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-dip-2": {
+   "t": 2.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 6.8,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 7.2,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spice-1": {
+   "t": 7.4,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-1": {
+   "t": 7.9,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-herb-2": {
+   "t": 8.2,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mixherb-1": {
+   "t": 8.4,
+   "crop": [
+    0,
+    470,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bake-1": {
+   "t": 10.8,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

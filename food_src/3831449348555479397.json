@@ -1,0 +1,804 @@
+{
+ "videos": [
+  "3831449348555479397"
+ ],
+ "dish": {
+  "id": "sabudana-fruit-custard",
+  "name": "Sabudana fruit custard",
+  "meal": "Snack",
+  "minutes": 40,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Pan, gas, glass bowl, fridge",
+  "serves": 4,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1/4 cup (45 g), soaked 4 to 5 hours",
+    "n": "Sabudana (sago)",
+    "tag": "sabudana",
+    "img": "i-sabudana"
+   },
+   {
+    "q": "~3 cups (750 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "a pinch (8 to 10 strands)",
+    "n": "Saffron (kesar)",
+    "tag": "saffron",
+    "img": "i-saffron",
+    "opt": true
+   },
+   {
+    "q": "a pinch (~1/4 tsp)",
+    "n": "Cardamom powder (elaichi)",
+    "tag": "cardamom",
+    "img": "i-cardamom"
+   },
+   {
+    "q": "~4 tbsp, to taste",
+    "n": "Sugar",
+    "tag": "sugar",
+    "img": "i-sugar"
+   },
+   {
+    "q": "~1 medium",
+    "n": "Banana",
+    "tag": "banana",
+    "img": "i-banana",
+    "alt": [
+     "apple",
+     "grapes"
+    ]
+   },
+   {
+    "q": "~1 medium",
+    "n": "Apple",
+    "tag": "apple",
+    "img": "i-apple",
+    "alt": [
+     "banana",
+     "grapes"
+    ]
+   },
+   {
+    "q": "~1/2 cup (75 g)",
+    "n": "Green grapes",
+    "tag": "grapes",
+    "img": "i-ggrapes",
+    "alt": [
+     "apple",
+     "banana"
+    ]
+   },
+   {
+    "q": "~1/2 cup (75 g)",
+    "n": "Black grapes",
+    "tag": "grapes",
+    "img": "i-bgrapes",
+    "alt": [
+     "apple",
+     "banana"
+    ]
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Pomegranate seeds",
+    "tag": "pomegranate",
+    "img": "i-pom",
+    "alt": [
+     "grapes"
+    ]
+   },
+   {
+    "q": "~2 tbsp, chopped",
+    "n": "Dry fruits (almonds, cashews)",
+    "tag": "almonds",
+    "img": "i-nuts",
+    "alt": [
+     "cashews"
+    ],
+    "opt": true
+   }
+  ],
+  "steps": [
+   {
+    "t": "Soak the sabudana in water for 4 to 5 hours.",
+    "imgs": [
+     "s-soak-1"
+    ]
+   },
+   {
+    "t": "Pour the milk into a pan on the gas.",
+    "imgs": [
+     "s-milk-1",
+     "s-milk-2",
+     "s-milk-3"
+    ]
+   },
+   {
+    "t": "Add the soaked sabudana.",
+    "imgs": [
+     "s-sabu-1",
+     "s-sabu-2"
+    ]
+   },
+   {
+    "t": "Add the saffron.",
+    "imgs": [
+     "s-saffron-1",
+     "s-saffron-2"
+    ]
+   },
+   {
+    "t": "Stir often on the gas until the milk turns thick.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2",
+     "s-cook-3"
+    ]
+   },
+   {
+    "t": "Add the cardamom powder.",
+    "imgs": [
+     "s-cardamom-1"
+    ]
+   },
+   {
+    "t": "Add the sugar and stir until it melts.",
+    "imgs": [
+     "s-sugar-1",
+     "s-sugar-2",
+     "s-sugar-3"
+    ]
+   },
+   {
+    "t": "Cook, stirring, until the custard is thick and creamy.",
+    "imgs": [
+     "s-thick-1",
+     "s-thick-2"
+    ]
+   },
+   {
+    "t": "Pour the custard into a glass bowl.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2",
+     "s-pour-3"
+    ]
+   },
+   {
+    "t": "Chill it in the fridge for 2 hours.",
+    "imgs": [
+     "s-chill-1"
+    ]
+   },
+   {
+    "t": "Peel the banana and cut it into slices.",
+    "imgs": [
+     "s-banana-1",
+     "s-banana-2"
+    ]
+   },
+   {
+    "t": "Cut the apple into small cubes.",
+    "imgs": [
+     "s-apple-1",
+     "s-apple-2",
+     "s-apple-3"
+    ]
+   },
+   {
+    "t": "Cut the green grapes in half.",
+    "imgs": [
+     "s-ggrapes-1",
+     "s-ggrapes-2"
+    ]
+   },
+   {
+    "t": "Cut the black grapes in half.",
+    "imgs": [
+     "s-bgrapes-1"
+    ]
+   },
+   {
+    "t": "Break open the pomegranate and take out the seeds.",
+    "imgs": [
+     "s-pom-1",
+     "s-pom-2"
+    ]
+   },
+   {
+    "t": "Take the chilled custard out of the fridge.",
+    "imgs": [
+     "s-chilled-1"
+    ]
+   },
+   {
+    "t": "Add the pomegranate seeds on top.",
+    "imgs": [
+     "s-padd-1"
+    ]
+   },
+   {
+    "t": "Add the chopped banana and apple.",
+    "imgs": [
+     "s-fadd-1",
+     "s-fadd-2"
+    ]
+   },
+   {
+    "t": "Add the green grapes and black grapes.",
+    "imgs": [
+     "s-gadd-1",
+     "s-gadd-2",
+     "s-gadd-3"
+    ]
+   },
+   {
+    "t": "Sprinkle the chopped dry fruits on top.",
+    "imgs": [
+     "s-nuts-1",
+     "s-nuts-2"
+    ]
+   },
+   {
+    "t": "Mix gently. Serve chilled.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "make-ahead"
+  ],
+  "notes": "On-screen text gives only '1/4 cup soaked sabudana', 'sugar as needed' and 'fruits as you like': the milk, sugar, cardamom, saffron and fruit amounts are my estimates from the cup and bowl sizes. Cooking time and flame level are not shown. Minutes does not count the sabudana soak (4 to 5 hours) or the 2-hour chill. Marathi captions on screen name each ingredient."
+ },
+ "images": {
+  "cover": {
+   "t": 4.3,
+   "crop": [
+    0,
+    240,
+    720,
+    720
+   ],
+   "w": 560
+  },
+  "i-sabudana": {
+   "t": 14.0,
+   "crop": [
+    130,
+    400,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-milk": {
+   "t": 11.0,
+   "crop": [
+    100,
+    250,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-saffron": {
+   "t": 15.5,
+   "crop": [
+    180,
+    480,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-cardamom": {
+   "t": 19.5,
+   "crop": [
+    140,
+    330,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-sugar": {
+   "t": 20.0,
+   "crop": [
+    100,
+    200,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-banana": {
+   "t": 26.5,
+   "crop": [
+    40,
+    500,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-apple": {
+   "t": 28.5,
+   "crop": [
+    20,
+    480,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-ggrapes": {
+   "t": 31.5,
+   "crop": [
+    100,
+    460,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-bgrapes": {
+   "t": 34.0,
+   "crop": [
+    190,
+    330,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-pom": {
+   "t": 35.5,
+   "crop": [
+    30,
+    380,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-nuts": {
+   "t": 41.0,
+   "crop": [
+    140,
+    380,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "s-soak-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-3": {
+   "t": 13.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sabu-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sabu-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-saffron-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-saffron-2": {
+   "t": 15.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 19.0,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cardamom-1": {
+   "t": 19.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sugar-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sugar-2": {
+   "t": 20.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-sugar-3": {
+   "t": 21.5,
+   "crop": [
+    0,
+    360,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-thick-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-thick-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 24.0,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-3": {
+   "t": 25.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chill-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-banana-1": {
+   "t": 26.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-banana-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-apple-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-apple-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-apple-3": {
+   "t": 30.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ggrapes-1": {
+   "t": 31.5,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-ggrapes-2": {
+   "t": 33.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-bgrapes-1": {
+   "t": 34.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pom-1": {
+   "t": 34.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pom-2": {
+   "t": 35.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-chilled-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-padd-1": {
+   "t": 37.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fadd-1": {
+   "t": 38.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-fadd-2": {
+   "t": 39.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gadd-1": {
+   "t": 39.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gadd-2": {
+   "t": 40.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gadd-3": {
+   "t": 40.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-1": {
+   "t": 41.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-nuts-2": {
+   "t": 41.5,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 42.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 42.75,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

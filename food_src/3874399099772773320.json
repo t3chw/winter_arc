@@ -1,0 +1,1346 @@
+{
+  "videos": [
+    "3874399099772773320"
+  ],
+  "dish": {
+    "id": "moong-dal-kachori",
+    "name": "Moong dal kachori",
+    "meal": "Snack",
+    "minutes": 75,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Mixie, mortar, pan, kadhai, slotted spoon, gas",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "1 cup (about 120 g)",
+        "n": "Maida (refined flour)",
+        "tag": "all-purpose-flour",
+        "img": "i-maida"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Ajwain (carom seeds)",
+        "tag": "ajwain",
+        "img": "i-ajwain"
+      },
+      {
+        "q": "1.5 tsp (1/2 tsp for dough, 1 tsp for filling)",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "3 tbsp for dough, ~2 tbsp for filling, ~2 cups for frying",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1/4 cup, as needed",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "1 cup (about 200 g), soaked in water",
+        "n": "Moong dal (split yellow)",
+        "tag": "moong-dal",
+        "img": "i-dal"
+      },
+      {
+        "q": "1 to 2",
+        "n": "Dry red chilli",
+        "tag": "dry-red-chilli",
+        "img": "i-red-chilli"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Fennel seeds (saunf)",
+        "tag": "fennel-seeds",
+        "img": "i-fennel"
+      },
+      {
+        "q": "1 tsp",
+        "n": "Coriander seeds (sabut dhania)",
+        "tag": "coriander-seeds",
+        "img": "i-coriander-seeds"
+      },
+      {
+        "q": "1/2 tsp",
+        "n": "Black pepper",
+        "tag": "black-pepper",
+        "img": "i-pepper"
+      },
+      {
+        "q": "~1 inch piece, cut in thin strips",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~2, sliced",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "1 to 2 tbsp",
+        "n": "Besan (gram flour)",
+        "tag": "besan",
+        "img": "i-besan"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Coriander powder",
+        "tag": "coriander-powder",
+        "img": "i-coriander-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Garam masala",
+        "tag": "garam-masala",
+        "img": "i-garam-masala"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Amchur (dry mango powder)",
+        "tag": "amchur",
+        "img": "i-amchur"
+      },
+      {
+        "q": "to serve",
+        "n": "Curd, aloo sabzi or chutney",
+        "tag": "chutney",
+        "img": "i-chutney",
+        "opt": true,
+        "alt": [
+          "curd"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender"
+    ],
+    "notes": "Deep fried and made with maida, so not a light dish. Only the maida (1 cup), ajwain and salt (1/2 tsp each), oil (3 spoons), moong dal (1 cup) and the whole spices are said in the speech; all other amounts are my estimates. I read the three pale or brown powders as coriander powder, garam masala and amchur from their colours (not said clearly). Dal soaking time is not stated (usually 2 to 3 hours, not counted in the 75 min). Frying time and flame level are not given: fry on medium heat until golden. The creator is only named in the speech, not on screen.",
+    "steps": [
+      {
+        "t": "Put 1 cup maida in a big bowl.",
+        "imgs": [
+          "s-maida-1",
+          "s-maida-2"
+        ]
+      },
+      {
+        "t": "Add 1/2 tsp ajwain.",
+        "imgs": [
+          "s-ajw-1",
+          "s-ajw-2"
+        ]
+      },
+      {
+        "t": "Add 1/2 tsp salt.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Add 3 tbsp oil.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Rub the oil into the flour until it looks like crumbs.",
+        "imgs": [
+          "s-rub-1",
+          "s-rub-2",
+          "s-rub-3"
+        ]
+      },
+      {
+        "t": "Sprinkle in water little by little.",
+        "imgs": [
+          "s-wat-1",
+          "s-wat-2"
+        ]
+      },
+      {
+        "t": "Knead into a firm dough and keep it aside.",
+        "imgs": [
+          "s-knead-1",
+          "s-knead-2",
+          "s-knead-3"
+        ]
+      },
+      {
+        "t": "Take the 1 cup of soaked moong dal.",
+        "imgs": [
+          "s-soak-1",
+          "s-soak-2"
+        ]
+      },
+      {
+        "t": "Grind the dal in the mixie to a thick paste. Add water only if needed.",
+        "imgs": [
+          "s-grind-1",
+          "s-grind-2",
+          "s-grind-3"
+        ]
+      },
+      {
+        "t": "Dry roast the red chilli, cumin, fennel, coriander seeds and pepper.",
+        "imgs": [
+          "s-roast-1",
+          "s-roast-2",
+          "s-roast-3"
+        ]
+      },
+      {
+        "t": "Crush the roasted spices in a mortar.",
+        "imgs": [
+          "s-crush-1",
+          "s-crush-2",
+          "s-crush-3"
+        ]
+      },
+      {
+        "t": "Heat oil in a pan.",
+        "imgs": [
+          "s-fo-1",
+          "s-fo-2"
+        ]
+      },
+      {
+        "t": "Add the thin ginger strips and green chillies.",
+        "imgs": [
+          "s-gin-1",
+          "s-gin-2"
+        ]
+      },
+      {
+        "t": "Cook them until soft.",
+        "imgs": [
+          "s-sau-1",
+          "s-sau-2"
+        ]
+      },
+      {
+        "t": "Add the crushed spice mix.",
+        "imgs": [
+          "s-mas-1",
+          "s-mas-2"
+        ]
+      },
+      {
+        "t": "Add 1 to 2 tbsp besan and roast it until fragrant.",
+        "imgs": [
+          "s-bes-1",
+          "s-bes-2",
+          "s-bes-3"
+        ]
+      },
+      {
+        "t": "Add the dal paste and mix well.",
+        "imgs": [
+          "s-dal-1",
+          "s-dal-2",
+          "s-dal-3"
+        ]
+      },
+      {
+        "t": "Add the coriander powder and garam masala.",
+        "imgs": [
+          "s-cp-1",
+          "s-cp-2"
+        ]
+      },
+      {
+        "t": "Add the red chilli powder and turmeric.",
+        "imgs": [
+          "s-rc-1",
+          "s-rc-2"
+        ]
+      },
+      {
+        "t": "Add the amchur and salt.",
+        "imgs": [
+          "s-am-1",
+          "s-am-2"
+        ]
+      },
+      {
+        "t": "Cook, stirring, until the filling turns dry and crumbly.",
+        "imgs": [
+          "s-cook-1",
+          "s-cook-2",
+          "s-cook-3"
+        ]
+      },
+      {
+        "t": "Move the filling to a bowl and let it cool.",
+        "imgs": [
+          "s-cool-1",
+          "s-cool-2"
+        ]
+      },
+      {
+        "t": "Shape the cool filling into small balls.",
+        "imgs": [
+          "s-fball-1",
+          "s-fball-2"
+        ]
+      },
+      {
+        "t": "Knead the dough once more and take a small ball.",
+        "imgs": [
+          "s-dball-1"
+        ]
+      },
+      {
+        "t": "Press the dough ball into a small cup shape.",
+        "imgs": [
+          "s-cup-1",
+          "s-cup-2",
+          "s-cup-3"
+        ]
+      },
+      {
+        "t": "Put a ball of filling in the middle.",
+        "imgs": [
+          "s-fill-1"
+        ]
+      },
+      {
+        "t": "Close the dough over the filling and seal it.",
+        "imgs": [
+          "s-close-1",
+          "s-close-2"
+        ]
+      },
+      {
+        "t": "Press it gently flat between your palms.",
+        "imgs": [
+          "s-press-1",
+          "s-press-2",
+          "s-press-3"
+        ]
+      },
+      {
+        "t": "Heat oil in a kadhai. Gently slide in the kachoris.",
+        "imgs": [
+          "s-heat-1",
+          "s-fry-1",
+          "s-fry-2"
+        ]
+      },
+      {
+        "t": "Fry until they puff up and turn golden.",
+        "imgs": [
+          "s-fry-3",
+          "s-fry-4"
+        ]
+      },
+      {
+        "t": "Lift them out with a slotted spoon.",
+        "imgs": [
+          "s-lift-1",
+          "s-lift-2",
+          "s-lift-3"
+        ]
+      },
+      {
+        "t": "Serve hot with curd, aloo sabzi or chutney.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2",
+          "s-serve-3"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "cover": {
+      "t": 129.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-maida": {
+      "t": 4.8,
+      "crop": [
+        100,
+        500,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-ajwain": {
+      "t": 6.0,
+      "crop": [
+        100,
+        150,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 7.6,
+      "crop": [
+        100,
+        100,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 9.0,
+      "crop": [
+        300,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 17.2,
+      "crop": [
+        0,
+        0,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-dal": {
+      "t": 25.3,
+      "crop": [
+        100,
+        600,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-red-chilli": {
+      "t": 35.0,
+      "crop": [
+        150,
+        560,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 36.0,
+      "crop": [
+        120,
+        620,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-fennel": {
+      "t": 37.5,
+      "crop": [
+        60,
+        500,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-coriander-seeds": {
+      "t": 38.5,
+      "crop": [
+        140,
+        520,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-pepper": {
+      "t": 40.0,
+      "crop": [
+        100,
+        640,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 57.0,
+      "crop": [
+        200,
+        0,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 59.0,
+      "crop": [
+        100,
+        550,
+        350,
+        350
+      ],
+      "w": 200
+    },
+    "i-besan": {
+      "t": 66.0,
+      "crop": [
+        200,
+        330,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-coriander-powder": {
+      "t": 76.3,
+      "crop": [
+        220,
+        250,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-garam-masala": {
+      "t": 77.5,
+      "crop": [
+        260,
+        200,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chilli-powder": {
+      "t": 79.0,
+      "crop": [
+        300,
+        130,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 80.5,
+      "crop": [
+        180,
+        220,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-amchur": {
+      "t": 82.0,
+      "crop": [
+        300,
+        280,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 129.0,
+      "crop": [
+        200,
+        150,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-maida-1": {
+      "t": 4.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-maida-2": {
+      "t": 5.2,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ajw-1": {
+      "t": 6.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ajw-2": {
+      "t": 6.6,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 7.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 8.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 9.6,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rub-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rub-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rub-3": {
+      "t": 16.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-wat-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-wat-2": {
+      "t": 17.5,
+      "crop": [
+        0,
+        200,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-knead-1": {
+      "t": 19.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-knead-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-knead-3": {
+      "t": 23.0,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-1": {
+      "t": 24.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soak-2": {
+      "t": 25.5,
+      "crop": [
+        0,
+        500,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-1": {
+      "t": 27.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-2": {
+      "t": 31.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-grind-3": {
+      "t": 33.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-1": {
+      "t": 36.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-2": {
+      "t": 39.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-3": {
+      "t": 41.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crush-1": {
+      "t": 46.5,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crush-2": {
+      "t": 48.5,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-crush-3": {
+      "t": 52.5,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fo-1": {
+      "t": 54.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fo-2": {
+      "t": 55.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-gin-1": {
+      "t": 57.3,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-gin-2": {
+      "t": 58.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sau-1": {
+      "t": 60.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sau-2": {
+      "t": 61.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mas-1": {
+      "t": 63.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mas-2": {
+      "t": 64.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bes-1": {
+      "t": 66.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bes-2": {
+      "t": 67.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-bes-3": {
+      "t": 69.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dal-1": {
+      "t": 70.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dal-2": {
+      "t": 72.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dal-3": {
+      "t": 74.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cp-1": {
+      "t": 76.2,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cp-2": {
+      "t": 77.8,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rc-1": {
+      "t": 79.3,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rc-2": {
+      "t": 80.6,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-am-1": {
+      "t": 82.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-am-2": {
+      "t": 83.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-1": {
+      "t": 86.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-2": {
+      "t": 88.5,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cook-3": {
+      "t": 90.0,
+      "crop": [
+        0,
+        470,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cool-1": {
+      "t": 91.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cool-2": {
+      "t": 93.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fball-1": {
+      "t": 94.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fball-2": {
+      "t": 96.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-dball-1": {
+      "t": 97.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cup-1": {
+      "t": 99.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cup-2": {
+      "t": 100.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cup-3": {
+      "t": 102.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-1": {
+      "t": 103.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-close-1": {
+      "t": 105.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-close-2": {
+      "t": 106.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-press-1": {
+      "t": 109.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-press-2": {
+      "t": 111.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-press-3": {
+      "t": 112.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-heat-1": {
+      "t": 115.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 115.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 117.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-3": {
+      "t": 118.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-4": {
+      "t": 120.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lift-1": {
+      "t": 121.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lift-2": {
+      "t": 123.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-lift-3": {
+      "t": 124.5,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 127.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 129.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-3": {
+      "t": 130.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

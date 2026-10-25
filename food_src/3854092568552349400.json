@@ -1,0 +1,943 @@
+{
+ "videos": [
+  "3854092568552349400"
+ ],
+ "dish": {
+  "id": "chole-tikki-tadka-raita",
+  "name": "Chole tikki with tadka raita",
+  "meal": "Lunch or dinner",
+  "minutes": 35,
+  "protein": 20,
+  "how": "Gas",
+  "tools": "Big bowl, masher, tawa, spatula, whisk",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1.5 cups (250 g), boiled",
+    "n": "Chickpeas (chole), boiled",
+    "tag": "chickpeas",
+    "img": "i-chickpeas"
+   },
+   {
+    "q": "~1 small, chopped fine",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1 small, grated",
+    "n": "Carrot",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "~1/3 cup (40 g)",
+    "n": "Besan (gram flour)",
+    "tag": "besan",
+    "img": "i-besan",
+    "alt": [
+     "sattu"
+    ]
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black salt (kala namak)",
+    "tag": "black-salt",
+    "img": "i-bsalt",
+    "opt": true
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Red chilli powder",
+    "tag": "red-chilli-powder",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Garam masala",
+    "tag": "garam-masala",
+    "img": "i-garam"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Roasted cumin powder",
+    "tag": "cumin-powder",
+    "img": "i-cumin"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Coriander powder",
+    "tag": "coriander-powder",
+    "img": "i-corpow"
+   },
+   {
+    "q": "~1, chopped fine",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "a small handful, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "~1/4 cup",
+    "n": "White sesame seeds, to coat",
+    "tag": "sesame-seeds",
+    "img": "i-sesame"
+   },
+   {
+    "q": "~2 tsp",
+    "n": "Oil, for the tawa",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1.5 cups (350 g), thick",
+    "n": "Curd (dahi), for the raita",
+    "tag": "curd",
+    "img": "i-curd"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Tip the boiled chickpeas into a big bowl.",
+    "imgs": [
+     "s-chick-1",
+     "s-chick-2",
+     "s-chick-3"
+    ]
+   },
+   {
+    "t": "Mash them coarsely with a masher.",
+    "imgs": [
+     "s-mash-1",
+     "s-mash-2",
+     "s-mash-3"
+    ]
+   },
+   {
+    "t": "Add the chopped onion.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the grated carrot.",
+    "imgs": [
+     "s-carrot-1",
+     "s-carrot-2"
+    ]
+   },
+   {
+    "t": "Add the besan.",
+    "imgs": [
+     "s-besan-1",
+     "s-besan-2",
+     "s-besan-3"
+    ]
+   },
+   {
+    "t": "Add the salt and the black salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Add the red chilli powder.",
+    "imgs": [
+     "s-chilli-1"
+    ]
+   },
+   {
+    "t": "Add the garam masala.",
+    "imgs": [
+     "s-garam-1"
+    ]
+   },
+   {
+    "t": "Add the roasted cumin powder.",
+    "imgs": [
+     "s-cumin-1",
+     "s-cumin-2"
+    ]
+   },
+   {
+    "t": "Add the coriander powder.",
+    "imgs": [
+     "s-corpow-1",
+     "s-corpow-2"
+    ]
+   },
+   {
+    "t": "Add the chopped green chilli.",
+    "imgs": [
+     "s-gchilli-1",
+     "s-gchilli-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander.",
+    "imgs": [
+     "s-coriander-1",
+     "s-coriander-2",
+     "s-coriander-3"
+    ]
+   },
+   {
+    "t": "Mix everything well to a thick, sticky mixture.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Take a little mixture and shape it into a flat round tikki.",
+    "imgs": [
+     "s-shape-1"
+    ]
+   },
+   {
+    "t": "Press the tikki into sesame seeds on both sides.",
+    "imgs": [
+     "s-sesame-1",
+     "s-sesame-2",
+     "s-sesame-3"
+    ]
+   },
+   {
+    "t": "Place the tikkis on a hot oiled tawa.",
+    "imgs": [
+     "s-tawa-1",
+     "s-tawa-2"
+    ]
+   },
+   {
+    "t": "Cook until golden. Flip and cook the other side.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2",
+     "s-flip-3"
+    ]
+   },
+   {
+    "t": "Whisk the curd until smooth and creamy.",
+    "imgs": [
+     "s-whisk-1",
+     "s-whisk-2"
+    ]
+   },
+   {
+    "t": "Spoon the curd onto a plate.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Spread it out into a thin layer with the spoon.",
+    "imgs": [
+     "s-spread-1",
+     "s-spread-2",
+     "s-spread-3"
+    ]
+   },
+   {
+    "t": "Place the hot tikkis on top of the raita.",
+    "imgs": [
+     "s-place-1",
+     "s-place-2"
+    ]
+   },
+   {
+    "t": "Sprinkle chopped coriander on top. Serve at once.",
+    "imgs": [
+     "s-garnish-1",
+     "s-garnish-2",
+     "s-final"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein",
+   "high-fibre"
+  ],
+  "credit": "@hunger_zest",
+  "notes": "Speech is garbled and there are no amounts or labels: all amounts are my estimates. The video does not show how the raita curd is made (the voice says the full recipe is in the caption): the curd looks red-orange with small bits, like a chilli tadka, so I list only curd and a step to whisk it. The pale flour added after the carrot is besan by its look (it could be sattu). The grey powder is black salt by colour (could be black pepper), and the three brown powders (garam masala, cumin, coriander) are my guess from colour. Chickpeas are shown already boiled. Flame level and frying time are not shown."
+ },
+ "images": {
+  "cover": {
+   "t": 4.0,
+   "crop": [
+    0,
+    330,
+    720,
+    700
+   ],
+   "w": 560
+  },
+  "i-chickpeas": {
+   "t": 6.0,
+   "crop": [
+    120,
+    560,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 8.5,
+   "crop": [
+    200,
+    500,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 9.5,
+   "crop": [
+    100,
+    520,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-besan": {
+   "t": 10.5,
+   "crop": [
+    130,
+    480,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 11.5,
+   "crop": [
+    150,
+    220,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-bsalt": {
+   "t": 12.0,
+   "crop": [
+    150,
+    100,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 12.5,
+   "crop": [
+    200,
+    60,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-garam": {
+   "t": 13.0,
+   "crop": [
+    250,
+    80,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-cumin": {
+   "t": 14.0,
+   "crop": [
+    200,
+    40,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-corpow": {
+   "t": 14.5,
+   "crop": [
+    200,
+    20,
+    360,
+    360
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 15.5,
+   "crop": [
+    200,
+    60,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 2.0,
+   "crop": [
+    380,
+    0,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-sesame": {
+   "t": 21.0,
+   "crop": [
+    110,
+    440,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 23.0,
+   "crop": [
+    60,
+    700,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 27.0,
+   "crop": [
+    140,
+    440,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "s-chick-1": {
+   "t": 4.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chick-2": {
+   "t": 5.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chick-3": {
+   "t": 6.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mash-1": {
+   "t": 6.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mash-2": {
+   "t": 7.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mash-3": {
+   "t": 7.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 8.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 8.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-carrot-1": {
+   "t": 9.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-carrot-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-besan-1": {
+   "t": 10.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-besan-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-besan-3": {
+   "t": 11.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 11.5,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-chilli-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-garam-1": {
+   "t": 13.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cumin-1": {
+   "t": 13.5,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-cumin-2": {
+   "t": 14.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-corpow-1": {
+   "t": 14.5,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-corpow-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-gchilli-1": {
+   "t": 15.5,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-gchilli-2": {
+   "t": 16.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-coriander-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-coriander-2": {
+   "t": 17.0,
+   "crop": [
+    0,
+    100,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-coriander-3": {
+   "t": 17.5,
+   "crop": [
+    0,
+    250,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 20.5,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-shape-1": {
+   "t": 20.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-sesame-1": {
+   "t": 21.0,
+   "crop": [
+    0,
+    280,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-sesame-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    280,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-sesame-3": {
+   "t": 22.0,
+   "crop": [
+    0,
+    280,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-tawa-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-tawa-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-flip-3": {
+   "t": 25.5,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-whisk-1": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-whisk-2": {
+   "t": 27.5,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 28.5,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spread-1": {
+   "t": 29.0,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spread-2": {
+   "t": 30.0,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-spread-3": {
+   "t": 31.0,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-place-1": {
+   "t": 32.0,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-place-2": {
+   "t": 32.5,
+   "crop": [
+    0,
+    420,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-garnish-1": {
+   "t": 2.0,
+   "crop": [
+    0,
+    320,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-garnish-2": {
+   "t": 3.0,
+   "crop": [
+    0,
+    320,
+    720,
+    700
+   ],
+   "w": 480
+  },
+  "s-final": {
+   "t": 4.0,
+   "crop": [
+    0,
+    320,
+    720,
+    700
+   ],
+   "w": 480
+  }
+ }
+}

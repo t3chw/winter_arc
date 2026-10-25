@@ -1,0 +1,855 @@
+{
+ "videos": [
+  "3891574231099917783"
+ ],
+ "dish": {
+  "id": "air-fryer-paneer-veg-roast",
+  "name": "Air fryer paneer and veggies",
+  "meal": "Lunch or dinner",
+  "minutes": 35,
+  "protein": 20,
+  "how": "Air fryer",
+  "tools": "Air fryer with glass pot, parchment paper, spoon or tongs, bowl",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 cup florets (~100 g)",
+    "n": "Broccoli",
+    "tag": "broccoli",
+    "img": "i-broccoli"
+   },
+   {
+    "q": "~8",
+    "n": "Baby corn",
+    "tag": "baby-corn",
+    "img": "i-babycorn"
+   },
+   {
+    "q": "1 medium",
+    "n": "Carrot (red carrot), cut in sticks",
+    "tag": "carrot",
+    "img": "i-carrot"
+   },
+   {
+    "q": "~8, halved",
+    "n": "Button mushrooms",
+    "tag": "mushroom",
+    "img": "i-mushroom"
+   },
+   {
+    "q": "~1 cup",
+    "n": "Mixed capsicum (red, yellow, green), chopped",
+    "tag": "capsicum",
+    "img": "i-pepper-veg"
+   },
+   {
+    "q": "~150 g, cubed",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "1 small, in petals",
+    "n": "Red onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Black pepper powder",
+    "tag": "black-pepper",
+    "img": "i-blackpepper"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Mixed herbs",
+    "tag": "mixed-herbs",
+    "img": "i-herbs"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Olive oil (or any oil)",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "1/2 lemon",
+    "n": "Lemon",
+    "tag": "lemon",
+    "opt": true,
+    "img": "i-lemon"
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Thick curd, for the dip",
+    "tag": "curd",
+    "opt": true,
+    "img": "i-curd"
+   },
+   {
+    "q": "a few slices",
+    "n": "Cucumber, for the dip",
+    "tag": "cucumber",
+    "opt": true,
+    "img": "i-cucumber"
+   }
+  ],
+  "steps": [
+   {
+    "t": "Take the glass pot out of the air fryer and line it with parchment paper.",
+    "imgs": [
+     "s-liner-1",
+     "s-liner-2",
+     "s-liner-3"
+    ]
+   },
+   {
+    "t": "Add the broccoli.",
+    "imgs": [
+     "s-broccoli-1",
+     "s-broccoli-2",
+     "s-broccoli-3"
+    ]
+   },
+   {
+    "t": "Add the baby corn.",
+    "imgs": [
+     "s-corn-1",
+     "s-corn-2"
+    ]
+   },
+   {
+    "t": "Add the carrot sticks.",
+    "imgs": [
+     "s-carrot-1",
+     "s-carrot-2"
+    ]
+   },
+   {
+    "t": "Add the mushrooms.",
+    "imgs": [
+     "s-mushroom-1",
+     "s-mushroom-2"
+    ]
+   },
+   {
+    "t": "Add the chopped capsicum.",
+    "imgs": [
+     "s-pepper-1",
+     "s-pepper-2"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the red onion petals.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the black pepper.",
+    "imgs": [
+     "s-blackpepper-1",
+     "s-blackpepper-2",
+     "s-blackpepper-3"
+    ]
+   },
+   {
+    "t": "Sprinkle on the mixed herbs.",
+    "imgs": [
+     "s-herbs-1",
+     "s-herbs-2",
+     "s-herbs-3"
+    ]
+   },
+   {
+    "t": "Drizzle the olive oil over everything.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Toss well until every piece is coated.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Set the air fryer to 190 C and 15 minutes.",
+    "imgs": [
+     "s-set-1",
+     "s-set-2",
+     "s-set-3"
+    ]
+   },
+   {
+    "t": "Fit the pot back into the air fryer and start.",
+    "imgs": [
+     "s-start-1",
+     "s-start-2",
+     "s-start-3"
+    ]
+   },
+   {
+    "t": "When the timer ends, lift out the pot. The veggies look browned.",
+    "imgs": [
+     "s-done-1",
+     "s-done-2"
+    ]
+   },
+   {
+    "t": "Put the veggies on a plate.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Squeeze a little lemon juice over them.",
+    "imgs": [
+     "s-lemon-1",
+     "s-lemon-2"
+    ]
+   },
+   {
+    "t": "Serve with a cucumber curd dip on the side.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2"
+    ]
+   }
+  ],
+  "tags": [
+   "air-fryer",
+   "high-protein",
+   "high-fibre"
+  ],
+  "notes": "Amounts are not given: all quantities are guesses from the pictures. Temperature 190 C and 15 minutes are read from the air fryer display (speech is garbled); the display later shows 18, which may be a different setting. The dip is served on the plate but its making is not shown: it looks like thick curd with sliced cucumber and green herbs. The first red pieces look like red carrot. Whether she tosses the veggies halfway is not shown."
+ },
+ "images": {
+  "cover": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    640
+   ],
+   "w": 560
+  },
+  "i-broccoli": {
+   "t": 4.0,
+   "crop": [
+    330,
+    260,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-babycorn": {
+   "t": 5.6,
+   "crop": [
+    300,
+    300,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-carrot": {
+   "t": 6.6,
+   "crop": [
+    290,
+    410,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-mushroom": {
+   "t": 7.6,
+   "crop": [
+    60,
+    290,
+    560,
+    560
+   ],
+   "w": 200
+  },
+  "i-pepper-veg": {
+   "t": 8.6,
+   "crop": [
+    220,
+    280,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 9.6,
+   "crop": [
+    260,
+    330,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 10.6,
+   "crop": [
+    380,
+    300,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 11.8,
+   "crop": [
+    150,
+    500,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-blackpepper": {
+   "t": 13.8,
+   "crop": [
+    300,
+    420,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-herbs": {
+   "t": 14.6,
+   "crop": [
+    230,
+    400,
+    430,
+    430
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 16.2,
+   "crop": [
+    300,
+    380,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-lemon": {
+   "t": 28.4,
+   "crop": [
+    200,
+    560,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 27.0,
+   "crop": [
+    100,
+    250,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-cucumber": {
+   "t": 27.0,
+   "crop": [
+    200,
+    260,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "s-liner-1": {
+   "t": 1.3,
+   "crop": [
+    0,
+    540,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-liner-2": {
+   "t": 2.3,
+   "crop": [
+    0,
+    540,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-liner-3": {
+   "t": 3.6,
+   "crop": [
+    0,
+    540,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-broccoli-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-broccoli-2": {
+   "t": 4.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-broccoli-3": {
+   "t": 5.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-corn-1": {
+   "t": 5.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-corn-2": {
+   "t": 6.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-carrot-1": {
+   "t": 6.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-carrot-2": {
+   "t": 7.3,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mushroom-1": {
+   "t": 7.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mushroom-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pepper-1": {
+   "t": 8.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pepper-2": {
+   "t": 9.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 9.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 10.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 10.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 11.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 11.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 11.8,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-blackpepper-1": {
+   "t": 12.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-blackpepper-2": {
+   "t": 13.8,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-blackpepper-3": {
+   "t": 14.2,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-herbs-1": {
+   "t": 14.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-herbs-2": {
+   "t": 15.0,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-herbs-3": {
+   "t": 15.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 15.8,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 16.6,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 17.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 18.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 19.4,
+   "crop": [
+    0,
+    330,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-set-1": {
+   "t": 21.4,
+   "crop": [
+    60,
+    240,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-set-2": {
+   "t": 21.8,
+   "crop": [
+    60,
+    240,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-set-3": {
+   "t": 22.2,
+   "crop": [
+    60,
+    240,
+    600,
+    450
+   ],
+   "w": 480
+  },
+  "s-start-1": {
+   "t": 23.0,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-start-2": {
+   "t": 23.7,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-start-3": {
+   "t": 24.3,
+   "crop": [
+    0,
+    300,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-done-1": {
+   "t": 24.6,
+   "crop": [
+    0,
+    350,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-done-2": {
+   "t": 25.0,
+   "crop": [
+    0,
+    350,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    600,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 27.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-1": {
+   "t": 28.4,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lemon-2": {
+   "t": 29.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 30.0,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 30.6,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 480
+  }
+ }
+}

@@ -1,0 +1,851 @@
+{
+  "videos": [
+    "3645092289591750946"
+  ],
+  "dish": {
+    "id": "soya-potato-cutlets",
+    "name": "Air fryer soya potato cutlets",
+    "meal": "Snack",
+    "minutes": 40,
+    "protein": 10,
+    "how": "Air fryer",
+    "tools": "Mixie, air fryer, grater, brush, glass bowl",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1.5 cups (80 g) dry",
+        "n": "Soya chunks",
+        "tag": "soya-chunks",
+        "img": "i-soya"
+      },
+      {
+        "q": "~1/2 tsp, plus more in the mix",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "enough to cover",
+        "n": "Water, for soaking",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "1 medium",
+        "n": "Onion, in big pieces",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "2",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "5 to 6 cloves",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~1 inch piece",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "a big handful",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-corr"
+      },
+      {
+        "q": "3 medium",
+        "n": "Potatoes, boiled",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-redchilli"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Garam masala or cumin-coriander powder (brown masala)",
+        "tag": "garam-masala",
+        "alt": [
+          "cumin-powder",
+          "coriander-powder"
+        ],
+        "img": "i-masala"
+      },
+      {
+        "q": "~1/4 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Breadcrumbs or oat flour (beige powder binder, not named in the video)",
+        "tag": "breadcrumbs",
+        "alt": [
+          "oats",
+          "besan"
+        ],
+        "opt": true,
+        "img": "i-binder"
+      },
+      {
+        "q": "~50 g",
+        "n": "Paneer, grated (the video says you can add it)",
+        "tag": "paneer",
+        "opt": true
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Oil or ghee, to brush",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "a small bowl",
+        "n": "Green chutney, to dip",
+        "tag": "green-chutney",
+        "opt": true,
+        "img": "i-chutney"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put the soya chunks in a glass bowl.",
+        "imgs": [
+          "s-soya-1",
+          "s-soya-2"
+        ]
+      },
+      {
+        "t": "Add a little salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Pour water over the soya chunks and let them soak until soft.",
+        "imgs": [
+          "s-water-1",
+          "s-water-2"
+        ]
+      },
+      {
+        "t": "Squeeze the soaked soya chunks well to remove the water.",
+        "imgs": [
+          "s-squeeze-1"
+        ]
+      },
+      {
+        "t": "Put the squeezed soya chunks in the mixie jar.",
+        "imgs": [
+          "s-jar-1"
+        ]
+      },
+      {
+        "t": "Add the onion and green chillies.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add the garlic and ginger.",
+        "imgs": [
+          "s-garlic-1",
+          "s-garlic-2"
+        ]
+      },
+      {
+        "t": "Add the coriander leaves.",
+        "imgs": [
+          "s-corr-1"
+        ]
+      },
+      {
+        "t": "Grind to a coarse, crumbly mince and tip it into a bowl.",
+        "imgs": [
+          "s-mince-1",
+          "s-mince-2"
+        ]
+      },
+      {
+        "t": "Grate the boiled potatoes into the bowl.",
+        "imgs": [
+          "s-potato-1",
+          "s-potato-2",
+          "s-potato-3"
+        ]
+      },
+      {
+        "t": "Add the red chilli powder and the brown masala.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add the turmeric, salt and cumin seeds.",
+        "imgs": [
+          "s-spice-3",
+          "s-spice-4",
+          "s-spice-5"
+        ]
+      },
+      {
+        "t": "Sprinkle on the breadcrumbs. Add grated paneer too if you like.",
+        "imgs": [
+          "s-binder-1",
+          "s-binder-2"
+        ]
+      },
+      {
+        "t": "Mix and mash everything by hand until it holds together.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Press a small portion into a short roll, in any shape you like.",
+        "imgs": [
+          "s-shape-1",
+          "s-shape-2",
+          "s-shape-3"
+        ]
+      },
+      {
+        "t": "Repeat with the rest of the mix and set the cutlets on a plate.",
+        "imgs": [
+          "s-plate-1"
+        ]
+      },
+      {
+        "t": "Place the cutlets in the air fryer basket with space between them.",
+        "imgs": [
+          "s-basket-1",
+          "s-basket-2"
+        ]
+      },
+      {
+        "t": "Brush each cutlet lightly with oil or ghee.",
+        "imgs": [
+          "s-brush-1",
+          "s-brush-2",
+          "s-brush-3"
+        ]
+      },
+      {
+        "t": "Air fry until golden brown and crisp.",
+        "imgs": [
+          "s-fry-1",
+          "s-fry-2",
+          "s-fry-3"
+        ]
+      },
+      {
+        "t": "Serve hot with green chutney.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "air-fryer",
+      "blender",
+      "high-fibre"
+    ],
+    "credit": "@yummy_tummy25",
+    "notes": "English speech and on-screen text, but no amounts are given: the caption it refers to ('add all the ingredients mentioned in the caption') is not in the video, so all amounts and the spice names are my reading of the pictures. Brown masala could be garam masala or cumin-coriander powder. The beige powder added last is not named (looks like breadcrumbs or oat flour). Soaking time, air fryer temperature and time are not shown or said (it says you can also shallow fry in oil or ghee). Serves 4 is a guess: about 14 cutlets from this amount. Paneer is only mentioned, not shown."
+  },
+  "images": {
+    "cover": {
+      "t": 2.3,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 560
+    },
+    "i-soya": {
+      "t": 8.0,
+      "crop": [
+        100,
+        420,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 22.0,
+      "crop": [
+        210,
+        350,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 9.5,
+      "crop": [
+        330,
+        330,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 13.0,
+      "crop": [
+        100,
+        200,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 14.0,
+      "crop": [
+        270,
+        560,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 14.5,
+      "crop": [
+        140,
+        400,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 14.5,
+      "crop": [
+        330,
+        540,
+        260,
+        260
+      ],
+      "w": 200
+    },
+    "i-corr": {
+      "t": 16.0,
+      "crop": [
+        250,
+        430,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 18.0,
+      "crop": [
+        200,
+        260,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-redchilli": {
+      "t": 20.5,
+      "crop": [
+        250,
+        350,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-masala": {
+      "t": 21.0,
+      "crop": [
+        330,
+        280,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 21.5,
+      "crop": [
+        300,
+        230,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 22.5,
+      "crop": [
+        280,
+        230,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-binder": {
+      "t": 23.0,
+      "crop": [
+        180,
+        180,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 32.5,
+      "crop": [
+        150,
+        350,
+        350,
+        350
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 2.3,
+      "crop": [
+        190,
+        430,
+        260,
+        260
+      ],
+      "w": 200
+    },
+    "s-soya-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-soya-2": {
+      "t": 7.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 8.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-water-2": {
+      "t": 10.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-squeeze-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 12.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-garlic-2": {
+      "t": 15.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-corr-1": {
+      "t": 16.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mince-1": {
+      "t": 17.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mince-2": {
+      "t": 18.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 18.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-3": {
+      "t": 20.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 20.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 21.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 21.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-4": {
+      "t": 22.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-5": {
+      "t": 22.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-binder-1": {
+      "t": 23.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-binder-2": {
+      "t": 23.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 24.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 25.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-shape-1": {
+      "t": 26.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-shape-2": {
+      "t": 27.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-shape-3": {
+      "t": 29.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-plate-1": {
+      "t": 30.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-basket-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-basket-2": {
+      "t": 31.7,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-brush-1": {
+      "t": 32.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-brush-2": {
+      "t": 33.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-brush-3": {
+      "t": 34.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 35.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 36.5,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-3": {
+      "t": 38.0,
+      "crop": [
+        0,
+        350,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 2.3,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 3.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}
