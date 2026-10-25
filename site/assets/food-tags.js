@@ -16,7 +16,7 @@
       ['sprouts', 'Sprouts'], ['roasted-chana', 'Roasted chana'], ['besan', 'Besan'], ['sattu', 'Sattu']] },
     { id: 'grain', name: 'Grains and flour', tags: [
       ['rice', 'Rice'], ['oats', 'Oats'], ['dalia', 'Dalia'], ['poha', 'Poha'], ['quinoa', 'Quinoa'], ['atta', 'Atta'], ['suji', 'Suji'],
-      ['vermicelli', 'Vermicelli'], ['bread', 'Bread'], ['millet', 'Millets'], ['rice-flour', 'Rice flour'], ['corn-flour', 'Corn flour'], ['dosa-batter', 'Dosa batter'], ['puffed-rice', 'Puffed rice'], ['breadcrumbs', 'Breadcrumbs'], ['sabudana', 'Sabudana'], ['pasta', 'Pasta'], ['pav', 'Pav'], ['all-purpose-flour', 'Maida'], ['rice-paper', 'Rice paper'], ['nachos', 'Nachos']] },
+      ['vermicelli', 'Vermicelli'], ['bread', 'Bread'], ['millet', 'Millets'], ['rice-flour', 'Rice flour'], ['corn-flour', 'Corn flour'], ['dosa-batter', 'Dosa batter'], ['idli-batter', 'Idli batter'], ['puffed-rice', 'Puffed rice'], ['breadcrumbs', 'Breadcrumbs'], ['sabudana', 'Sabudana'], ['pasta', 'Pasta'], ['pav', 'Pav'], ['all-purpose-flour', 'Maida'], ['rice-paper', 'Rice paper'], ['nachos', 'Nachos']] },
     { id: 'veg', name: 'Vegetables', tags: [
       ['potato', 'Potato'], ['sweet-potato', 'Sweet potato'], ['spinach', 'Spinach'], ['cauliflower', 'Cauliflower'], ['cabbage', 'Cabbage'],
       ['carrot', 'Carrot'], ['peas', 'Peas'], ['capsicum', 'Capsicum'], ['cucumber', 'Cucumber'], ['beetroot', 'Beetroot'], ['broccoli', 'Broccoli'],

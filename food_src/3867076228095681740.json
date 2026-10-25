@@ -1,0 +1,614 @@
+{
+  "videos": [
+    "3867076228095681740"
+  ],
+  "dish": {
+    "id": "air-fryer-crispy-aloo-chaat",
+    "name": "Air fryer crispy aloo chaat",
+    "meal": "Snack",
+    "minutes": 45,
+    "protein": 5,
+    "how": "Air fryer",
+    "tools": "Air fryer, paper liner, steel glass, plate, spoon",
+    "serves": 3,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~13 small (~300 g)",
+        "n": "Baby potatoes, washed",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "a pinch",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Green chutney",
+        "tag": "green-chutney",
+        "img": "i-green-chutney"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Sweet tamarind chutney (meethi chutney)",
+        "tag": "tamarind-chutney",
+        "img": "i-chutney"
+      },
+      {
+        "q": "~1/3 cup, boiled or roasted",
+        "n": "Chickpeas (chana)",
+        "tag": "chickpeas",
+        "img": "i-chickpeas"
+      },
+      {
+        "q": "1, chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-green-chilli",
+        "opt": true
+      },
+      {
+        "q": "1 small, chopped",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Sev",
+        "tag": "sev",
+        "img": "i-sev"
+      },
+      {
+        "q": "a few leaves, chopped",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put a paper liner in the air fryer basket.",
+        "imgs": [
+          "s-line-1",
+          "s-line-2"
+        ]
+      },
+      {
+        "t": "Add the washed baby potatoes.",
+        "imgs": [
+          "s-pot-1",
+          "s-pot-2"
+        ]
+      },
+      {
+        "t": "Sprinkle a pinch of salt over the potatoes.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Drizzle a little oil over the potatoes.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Air fry at 170 C for 18 to 20 minutes.",
+        "imgs": [
+          "s-fry1-1",
+          "s-fry1-2",
+          "s-fry1-3"
+        ]
+      },
+      {
+        "t": "Take out the golden potatoes.",
+        "imgs": [
+          "s-out-1",
+          "s-out-2"
+        ]
+      },
+      {
+        "t": "Press each potato flat with the bottom of a steel glass.",
+        "imgs": [
+          "s-smash-1",
+          "s-smash-2",
+          "s-smash-3"
+        ]
+      },
+      {
+        "t": "Put the flattened potatoes back in the basket.",
+        "imgs": [
+          "s-back-1",
+          "s-back-2",
+          "s-back-3"
+        ]
+      },
+      {
+        "t": "Air fry at 180 C for 10 to 12 minutes until crisp.",
+        "imgs": [
+          "s-fry2-1",
+          "s-fry2-2",
+          "s-fry2-3"
+        ]
+      },
+      {
+        "t": "Move the crisp potatoes to a plate.",
+        "imgs": [
+          "s-plate-1",
+          "s-plate-2"
+        ]
+      },
+      {
+        "t": "Put a spoon of green chutney on each one.",
+        "imgs": [
+          "s-gc-1"
+        ]
+      },
+      {
+        "t": "Drizzle the sweet tamarind chutney over them.",
+        "imgs": [
+          "s-sc-1"
+        ]
+      },
+      {
+        "t": "Add the chickpeas.",
+        "imgs": [
+          "s-ch-1"
+        ]
+      },
+      {
+        "t": "Add the chopped green chilli and onion.",
+        "imgs": [
+          "s-chilli-1",
+          "s-onion-1"
+        ]
+      },
+      {
+        "t": "Top with sev and chopped coriander.",
+        "imgs": [
+          "s-sev-1",
+          "s-sev-2"
+        ]
+      }
+    ],
+    "tags": [
+      "air-fryer"
+    ],
+    "notes": "Silent video; only the air fryer settings are on screen (170 C for 18-20 min, then 180 C for 10-12 min). Amounts of everything else are my estimates (the potato count is from the basket). The potatoes look raw, not boiled. Oiling is not shown: they just turn shiny between two shots, so I assume about 1 tsp oil. The orange topping looks like crunchy roasted or boiled-and-tossed chickpeas, and the amber drizzle looks like tamarind (meethi) chutney. Coriander appears only in the first (finished) shot. No creator name on screen."
+  },
+  "images": {
+    "s-line-1": {
+      "t": 1.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-line-2": {
+      "t": 2.2,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pot-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-pot-2": {
+      "t": 3.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 4.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 4.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 6.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 6.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry1-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        440,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fry1-2": {
+      "t": 7.5,
+      "crop": [
+        0,
+        440,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fry1-3": {
+      "t": 8.0,
+      "crop": [
+        0,
+        440,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-out-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-out-2": {
+      "t": 9.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-smash-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-smash-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-smash-3": {
+      "t": 11.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-back-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-back-2": {
+      "t": 13.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-back-3": {
+      "t": 14.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry2-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        440,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fry2-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        440,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-fry2-3": {
+      "t": 16.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-plate-1": {
+      "t": 17.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-plate-2": {
+      "t": 17.9,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-gc-1": {
+      "t": 18.4,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sc-1": {
+      "t": 18.8,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ch-1": {
+      "t": 19.2,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 19.6,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sev-1": {
+      "t": 20.5,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-sev-2": {
+      "t": 0.3,
+      "crop": [
+        0,
+        390,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "cover": {
+      "t": 20.4,
+      "crop": [
+        0,
+        390,
+        720,
+        640
+      ],
+      "w": 560
+    },
+    "i-potato": {
+      "t": 3.5,
+      "crop": [
+        100,
+        560,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 4.0,
+      "crop": [
+        220,
+        440,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-oil": {
+      "t": 6.5,
+      "crop": [
+        130,
+        500,
+        460,
+        460
+      ],
+      "w": 200
+    },
+    "i-green-chutney": {
+      "t": 18.4,
+      "crop": [
+        160,
+        430,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chutney": {
+      "t": 18.8,
+      "crop": [
+        160,
+        480,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chickpeas": {
+      "t": 19.2,
+      "crop": [
+        60,
+        480,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 19.6,
+      "crop": [
+        220,
+        520,
+        260,
+        260
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 20.0,
+      "crop": [
+        200,
+        470,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-sev": {
+      "t": 20.5,
+      "crop": [
+        200,
+        550,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 0.3,
+      "crop": [
+        120,
+        420,
+        380,
+        380
+      ],
+      "w": 200
+    }
+  }
+}

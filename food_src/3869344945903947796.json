@@ -1,0 +1,724 @@
+{
+  "videos": [
+    "3869344945903947796"
+  ],
+  "dish": {
+    "id": "makhana-nut-chivda",
+    "name": "Makhana nut chivda",
+    "meal": "Snack",
+    "minutes": 25,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Steel pan, non-stick pan, spatula, glass jar",
+    "serves": 8,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 cups (~50 g)",
+        "n": "Thin poha (flattened rice)",
+        "tag": "poha",
+        "img": "i-poha"
+      },
+      {
+        "q": "~3 cups (~25 g)",
+        "n": "Puffed rice (murmura)",
+        "tag": "puffed-rice",
+        "img": "i-puffed-rice"
+      },
+      {
+        "q": "~1/2 cup (~70 g)",
+        "n": "Roasted chana (bhuna chana)",
+        "tag": "roasted-chana",
+        "img": "i-roasted-chana"
+      },
+      {
+        "q": "~3 cups (~30 g)",
+        "n": "Makhana (fox nuts)",
+        "tag": "makhana",
+        "img": "i-makhana"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Ghee",
+        "tag": "ghee",
+        "img": "i-ghee"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~3, slit",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-green-chilli"
+      },
+      {
+        "q": "~10 leaves",
+        "n": "Curry leaves",
+        "tag": "curry-leaves",
+        "img": "i-curry-leaves"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric powder (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-red-chilli"
+      },
+      {
+        "q": "~1/2 cup (~65 g)",
+        "n": "Almonds (badam)",
+        "tag": "almonds",
+        "img": "i-almonds"
+      },
+      {
+        "q": "~1/2 cup (~65 g)",
+        "n": "Cashews (kaju)",
+        "tag": "cashews",
+        "img": "i-cashews"
+      },
+      {
+        "q": "~1/4 cup (~20 g)",
+        "n": "Dry coconut slices (khopra)",
+        "tag": "coconut",
+        "img": "i-coconut"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Pink salt (or black salt)",
+        "tag": "salt",
+        "img": "i-salt",
+        "alt": [
+          "black-salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "t": "Dry roast the poha in a steel pan until light golden.",
+        "imgs": [
+          "s-poha-1",
+          "s-poha-2",
+          "s-poha-3"
+        ]
+      },
+      {
+        "t": "Add the puffed rice (murmura) and the roasted chana.",
+        "imgs": [
+          "s-mur-1",
+          "s-mur-2"
+        ]
+      },
+      {
+        "t": "Stir well until crisp, then set the mix aside.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2"
+        ]
+      },
+      {
+        "t": "Dry roast the makhana in the same pan until crisp.",
+        "imgs": [
+          "s-mak-1",
+          "s-mak-2",
+          "s-mak-3"
+        ]
+      },
+      {
+        "t": "Spoon about 2 tbsp ghee into a non-stick pan.",
+        "imgs": [
+          "s-ghee-1",
+          "s-ghee-2",
+          "s-ghee-3"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add the slit green chillies and the curry leaves.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Add the turmeric and red chilli powder.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Add the almonds.",
+        "imgs": [
+          "s-alm-1",
+          "s-alm-2"
+        ]
+      },
+      {
+        "t": "Add the cashews and the dry coconut slices.",
+        "imgs": [
+          "s-cash-1",
+          "s-cash-2"
+        ]
+      },
+      {
+        "t": "Roast, stirring, until the nuts turn golden.",
+        "imgs": [
+          "s-roast-1",
+          "s-roast-2",
+          "s-roast-3"
+        ]
+      },
+      {
+        "t": "Add the roasted poha, puffed rice, chana and makhana.",
+        "imgs": [
+          "s-add-1",
+          "s-add-2"
+        ]
+      },
+      {
+        "t": "Sprinkle in the pink salt.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Toss everything well.",
+        "imgs": [
+          "s-toss-1",
+          "s-toss-2",
+          "s-toss-3"
+        ]
+      },
+      {
+        "t": "Fill the mix into a glass jar.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "make-ahead"
+    ],
+    "notes": "Silent video, no amounts shown: all quantities are my estimates. The first pan (poha, puffed rice, chana, then makhana) is on an induction top; the mix is set aside in a bowl before the ghee pan (the move is not shown). The pinkish powder at the end looks like pink or black salt. Roasting times are not shown, and cooling before storing is not shown. No creator name on screen (Country Delight is a product brand)."
+  },
+  "images": {
+    "s-poha-1": {
+      "t": 1.3,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-2": {
+      "t": 2.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-poha-3": {
+      "t": 2.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mur-1": {
+      "t": 3.0,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mur-2": {
+      "t": 3.5,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 4.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 4.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mak-1": {
+      "t": 5.0,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mak-2": {
+      "t": 5.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-mak-3": {
+      "t": 6.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ghee-1": {
+      "t": 7.6,
+      "crop": [
+        0,
+        180,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ghee-2": {
+      "t": 9.0,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-ghee-3": {
+      "t": 9.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 10.2,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 10.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 11.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 11.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 12.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 12.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-alm-1": {
+      "t": 13.5,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-alm-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cash-1": {
+      "t": 14.5,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cash-2": {
+      "t": 15.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-2": {
+      "t": 16.0,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roast-3": {
+      "t": 16.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-1": {
+      "t": 17.0,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-2": {
+      "t": 17.5,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        120,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-toss-1": {
+      "t": 18.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-toss-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-toss-3": {
+      "t": 20.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 21.0,
+      "crop": [
+        0,
+        300,
+        720,
+        600
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 21.5,
+      "crop": [
+        0,
+        290,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "cover": {
+      "t": 21.3,
+      "crop": [
+        0,
+        290,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-poha": {
+      "t": 2.0,
+      "crop": [
+        60,
+        380,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-puffed-rice": {
+      "t": 3.0,
+      "crop": [
+        60,
+        150,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-roasted-chana": {
+      "t": 3.5,
+      "crop": [
+        60,
+        150,
+        560,
+        560
+      ],
+      "w": 200
+    },
+    "i-makhana": {
+      "t": 5.5,
+      "crop": [
+        100,
+        420,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-ghee": {
+      "t": 8.8,
+      "crop": [
+        60,
+        380,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 10.0,
+      "crop": [
+        150,
+        500,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-green-chilli": {
+      "t": 11.0,
+      "crop": [
+        100,
+        520,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-curry-leaves": {
+      "t": 10.5,
+      "crop": [
+        250,
+        540,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 11.5,
+      "crop": [
+        150,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-red-chilli": {
+      "t": 12.0,
+      "crop": [
+        250,
+        330,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-almonds": {
+      "t": 14.1,
+      "crop": [
+        20,
+        560,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-cashews": {
+      "t": 15.0,
+      "crop": [
+        60,
+        520,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-coconut": {
+      "t": 14.9,
+      "crop": [
+        0,
+        520,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 18.0,
+      "crop": [
+        330,
+        0,
+        390,
+        390
+      ],
+      "w": 200
+    }
+  }
+}

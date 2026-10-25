@@ -1,0 +1,773 @@
+{
+  "videos": [
+    "3956282500302537865"
+  ],
+  "dish": {
+    "id": "aloo-corn-paneer-kachori",
+    "name": "Aloo corn paneer kachori",
+    "meal": "Snack",
+    "minutes": 60,
+    "protein": 15,
+    "how": "Gas",
+    "tools": "Non-stick pan, kadai, rolling pin, gas",
+    "serves": 4,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~2 tbsp for filling + ~4 tbsp for dough, plus oil for deep frying",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Fennel seeds (saunf)",
+        "tag": "fennel-seeds",
+        "img": "i-fennel"
+      },
+      {
+        "q": "~3, chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1 tbsp, grated",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 cup (150 g)",
+        "n": "Sweet corn",
+        "tag": "corn",
+        "img": "i-corn"
+      },
+      {
+        "q": "~1 cup (150 g)",
+        "n": "Green peas",
+        "tag": "peas",
+        "img": "i-peas"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli-powder"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Coriander powder (dhania)",
+        "tag": "coriander-powder",
+        "img": "i-coriander-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Garam masala",
+        "tag": "garam-masala",
+        "img": "i-garam-masala"
+      },
+      {
+        "q": "~1 tsp for filling + ~1/2 tsp for dough",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~3 medium (300 g), boiled and mashed",
+        "n": "Potato (aloo)",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~100 g, diced",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "~2 cups (250 g)",
+        "n": "Refined flour (maida)",
+        "tag": "all-purpose-flour",
+        "img": "i-flour"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Carom seeds (ajwain)",
+        "tag": "ajwain",
+        "img": "i-ajwain"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Nigella seeds (kalonji)",
+        "tag": "nigella-seeds",
+        "img": "i-kalonji"
+      },
+      {
+        "q": "~1/2 cup, as needed",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "a small bowl",
+        "n": "Tomato ketchup, to dip",
+        "tag": "tomato-ketchup",
+        "opt": true,
+        "img": "i-ketchup"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Heat oil in a non-stick pan on the gas.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add cumin seeds and fennel seeds. Let them crackle.",
+        "imgs": [
+          "s-seeds-1",
+          "s-seeds-2"
+        ]
+      },
+      {
+        "t": "Add chopped green chilli and grated ginger. Stir.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Add the sweet corn and green peas.",
+        "imgs": [
+          "s-corn-1",
+          "s-corn-2"
+        ]
+      },
+      {
+        "t": "Add red chilli powder, coriander powder, turmeric and garam masala.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2"
+        ]
+      },
+      {
+        "t": "Add salt and mix well.",
+        "imgs": [
+          "s-salt-1"
+        ]
+      },
+      {
+        "t": "Add the mashed boiled potatoes and mix.",
+        "imgs": [
+          "s-potato-1",
+          "s-potato-2"
+        ]
+      },
+      {
+        "t": "Add the diced paneer and mix gently. Keep this filling aside.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2"
+        ]
+      },
+      {
+        "t": "In a big bowl, mix the flour with salt, ajwain and kalonji.",
+        "imgs": [
+          "s-flour-1",
+          "s-flour-2"
+        ]
+      },
+      {
+        "t": "Add oil and rub it into the flour with your fingers.",
+        "imgs": [
+          "s-oilrub-1",
+          "s-oilrub-2"
+        ]
+      },
+      {
+        "t": "Add water and knead into a firm dough.",
+        "imgs": [
+          "s-knead-1",
+          "s-knead-2"
+        ]
+      },
+      {
+        "t": "Take a small ball of dough and roll it into a small disc.",
+        "imgs": [
+          "s-roll-1",
+          "s-roll-2"
+        ]
+      },
+      {
+        "t": "Put a spoon of the filling in the centre.",
+        "imgs": [
+          "s-fill-1"
+        ]
+      },
+      {
+        "t": "Pinch the edges together to close it into a ball.",
+        "imgs": [
+          "s-seal-1",
+          "s-seal-2"
+        ]
+      },
+      {
+        "t": "Press the ball flat in your palm.",
+        "imgs": [
+          "s-flat-1"
+        ]
+      },
+      {
+        "t": "Slide into oil and deep fry, turning, until golden brown.",
+        "imgs": [
+          "s-fry-1",
+          "s-fry-2"
+        ]
+      },
+      {
+        "t": "Lift out onto a wire rack to drain.",
+        "imgs": [
+          "s-drain-1"
+        ]
+      },
+      {
+        "t": "Serve with ketchup.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas"
+    ],
+    "credit": "Deeksha's recipes",
+    "notes": "No amounts are given in the video, so every quantity is a guess (about 8 kachoris). Brown seeds in the dough look like ajwain; the grey-brown spice added to the filling may be cumin powder instead of garam masala. Deep fried and made with maida. Oil heat and frying time are not stated."
+  },
+  "images": {
+    "cover": {
+      "t": 57.0,
+      "crop": [
+        0,
+        230,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 9.4,
+      "crop": [
+        60,
+        470,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 10.0,
+      "crop": [
+        60,
+        480,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-fennel": {
+      "t": 10.8,
+      "crop": [
+        60,
+        380,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 11.6,
+      "crop": [
+        150,
+        330,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 12.4,
+      "crop": [
+        120,
+        380,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-corn": {
+      "t": 15.0,
+      "crop": [
+        150,
+        340,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-peas": {
+      "t": 16.2,
+      "crop": [
+        120,
+        300,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-chilli-powder": {
+      "t": 17.4,
+      "crop": [
+        120,
+        280,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-coriander-powder": {
+      "t": 18.4,
+      "crop": [
+        60,
+        500,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 19.2,
+      "crop": [
+        200,
+        280,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-garam-masala": {
+      "t": 20.4,
+      "crop": [
+        60,
+        430,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 22.4,
+      "crop": [
+        150,
+        440,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 25.0,
+      "crop": [
+        60,
+        380,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 28.2,
+      "crop": [
+        60,
+        450,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-flour": {
+      "t": 31.0,
+      "crop": [
+        60,
+        380,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-ajwain": {
+      "t": 33.0,
+      "crop": [
+        150,
+        330,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-kalonji": {
+      "t": 34.0,
+      "crop": [
+        150,
+        330,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 36.8,
+      "crop": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-ketchup": {
+      "t": 61.5,
+      "crop": [
+        100,
+        420,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "s-oil-1": {
+      "t": 9.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seeds-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seeds-2": {
+      "t": 11.2,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 11.6,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 12.8,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-corn-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-corn-2": {
+      "t": 16.2,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 17.4,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 19.2,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 22.4,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-1": {
+      "t": 25.0,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-potato-2": {
+      "t": 26.4,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 28.2,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 29.6,
+      "crop": [
+        0,
+        440,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flour-1": {
+      "t": 31.0,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flour-2": {
+      "t": 33.8,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oilrub-1": {
+      "t": 34.4,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oilrub-2": {
+      "t": 36.0,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-knead-1": {
+      "t": 37.2,
+      "crop": [
+        0,
+        150,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-knead-2": {
+      "t": 38.6,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roll-1": {
+      "t": 41.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-roll-2": {
+      "t": 43.4,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fill-1": {
+      "t": 44.6,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seal-1": {
+      "t": 45.8,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-seal-2": {
+      "t": 47.6,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-flat-1": {
+      "t": 50.0,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-1": {
+      "t": 51.5,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-fry-2": {
+      "t": 53.0,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-drain-1": {
+      "t": 54.8,
+      "crop": [
+        0,
+        400,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 57.5,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 5.2,
+      "crop": [
+        0,
+        250,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

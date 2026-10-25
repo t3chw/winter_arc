@@ -1,0 +1,599 @@
+{
+  "videos": [
+    "3863480177162747862"
+  ],
+  "dish": {
+    "id": "mint-coriander-curd-dip",
+    "name": "Mint coriander curd dip",
+    "meal": "Side",
+    "minutes": 10,
+    "protein": 5,
+    "how": "No cooking",
+    "tools": "Mixie (blender), bowl, whisk, spoon",
+    "serves": 3,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~1 big handful (about 40 g)",
+        "n": "Coriander leaves (hara dhania)",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1/2 cup leaves, plus 3 for the top",
+        "n": "Mint leaves (pudina)",
+        "tag": "mint",
+        "img": "i-mint"
+      },
+      {
+        "q": "3",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~4 cloves",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~1 inch piece, sliced",
+        "n": "Ginger",
+        "tag": "ginger",
+        "img": "i-ginger"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Sugar",
+        "tag": "sugar",
+        "img": "i-sugar"
+      },
+      {
+        "q": "1 small, in 4 pieces",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "~1 cup (250 g)",
+        "n": "Thick curd (dahi)",
+        "tag": "curd",
+        "img": "i-curd"
+      },
+      {
+        "q": "1/2",
+        "n": "Lime (nimbu)",
+        "tag": "lemon",
+        "img": "i-lime"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put a big handful of coriander leaves in the mixie jar.",
+        "imgs": [
+          "s-coriander-1",
+          "s-coriander-2"
+        ]
+      },
+      {
+        "t": "Add about 1/2 cup mint leaves.",
+        "imgs": [
+          "s-mint-1",
+          "s-mint-2"
+        ]
+      },
+      {
+        "t": "Add 3 green chillies.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2"
+        ]
+      },
+      {
+        "t": "Add about 4 garlic cloves.",
+        "imgs": [
+          "s-garlic-1",
+          "s-garlic-2"
+        ]
+      },
+      {
+        "t": "Add the ginger pieces.",
+        "imgs": [
+          "s-ginger-1",
+          "s-ginger-2"
+        ]
+      },
+      {
+        "t": "Add about 1 tsp sugar.",
+        "imgs": [
+          "s-sugar-1",
+          "s-sugar-2"
+        ]
+      },
+      {
+        "t": "Add the onion pieces.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add about 1/2 tsp salt.",
+        "imgs": [
+          "s-salt-1",
+          "s-salt-2"
+        ]
+      },
+      {
+        "t": "Blend into a thick green chutney.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Whisk about 1 cup thick curd in a bowl until smooth.",
+        "imgs": [
+          "s-curd-1",
+          "s-curd-2",
+          "s-curd-3"
+        ]
+      },
+      {
+        "t": "Add about 3 tbsp of the green chutney to the curd.",
+        "imgs": [
+          "s-add-1",
+          "s-add-2"
+        ]
+      },
+      {
+        "t": "Mix well until the dip turns pale green.",
+        "imgs": [
+          "s-mix-1",
+          "s-mix-2",
+          "s-mix-3"
+        ]
+      },
+      {
+        "t": "Squeeze in half a lime and mix.",
+        "imgs": [
+          "s-lime-1",
+          "s-lime-2"
+        ]
+      },
+      {
+        "t": "Top with 3 mint leaves.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2"
+        ]
+      }
+    ],
+    "tags": [
+      "no-cook",
+      "blender",
+      "quick"
+    ],
+    "credit": "sumeras.kitchen",
+    "notes": "Almost no speech and no amounts, so all amounts (~) are my estimates; only about 3 tbsp of the chutney goes into the curd, so some chutney is left over. Ingredient names come from on-screen labels (coriander, mint, garlic, ginger, sugar, onion, salt, curd); the 3 green chillies and the lime had no label. The blending itself is not shown (the video cuts away), so the blend step uses the finished paste; no water was shown. The top of the screen has a TV cooking show clip with a handle watermark (cropped out of every picture); the handle is the credit. Protein is low (about 3 g per serving)."
+  },
+  "images": {
+    "cover": {
+      "t": 1.0,
+      "crop": [
+        0,
+        520,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-coriander": {
+      "t": 8.0,
+      "crop": [
+        60,
+        600,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-mint": {
+      "t": 3.0,
+      "crop": [
+        180,
+        620,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 10.5,
+      "crop": [
+        150,
+        590,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 11.0,
+      "crop": [
+        230,
+        700,
+        370,
+        370
+      ],
+      "w": 200
+    },
+    "i-ginger": {
+      "t": 13.0,
+      "crop": [
+        220,
+        660,
+        330,
+        330
+      ],
+      "w": 200
+    },
+    "i-sugar": {
+      "t": 15.0,
+      "crop": [
+        220,
+        640,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 17.0,
+      "crop": [
+        150,
+        580,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 18.0,
+      "crop": [
+        120,
+        580,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-curd": {
+      "t": 24.0,
+      "crop": [
+        60,
+        560,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-lime": {
+      "t": 31.25,
+      "crop": [
+        330,
+        640,
+        390,
+        390
+      ],
+      "w": 200
+    },
+    "s-coriander-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-coriander-2": {
+      "t": 8.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-mint-1": {
+      "t": 8.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-mint-2": {
+      "t": 9.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 10.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 10.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-garlic-1": {
+      "t": 11.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-garlic-2": {
+      "t": 11.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-ginger-1": {
+      "t": 13.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-ginger-2": {
+      "t": 14.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-sugar-1": {
+      "t": 15.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-sugar-2": {
+      "t": 15.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 16.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-salt-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-salt-2": {
+      "t": 18.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 19.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 20.5,
+      "crop": [
+        0,
+        560,
+        720,
+        680
+      ],
+      "w": 480
+    },
+    "s-curd-1": {
+      "t": 21.5,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-curd-2": {
+      "t": 22.5,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-curd-3": {
+      "t": 24.0,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-add-1": {
+      "t": 25.5,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-add-2": {
+      "t": 26.5,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-1": {
+      "t": 27.0,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-2": {
+      "t": 28.0,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-mix-3": {
+      "t": 29.0,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-lime-1": {
+      "t": 30.5,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-lime-2": {
+      "t": 31.25,
+      "crop": [
+        0,
+        540,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 0.3,
+      "crop": [
+        0,
+        520,
+        720,
+        720
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 2.0,
+      "crop": [
+        0,
+        520,
+        720,
+        720
+      ],
+      "w": 480
+    }
+  }
+}

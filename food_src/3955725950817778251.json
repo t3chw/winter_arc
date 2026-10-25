@@ -1,0 +1,545 @@
+{
+  "videos": [
+    "3955725950817778251"
+  ],
+  "dish": {
+    "id": "aloo-kasa",
+    "name": "Aloo kasa (spicy baby potatoes)",
+    "meal": "Lunch or dinner",
+    "minutes": 10,
+    "protein": 5,
+    "how": "Gas",
+    "tools": "Kadai, gas",
+    "serves": 2,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "~8 small (350 g), boiled and peeled",
+        "n": "Baby potatoes (chhote aloo)",
+        "tag": "potato",
+        "img": "i-potato"
+      },
+      {
+        "q": "~2 tbsp",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~2, chopped",
+        "n": "Green chilli",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "~1 tbsp, chopped",
+        "n": "Garlic and ginger",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~2 medium, sliced",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "~2 medium, cut in wedges",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Coriander powder (dhania)",
+        "tag": "coriander-powder",
+        "img": "i-coriander-powder"
+      },
+      {
+        "q": "~1/2 tsp",
+        "n": "Turmeric (haldi)",
+        "tag": "turmeric",
+        "img": "i-turmeric"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Red chilli powder",
+        "tag": "red-chilli-powder",
+        "img": "i-chilli-powder"
+      },
+      {
+        "q": "~1 tsp",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "a handful",
+        "n": "Coriander leaves, chopped",
+        "tag": "coriander-leaves",
+        "opt": true,
+        "img": "i-coriander"
+      },
+      {
+        "q": "~1 cup, cooked",
+        "n": "Cooked rice, to serve",
+        "tag": "rice",
+        "opt": true,
+        "img": "i-rice"
+      }
+    ],
+    "steps": [
+      {
+        "t": "Keep the boiled, peeled baby potatoes ready.",
+        "imgs": [
+          "s-potato-1"
+        ]
+      },
+      {
+        "t": "Heat oil in a kadai on medium heat.",
+        "imgs": [
+          "s-oil-1"
+        ]
+      },
+      {
+        "t": "Add cumin seeds and let them crackle.",
+        "imgs": [
+          "s-cumin-1",
+          "s-cumin-2"
+        ]
+      },
+      {
+        "t": "Add chopped green chilli, then chopped garlic and ginger. Fry for a few seconds.",
+        "imgs": [
+          "s-chilli-1",
+          "s-chilli-2",
+          "s-chilli-3"
+        ]
+      },
+      {
+        "t": "Add sliced onion and fry until it softens.",
+        "imgs": [
+          "s-onion-1",
+          "s-onion-2"
+        ]
+      },
+      {
+        "t": "Add the tomato wedges and stir.",
+        "imgs": [
+          "s-tomato-1",
+          "s-tomato-2"
+        ]
+      },
+      {
+        "t": "Add coriander powder, turmeric, red chilli powder and salt.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Cook, stirring, until the tomato melts and the masala turns thick and dark.",
+        "imgs": [
+          "s-masala-1",
+          "s-masala-2"
+        ]
+      },
+      {
+        "t": "Add the boiled potatoes.",
+        "imgs": [
+          "s-add-1",
+          "s-add-2"
+        ]
+      },
+      {
+        "t": "Toss for a few minutes until the masala coats every potato.",
+        "imgs": [
+          "s-toss-1",
+          "s-toss-2"
+        ]
+      },
+      {
+        "t": "Top with chopped coriander and serve hot with rice.",
+        "imgs": [
+          "s-serve-1",
+          "s-serve-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "quick",
+      "one-pot"
+    ],
+    "notes": "Silent video, no amounts shown: all quantities are guesses. Time (10 min, as the video title says) excludes boiling the potatoes. The brown powder added first may be coriander powder or garam masala. Coriander leaves are seen on the finished plate but not shown going in. Protein is for the potatoes only (rice not counted)."
+  },
+  "images": {
+    "cover": {
+      "t": 2.6,
+      "crop": [
+        0,
+        330,
+        720,
+        720
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 6.84,
+      "crop": [
+        60,
+        520,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 7.6,
+      "crop": [
+        90,
+        590,
+        500,
+        500
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 8.2,
+      "crop": [
+        200,
+        650,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 9.0,
+      "crop": [
+        220,
+        580,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 11.8,
+      "crop": [
+        100,
+        450,
+        520,
+        520
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 13.2,
+      "crop": [
+        180,
+        500,
+        450,
+        450
+      ],
+      "w": 200
+    },
+    "i-coriander-powder": {
+      "t": 15.6,
+      "crop": [
+        230,
+        530,
+        220,
+        220
+      ],
+      "w": 200
+    },
+    "i-turmeric": {
+      "t": 16.4,
+      "crop": [
+        250,
+        500,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-chilli-powder": {
+      "t": 17.6,
+      "crop": [
+        190,
+        470,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 18.0,
+      "crop": [
+        250,
+        620,
+        250,
+        250
+      ],
+      "w": 200
+    },
+    "i-potato": {
+      "t": 22.4,
+      "crop": [
+        60,
+        570,
+        600,
+        600
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 0.0,
+      "crop": [
+        210,
+        450,
+        510,
+        510
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 2.6,
+      "crop": [
+        330,
+        400,
+        340,
+        340
+      ],
+      "w": 200
+    },
+    "s-potato-1": {
+      "t": 22.4,
+      "crop": [
+        0,
+        560,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-oil-1": {
+      "t": 6.84,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-1": {
+      "t": 7.0,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-cumin-2": {
+      "t": 7.6,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-1": {
+      "t": 7.9,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-2": {
+      "t": 8.6,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-chilli-3": {
+      "t": 9.7,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-1": {
+      "t": 11.2,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-onion-2": {
+      "t": 12.3,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-1": {
+      "t": 13.2,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-tomato-2": {
+      "t": 14.2,
+      "crop": [
+        0,
+        430,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 16.4,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 17.4,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 18.0,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-1": {
+      "t": 20.0,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-masala-2": {
+      "t": 21.2,
+      "crop": [
+        0,
+        520,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-1": {
+      "t": 22.0,
+      "crop": [
+        0,
+        560,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-add-2": {
+      "t": 22.5,
+      "crop": [
+        0,
+        560,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-toss-1": {
+      "t": 24.3,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-toss-2": {
+      "t": 26.5,
+      "crop": [
+        0,
+        450,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-1": {
+      "t": 28.6,
+      "crop": [
+        0,
+        300,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-serve-2": {
+      "t": 2.6,
+      "crop": [
+        0,
+        330,
+        720,
+        540
+      ],
+      "w": 480
+    }
+  }
+}

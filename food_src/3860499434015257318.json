@@ -1,0 +1,669 @@
+{
+  "videos": [
+    "3860499434015257318"
+  ],
+  "dish": {
+    "id": "paneer-thecha-rice",
+    "name": "Paneer thecha rice",
+    "meal": "Lunch or dinner",
+    "minutes": 20,
+    "protein": 55,
+    "how": "Gas",
+    "tools": "Pan, gas, small mixie jar, wooden spatula",
+    "serves": 1,
+    "cover": "cover",
+    "ingredients": [
+      {
+        "q": "2 tsp (1 tsp for the thecha, 1 tsp for the rice)",
+        "n": "Oil",
+        "tag": "oil",
+        "img": "i-oil"
+      },
+      {
+        "q": "~1 tsp (1/2 tsp each time)",
+        "n": "Cumin seeds (jeera)",
+        "tag": "cumin",
+        "img": "i-cumin"
+      },
+      {
+        "q": "~6 cloves",
+        "n": "Garlic",
+        "tag": "garlic",
+        "img": "i-garlic"
+      },
+      {
+        "q": "~3",
+        "n": "Green chillies",
+        "tag": "green-chilli",
+        "img": "i-chilli"
+      },
+      {
+        "q": "30 g, plus a few crushed for topping",
+        "n": "Peanuts",
+        "tag": "peanuts",
+        "img": "i-peanuts"
+      },
+      {
+        "q": "~1 big handful, plus a little chopped for topping",
+        "n": "Coriander leaves",
+        "tag": "coriander-leaves",
+        "img": "i-coriander"
+      },
+      {
+        "q": "~3 tbsp",
+        "n": "Water",
+        "tag": "water",
+        "img": "i-water"
+      },
+      {
+        "q": "1 medium, sliced",
+        "n": "Onion",
+        "tag": "onion",
+        "img": "i-onion"
+      },
+      {
+        "q": "1 medium, chopped",
+        "n": "Tomato",
+        "tag": "tomato",
+        "img": "i-tomato"
+      },
+      {
+        "q": "~1 small, chopped",
+        "n": "Capsicum",
+        "tag": "capsicum",
+        "img": "i-capsicum"
+      },
+      {
+        "q": "200 g, low fat, cubed",
+        "n": "Paneer",
+        "tag": "paneer",
+        "img": "i-paneer"
+      },
+      {
+        "q": "to taste",
+        "n": "Salt",
+        "tag": "salt",
+        "img": "i-salt"
+      },
+      {
+        "q": "250 g cooked (about 1.5 cups)",
+        "n": "Rice, cooked",
+        "tag": "rice",
+        "img": "i-rice"
+      },
+      {
+        "q": "~1/2 lemon",
+        "n": "Lemon juice",
+        "tag": "lemon",
+        "img": "i-lemon",
+        "opt": true
+      }
+    ],
+    "steps": [
+      {
+        "t": "Put a pan on the gas and heat 1 tsp oil.",
+        "imgs": [
+          "s-oil-1",
+          "s-oil-2"
+        ]
+      },
+      {
+        "t": "Add the cumin seeds, then the garlic cloves and green chillies.",
+        "imgs": [
+          "s-spice-1",
+          "s-spice-2",
+          "s-spice-3"
+        ]
+      },
+      {
+        "t": "Add the 30 g peanuts. Fry, stirring, until they turn brown.",
+        "imgs": [
+          "s-pnut-1",
+          "s-pnut-2"
+        ]
+      },
+      {
+        "t": "Tip the fried mix into a small mixie jar. Add the coriander and a little water.",
+        "imgs": [
+          "s-jar-1",
+          "s-jar-2",
+          "s-jar-3"
+        ]
+      },
+      {
+        "t": "Blend to a coarse green paste. This is the thecha.",
+        "imgs": [
+          "s-blend-1",
+          "s-blend-2"
+        ]
+      },
+      {
+        "t": "Heat 1 tsp oil in the same pan and add cumin seeds.",
+        "imgs": [
+          "s-oil2-1",
+          "s-oil2-2"
+        ]
+      },
+      {
+        "t": "Add the sliced onion, chopped tomato and chopped capsicum.",
+        "imgs": [
+          "s-veg-1",
+          "s-veg-2",
+          "s-veg-3"
+        ]
+      },
+      {
+        "t": "Stir until the vegetables soften.",
+        "imgs": [
+          "s-stir-1",
+          "s-stir-2"
+        ]
+      },
+      {
+        "t": "Add the thecha paste and mix well.",
+        "imgs": [
+          "s-thecha-1",
+          "s-thecha-2"
+        ]
+      },
+      {
+        "t": "Add the paneer cubes and salt. Stir until the paneer is coated with paste.",
+        "imgs": [
+          "s-paneer-1",
+          "s-paneer-2",
+          "s-paneer-3"
+        ]
+      },
+      {
+        "t": "Add the cooked rice and mix until it turns green and even.",
+        "imgs": [
+          "s-rice-1",
+          "s-rice-2",
+          "s-rice-3"
+        ]
+      },
+      {
+        "t": "Sprinkle crushed peanuts and chopped coriander on top.",
+        "imgs": [
+          "s-top-1",
+          "s-top-2"
+        ]
+      },
+      {
+        "t": "Squeeze a little lemon juice on top and serve.",
+        "imgs": [
+          "s-lemon-1",
+          "s-lemon-2"
+        ]
+      }
+    ],
+    "tags": [
+      "gas",
+      "blender",
+      "high-protein"
+    ],
+    "notes": "On screen: oil 1 tsp (twice), peanuts 30 g, paneer 200 g low fat, cooked rice 250 g. Garlic, chillies, cumin, coriander, water, onion, tomato, capsicum, lemon and the topping peanuts are my estimates (marked ~). No frying times or flame levels are shown or said. Video claims 63 g protein for the bowl; my ingredient estimate is about 55 g. Needs ready cooked rice. Blend step has no close-up of the finished paste; see the next step."
+  },
+  "images": {
+    "cover": {
+      "t": 38.8,
+      "crop": [
+        0,
+        450,
+        720,
+        560
+      ],
+      "w": 560
+    },
+    "i-oil": {
+      "t": 11.0,
+      "crop": [
+        290,
+        330,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-cumin": {
+      "t": 13.6,
+      "crop": [
+        220,
+        580,
+        300,
+        300
+      ],
+      "w": 200
+    },
+    "i-garlic": {
+      "t": 14.0,
+      "crop": [
+        250,
+        340,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-chilli": {
+      "t": 14.5,
+      "crop": [
+        400,
+        440,
+        320,
+        320
+      ],
+      "w": 200
+    },
+    "i-peanuts": {
+      "t": 15.5,
+      "crop": [
+        290,
+        330,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-coriander": {
+      "t": 19.5,
+      "crop": [
+        100,
+        300,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-water": {
+      "t": 20.0,
+      "crop": [
+        100,
+        60,
+        480,
+        480
+      ],
+      "w": 200
+    },
+    "i-onion": {
+      "t": 23.2,
+      "crop": [
+        260,
+        300,
+        440,
+        440
+      ],
+      "w": 200
+    },
+    "i-tomato": {
+      "t": 24.0,
+      "crop": [
+        240,
+        380,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-capsicum": {
+      "t": 24.8,
+      "crop": [
+        260,
+        340,
+        380,
+        380
+      ],
+      "w": 200
+    },
+    "i-paneer": {
+      "t": 30.0,
+      "crop": [
+        270,
+        290,
+        400,
+        400
+      ],
+      "w": 200
+    },
+    "i-salt": {
+      "t": 31.2,
+      "crop": [
+        300,
+        100,
+        420,
+        420
+      ],
+      "w": 200
+    },
+    "i-rice": {
+      "t": 33.4,
+      "crop": [
+        270,
+        40,
+        430,
+        430
+      ],
+      "w": 200
+    },
+    "i-lemon": {
+      "t": 38.4,
+      "crop": [
+        250,
+        100,
+        360,
+        360
+      ],
+      "w": 200
+    },
+    "s-oil-1": {
+      "t": 11.3,
+      "crop": [
+        0,
+        560,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-oil-2": {
+      "t": 12.5,
+      "crop": [
+        0,
+        580,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-spice-1": {
+      "t": 13.6,
+      "crop": [
+        0,
+        565,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-spice-2": {
+      "t": 14.2,
+      "crop": [
+        0,
+        565,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-spice-3": {
+      "t": 15.0,
+      "crop": [
+        0,
+        565,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-pnut-1": {
+      "t": 15.5,
+      "crop": [
+        0,
+        565,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-pnut-2": {
+      "t": 17.0,
+      "crop": [
+        0,
+        565,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-jar-1": {
+      "t": 18.0,
+      "crop": [
+        0,
+        380,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-2": {
+      "t": 19.5,
+      "crop": [
+        0,
+        340,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-jar-3": {
+      "t": 20.0,
+      "crop": [
+        0,
+        260,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-blend-1": {
+      "t": 20.5,
+      "crop": [
+        100,
+        580,
+        480,
+        360
+      ],
+      "w": 480
+    },
+    "s-blend-2": {
+      "t": 21.1,
+      "crop": [
+        150,
+        560,
+        480,
+        360
+      ],
+      "w": 480
+    },
+    "s-oil2-1": {
+      "t": 21.5,
+      "crop": [
+        0,
+        570,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-oil2-2": {
+      "t": 22.8,
+      "crop": [
+        0,
+        570,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-veg-1": {
+      "t": 23.4,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-veg-2": {
+      "t": 24.0,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-veg-3": {
+      "t": 25.0,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-stir-1": {
+      "t": 26.0,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-stir-2": {
+      "t": 27.0,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-thecha-1": {
+      "t": 27.6,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-thecha-2": {
+      "t": 28.9,
+      "crop": [
+        0,
+        505,
+        720,
+        510
+      ],
+      "w": 480
+    },
+    "s-paneer-1": {
+      "t": 30.4,
+      "crop": [
+        0,
+        545,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-paneer-2": {
+      "t": 31.2,
+      "crop": [
+        0,
+        545,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-paneer-3": {
+      "t": 32.5,
+      "crop": [
+        0,
+        545,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-rice-1": {
+      "t": 33.8,
+      "crop": [
+        0,
+        540,
+        720,
+        500
+      ],
+      "w": 480
+    },
+    "s-rice-2": {
+      "t": 34.6,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-rice-3": {
+      "t": 35.4,
+      "crop": [
+        0,
+        420,
+        720,
+        540
+      ],
+      "w": 480
+    },
+    "s-top-1": {
+      "t": 36.2,
+      "crop": [
+        0,
+        330,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-top-2": {
+      "t": 37.2,
+      "crop": [
+        0,
+        330,
+        720,
+        560
+      ],
+      "w": 480
+    },
+    "s-lemon-1": {
+      "t": 38.0,
+      "crop": [
+        0,
+        180,
+        720,
+        800
+      ],
+      "w": 480
+    },
+    "s-lemon-2": {
+      "t": 38.6,
+      "crop": [
+        0,
+        180,
+        720,
+        800
+      ],
+      "w": 480
+    }
+  }
+}
