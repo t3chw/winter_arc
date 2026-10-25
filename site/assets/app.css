@@ -347,6 +347,14 @@ a.hub-door:focus-visible,.hub-start:focus-visible{outline:3px solid #9fd2ef;outl
 .fd-chip:hover{color:var(--ice);border-color:var(--ice-dim)}
 .fd-chip.on{color:#03060a;background:var(--ice);border-color:var(--ice)}
 .fd-chip-gap{width:12px}
+.fd-search{display:block;width:100%;box-sizing:border-box;margin-top:26px;min-height:60px;padding:0 18px;font:inherit;font-family:var(--mono);font-size:17px;letter-spacing:.02em;color:var(--ice);background:transparent;border:1px solid var(--ice-dim);border-radius:0;-webkit-appearance:none;appearance:none}
+.fd-search::placeholder{color:#5d7183}
+.fd-search:focus{outline:3px solid #9fd2ef;outline-offset:2px;border-color:var(--ice)}
+.fd-search+.fd-have{margin-top:12px}
+.fd-tagres{margin-top:22px}
+.fd-tagres p{margin:0 0 10px;font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ice-dim)}
+.fd-chip i{font-style:normal;margin-left:6px;opacity:.6}
+.fd-did{font:inherit;font-family:var(--mono);font-size:14px;color:var(--ice);background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}
 .fd-have{display:grid;grid-template-columns:1fr auto;grid-template-areas:"t x" "s x";align-items:center;column-gap:16px;row-gap:2px;width:100%;margin-top:26px;padding:16px 18px;text-align:left;font:inherit;color:var(--ice);background:transparent;border:1px solid var(--ice-dim);cursor:pointer}
 .fd-have:hover{border-color:var(--ice)}
 .fd-have-t{grid-area:t;font-family:var(--font-display);font-weight:800;text-transform:uppercase;font-size:34px;line-height:.9;letter-spacing:.01em}

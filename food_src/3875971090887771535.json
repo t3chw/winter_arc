@@ -1,1204 +1,1204 @@
 {
-  "videos": [
-    "3875971090887771535"
-  ],
-  "dish": {
-    "id": "white-paneer-curd-gravy",
-    "name": "White paneer curd gravy",
-    "meal": "Lunch or dinner",
-    "minutes": 40,
-    "protein": 15,
-    "how": "Gas",
-    "tools": "Pan, mixie, big bowl, whisk, steel spoon, spatula, knife, lid",
-    "serves": 3,
-    "cover": "cover",
-    "ingredients": [
-      {
-        "q": "2 medium, cut in big pieces",
-        "n": "Onion",
-        "tag": "onion",
-        "img": "i-onion"
-      },
-      {
-        "q": "~3",
-        "n": "Green chillies",
-        "tag": "green-chilli",
-        "img": "i-chilli"
-      },
-      {
-        "q": "~8 cloves",
-        "n": "Garlic",
-        "tag": "garlic",
-        "img": "i-garlic"
-      },
-      {
-        "q": "~1 inch piece, in 2 to 3 bits",
-        "n": "Ginger",
-        "tag": "ginger",
-        "img": "i-ginger"
-      },
-      {
-        "q": "~1/4 cup (about 30 g)",
-        "n": "Cashews (kaju)",
-        "tag": "cashews",
-        "img": "i-cashew"
-      },
-      {
-        "q": "~6 whole for boiling, ~1/2 tsp powder for the curd",
-        "n": "Black pepper (kali mirch)",
-        "tag": "black-pepper",
-        "img": "i-pepper"
-      },
-      {
-        "q": "200 g, in small cubes",
-        "n": "Paneer",
-        "tag": "paneer",
-        "img": "i-paneer"
-      },
-      {
-        "q": "~1 cup (about 200 g), fresh",
-        "n": "Curd (dahi)",
-        "tag": "curd",
-        "img": "i-curd"
-      },
-      {
-        "q": "~3 tbsp",
-        "n": "Fresh cream (malai)",
-        "tag": "cream",
-        "img": "i-cream"
-      },
-      {
-        "q": "~1 tsp",
-        "n": "Coriander powder",
-        "tag": "coriander-powder",
-        "img": "i-cpow",
-        "alt": [
-          "cumin-powder"
-        ]
-      },
-      {
-        "q": "~1 tsp",
-        "n": "Turmeric powder (haldi)",
-        "tag": "turmeric",
-        "img": "i-turmeric"
-      },
-      {
-        "q": "~1 tbsp",
-        "n": "Ghee",
-        "tag": "ghee",
-        "img": "i-ghee"
-      },
-      {
-        "q": "~1 tbsp",
-        "n": "Butter",
-        "tag": "butter",
-        "img": "i-butter"
-      },
-      {
-        "q": "1 small stick",
-        "n": "Cinnamon (dalchini)",
-        "tag": "cinnamon",
-        "img": "i-cinnamon"
-      },
-      {
-        "q": "~3 pods",
-        "n": "Green cardamom (choti elaichi)",
-        "tag": "cardamom",
-        "img": "i-cardamom"
-      },
-      {
-        "q": "2",
-        "n": "Bay leaves (tej patta)",
-        "tag": "bay-leaf",
-        "img": "i-bay"
-      },
-      {
-        "q": "~1 tsp, or to taste",
-        "n": "Salt",
-        "tag": "salt",
-        "img": "i-salt"
-      },
-      {
-        "q": "~1 tsp",
-        "n": "Dried fenugreek leaves (kasuri methi)",
-        "tag": "kasuri-methi",
-        "img": "i-kasuri"
-      },
-      {
-        "q": "a small handful, chopped",
-        "n": "Coriander leaves",
-        "tag": "coriander-leaves",
-        "img": "i-coriander"
-      },
-      {
-        "q": "to serve",
-        "n": "Roti",
-        "tag": "atta",
-        "img": "i-roti",
-        "opt": true
-      }
-    ],
-    "tags": [
-      "gas",
-      "blender"
-    ],
-    "notes": "The video has no text, so every amount is my estimate. Paneer is cut as fresh, not fried. The grey powder looks like black pepper powder and the brown one like coriander powder (it could be cumin or garam masala). Boiling time and flame levels are not shown or clear. The blending and the cooking times in the pan are not shown. The pink-white spoon at the salt step looks like pink salt. The creator's name is not on screen.",
-    "steps": [
-      {
-        "t": "Put water in a pan on the gas.",
-        "imgs": [
-          "s-water-1",
-          "s-water-2"
-        ]
-      },
-      {
-        "t": "Add the cut onions and green chillies.",
-        "imgs": [
-          "s-onion-1",
-          "s-onion-2"
-        ]
-      },
-      {
-        "t": "Add the garlic cloves and ginger.",
-        "imgs": [
-          "s-gg-1",
-          "s-gg-2"
-        ]
-      },
-      {
-        "t": "Add the cashews and whole black pepper. Boil a few minutes until the onion softens.",
-        "imgs": [
-          "s-cash-1",
-          "s-cash-2",
-          "s-cash-3"
-        ]
-      },
-      {
-        "t": "Strain the boiled mix into a mixie jar.",
-        "imgs": [
-          "s-jar-1",
-          "s-jar-2"
-        ]
-      },
-      {
-        "t": "Blend to a smooth paste.",
-        "imgs": [
-          "s-blend-1",
-          "s-blend-2"
-        ]
-      },
-      {
-        "t": "Cut the paneer block into small cubes.",
-        "imgs": [
-          "s-cut-1",
-          "s-cut-2",
-          "s-cut-3"
-        ]
-      },
-      {
-        "t": "Put the fresh curd in a big bowl.",
-        "imgs": [
-          "s-curd-1",
-          "s-curd-2"
-        ]
-      },
-      {
-        "t": "Add the fresh cream (malai).",
-        "imgs": [
-          "s-cream-1",
-          "s-cream-2"
-        ]
-      },
-      {
-        "t": "Add the black pepper powder.",
-        "imgs": [
-          "s-bp-1",
-          "s-bp-2"
-        ]
-      },
-      {
-        "t": "Add the coriander powder.",
-        "imgs": [
-          "s-cp-1"
-        ]
-      },
-      {
-        "t": "Add the turmeric.",
-        "imgs": [
-          "s-tur-1",
-          "s-tur-2"
-        ]
-      },
-      {
-        "t": "Whisk until smooth and creamy.",
-        "imgs": [
-          "s-whisk-1",
-          "s-whisk-2",
-          "s-whisk-3"
-        ]
-      },
-      {
-        "t": "Add the paneer cubes.",
-        "imgs": [
-          "s-add-1",
-          "s-add-2"
-        ]
-      },
-      {
-        "t": "Mix gently with your hand so every cube is coated. Keep aside.",
-        "imgs": [
-          "s-mix-1",
-          "s-mix-2"
-        ]
-      },
-      {
-        "t": "Put the ghee in a clean pan on the gas.",
-        "imgs": [
-          "s-ghee-1"
-        ]
-      },
-      {
-        "t": "Add the butter and let both melt.",
-        "imgs": [
-          "s-butter-1",
-          "s-butter-2"
-        ]
-      },
-      {
-        "t": "Add the cinnamon stick.",
-        "imgs": [
-          "s-cin-1",
-          "s-cin-2"
-        ]
-      },
-      {
-        "t": "Add the cardamom pods.",
-        "imgs": [
-          "s-car-1",
-          "s-car-2"
-        ]
-      },
-      {
-        "t": "Add the bay leaves.",
-        "imgs": [
-          "s-bay-1",
-          "s-bay-2"
-        ]
-      },
-      {
-        "t": "Pour in the onion paste.",
-        "imgs": [
-          "s-paste-1",
-          "s-paste-2"
-        ]
-      },
-      {
-        "t": "Stir and cook the paste for a few minutes.",
-        "imgs": [
-          "s-cook-1",
-          "s-cook-2",
-          "s-cook-3"
-        ]
-      },
-      {
-        "t": "Cover with a lid and let it cook.",
-        "imgs": [
-          "s-lid-1",
-          "s-lid-2"
-        ]
-      },
-      {
-        "t": "Pour in the curd and paneer mix.",
-        "imgs": [
-          "s-pour-1",
-          "s-pour-2"
-        ]
-      },
-      {
-        "t": "Stir gently until the gravy turns smooth and light yellow.",
-        "imgs": [
-          "s-stir-1",
-          "s-stir-2",
-          "s-stir-3"
-        ]
-      },
-      {
-        "t": "Add salt.",
-        "imgs": [
-          "s-salt-1"
-        ]
-      },
-      {
-        "t": "Rub the kasuri methi between your palms and sprinkle it in.",
-        "imgs": [
-          "s-km-1",
-          "s-km-2"
-        ]
-      },
-      {
-        "t": "Cover with the lid and cook a little more.",
-        "imgs": [
-          "s-lid2-1",
-          "s-lid2-2"
-        ]
-      },
-      {
-        "t": "Sprinkle chopped coriander leaves on top.",
-        "imgs": [
-          "s-cor-1",
-          "s-cor-2"
-        ]
-      },
-      {
-        "t": "Serve hot with roti.",
-        "imgs": [
-          "s-serve-1",
-          "s-serve-2",
-          "s-serve-3"
-        ]
-      }
+ "videos": [
+  "3875971090887771535"
+ ],
+ "dish": {
+  "id": "white-paneer-curd-gravy",
+  "name": "White paneer curd gravy",
+  "meal": "Lunch or dinner",
+  "minutes": 40,
+  "protein": 15,
+  "how": "Gas",
+  "tools": "Pan, mixie, big bowl, whisk, steel spoon, spatula, knife, lid",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "2 medium, cut in big pieces",
+    "n": "Onion",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "~3",
+    "n": "Green chillies",
+    "tag": "green-chilli",
+    "img": "i-chilli"
+   },
+   {
+    "q": "~8 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 inch piece, in 2 to 3 bits",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-ginger"
+   },
+   {
+    "q": "~1/4 cup (about 30 g)",
+    "n": "Cashews (kaju)",
+    "tag": "cashews",
+    "img": "i-cashew"
+   },
+   {
+    "q": "~6 whole for boiling, ~1/2 tsp powder for the curd",
+    "n": "Black pepper (kali mirch)",
+    "tag": "black-pepper",
+    "img": "i-pepper"
+   },
+   {
+    "q": "200 g, in small cubes",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 cup (about 200 g), fresh",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "~3 tbsp",
+    "n": "Fresh cream (malai)",
+    "tag": "cream",
+    "img": "i-cream"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Coriander powder",
+    "tag": "coriander-powder",
+    "img": "i-cpow",
+    "alt": [
+     "cumin-powder"
     ]
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Turmeric powder (haldi)",
+    "tag": "turmeric",
+    "img": "i-turmeric"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Ghee",
+    "tag": "ghee",
+    "img": "i-ghee"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "1 small stick",
+    "n": "Cinnamon (dalchini)",
+    "tag": "cinnamon",
+    "img": "i-cinnamon"
+   },
+   {
+    "q": "~3 pods",
+    "n": "Green cardamom (choti elaichi)",
+    "tag": "cardamom",
+    "img": "i-cardamom"
+   },
+   {
+    "q": "2",
+    "n": "Bay leaves (tej patta)",
+    "tag": "bay-leaf",
+    "img": "i-bay"
+   },
+   {
+    "q": "~1 tsp, or to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Dried fenugreek leaves (kasuri methi)",
+    "tag": "kasuri-methi",
+    "img": "i-kasuri"
+   },
+   {
+    "q": "a small handful, chopped",
+    "n": "Coriander leaves",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   },
+   {
+    "q": "to serve",
+    "n": "Roti",
+    "tag": "roti",
+    "img": "i-roti",
+    "opt": true
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "notes": "The video has no text, so every amount is my estimate. Paneer is cut as fresh, not fried. The grey powder looks like black pepper powder and the brown one like coriander powder (it could be cumin or garam masala). Boiling time and flame levels are not shown or clear. The blending and the cooking times in the pan are not shown. The pink-white spoon at the salt step looks like pink salt. The creator's name is not on screen.",
+  "steps": [
+   {
+    "t": "Put water in a pan on the gas.",
+    "imgs": [
+     "s-water-1",
+     "s-water-2"
+    ]
+   },
+   {
+    "t": "Add the cut onions and green chillies.",
+    "imgs": [
+     "s-onion-1",
+     "s-onion-2"
+    ]
+   },
+   {
+    "t": "Add the garlic cloves and ginger.",
+    "imgs": [
+     "s-gg-1",
+     "s-gg-2"
+    ]
+   },
+   {
+    "t": "Add the cashews and whole black pepper. Boil a few minutes until the onion softens.",
+    "imgs": [
+     "s-cash-1",
+     "s-cash-2",
+     "s-cash-3"
+    ]
+   },
+   {
+    "t": "Strain the boiled mix into a mixie jar.",
+    "imgs": [
+     "s-jar-1",
+     "s-jar-2"
+    ]
+   },
+   {
+    "t": "Blend to a smooth paste.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Cut the paneer block into small cubes.",
+    "imgs": [
+     "s-cut-1",
+     "s-cut-2",
+     "s-cut-3"
+    ]
+   },
+   {
+    "t": "Put the fresh curd in a big bowl.",
+    "imgs": [
+     "s-curd-1",
+     "s-curd-2"
+    ]
+   },
+   {
+    "t": "Add the fresh cream (malai).",
+    "imgs": [
+     "s-cream-1",
+     "s-cream-2"
+    ]
+   },
+   {
+    "t": "Add the black pepper powder.",
+    "imgs": [
+     "s-bp-1",
+     "s-bp-2"
+    ]
+   },
+   {
+    "t": "Add the coriander powder.",
+    "imgs": [
+     "s-cp-1"
+    ]
+   },
+   {
+    "t": "Add the turmeric.",
+    "imgs": [
+     "s-tur-1",
+     "s-tur-2"
+    ]
+   },
+   {
+    "t": "Whisk until smooth and creamy.",
+    "imgs": [
+     "s-whisk-1",
+     "s-whisk-2",
+     "s-whisk-3"
+    ]
+   },
+   {
+    "t": "Add the paneer cubes.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "Mix gently with your hand so every cube is coated. Keep aside.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2"
+    ]
+   },
+   {
+    "t": "Put the ghee in a clean pan on the gas.",
+    "imgs": [
+     "s-ghee-1"
+    ]
+   },
+   {
+    "t": "Add the butter and let both melt.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2"
+    ]
+   },
+   {
+    "t": "Add the cinnamon stick.",
+    "imgs": [
+     "s-cin-1",
+     "s-cin-2"
+    ]
+   },
+   {
+    "t": "Add the cardamom pods.",
+    "imgs": [
+     "s-car-1",
+     "s-car-2"
+    ]
+   },
+   {
+    "t": "Add the bay leaves.",
+    "imgs": [
+     "s-bay-1",
+     "s-bay-2"
+    ]
+   },
+   {
+    "t": "Pour in the onion paste.",
+    "imgs": [
+     "s-paste-1",
+     "s-paste-2"
+    ]
+   },
+   {
+    "t": "Stir and cook the paste for a few minutes.",
+    "imgs": [
+     "s-cook-1",
+     "s-cook-2",
+     "s-cook-3"
+    ]
+   },
+   {
+    "t": "Cover with a lid and let it cook.",
+    "imgs": [
+     "s-lid-1",
+     "s-lid-2"
+    ]
+   },
+   {
+    "t": "Pour in the curd and paneer mix.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Stir gently until the gravy turns smooth and light yellow.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2",
+     "s-stir-3"
+    ]
+   },
+   {
+    "t": "Add salt.",
+    "imgs": [
+     "s-salt-1"
+    ]
+   },
+   {
+    "t": "Rub the kasuri methi between your palms and sprinkle it in.",
+    "imgs": [
+     "s-km-1",
+     "s-km-2"
+    ]
+   },
+   {
+    "t": "Cover with the lid and cook a little more.",
+    "imgs": [
+     "s-lid2-1",
+     "s-lid2-2"
+    ]
+   },
+   {
+    "t": "Sprinkle chopped coriander leaves on top.",
+    "imgs": [
+     "s-cor-1",
+     "s-cor-2"
+    ]
+   },
+   {
+    "t": "Serve hot with roti.",
+    "imgs": [
+     "s-serve-1",
+     "s-serve-2",
+     "s-serve-3"
+    ]
+   }
+  ]
+ },
+ "images": {
+  "cover": {
+   "t": 58.0,
+   "crop": [
+    0,
+    440,
+    716,
+    600
+   ],
+   "w": 560
   },
-  "images": {
-    "cover": {
-      "t": 58.0,
-      "crop": [
-        0,
-        440,
-        716,
-        600
-      ],
-      "w": 560
-    },
-    "i-onion": {
-      "t": 3.5,
-      "crop": [
-        50,
-        500,
-        450,
-        450
-      ],
-      "w": 200
-    },
-    "i-chilli": {
-      "t": 3.0,
-      "crop": [
-        280,
-        290,
-        400,
-        400
-      ],
-      "w": 200
-    },
-    "i-garlic": {
-      "t": 4.0,
-      "crop": [
-        150,
-        260,
-        450,
-        450
-      ],
-      "w": 200
-    },
-    "i-ginger": {
-      "t": 4.0,
-      "crop": [
-        130,
-        560,
-        260,
-        260
-      ],
-      "w": 200
-    },
-    "i-cashew": {
-      "t": 5.5,
-      "crop": [
-        40,
-        380,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-pepper": {
-      "t": 16.6,
-      "crop": [
-        130,
-        480,
-        400,
-        400
-      ],
-      "w": 200
-    },
-    "i-paneer": {
-      "t": 7.5,
-      "crop": [
-        150,
-        520,
-        500,
-        500
-      ],
-      "w": 200
-    },
-    "i-curd": {
-      "t": 14.2,
-      "crop": [
-        130,
-        340,
-        460,
-        460
-      ],
-      "w": 200
-    },
-    "i-cream": {
-      "t": 15.2,
-      "crop": [
-        260,
-        330,
-        440,
-        440
-      ],
-      "w": 200
-    },
-    "i-cpow": {
-      "t": 17.0,
-      "crop": [
-        210,
-        480,
-        380,
-        380
-      ],
-      "w": 200
-    },
-    "i-turmeric": {
-      "t": 18.0,
-      "crop": [
-        100,
-        540,
-        380,
-        380
-      ],
-      "w": 200
-    },
-    "i-ghee": {
-      "t": 29.5,
-      "crop": [
-        270,
-        430,
-        330,
-        330
-      ],
-      "w": 200
-    },
-    "i-butter": {
-      "t": 30.5,
-      "crop": [
-        150,
-        480,
-        400,
-        400
-      ],
-      "w": 200
-    },
-    "i-cinnamon": {
-      "t": 33.0,
-      "crop": [
-        150,
-        540,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-cardamom": {
-      "t": 33.3,
-      "crop": [
-        360,
-        420,
-        300,
-        300
-      ],
-      "w": 200
-    },
-    "i-bay": {
-      "t": 34.6,
-      "crop": [
-        100,
-        440,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-salt": {
-      "t": 48.8,
-      "crop": [
-        80,
-        180,
-        380,
-        380
-      ],
-      "w": 200
-    },
-    "i-kasuri": {
-      "t": 51.0,
-      "crop": [
-        110,
-        380,
-        460,
-        460
-      ],
-      "w": 200
-    },
-    "i-coriander": {
-      "t": 54.8,
-      "crop": [
-        100,
-        380,
-        480,
-        480
-      ],
-      "w": 200
-    },
-    "i-roti": {
-      "t": 58.7,
-      "crop": [
-        260,
-        0,
-        456,
-        456
-      ],
-      "w": 200
-    },
-    "s-water-1": {
-      "t": 0.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-water-2": {
-      "t": 1.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-onion-1": {
-      "t": 3.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-onion-2": {
-      "t": 3.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-gg-1": {
-      "t": 4.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-gg-2": {
-      "t": 4.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cash-1": {
-      "t": 5.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cash-2": {
-      "t": 5.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cash-3": {
-      "t": 6.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-jar-1": {
-      "t": 26.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-jar-2": {
-      "t": 27.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-blend-1": {
-      "t": 28.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-blend-2": {
-      "t": 28.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cut-1": {
-      "t": 7.5,
-      "crop": [
-        0,
-        380,
-        716,
-        620
-      ],
-      "w": 480
-    },
-    "s-cut-2": {
-      "t": 9.5,
-      "crop": [
-        0,
-        380,
-        716,
-        620
-      ],
-      "w": 480
-    },
-    "s-cut-3": {
-      "t": 12.5,
-      "crop": [
-        0,
-        380,
-        716,
-        620
-      ],
-      "w": 480
-    },
-    "s-curd-1": {
-      "t": 14.0,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-curd-2": {
-      "t": 14.5,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cream-1": {
-      "t": 15.2,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cream-2": {
-      "t": 15.8,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-bp-1": {
-      "t": 16.2,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-bp-2": {
-      "t": 16.6,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cp-1": {
-      "t": 17.0,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-tur-1": {
-      "t": 17.5,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-tur-2": {
-      "t": 18.0,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-whisk-1": {
-      "t": 18.5,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-whisk-2": {
-      "t": 19.5,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-whisk-3": {
-      "t": 21.0,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-add-1": {
-      "t": 22.0,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-add-2": {
-      "t": 23.0,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-mix-1": {
-      "t": 23.5,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-mix-2": {
-      "t": 24.5,
-      "crop": [
-        0,
-        340,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-ghee-1": {
-      "t": 29.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-butter-1": {
-      "t": 30.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-butter-2": {
-      "t": 31.5,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cin-1": {
-      "t": 32.6,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cin-2": {
-      "t": 33.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-car-1": {
-      "t": 33.3,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-car-2": {
-      "t": 33.6,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-bay-1": {
-      "t": 34.2,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-bay-2": {
-      "t": 34.6,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-paste-1": {
-      "t": 35.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-paste-2": {
-      "t": 36.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cook-1": {
-      "t": 37.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cook-2": {
-      "t": 38.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cook-3": {
-      "t": 40.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-lid-1": {
-      "t": 41.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-lid-2": {
-      "t": 42.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-pour-1": {
-      "t": 43.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-pour-2": {
-      "t": 44.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-stir-1": {
-      "t": 45.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-stir-2": {
-      "t": 47.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-stir-3": {
-      "t": 48.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-salt-1": {
-      "t": 48.8,
-      "crop": [
-        0,
-        150,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-km-1": {
-      "t": 50.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-km-2": {
-      "t": 51.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-lid2-1": {
-      "t": 52.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-lid2-2": {
-      "t": 53.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cor-1": {
-      "t": 54.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-cor-2": {
-      "t": 55.0,
-      "crop": [
-        0,
-        300,
-        716,
-        560
-      ],
-      "w": 480
-    },
-    "s-serve-1": {
-      "t": 56.0,
-      "crop": [
-        0,
-        440,
-        716,
-        600
-      ],
-      "w": 480
-    },
-    "s-serve-2": {
-      "t": 57.0,
-      "crop": [
-        0,
-        440,
-        716,
-        600
-      ],
-      "w": 480
-    },
-    "s-serve-3": {
-      "t": 58.0,
-      "crop": [
-        0,
-        440,
-        716,
-        600
-      ],
-      "w": 480
-    }
+  "i-onion": {
+   "t": 3.5,
+   "crop": [
+    50,
+    500,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-chilli": {
+   "t": 3.0,
+   "crop": [
+    280,
+    290,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 4.0,
+   "crop": [
+    150,
+    260,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-ginger": {
+   "t": 4.0,
+   "crop": [
+    130,
+    560,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-cashew": {
+   "t": 5.5,
+   "crop": [
+    40,
+    380,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-pepper": {
+   "t": 16.6,
+   "crop": [
+    130,
+    480,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 7.5,
+   "crop": [
+    150,
+    520,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 14.2,
+   "crop": [
+    130,
+    340,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-cream": {
+   "t": 15.2,
+   "crop": [
+    260,
+    330,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-cpow": {
+   "t": 17.0,
+   "crop": [
+    210,
+    480,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-turmeric": {
+   "t": 18.0,
+   "crop": [
+    100,
+    540,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-ghee": {
+   "t": 29.5,
+   "crop": [
+    270,
+    430,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 30.5,
+   "crop": [
+    150,
+    480,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-cinnamon": {
+   "t": 33.0,
+   "crop": [
+    150,
+    540,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-cardamom": {
+   "t": 33.3,
+   "crop": [
+    360,
+    420,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-bay": {
+   "t": 34.6,
+   "crop": [
+    100,
+    440,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 48.8,
+   "crop": [
+    80,
+    180,
+    380,
+    380
+   ],
+   "w": 200
+  },
+  "i-kasuri": {
+   "t": 51.0,
+   "crop": [
+    110,
+    380,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 54.8,
+   "crop": [
+    100,
+    380,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-roti": {
+   "t": 58.7,
+   "crop": [
+    260,
+    0,
+    456,
+    456
+   ],
+   "w": 200
+  },
+  "s-water-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-water-2": {
+   "t": 1.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-onion-1": {
+   "t": 3.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-onion-2": {
+   "t": 3.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-gg-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-gg-2": {
+   "t": 4.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cash-1": {
+   "t": 5.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cash-2": {
+   "t": 5.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cash-3": {
+   "t": 6.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-jar-1": {
+   "t": 26.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-jar-2": {
+   "t": 27.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 28.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 28.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cut-1": {
+   "t": 7.5,
+   "crop": [
+    0,
+    380,
+    716,
+    620
+   ],
+   "w": 480
+  },
+  "s-cut-2": {
+   "t": 9.5,
+   "crop": [
+    0,
+    380,
+    716,
+    620
+   ],
+   "w": 480
+  },
+  "s-cut-3": {
+   "t": 12.5,
+   "crop": [
+    0,
+    380,
+    716,
+    620
+   ],
+   "w": 480
+  },
+  "s-curd-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-curd-2": {
+   "t": 14.5,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cream-1": {
+   "t": 15.2,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cream-2": {
+   "t": 15.8,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-bp-1": {
+   "t": 16.2,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-bp-2": {
+   "t": 16.6,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cp-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-tur-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-tur-2": {
+   "t": 18.0,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-whisk-1": {
+   "t": 18.5,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-whisk-2": {
+   "t": 19.5,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-whisk-3": {
+   "t": 21.0,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 23.5,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    340,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-ghee-1": {
+   "t": 29.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cin-1": {
+   "t": 32.6,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cin-2": {
+   "t": 33.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-car-1": {
+   "t": 33.3,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-car-2": {
+   "t": 33.6,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-bay-1": {
+   "t": 34.2,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-bay-2": {
+   "t": 34.6,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-paste-1": {
+   "t": 35.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-paste-2": {
+   "t": 36.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cook-1": {
+   "t": 37.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cook-2": {
+   "t": 38.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cook-3": {
+   "t": 40.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 41.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-lid-2": {
+   "t": 42.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 43.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 44.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 45.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 47.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-stir-3": {
+   "t": 48.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 48.8,
+   "crop": [
+    0,
+    150,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-km-1": {
+   "t": 50.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-km-2": {
+   "t": 51.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-lid2-1": {
+   "t": 52.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-lid2-2": {
+   "t": 53.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cor-1": {
+   "t": 54.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-cor-2": {
+   "t": 55.0,
+   "crop": [
+    0,
+    300,
+    716,
+    560
+   ],
+   "w": 480
+  },
+  "s-serve-1": {
+   "t": 56.0,
+   "crop": [
+    0,
+    440,
+    716,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-2": {
+   "t": 57.0,
+   "crop": [
+    0,
+    440,
+    716,
+    600
+   ],
+   "w": 480
+  },
+  "s-serve-3": {
+   "t": 58.0,
+   "crop": [
+    0,
+    440,
+    716,
+    600
+   ],
+   "w": 480
   }
+ }
 }

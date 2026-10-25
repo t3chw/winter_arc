@@ -83,12 +83,15 @@
     "q": "~1 tbsp",
     "n": "Tomato ketchup (or red chilli sauce)",
     "tag": "tomato-ketchup",
-    "img": "i-sauce"
+    "img": "i-sauce",
+    "alt": [
+     "chilli-sauce"
+    ]
    },
    {
     "q": "3",
     "n": "Leftover rotis",
-    "tag": "atta",
+    "tag": "roti",
     "img": "i-roti"
    },
    {

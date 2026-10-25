@@ -1,933 +1,936 @@
 {
-  "videos": [
-    "3651698109299947162"
+ "videos": [
+  "3651698109299947162"
+ ],
+ "dish": {
+  "id": "creamy-basil-paneer-veg",
+  "name": "Creamy basil paneer veg",
+  "meal": "Lunch or dinner",
+  "minutes": 30,
+  "protein": 15,
+  "how": "Gas + blender",
+  "tools": "Wide pan, gas, mixie, lunchbox",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~1 tbsp",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tbsp (3 cloves)",
+    "n": "Garlic, finely chopped",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 cup",
+    "n": "Broccoli florets",
+    "tag": "broccoli",
+    "img": "i-broccoli"
+   },
+   {
+    "q": "~8 pieces",
+    "n": "Baby corn, sliced",
+    "tag": "baby-corn",
+    "img": "i-babycorn"
+   },
+   {
+    "q": "1 small",
+    "n": "Red onion, in chunks",
+    "tag": "onion",
+    "img": "i-onion"
+   },
+   {
+    "q": "1/2 each",
+    "n": "Yellow and red capsicum, in chunks",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~10 pieces",
+    "n": "French beans, chopped",
+    "tag": "beans",
+    "img": "i-beans"
+   },
+   {
+    "q": "~1/2 cup",
+    "n": "Zucchini, cubed",
+    "tag": "zucchini",
+    "img": "i-zucchini"
+   },
+   {
+    "q": "~1/2 tsp",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "~1 tsp, plus a pinch on top",
+    "n": "Oregano or mixed herbs",
+    "tag": "oregano",
+    "img": "i-oregano",
+    "alt": [
+     "mixed-herbs"
+    ]
+   },
+   {
+    "q": "~1 tsp, plus a pinch on top",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "a big handful (~20 leaves)",
+    "n": "Fresh basil leaves",
+    "tag": "basil",
+    "img": "i-basil"
+   },
+   {
+    "q": "~120 g",
+    "n": "Paneer, in slabs",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "3 cloves",
+    "n": "Garlic, for the sauce",
+    "tag": "garlic",
+    "img": "i-garlic2"
+   },
+   {
+    "q": "2",
+    "n": "Green chillies",
+    "tag": "green-chilli",
+    "img": "i-gchilli"
+   },
+   {
+    "q": "1 slice + 2 tbsp grated",
+    "n": "Cheese",
+    "tag": "cheese",
+    "img": "i-cheese"
+   },
+   {
+    "q": "~1/2 cup (120 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "1 to 2 cups cooked",
+    "n": "Rice, plain or with herbs (to pack on the side)",
+    "tag": "rice",
+    "opt": true,
+    "img": "i-rice"
+   }
   ],
-  "dish": {
-    "id": "creamy-basil-paneer-veg",
-    "name": "Creamy basil paneer veg",
-    "meal": "Lunch or dinner",
-    "minutes": 30,
-    "protein": 15,
-    "how": "Gas + blender",
-    "tools": "Wide pan, gas, mixie, lunchbox",
-    "serves": 2,
-    "cover": "cover",
-    "ingredients": [
-      {
-        "q": "~1 tbsp",
-        "n": "Oil",
-        "tag": "oil",
-        "img": "i-oil"
-      },
-      {
-        "q": "~1 tbsp (3 cloves)",
-        "n": "Garlic, finely chopped",
-        "tag": "garlic",
-        "img": "i-garlic"
-      },
-      {
-        "q": "~1 cup",
-        "n": "Broccoli florets",
-        "tag": "broccoli",
-        "img": "i-broccoli"
-      },
-      {
-        "q": "~8 pieces",
-        "n": "Baby corn, sliced",
-        "tag": "baby-corn",
-        "img": "i-babycorn"
-      },
-      {
-        "q": "1 small",
-        "n": "Red onion, in chunks",
-        "tag": "onion",
-        "img": "i-onion"
-      },
-      {
-        "q": "1/2 each",
-        "n": "Yellow and red capsicum, in chunks",
-        "tag": "capsicum",
-        "img": "i-capsicum"
-      },
-      {
-        "q": "~10 pieces",
-        "n": "French beans, chopped",
-        "tag": "beans",
-        "img": "i-beans"
-      },
-      {
-        "q": "~1/2 cup",
-        "n": "Zucchini, cubed",
-        "tag": "zucchini",
-        "img": "i-zucchini"
-      },
-      {
-        "q": "~1/2 tsp",
-        "n": "Salt",
-        "tag": "salt",
-        "img": "i-salt"
-      },
-      {
-        "q": "~1 tsp, plus a pinch on top",
-        "n": "Oregano or mixed herbs",
-        "tag": "oregano",
-        "img": "i-oregano"
-      },
-      {
-        "q": "~1 tsp, plus a pinch on top",
-        "n": "Chilli flakes",
-        "tag": "chilli-flakes",
-        "img": "i-flakes"
-      },
-      {
-        "q": "a big handful (~20 leaves)",
-        "n": "Fresh basil leaves",
-        "tag": "basil",
-        "img": "i-basil"
-      },
-      {
-        "q": "~120 g",
-        "n": "Paneer, in slabs",
-        "tag": "paneer",
-        "img": "i-paneer"
-      },
-      {
-        "q": "3 cloves",
-        "n": "Garlic, for the sauce",
-        "tag": "garlic",
-        "img": "i-garlic2"
-      },
-      {
-        "q": "2",
-        "n": "Green chillies",
-        "tag": "green-chilli",
-        "img": "i-gchilli"
-      },
-      {
-        "q": "1 slice + 2 tbsp grated",
-        "n": "Cheese",
-        "tag": "cheese",
-        "img": "i-cheese"
-      },
-      {
-        "q": "~1/2 cup (120 ml)",
-        "n": "Milk",
-        "tag": "milk",
-        "img": "i-milk"
-      },
-      {
-        "q": "1 to 2 cups cooked",
-        "n": "Rice, plain or with herbs (to pack on the side)",
-        "tag": "rice",
-        "opt": true,
-        "img": "i-rice"
-      }
-    ],
-    "steps": [
-      {
-        "t": "Heat a wide pan on the gas.",
-        "imgs": [
-          "s-heat-1"
-        ]
-      },
-      {
-        "t": "Add the oil.",
-        "imgs": [
-          "s-oil-1",
-          "s-oil-2"
-        ]
-      },
-      {
-        "t": "Add the chopped garlic.",
-        "imgs": [
-          "s-garlic-1",
-          "s-garlic-2"
-        ]
-      },
-      {
-        "t": "Add the chopped broccoli, baby corn, onion, capsicum, beans and zucchini.",
-        "imgs": [
-          "s-veg-1",
-          "s-veg-2",
-          "s-veg-3"
-        ]
-      },
-      {
-        "t": "Stir the vegetables.",
-        "imgs": [
-          "s-stir-1",
-          "s-stir-2"
-        ]
-      },
-      {
-        "t": "Sprinkle on the salt.",
-        "imgs": [
-          "s-salt-1",
-          "s-salt-2"
-        ]
-      },
-      {
-        "t": "Sprinkle on the oregano.",
-        "imgs": [
-          "s-oregano-1",
-          "s-oregano-2"
-        ]
-      },
-      {
-        "t": "Sprinkle on the chilli flakes.",
-        "imgs": [
-          "s-flakes-1",
-          "s-flakes-2"
-        ]
-      },
-      {
-        "t": "Put the basil leaves in the mixie jar.",
-        "imgs": [
-          "s-basil-1",
-          "s-basil-2"
-        ]
-      },
-      {
-        "t": "Add the paneer slabs.",
-        "imgs": [
-          "s-paneer-1",
-          "s-paneer-2"
-        ]
-      },
-      {
-        "t": "Add the garlic cloves and green chillies.",
-        "imgs": [
-          "s-gc-1",
-          "s-gc-2"
-        ]
-      },
-      {
-        "t": "Add the cheese slice.",
-        "imgs": [
-          "s-cheese-1",
-          "s-cheese-2"
-        ]
-      },
-      {
-        "t": "Pour in the milk.",
-        "imgs": [
-          "s-milk-1",
-          "s-milk-2"
-        ]
-      },
-      {
-        "t": "Blend to a smooth, thick green sauce.",
-        "imgs": [
-          "s-blend-1",
-          "s-blend-2"
-        ]
-      },
-      {
-        "t": "Pour the green sauce over the vegetables in the pan.",
-        "imgs": [
-          "s-pour-1",
-          "s-pour-2"
-        ]
-      },
-      {
-        "t": "Stir until every vegetable is coated in sauce.",
-        "imgs": [
-          "s-mix-1",
-          "s-mix-2",
-          "s-mix-3"
-        ]
-      },
-      {
-        "t": "Pour in a little more of the creamy white liquid and stir.",
-        "imgs": [
-          "s-more-1",
-          "s-more-2"
-        ]
-      },
-      {
-        "t": "Sprinkle a pinch of chilli flakes and oregano on top.",
-        "imgs": [
-          "s-top-1",
-          "s-top-2"
-        ]
-      },
-      {
-        "t": "Pack rice on one side of the lunchbox.",
-        "imgs": [
-          "s-rice-1",
-          "s-rice-2"
-        ]
-      },
-      {
-        "t": "Spoon the creamy veg into the other side.",
-        "imgs": [
-          "s-spoon-1"
-        ]
-      },
-      {
-        "t": "Grate cheese all over the veg.",
-        "imgs": [
-          "s-grate-1",
-          "s-grate-2",
-          "s-grate-3"
-        ]
-      },
-      {
-        "t": "Finish with a pinch of chilli flakes and close the lid.",
-        "imgs": [
-          "s-lid-1",
-          "s-lid-2"
-        ]
-      }
-    ],
-    "tags": [
-      "gas",
-      "blender",
-      "high-fibre"
-    ],
-    "credit": "EatWithAishwarya",
-    "notes": "No speech (music only) and no amounts or text on screen, so all amounts are my estimates from what is shown. The video is a lunchbox POV: the veg is cooked quickly, the green sauce is blended and poured over, and the box is packed with a side of rice (the rice cooking is not shown, so rice is optional). Which seasonings were used is read from the shakers (green cap looks like oregano or mixed herbs, orange cap chilli flakes). Pale green cubes look like zucchini; thin green pieces like French beans. After the first pour, a second creamy white liquid is poured in (more milk or the rest of the sauce, not clear). Cooking time and flame level are not shown. The blending itself is not shown: the blend step uses the full jar and the finished sauce. Pesto-style sauce: basil, paneer, garlic, green chilli, cheese and milk."
+  "steps": [
+   {
+    "t": "Heat a wide pan on the gas.",
+    "imgs": [
+     "s-heat-1"
+    ]
+   },
+   {
+    "t": "Add the oil.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2"
+    ]
+   },
+   {
+    "t": "Add the chopped garlic.",
+    "imgs": [
+     "s-garlic-1",
+     "s-garlic-2"
+    ]
+   },
+   {
+    "t": "Add the chopped broccoli, baby corn, onion, capsicum, beans and zucchini.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2",
+     "s-veg-3"
+    ]
+   },
+   {
+    "t": "Stir the vegetables.",
+    "imgs": [
+     "s-stir-1",
+     "s-stir-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the salt.",
+    "imgs": [
+     "s-salt-1",
+     "s-salt-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the oregano.",
+    "imgs": [
+     "s-oregano-1",
+     "s-oregano-2"
+    ]
+   },
+   {
+    "t": "Sprinkle on the chilli flakes.",
+    "imgs": [
+     "s-flakes-1",
+     "s-flakes-2"
+    ]
+   },
+   {
+    "t": "Put the basil leaves in the mixie jar.",
+    "imgs": [
+     "s-basil-1",
+     "s-basil-2"
+    ]
+   },
+   {
+    "t": "Add the paneer slabs.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Add the garlic cloves and green chillies.",
+    "imgs": [
+     "s-gc-1",
+     "s-gc-2"
+    ]
+   },
+   {
+    "t": "Add the cheese slice.",
+    "imgs": [
+     "s-cheese-1",
+     "s-cheese-2"
+    ]
+   },
+   {
+    "t": "Pour in the milk.",
+    "imgs": [
+     "s-milk-1",
+     "s-milk-2"
+    ]
+   },
+   {
+    "t": "Blend to a smooth, thick green sauce.",
+    "imgs": [
+     "s-blend-1",
+     "s-blend-2"
+    ]
+   },
+   {
+    "t": "Pour the green sauce over the vegetables in the pan.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2"
+    ]
+   },
+   {
+    "t": "Stir until every vegetable is coated in sauce.",
+    "imgs": [
+     "s-mix-1",
+     "s-mix-2",
+     "s-mix-3"
+    ]
+   },
+   {
+    "t": "Pour in a little more of the creamy white liquid and stir.",
+    "imgs": [
+     "s-more-1",
+     "s-more-2"
+    ]
+   },
+   {
+    "t": "Sprinkle a pinch of chilli flakes and oregano on top.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2"
+    ]
+   },
+   {
+    "t": "Pack rice on one side of the lunchbox.",
+    "imgs": [
+     "s-rice-1",
+     "s-rice-2"
+    ]
+   },
+   {
+    "t": "Spoon the creamy veg into the other side.",
+    "imgs": [
+     "s-spoon-1"
+    ]
+   },
+   {
+    "t": "Grate cheese all over the veg.",
+    "imgs": [
+     "s-grate-1",
+     "s-grate-2",
+     "s-grate-3"
+    ]
+   },
+   {
+    "t": "Finish with a pinch of chilli flakes and close the lid.",
+    "imgs": [
+     "s-lid-1",
+     "s-lid-2"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender",
+   "high-fibre"
+  ],
+  "credit": "EatWithAishwarya",
+  "notes": "No speech (music only) and no amounts or text on screen, so all amounts are my estimates from what is shown. The video is a lunchbox POV: the veg is cooked quickly, the green sauce is blended and poured over, and the box is packed with a side of rice (the rice cooking is not shown, so rice is optional). Which seasonings were used is read from the shakers (green cap looks like oregano or mixed herbs, orange cap chilli flakes). Pale green cubes look like zucchini; thin green pieces like French beans. After the first pour, a second creamy white liquid is poured in (more milk or the rest of the sauce, not clear). Cooking time and flame level are not shown. The blending itself is not shown: the blend step uses the full jar and the finished sauce. Pesto-style sauce: basil, paneer, garlic, green chilli, cheese and milk."
+ },
+ "images": {
+  "cover": {
+   "t": 33.5,
+   "crop": [
+    0,
+    340,
+    720,
+    640
+   ],
+   "w": 560
   },
-  "images": {
-    "cover": {
-      "t": 33.5,
-      "crop": [
-        0,
-        340,
-        720,
-        640
-      ],
-      "w": 560
-    },
-    "i-oil": {
-      "t": 1.8,
-      "crop": [
-        130,
-        300,
-        330,
-        330
-      ],
-      "w": 200
-    },
-    "i-garlic": {
-      "t": 3.0,
-      "crop": [
-        120,
-        680,
-        300,
-        300
-      ],
-      "w": 200
-    },
-    "i-broccoli": {
-      "t": 4.0,
-      "crop": [
-        0,
-        640,
-        200,
-        200
-      ],
-      "w": 200
-    },
-    "i-babycorn": {
-      "t": 4.0,
-      "crop": [
-        215,
-        600,
-        200,
-        200
-      ],
-      "w": 200
-    },
-    "i-onion": {
-      "t": 4.0,
-      "crop": [
-        0,
-        830,
-        170,
-        170
-      ],
-      "w": 200
-    },
-    "i-capsicum": {
-      "t": 4.0,
-      "crop": [
-        270,
-        740,
-        200,
-        200
-      ],
-      "w": 200
-    },
-    "i-beans": {
-      "t": 4.0,
-      "crop": [
-        230,
-        800,
-        150,
-        150
-      ],
-      "w": 200
-    },
-    "i-zucchini": {
-      "t": 4.0,
-      "crop": [
-        90,
-        770,
-        150,
-        150
-      ],
-      "w": 200
-    },
-    "i-salt": {
-      "t": 6.6,
-      "crop": [
-        250,
-        340,
-        260,
-        260
-      ],
-      "w": 200
-    },
-    "i-oregano": {
-      "t": 7.4,
-      "crop": [
-        320,
-        340,
-        330,
-        330
-      ],
-      "w": 200
-    },
-    "i-flakes": {
-      "t": 8.2,
-      "crop": [
-        320,
-        340,
-        330,
-        330
-      ],
-      "w": 200
-    },
-    "i-basil": {
-      "t": 10.5,
-      "crop": [
-        100,
-        400,
-        500,
-        500
-      ],
-      "w": 200
-    },
-    "i-paneer": {
-      "t": 15.5,
-      "crop": [
-        0,
-        440,
-        460,
-        460
-      ],
-      "w": 200
-    },
-    "i-garlic2": {
-      "t": 15.5,
-      "crop": [
-        260,
-        640,
-        460,
-        460
-      ],
-      "w": 200
-    },
-    "i-gchilli": {
-      "t": 15.9,
-      "crop": [
-        0,
-        480,
-        460,
-        460
-      ],
-      "w": 200
-    },
-    "i-cheese": {
-      "t": 17.2,
-      "crop": [
-        240,
-        520,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-milk": {
-      "t": 17.0,
-      "crop": [
-        0,
-        330,
-        400,
-        400
-      ],
-      "w": 200
-    },
-    "i-rice": {
-      "t": 30.0,
-      "crop": [
-        60,
-        480,
-        480,
-        480
-      ],
-      "w": 200
-    },
-    "s-heat-1": {
-      "t": 0.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-oil-1": {
-      "t": 1.8,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-oil-2": {
-      "t": 2.2,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-garlic-1": {
-      "t": 2.6,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-garlic-2": {
-      "t": 3.0,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-veg-1": {
-      "t": 4.0,
-      "crop": [
-        0,
-        380,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-veg-2": {
-      "t": 4.4,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-veg-3": {
-      "t": 4.8,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-stir-1": {
-      "t": 5.4,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-stir-2": {
-      "t": 5.8,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-salt-1": {
-      "t": 6.2,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-salt-2": {
-      "t": 6.6,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-oregano-1": {
-      "t": 7.0,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-oregano-2": {
-      "t": 7.4,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-flakes-1": {
-      "t": 7.8,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-flakes-2": {
-      "t": 8.2,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-basil-1": {
-      "t": 9.6,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-basil-2": {
-      "t": 10.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-paneer-1": {
-      "t": 12.5,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-paneer-2": {
-      "t": 13.5,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-gc-1": {
-      "t": 14.9,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-gc-2": {
-      "t": 15.7,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-cheese-1": {
-      "t": 16.2,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-cheese-2": {
-      "t": 16.9,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-milk-1": {
-      "t": 17.5,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-milk-2": {
-      "t": 18.1,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-blend-1": {
-      "t": 18.3,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-blend-2": {
-      "t": 19.0,
-      "crop": [
-        0,
-        340,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-pour-1": {
-      "t": 20.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-pour-2": {
-      "t": 21.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-mix-1": {
-      "t": 22.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-mix-2": {
-      "t": 23.0,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-mix-3": {
-      "t": 23.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-more-1": {
-      "t": 24.0,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-more-2": {
-      "t": 24.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-top-1": {
-      "t": 25.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-top-2": {
-      "t": 26.0,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-rice-1": {
-      "t": 27.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-rice-2": {
-      "t": 28.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-spoon-1": {
-      "t": 29.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-grate-1": {
-      "t": 30.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-grate-2": {
-      "t": 31.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-grate-3": {
-      "t": 32.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-lid-1": {
-      "t": 33.5,
-      "crop": [
-        0,
-        340,
-        720,
-        640
-      ],
-      "w": 480
-    },
-    "s-lid-2": {
-      "t": 34.5,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    }
+  "i-oil": {
+   "t": 1.8,
+   "crop": [
+    130,
+    300,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 3.0,
+   "crop": [
+    120,
+    680,
+    300,
+    300
+   ],
+   "w": 200
+  },
+  "i-broccoli": {
+   "t": 4.0,
+   "crop": [
+    0,
+    640,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-babycorn": {
+   "t": 4.0,
+   "crop": [
+    215,
+    600,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-onion": {
+   "t": 4.0,
+   "crop": [
+    0,
+    830,
+    170,
+    170
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 4.0,
+   "crop": [
+    270,
+    740,
+    200,
+    200
+   ],
+   "w": 200
+  },
+  "i-beans": {
+   "t": 4.0,
+   "crop": [
+    230,
+    800,
+    150,
+    150
+   ],
+   "w": 200
+  },
+  "i-zucchini": {
+   "t": 4.0,
+   "crop": [
+    90,
+    770,
+    150,
+    150
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 6.6,
+   "crop": [
+    250,
+    340,
+    260,
+    260
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 7.4,
+   "crop": [
+    320,
+    340,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 8.2,
+   "crop": [
+    320,
+    340,
+    330,
+    330
+   ],
+   "w": 200
+  },
+  "i-basil": {
+   "t": 10.5,
+   "crop": [
+    100,
+    400,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-paneer": {
+   "t": 15.5,
+   "crop": [
+    0,
+    440,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-garlic2": {
+   "t": 15.5,
+   "crop": [
+    260,
+    640,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-gchilli": {
+   "t": 15.9,
+   "crop": [
+    0,
+    480,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-cheese": {
+   "t": 17.2,
+   "crop": [
+    240,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-milk": {
+   "t": 17.0,
+   "crop": [
+    0,
+    330,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-rice": {
+   "t": 30.0,
+   "crop": [
+    60,
+    480,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "s-heat-1": {
+   "t": 0.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 1.8,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 2.2,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-1": {
+   "t": 2.6,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-garlic-2": {
+   "t": 3.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-1": {
+   "t": 4.0,
+   "crop": [
+    0,
+    380,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 4.4,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-3": {
+   "t": 4.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-1": {
+   "t": 5.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-stir-2": {
+   "t": 5.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-1": {
+   "t": 6.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-salt-2": {
+   "t": 6.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oregano-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oregano-2": {
+   "t": 7.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-1": {
+   "t": 7.8,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-flakes-2": {
+   "t": 8.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-basil-1": {
+   "t": 9.6,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-basil-2": {
+   "t": 10.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 12.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 13.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gc-1": {
+   "t": 14.9,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-gc-2": {
+   "t": 15.7,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-1": {
+   "t": 16.2,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-cheese-2": {
+   "t": 16.9,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-1": {
+   "t": 17.5,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-milk-2": {
+   "t": 18.1,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-1": {
+   "t": 18.3,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-blend-2": {
+   "t": 19.0,
+   "crop": [
+    0,
+    340,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 20.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 21.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-2": {
+   "t": 23.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-mix-3": {
+   "t": 23.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-more-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-more-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 25.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 26.0,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-1": {
+   "t": 27.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-rice-2": {
+   "t": 28.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-spoon-1": {
+   "t": 29.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grate-1": {
+   "t": 30.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grate-2": {
+   "t": 31.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-grate-3": {
+   "t": 32.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-lid-1": {
+   "t": 33.5,
+   "crop": [
+    0,
+    340,
+    720,
+    640
+   ],
+   "w": 480
+  },
+  "s-lid-2": {
+   "t": 34.5,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
   }
+ }
 }

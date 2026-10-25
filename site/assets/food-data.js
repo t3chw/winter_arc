@@ -226,8 +226,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -460,10 +460,10 @@
         }
       ],
       "tags": [
-        "pressure-cooker",
         "one-pot",
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "pressure-cooker",
+        "blender"
       ],
       "card": "card"
     },
@@ -535,7 +535,7 @@
         {
           "q": "2",
           "n": "Roti (whole wheat)",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti"
         },
         {
@@ -802,9 +802,10 @@
         }
       ],
       "tags": [
-        "no-cook",
         "make-ahead",
-        "high-fibre"
+        "high-fibre",
+        "no-cook",
+        "quick"
       ],
       "card": "card"
     },
@@ -1029,8 +1030,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "credit": "The Spicy Story",
       "card": "card"
@@ -1912,9 +1913,9 @@
         }
       ],
       "tags": [
-        "gas",
         "make-ahead",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "card": "card"
     },
@@ -2294,9 +2295,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "no-cook",
-        "quick",
-        "high-fibre"
+        "quick"
       ],
       "card": "card"
     },
@@ -3109,8 +3110,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -3632,9 +3633,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "gas",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "credit": "Mysterious Fooding (watermark on the video)",
       "card": "card"
@@ -3770,8 +3771,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "no-cook",
-        "make-ahead"
+        "quick"
       ],
       "credit": "Big Broz Body (watermark on the video)",
       "card": "card"
@@ -4017,8 +4019,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "pressure-cooker"
+        "pressure-cooker",
+        "gas"
       ],
       "card": "card"
     },
@@ -4264,9 +4266,9 @@
         }
       ],
       "tags": [
-        "gas",
         "high-fibre",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -4469,8 +4471,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -4970,8 +4972,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "credit": "Oh,Cheat Day!",
       "card": "card"
@@ -5464,9 +5466,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "quick",
-        "high-fibre"
+        "quick"
       ],
       "card": "card"
     },
@@ -5591,8 +5593,8 @@
         }
       ],
       "tags": [
-        "quick",
-        "gas"
+        "gas",
+        "quick"
       ],
       "card": "card"
     },
@@ -5805,10 +5807,10 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
         "blender",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "credit": "Nidslid",
       "card": "card"
@@ -6360,8 +6362,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "card": "card"
     },
@@ -6621,10 +6623,10 @@
         }
       ],
       "tags": [
-        "gas",
-        "blender",
         "make-ahead",
-        "high-fibre"
+        "high-fibre",
+        "gas",
+        "blender"
       ],
       "credit": "Honest Kitchen",
       "card": "card"
@@ -6824,10 +6826,10 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
         "blender",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -7005,9 +7007,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "blender",
-        "high-fibre"
+        "blender"
       ],
       "card": "card"
     },
@@ -7186,10 +7188,10 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
         "blender",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -7866,9 +7868,9 @@
         }
       ],
       "tags": [
-        "gas",
         "high-fibre",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -7955,9 +7957,8 @@
         }
       ],
       "tags": [
-        "no-cook",
-        "blender",
-        "make-ahead"
+        "make-ahead",
+        "no-cook"
       ],
       "card": "card"
     },
@@ -8072,9 +8073,9 @@
         }
       ],
       "tags": [
-        "gas",
+        "make-ahead",
         "air-fryer",
-        "make-ahead"
+        "gas"
       ],
       "card": "card"
     },
@@ -8202,7 +8203,9 @@
         }
       ],
       "tags": [
-        "blender"
+        "no-cook",
+        "blender",
+        "quick"
       ],
       "card": "card"
     },
@@ -8518,9 +8521,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "air-fryer",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "card": "card"
     },
@@ -8996,10 +8999,10 @@
         }
       ],
       "tags": [
-        "pressure-cooker",
         "one-pot",
-        "high-protein",
-        "high-fibre"
+        "high-fibre",
+        "pressure-cooker",
+        "high-protein"
       ],
       "card": "card"
     },
@@ -9196,8 +9199,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "card": "card"
     },
@@ -9352,8 +9355,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "no-cook",
-        "high-fibre"
+        "quick"
       ],
       "credit": "@Mumbaifoodiz",
       "card": "card"
@@ -9575,10 +9579,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "pressure-cooker",
-        "gas",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "credit": "@fitnesswithnidhi",
       "card": "card"
@@ -9877,9 +9880,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "no-cook",
-        "quick",
-        "high-fibre"
+        "quick"
       ],
       "credit": "EatWithAishwarya",
       "card": "card"
@@ -10201,7 +10204,7 @@
         {
           "q": "2",
           "n": "Roti (whole wheat chapati)",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti"
         },
         {
@@ -10721,9 +10724,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "blender",
-        "high-fibre"
+        "blender"
       ],
       "card": "card"
     },
@@ -10929,8 +10932,8 @@
         }
       ],
       "tags": [
-        "pressure-cooker",
-        "high-fibre"
+        "high-fibre",
+        "pressure-cooker"
       ],
       "card": "card"
     },
@@ -11712,9 +11715,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "blender",
-        "high-fibre"
+        "blender"
       ],
       "credit": "myflavourfuljourney",
       "card": "card"
@@ -12537,7 +12540,6 @@
       ],
       "tags": [
         "no-cook",
-        "blender",
         "high-protein"
       ],
       "card": "card"
@@ -13365,9 +13367,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "no-cook",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "credit": "poonamscookery_",
       "card": "card"
@@ -13386,7 +13388,7 @@
         {
           "q": "2",
           "n": "Roti (chapati), ready-made",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti"
         },
         {
@@ -13419,7 +13421,10 @@
           "n": "Tomato ketchup or red chilli sauce, to dip",
           "tag": "tomato-ketchup",
           "img": "i-ketchup",
-          "opt": true
+          "opt": true,
+          "alt": [
+            "chilli-sauce"
+          ]
         }
       ],
       "steps": [
@@ -13519,7 +13524,7 @@
         {
           "q": "2",
           "n": "Roti (chapati), ready-made",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti"
         },
         {
@@ -13580,7 +13585,10 @@
           "q": "~1/2 tsp",
           "n": "Mixed herbs (or oregano)",
           "tag": "oregano",
-          "img": "i-oregano"
+          "img": "i-oregano",
+          "alt": [
+            "mixed-herbs"
+          ]
         },
         {
           "q": "to taste",
@@ -13591,7 +13599,10 @@
           "q": "~2 tbsp",
           "n": "Tomato ketchup or red chilli sauce",
           "tag": "tomato-ketchup",
-          "img": "i-tomato-ketchup"
+          "img": "i-tomato-ketchup",
+          "alt": [
+            "chilli-sauce"
+          ]
         }
       ],
       "steps": [
@@ -13814,8 +13825,9 @@
         {
           "q": "1 sachet (5 g)",
           "n": "Fruit salt (Eno, plain)",
-          "tag": "baking-soda",
+          "tag": "fruit-salt",
           "alt": [
+            "baking-soda",
             "baking-powder"
           ],
           "img": "i-baking-soda"
@@ -14115,7 +14127,10 @@
           "q": "~1/2 tsp",
           "n": "Mixed herbs (or oregano)",
           "tag": "oregano",
-          "img": "i-oregano"
+          "img": "i-oregano",
+          "alt": [
+            "mixed-herbs"
+          ]
         },
         {
           "q": "2 slices",
@@ -14637,9 +14652,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "no-cook",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "card": "card"
     },
@@ -15068,9 +15083,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "gas",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "credit": "Honest Kitchen",
       "card": "card"
@@ -15777,7 +15792,8 @@
         }
       ],
       "tags": [
-        "no-cook"
+        "no-cook",
+        "quick"
       ],
       "credit": "@iamitbaisoya",
       "card": "card"
@@ -15975,10 +15991,10 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
         "blender",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -16188,8 +16204,7 @@
       ],
       "tags": [
         "gas",
-        "blender",
-        "quick"
+        "blender"
       ],
       "credit": "FunFood Corner",
       "card": "card"
@@ -16532,8 +16547,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "high-fibre"
+        "blender"
       ],
       "credit": "Yumbox",
       "card": "card"
@@ -16805,9 +16821,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "air-fryer",
-        "blender",
-        "high-fibre"
+        "blender"
       ],
       "credit": "@yummy_tummy25",
       "card": "card"
@@ -16881,7 +16897,10 @@
           "q": "~1 tsp, plus a pinch on top",
           "n": "Oregano or mixed herbs",
           "tag": "oregano",
-          "img": "i-oregano"
+          "img": "i-oregano",
+          "alt": [
+            "mixed-herbs"
+          ]
         },
         {
           "q": "~1 tsp, plus a pinch on top",
@@ -17091,9 +17110,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "blender",
-        "high-fibre"
+        "blender"
       ],
       "credit": "EatWithAishwarya",
       "card": "card"
@@ -17352,8 +17371,8 @@
         }
       ],
       "tags": [
-        "pressure-cooker",
-        "one-pot"
+        "one-pot",
+        "pressure-cooker"
       ],
       "card": "card"
     },
@@ -17572,7 +17591,8 @@
       ],
       "tags": [
         "no-cook",
-        "blender"
+        "blender",
+        "quick"
       ],
       "credit": "ASMR Indian Chef",
       "card": "card"
@@ -17628,7 +17648,10 @@
           "q": "~1 tsp",
           "n": "Dried oregano or mixed herbs",
           "tag": "oregano",
-          "img": "i-oregano"
+          "img": "i-oregano",
+          "alt": [
+            "mixed-herbs"
+          ]
         },
         {
           "q": "~1 tbsp",
@@ -18268,8 +18291,8 @@
         }
       ],
       "tags": [
-        "blender",
         "gas",
+        "blender",
         "high-protein"
       ],
       "card": "card"
@@ -19208,10 +19231,10 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "no-cook",
         "quick",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -19439,7 +19462,8 @@
         }
       ],
       "tags": [
-        "gas"
+        "gas",
+        "high-protein"
       ],
       "card": "card"
     },
@@ -19822,9 +19846,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -20041,7 +20065,8 @@
         }
       ],
       "tags": [
-        "gas"
+        "gas",
+        "blender"
       ],
       "card": "card"
     },
@@ -21035,9 +21060,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "gas",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "card": "card"
     },
@@ -21122,12 +21147,15 @@
           "q": "~1 tbsp",
           "n": "Tomato ketchup (or red chilli sauce)",
           "tag": "tomato-ketchup",
-          "img": "i-sauce"
+          "img": "i-sauce",
+          "alt": [
+            "chilli-sauce"
+          ]
         },
         {
           "q": "3",
           "n": "Leftover rotis",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti"
         },
         {
@@ -21272,8 +21300,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "air-fryer"
+        "air-fryer",
+        "gas"
       ],
       "card": "card"
     },
@@ -22103,8 +22131,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "card": "card"
     },
@@ -23065,8 +23093,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "credit": "@shanknagkam_pureveg_food",
       "card": "card"
@@ -23323,8 +23351,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -23731,7 +23759,6 @@
       ],
       "tags": [
         "gas",
-        "quick",
         "high-protein"
       ],
       "card": "card"
@@ -24916,8 +24943,7 @@
         }
       ],
       "tags": [
-        "air-fryer",
-        "quick"
+        "air-fryer"
       ],
       "card": "card"
     },
@@ -25080,10 +25106,10 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "no-cook",
         "quick",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -25214,8 +25240,8 @@
         }
       ],
       "tags": [
-        "blender",
         "no-cook",
+        "blender",
         "quick"
       ],
       "credit": "@cocos_chatkara",
@@ -25490,9 +25516,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "gas",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "credit": "@hunger_zest",
       "card": "card"
@@ -25582,8 +25608,8 @@
         }
       ],
       "tags": [
-        "no-cook",
-        "make-ahead"
+        "make-ahead",
+        "no-cook"
       ],
       "steps": [
         {
@@ -26057,8 +26083,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "one-pot"
+        "one-pot",
+        "gas"
       ],
       "card": "card"
     },
@@ -26653,9 +26679,9 @@
         }
       ],
       "tags": [
+        "make-ahead",
         "no-cook",
-        "blender",
-        "make-ahead"
+        "blender"
       ],
       "credit": "Now I Can Cook",
       "card": "card"
@@ -27059,8 +27085,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "make-ahead"
+        "make-ahead",
+        "gas"
       ],
       "card": "card"
     },
@@ -27263,8 +27289,7 @@
         }
       ],
       "tags": [
-        "gas",
-        "quick"
+        "gas"
       ],
       "steps": [
         {
@@ -27903,8 +27928,7 @@
         }
       ],
       "tags": [
-        "gas",
-        "quick"
+        "gas"
       ],
       "steps": [
         {
@@ -28159,7 +28183,7 @@
         {
           "q": "to serve",
           "n": "Roti",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti",
           "opt": true
         }
@@ -28535,8 +28559,7 @@
         }
       ],
       "tags": [
-        "no-cook",
-        "quick"
+        "no-cook"
       ],
       "card": "card"
     },
@@ -28964,7 +28987,7 @@
         {
           "q": "2 small rotis",
           "n": "Roti (chapati)",
-          "tag": "atta",
+          "tag": "roti",
           "img": "i-roti"
         },
         {
@@ -29133,8 +29156,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "card": "card"
     },
@@ -29380,9 +29403,9 @@
         }
       ],
       "tags": [
+        "high-fibre",
         "air-fryer",
-        "high-protein",
-        "high-fibre"
+        "high-protein"
       ],
       "card": "card"
     },
@@ -29782,9 +29805,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "quick",
-        "high-fibre"
+        "high-fibre",
+        "gas"
       ],
       "card": "card"
     },
@@ -29963,8 +29985,8 @@
         }
       ],
       "tags": [
-        "gas",
-        "air-fryer"
+        "air-fryer",
+        "gas"
       ],
       "card": "card"
     },
@@ -30427,8 +30449,7 @@
         }
       ],
       "tags": [
-        "no-cook",
-        "quick"
+        "no-cook"
       ],
       "card": "card"
     },
@@ -30662,8 +30683,7 @@
         }
       ],
       "tags": [
-        "gas",
-        "quick"
+        "gas"
       ],
       "card": "card"
     },
@@ -30839,9 +30859,9 @@
         }
       ],
       "tags": [
+        "one-pot",
         "gas",
-        "quick",
-        "one-pot"
+        "quick"
       ],
       "card": "card"
     },
@@ -31485,6 +31505,7 @@
       ],
       "tags": [
         "gas",
+        "blender",
         "high-protein"
       ],
       "card": "card"
@@ -32384,10 +32405,10 @@
         }
       ],
       "tags": [
-        "pressure-cooker",
         "one-pot",
-        "high-protein",
-        "high-fibre"
+        "high-fibre",
+        "pressure-cooker",
+        "high-protein"
       ],
       "card": "card"
     },
@@ -33162,7 +33183,7 @@
         {
           "q": "2",
           "n": "Roti, to serve",
-          "tag": "atta",
+          "tag": "roti",
           "opt": true,
           "img": "i-roti"
         }

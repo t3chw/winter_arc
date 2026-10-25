@@ -16,7 +16,7 @@
       ['sprouts', 'Sprouts'], ['roasted-chana', 'Roasted chana'], ['besan', 'Besan'], ['sattu', 'Sattu']] },
     { id: 'grain', name: 'Grains and flour', tags: [
       ['rice', 'Rice'], ['oats', 'Oats'], ['dalia', 'Dalia'], ['poha', 'Poha'], ['quinoa', 'Quinoa'], ['atta', 'Atta'], ['suji', 'Suji'],
-      ['vermicelli', 'Vermicelli'], ['bread', 'Bread'], ['millet', 'Millets'], ['rice-flour', 'Rice flour'], ['corn-flour', 'Corn flour'], ['dosa-batter', 'Dosa batter'], ['idli-batter', 'Idli batter'], ['puffed-rice', 'Puffed rice'], ['breadcrumbs', 'Breadcrumbs'], ['sabudana', 'Sabudana'], ['pasta', 'Pasta'], ['pav', 'Pav'], ['all-purpose-flour', 'Maida'], ['rice-paper', 'Rice paper'], ['nachos', 'Nachos']] },
+      ['vermicelli', 'Vermicelli'], ['bread', 'Bread'], ['millet', 'Millets'], ['rice-flour', 'Rice flour'], ['corn-flour', 'Corn flour'], ['roti', 'Roti (chapati)'], ['dosa-batter', 'Dosa batter'], ['idli-batter', 'Idli batter'], ['puffed-rice', 'Puffed rice'], ['breadcrumbs', 'Breadcrumbs'], ['sabudana', 'Sabudana'], ['pasta', 'Pasta'], ['pav', 'Pav'], ['all-purpose-flour', 'Maida'], ['rice-paper', 'Rice paper'], ['nachos', 'Nachos']] },
     { id: 'veg', name: 'Vegetables', tags: [
       ['potato', 'Potato'], ['sweet-potato', 'Sweet potato'], ['spinach', 'Spinach'], ['cauliflower', 'Cauliflower'], ['cabbage', 'Cabbage'],
       ['carrot', 'Carrot'], ['peas', 'Peas'], ['capsicum', 'Capsicum'], ['cucumber', 'Cucumber'], ['beetroot', 'Beetroot'], ['broccoli', 'Broccoli'],
@@ -49,6 +49,30 @@
   GROUPS.forEach(function (g) { g.tags.forEach(function (t) { names[t[0]] = t[1]; groupOf[t[0]] = g.id; }); });
   STAPLES.forEach(function (t) { stap[t] = true; });
 
+
+  /* Other names people search for (Hindi and everyday English). Only used by the search box. */
+  var ALIASES = {
+    'curd': ['dahi', 'yogurt', 'yoghurt', 'greek yogurt', 'hung curd'], 'milk': ['doodh'], 'paneer': ['cottage cheese'], 'butter': ['makhan', 'makkhan'], 'cream': ['malai'],
+    'cheese': ['mozzarella', 'cheese slice', 'cheddar'], 'whey-protein': ['whey', 'protein'], 'soya-chunks': ['soya', 'soy chunks', 'nutrela', 'meal maker'], 'tofu': ['soya paneer'],
+    'moong-dal': ['moong', 'mung', 'yellow lentil'], 'moong-whole': ['moong', 'mung', 'green gram', 'sabut moong'], 'masoor-dal': ['masoor', 'red lentil', 'lentil'], 'toor-dal': ['toor', 'arhar', 'tur'],
+    'chana-dal': ['chana', 'bengal gram'], 'urad-dal': ['urad', 'black gram'], 'chickpeas': ['chana', 'chole', 'chhole', 'kabuli', 'garbanzo'], 'kala-chana': ['chana', 'black chickpeas', 'desi chana'],
+    'rajma': ['kidney beans'], 'lobia': ['black eyed', 'chawli'], 'sprouts': ['sprout', 'ankurit'], 'roasted-chana': ['bhuna chana', 'bhuna', 'chana'], 'besan': ['gram flour', 'chickpea flour'], 'sattu': ['roasted chana powder', 'chana powder'],
+    'rice': ['chawal', 'basmati'], 'oats': ['oat', 'rolled oats'], 'dalia': ['daliya', 'broken wheat', 'cracked wheat'], 'poha': ['flattened rice'], 'atta': ['wheat flour', 'whole wheat', 'gehun'], 'roti': ['chapati', 'phulka', 'chapatti'],
+    'suji': ['rava', 'sooji', 'semolina'], 'vermicelli': ['seviyan', 'sevai'], 'bread': ['pav', 'toast'], 'millet': ['ragi', 'jowar', 'bajra', 'nachni'], 'puffed-rice': ['murmura', 'muri', 'mamra'], 'all-purpose-flour': ['maida', 'refined flour'],
+    'potato': ['aloo'], 'sweet-potato': ['shakarkandi'], 'spinach': ['palak'], 'cauliflower': ['gobi', 'gobhi'], 'cabbage': ['patta gobi', 'band gobi'], 'carrot': ['gajar'], 'peas': ['matar', 'green peas'],
+    'capsicum': ['shimla mirch', 'bell pepper', 'pepper'], 'cucumber': ['kheera', 'kakdi'], 'beetroot': ['chukandar', 'beet'], 'mushroom': ['khumb'], 'bottle-gourd': ['lauki', 'dudhi'], 'brinjal': ['baingan', 'eggplant'],
+    'okra': ['bhindi', 'lady finger'], 'corn': ['sweet corn', 'makka', 'bhutta'], 'radish': ['mooli'], 'zucchini': ['courgette'], 'fenugreek-leaves': ['methi', 'fenugreek'], 'beans': ['french beans', 'green beans'],
+    'spring-onion': ['green onion', 'scallion'], 'drumstick': ['moringa', 'sahjan'], 'raw-banana': ['kachcha kela', 'plantain'], 'banana': ['kela'], 'apple': ['seb'], 'mango': ['aam'], 'papaya': ['papita'],
+    'pomegranate': ['anar'], 'guava': ['amrood'], 'berries': ['strawberry', 'blueberry', 'mulberry'], 'orange': ['santra'], 'almonds': ['badam'], 'cashews': ['kaju'], 'walnuts': ['akhrot'], 'pistachios': ['pista'],
+    'peanuts': ['moongphali', 'mungfali', 'groundnut'], 'dates': ['khajoor', 'khajur'], 'raisins': ['kishmish', 'kismis'], 'fig': ['anjeer'], 'makhana': ['fox nuts', 'lotus seeds', 'phool makhana'], 'coconut': ['nariyal', 'khopra'],
+    'chia-seeds': ['chia'], 'flax-seeds': ['alsi', 'flax'], 'sesame-seeds': ['til', 'sesame'], 'pumpkin-seeds': ['kaddu', 'pumpkin'], 'poppy-seeds': ['khus khus', 'posto'], 'basil-seeds': ['sabja', 'tukmaria'], 'melon-seeds': ['magaz'],
+    'jaggery': ['gur', 'gud'], 'honey': ['shahad'], 'tamarind': ['imli'], 'tea': ['chai'], 'mayonnaise': ['mayo'], 'tomato-ketchup': ['ketchup', 'tomato sauce'], 'sabudana': ['sago', 'tapioca'], 'saffron': ['kesar'], 'amla': ['gooseberry'],
+    'salt': ['namak'], 'oil': ['tel'], 'ghee': ['clarified butter'], 'turmeric': ['haldi'], 'cumin': ['jeera'], 'ginger': ['adrak'], 'garlic': ['lahsun'], 'lemon': ['nimbu', 'lime'], 'coriander-leaves': ['dhania', 'cilantro'],
+    'green-chilli': ['hari mirch'], 'onion': ['pyaz', 'pyaaz'], 'tomato': ['tamatar'], 'black-pepper': ['kali mirch'], 'fennel-seeds': ['saunf'], 'cinnamon': ['dalchini'], 'cardamom': ['elaichi'], 'ajwain': ['carom'],
+    'hing': ['asafoetida'], 'black-salt': ['kala namak'], 'amchur': ['dry mango powder'], 'kasuri-methi': ['dried fenugreek'], 'nigella-seeds': ['kalonji'], 'red-chilli-powder': ['lal mirch', 'chilli powder'],
+    'coriander-powder': ['dhania powder'], 'cumin-powder': ['jeera powder'], 'curry-leaves': ['kadi patta'], 'bay-leaf': ['tej patta'], 'mustard-seeds': ['rai', 'sarson']
+  };
+
   function title(tag) { var s = String(tag).replace(/-/g, ' '); return s.charAt(0).toUpperCase() + s.slice(1); }
 
   WA.foodTags = {
@@ -56,6 +80,7 @@
     staples: STAPLES,
     isStaple: function (tag) { return !!stap[tag]; },
     name: function (tag) { return names[tag] || title(tag); },
-    known: function (tag) { return !!names[tag]; }
+    known: function (tag) { return !!names[tag]; },
+    aliases: function (tag) { return ALIASES[tag] || []; }
   };
 })();

@@ -1,894 +1,895 @@
 {
-  "videos": [
-    "3596849490624889823"
+ "videos": [
+  "3596849490624889823"
+ ],
+ "dish": {
+  "id": "suji-curd-sponge-dosa",
+  "name": "Suji curd sponge dosa",
+  "meal": "Breakfast",
+  "minutes": 40,
+  "protein": 10,
+  "how": "Gas",
+  "tools": "Blender jar (mixie), bowls, small tadka pan, non-stick tawa, ladle, gas",
+  "serves": 3,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "1 cup",
+    "n": "Semolina (suji)",
+    "tag": "suji",
+    "img": "i-suji"
+   },
+   {
+    "q": "3/4 cup (+ 3 tbsp for the chutney)",
+    "n": "Curd (dahi)",
+    "tag": "curd",
+    "img": "i-curd"
+   },
+   {
+    "q": "1/2 cup (+ a few spoons for the chutney)",
+    "n": "Water",
+    "tag": "water",
+    "img": "i-water"
+   },
+   {
+    "q": "1/2 tsp",
+    "n": "Sugar",
+    "tag": "sugar",
+    "img": "i-sugar"
+   },
+   {
+    "q": "to taste",
+    "n": "Salt",
+    "tag": "salt",
+    "img": "i-salt"
+   },
+   {
+    "q": "2 tbsp",
+    "n": "Roasted peanuts",
+    "tag": "peanuts",
+    "img": "i-peanuts"
+   },
+   {
+    "q": "2 tbsp",
+    "n": "Roasted chana",
+    "tag": "roasted-chana",
+    "img": "i-roasted-chana"
+   },
+   {
+    "q": "~3 cloves",
+    "n": "Garlic",
+    "tag": "garlic",
+    "img": "i-garlic"
+   },
+   {
+    "q": "~1 inch piece",
+    "n": "Ginger",
+    "tag": "ginger",
+    "img": "i-ginger"
+   },
+   {
+    "q": "~2",
+    "n": "Green chilli",
+    "tag": "green-chilli",
+    "img": "i-green-chilli"
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Oil, for the tadka",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Mustard seeds",
+    "tag": "mustard-seeds",
+    "img": "i-mustard-seeds"
+   },
+   {
+    "q": "a pinch",
+    "n": "Hing (asafoetida)",
+    "tag": "hing",
+    "img": "i-hing"
+   },
+   {
+    "q": "~8 leaves",
+    "n": "Curry leaves",
+    "tag": "curry-leaves",
+    "img": "i-curry-leaves"
+   },
+   {
+    "q": "1 sachet (5 g)",
+    "n": "Fruit salt (Eno, plain)",
+    "tag": "fruit-salt",
+    "alt": [
+     "baking-soda",
+     "baking-powder"
+    ],
+    "img": "i-baking-soda"
+   }
   ],
-  "dish": {
-    "id": "suji-curd-sponge-dosa",
-    "name": "Suji curd sponge dosa",
-    "meal": "Breakfast",
-    "minutes": 40,
-    "protein": 10,
-    "how": "Gas",
-    "tools": "Blender jar (mixie), bowls, small tadka pan, non-stick tawa, ladle, gas",
-    "serves": 3,
-    "cover": "cover",
-    "ingredients": [
-      {
-        "q": "1 cup",
-        "n": "Semolina (suji)",
-        "tag": "suji",
-        "img": "i-suji"
-      },
-      {
-        "q": "3/4 cup (+ 3 tbsp for the chutney)",
-        "n": "Curd (dahi)",
-        "tag": "curd",
-        "img": "i-curd"
-      },
-      {
-        "q": "1/2 cup (+ a few spoons for the chutney)",
-        "n": "Water",
-        "tag": "water",
-        "img": "i-water"
-      },
-      {
-        "q": "1/2 tsp",
-        "n": "Sugar",
-        "tag": "sugar",
-        "img": "i-sugar"
-      },
-      {
-        "q": "to taste",
-        "n": "Salt",
-        "tag": "salt",
-        "img": "i-salt"
-      },
-      {
-        "q": "2 tbsp",
-        "n": "Roasted peanuts",
-        "tag": "peanuts",
-        "img": "i-peanuts"
-      },
-      {
-        "q": "2 tbsp",
-        "n": "Roasted chana",
-        "tag": "roasted-chana",
-        "img": "i-roasted-chana"
-      },
-      {
-        "q": "~3 cloves",
-        "n": "Garlic",
-        "tag": "garlic",
-        "img": "i-garlic"
-      },
-      {
-        "q": "~1 inch piece",
-        "n": "Ginger",
-        "tag": "ginger",
-        "img": "i-ginger"
-      },
-      {
-        "q": "~2",
-        "n": "Green chilli",
-        "tag": "green-chilli",
-        "img": "i-green-chilli"
-      },
-      {
-        "q": "~1 tbsp",
-        "n": "Oil, for the tadka",
-        "tag": "oil",
-        "img": "i-oil"
-      },
-      {
-        "q": "~1 tsp",
-        "n": "Mustard seeds",
-        "tag": "mustard-seeds",
-        "img": "i-mustard-seeds"
-      },
-      {
-        "q": "a pinch",
-        "n": "Hing (asafoetida)",
-        "tag": "hing",
-        "img": "i-hing"
-      },
-      {
-        "q": "~8 leaves",
-        "n": "Curry leaves",
-        "tag": "curry-leaves",
-        "img": "i-curry-leaves"
-      },
-      {
-        "q": "1 sachet (5 g)",
-        "n": "Fruit salt (Eno, plain)",
-        "tag": "baking-soda",
-        "alt": [
-          "baking-powder"
-        ],
-        "img": "i-baking-soda"
-      }
-    ],
-    "steps": [
-      {
-        "t": "Put 1 cup semolina, 3/4 cup curd and 1/2 cup water in a blender jar.",
-        "imgs": [
-          "s1-1",
-          "s1-2",
-          "s1-3"
-        ]
-      },
-      {
-        "t": "Add 1/2 tsp sugar and salt to taste.",
-        "imgs": [
-          "s2-1",
-          "s2-2"
-        ]
-      },
-      {
-        "t": "Close the lid and blend into a smooth batter.",
-        "imgs": [
-          "s3-1",
-          "s3-2"
-        ]
-      },
-      {
-        "t": "Pour the batter into a bowl.",
-        "imgs": [
-          "s4-1",
-          "s4-2"
-        ]
-      },
-      {
-        "t": "Mix with a spoon. Cover and rest while you make the chutney.",
-        "imgs": [
-          "s5-1",
-          "s5-2",
-          "s5-3"
-        ]
-      },
-      {
-        "t": "For the chutney, put roasted peanuts and roasted chana in a jar.",
-        "imgs": [
-          "s6-1",
-          "s6-2",
-          "s6-3"
-        ]
-      },
-      {
-        "t": "Add garlic, ginger and green chilli.",
-        "imgs": [
-          "s7-1",
-          "s7-2",
-          "s7-3"
-        ]
-      },
-      {
-        "t": "Add curd, salt and water.",
-        "imgs": [
-          "s8-1",
-          "s8-2",
-          "s8-3"
-        ]
-      },
-      {
-        "t": "Blend until smooth. Pour it into a bowl.",
-        "imgs": [
-          "s9-1",
-          "s9-2",
-          "s9-3"
-        ]
-      },
-      {
-        "t": "Tadka: heat oil in a small pan. Add mustard seeds and hing.",
-        "imgs": [
-          "s10-1",
-          "s10-2",
-          "s10-3"
-        ]
-      },
-      {
-        "t": "Add curry leaves. Pour the hot tadka over the chutney.",
-        "imgs": [
-          "s11-1",
-          "s11-2",
-          "s11-3"
-        ]
-      },
-      {
-        "t": "Open the batter and stir it gently.",
-        "imgs": [
-          "s12-1",
-          "s12-2",
-          "s12-3"
-        ]
-      },
-      {
-        "t": "Add 1 sachet fruit salt (Eno) and 1 tsp water.",
-        "imgs": [
-          "s13-1",
-          "s13-2",
-          "s13-3"
-        ]
-      },
-      {
-        "t": "Stir gently until the batter turns foamy.",
-        "imgs": [
-          "s14-1",
-          "s14-2",
-          "s14-3"
-        ]
-      },
-      {
-        "t": "Pour a ladle of batter on a hot tawa. Do not spread it.",
-        "imgs": [
-          "s15-1",
-          "s15-2",
-          "s15-3"
-        ]
-      },
-      {
-        "t": "Cook until holes cover the top. Lift to check the bottom is golden.",
-        "imgs": [
-          "s16-1",
-          "s16-2",
-          "s16-3"
-        ]
-      },
-      {
-        "t": "Serve the dosa hot with the chutney.",
-        "imgs": [
-          "s17-1",
-          "s17-2",
-          "s17-3"
-        ]
-      }
-    ],
-    "tags": [
-      "gas",
-      "blender"
-    ],
-    "credit": "Cook with Deepa (@cookwithdeepa)",
-    "notes": "Amounts for the batter, Eno, peanuts and chana are on screen; the chutney (garlic, ginger, green chilli, curd, salt, water), tadka amounts and the rest time are my guesses (no time shown, I assumed about 15 minutes while the chutney is made). Cooked on one side only (top stays pale with holes). Heat level and cooking time per dosa not shown. About 6 to 8 dosas."
+  "steps": [
+   {
+    "t": "Put 1 cup semolina, 3/4 cup curd and 1/2 cup water in a blender jar.",
+    "imgs": [
+     "s1-1",
+     "s1-2",
+     "s1-3"
+    ]
+   },
+   {
+    "t": "Add 1/2 tsp sugar and salt to taste.",
+    "imgs": [
+     "s2-1",
+     "s2-2"
+    ]
+   },
+   {
+    "t": "Close the lid and blend into a smooth batter.",
+    "imgs": [
+     "s3-1",
+     "s3-2"
+    ]
+   },
+   {
+    "t": "Pour the batter into a bowl.",
+    "imgs": [
+     "s4-1",
+     "s4-2"
+    ]
+   },
+   {
+    "t": "Mix with a spoon. Cover and rest while you make the chutney.",
+    "imgs": [
+     "s5-1",
+     "s5-2",
+     "s5-3"
+    ]
+   },
+   {
+    "t": "For the chutney, put roasted peanuts and roasted chana in a jar.",
+    "imgs": [
+     "s6-1",
+     "s6-2",
+     "s6-3"
+    ]
+   },
+   {
+    "t": "Add garlic, ginger and green chilli.",
+    "imgs": [
+     "s7-1",
+     "s7-2",
+     "s7-3"
+    ]
+   },
+   {
+    "t": "Add curd, salt and water.",
+    "imgs": [
+     "s8-1",
+     "s8-2",
+     "s8-3"
+    ]
+   },
+   {
+    "t": "Blend until smooth. Pour it into a bowl.",
+    "imgs": [
+     "s9-1",
+     "s9-2",
+     "s9-3"
+    ]
+   },
+   {
+    "t": "Tadka: heat oil in a small pan. Add mustard seeds and hing.",
+    "imgs": [
+     "s10-1",
+     "s10-2",
+     "s10-3"
+    ]
+   },
+   {
+    "t": "Add curry leaves. Pour the hot tadka over the chutney.",
+    "imgs": [
+     "s11-1",
+     "s11-2",
+     "s11-3"
+    ]
+   },
+   {
+    "t": "Open the batter and stir it gently.",
+    "imgs": [
+     "s12-1",
+     "s12-2",
+     "s12-3"
+    ]
+   },
+   {
+    "t": "Add 1 sachet fruit salt (Eno) and 1 tsp water.",
+    "imgs": [
+     "s13-1",
+     "s13-2",
+     "s13-3"
+    ]
+   },
+   {
+    "t": "Stir gently until the batter turns foamy.",
+    "imgs": [
+     "s14-1",
+     "s14-2",
+     "s14-3"
+    ]
+   },
+   {
+    "t": "Pour a ladle of batter on a hot tawa. Do not spread it.",
+    "imgs": [
+     "s15-1",
+     "s15-2",
+     "s15-3"
+    ]
+   },
+   {
+    "t": "Cook until holes cover the top. Lift to check the bottom is golden.",
+    "imgs": [
+     "s16-1",
+     "s16-2",
+     "s16-3"
+    ]
+   },
+   {
+    "t": "Serve the dosa hot with the chutney.",
+    "imgs": [
+     "s17-1",
+     "s17-2",
+     "s17-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "blender"
+  ],
+  "credit": "Cook with Deepa (@cookwithdeepa)",
+  "notes": "Amounts for the batter, Eno, peanuts and chana are on screen; the chutney (garlic, ginger, green chilli, curd, salt, water), tadka amounts and the rest time are my guesses (no time shown, I assumed about 15 minutes while the chutney is made). Cooked on one side only (top stays pale with holes). Heat level and cooking time per dosa not shown. About 6 to 8 dosas."
+ },
+ "images": {
+  "cover": {
+   "t": 0.3,
+   "crop": [
+    0,
+    330,
+    720,
+    540
+   ],
+   "w": 560
   },
-  "images": {
-    "cover": {
-      "t": 0.3,
-      "crop": [
-        0,
-        330,
-        720,
-        540
-      ],
-      "w": 560
-    },
-    "i-suji": {
-      "t": 14.4,
-      "crop": [
-        100,
-        400,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-curd": {
-      "t": 16.4,
-      "crop": [
-        150,
-        500,
-        500,
-        500
-      ],
-      "w": 200
-    },
-    "i-water": {
-      "t": 19.4,
-      "crop": [
-        150,
-        500,
-        500,
-        500
-      ],
-      "w": 200
-    },
-    "i-sugar": {
-      "t": 20.4,
-      "crop": [
-        150,
-        330,
-        480,
-        480
-      ],
-      "w": 200
-    },
-    "i-salt": {
-      "t": 21.4,
-      "crop": [
-        150,
-        330,
-        480,
-        480
-      ],
-      "w": 200
-    },
-    "i-peanuts": {
-      "t": 34.4,
-      "crop": [
-        150,
-        520,
-        450,
-        450
-      ],
-      "w": 200
-    },
-    "i-roasted-chana": {
-      "t": 36.4,
-      "crop": [
-        100,
-        480,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-garlic": {
-      "t": 37.4,
-      "crop": [
-        150,
-        360,
-        460,
-        460
-      ],
-      "w": 200
-    },
-    "i-ginger": {
-      "t": 38.4,
-      "crop": [
-        200,
-        370,
-        440,
-        440
-      ],
-      "w": 200
-    },
-    "i-green-chilli": {
-      "t": 39.4,
-      "crop": [
-        200,
-        350,
-        440,
-        440
-      ],
-      "w": 200
-    },
-    "i-oil": {
-      "t": 48.4,
-      "crop": [
-        150,
-        440,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-mustard-seeds": {
-      "t": 48.4,
-      "crop": [
-        330,
-        200,
-        390,
-        390
-      ],
-      "w": 200
-    },
-    "i-hing": {
-      "t": 50.4,
-      "crop": [
-        100,
-        380,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-curry-leaves": {
-      "t": 51.4,
-      "crop": [
-        100,
-        380,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-baking-soda": {
-      "t": 65.4,
-      "crop": [
-        100,
-        400,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "s1-1": {
-      "t": 14.4,
-      "crop": [
-        0,
-        550,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s1-2": {
-      "t": 16.4,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s1-3": {
-      "t": 19.4,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s2-1": {
-      "t": 20.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s2-2": {
-      "t": 21.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s3-1": {
-      "t": 22.5,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s3-2": {
-      "t": 23.5,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s4-1": {
-      "t": 25.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s4-2": {
-      "t": 27.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s5-1": {
-      "t": 29.4,
-      "crop": [
-        0,
-        450,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s5-2": {
-      "t": 31.4,
-      "crop": [
-        0,
-        450,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s5-3": {
-      "t": 32.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s6-1": {
-      "t": 33.4,
-      "crop": [
-        0,
-        240,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s6-2": {
-      "t": 35.4,
-      "crop": [
-        0,
-        240,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s6-3": {
-      "t": 36.4,
-      "crop": [
-        0,
-        240,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s7-1": {
-      "t": 37.4,
-      "crop": [
-        0,
-        140,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s7-2": {
-      "t": 38.4,
-      "crop": [
-        0,
-        140,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s7-3": {
-      "t": 39.4,
-      "crop": [
-        0,
-        140,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s8-1": {
-      "t": 41.4,
-      "crop": [
-        0,
-        140,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s8-2": {
-      "t": 42.4,
-      "crop": [
-        0,
-        140,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s8-3": {
-      "t": 43.4,
-      "crop": [
-        0,
-        140,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s9-1": {
-      "t": 45.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s9-2": {
-      "t": 46.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s9-3": {
-      "t": 47.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s10-1": {
-      "t": 48.4,
-      "crop": [
-        0,
-        200,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s10-2": {
-      "t": 49.4,
-      "crop": [
-        0,
-        200,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s10-3": {
-      "t": 50.4,
-      "crop": [
-        0,
-        200,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s11-1": {
-      "t": 51.4,
-      "crop": [
-        0,
-        200,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s11-2": {
-      "t": 53.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s11-3": {
-      "t": 54.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s12-1": {
-      "t": 57.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s12-2": {
-      "t": 60.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s12-3": {
-      "t": 62.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s13-1": {
-      "t": 65.4,
-      "crop": [
-        0,
-        230,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s13-2": {
-      "t": 66.4,
-      "crop": [
-        0,
-        230,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s13-3": {
-      "t": 68.4,
-      "crop": [
-        0,
-        230,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s14-1": {
-      "t": 69.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s14-2": {
-      "t": 71.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s14-3": {
-      "t": 73.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s15-1": {
-      "t": 75.4,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s15-2": {
-      "t": 76.4,
-      "crop": [
-        0,
-        450,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s15-3": {
-      "t": 77.4,
-      "crop": [
-        0,
-        500,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s16-1": {
-      "t": 78.4,
-      "crop": [
-        0,
-        500,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s16-2": {
-      "t": 80.4,
-      "crop": [
-        0,
-        500,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s16-3": {
-      "t": 82.4,
-      "crop": [
-        0,
-        500,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s17-1": {
-      "t": 86.4,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s17-2": {
-      "t": 88.2,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s17-3": {
-      "t": 10.4,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    }
+  "i-suji": {
+   "t": 14.4,
+   "crop": [
+    100,
+    400,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-curd": {
+   "t": 16.4,
+   "crop": [
+    150,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-water": {
+   "t": 19.4,
+   "crop": [
+    150,
+    500,
+    500,
+    500
+   ],
+   "w": 200
+  },
+  "i-sugar": {
+   "t": 20.4,
+   "crop": [
+    150,
+    330,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-salt": {
+   "t": 21.4,
+   "crop": [
+    150,
+    330,
+    480,
+    480
+   ],
+   "w": 200
+  },
+  "i-peanuts": {
+   "t": 34.4,
+   "crop": [
+    150,
+    520,
+    450,
+    450
+   ],
+   "w": 200
+  },
+  "i-roasted-chana": {
+   "t": 36.4,
+   "crop": [
+    100,
+    480,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-garlic": {
+   "t": 37.4,
+   "crop": [
+    150,
+    360,
+    460,
+    460
+   ],
+   "w": 200
+  },
+  "i-ginger": {
+   "t": 38.4,
+   "crop": [
+    200,
+    370,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-green-chilli": {
+   "t": 39.4,
+   "crop": [
+    200,
+    350,
+    440,
+    440
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 48.4,
+   "crop": [
+    150,
+    440,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-mustard-seeds": {
+   "t": 48.4,
+   "crop": [
+    330,
+    200,
+    390,
+    390
+   ],
+   "w": 200
+  },
+  "i-hing": {
+   "t": 50.4,
+   "crop": [
+    100,
+    380,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-curry-leaves": {
+   "t": 51.4,
+   "crop": [
+    100,
+    380,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-baking-soda": {
+   "t": 65.4,
+   "crop": [
+    100,
+    400,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "s1-1": {
+   "t": 14.4,
+   "crop": [
+    0,
+    550,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s1-2": {
+   "t": 16.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s1-3": {
+   "t": 19.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s2-1": {
+   "t": 20.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s2-2": {
+   "t": 21.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s3-1": {
+   "t": 22.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s3-2": {
+   "t": 23.5,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s4-1": {
+   "t": 25.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s4-2": {
+   "t": 27.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s5-1": {
+   "t": 29.4,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s5-2": {
+   "t": 31.4,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s5-3": {
+   "t": 32.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s6-1": {
+   "t": 33.4,
+   "crop": [
+    0,
+    240,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s6-2": {
+   "t": 35.4,
+   "crop": [
+    0,
+    240,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s6-3": {
+   "t": 36.4,
+   "crop": [
+    0,
+    240,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s7-1": {
+   "t": 37.4,
+   "crop": [
+    0,
+    140,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s7-2": {
+   "t": 38.4,
+   "crop": [
+    0,
+    140,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s7-3": {
+   "t": 39.4,
+   "crop": [
+    0,
+    140,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s8-1": {
+   "t": 41.4,
+   "crop": [
+    0,
+    140,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s8-2": {
+   "t": 42.4,
+   "crop": [
+    0,
+    140,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s8-3": {
+   "t": 43.4,
+   "crop": [
+    0,
+    140,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s9-1": {
+   "t": 45.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s9-2": {
+   "t": 46.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s9-3": {
+   "t": 47.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s10-1": {
+   "t": 48.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s10-2": {
+   "t": 49.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s10-3": {
+   "t": 50.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s11-1": {
+   "t": 51.4,
+   "crop": [
+    0,
+    200,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s11-2": {
+   "t": 53.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s11-3": {
+   "t": 54.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s12-1": {
+   "t": 57.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s12-2": {
+   "t": 60.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s12-3": {
+   "t": 62.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s13-1": {
+   "t": 65.4,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s13-2": {
+   "t": 66.4,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s13-3": {
+   "t": 68.4,
+   "crop": [
+    0,
+    230,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s14-1": {
+   "t": 69.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s14-2": {
+   "t": 71.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s14-3": {
+   "t": 73.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s15-1": {
+   "t": 75.4,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s15-2": {
+   "t": 76.4,
+   "crop": [
+    0,
+    450,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s15-3": {
+   "t": 77.4,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s16-1": {
+   "t": 78.4,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s16-2": {
+   "t": 80.4,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s16-3": {
+   "t": 82.4,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s17-1": {
+   "t": 86.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s17-2": {
+   "t": 88.2,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s17-3": {
+   "t": 10.4,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
   }
+ }
 }

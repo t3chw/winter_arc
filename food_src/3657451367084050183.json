@@ -1,903 +1,906 @@
 {
-  "videos": [
-    "3657451367084050183"
+ "videos": [
+  "3657451367084050183"
+ ],
+ "dish": {
+  "id": "creamy-veggie-herb-rice",
+  "name": "Creamy veggie paneer herb rice",
+  "meal": "Lunch or dinner",
+  "minutes": 30,
+  "protein": 30,
+  "how": "Gas",
+  "tools": "Non-stick pan, wok or second pan, gas, spatula, ladle, bowl",
+  "serves": 2,
+  "cover": "cover",
+  "ingredients": [
+   {
+    "q": "~200 g",
+    "n": "Paneer",
+    "tag": "paneer",
+    "img": "i-paneer"
+   },
+   {
+    "q": "~1 tbsp, plus 1 tsp for the rice",
+    "n": "Oil",
+    "tag": "oil",
+    "img": "i-oil"
+   },
+   {
+    "q": "~1 cup (150 g)",
+    "n": "Broccoli florets",
+    "tag": "broccoli",
+    "img": "i-broccoli"
+   },
+   {
+    "q": "~1 cup (150 g)",
+    "n": "Capsicum (red, yellow and green), chopped",
+    "tag": "capsicum",
+    "img": "i-capsicum"
+   },
+   {
+    "q": "~1/2 cup (80 g)",
+    "n": "Sweet corn kernels",
+    "tag": "corn",
+    "img": "i-corn"
+   },
+   {
+    "q": "~1 tsp, plus a pinch for the rice",
+    "n": "Chilli flakes",
+    "tag": "chilli-flakes",
+    "img": "i-flakes"
+   },
+   {
+    "q": "~1 tsp",
+    "n": "Dried oregano or mixed herbs",
+    "tag": "oregano",
+    "img": "i-oregano",
+    "alt": [
+     "mixed-herbs"
+    ]
+   },
+   {
+    "q": "~1 tbsp",
+    "n": "Butter",
+    "tag": "butter",
+    "img": "i-butter"
+   },
+   {
+    "q": "~1.5 tbsp",
+    "n": "Maida (plain white flour)",
+    "tag": "all-purpose-flour",
+    "alt": [
+     "corn-flour"
+    ],
+    "img": "i-flour"
+   },
+   {
+    "q": "~1 cup (250 ml)",
+    "n": "Milk",
+    "tag": "milk",
+    "img": "i-milk"
+   },
+   {
+    "q": "~1.5 cups (250 g) cooked",
+    "n": "Cooked rice",
+    "tag": "rice",
+    "img": "i-rice"
+   },
+   {
+    "q": "~2 tbsp",
+    "n": "Coriander leaves, chopped",
+    "tag": "coriander-leaves",
+    "img": "i-coriander"
+   }
   ],
-  "dish": {
-    "id": "creamy-veggie-herb-rice",
-    "name": "Creamy veggie paneer herb rice",
-    "meal": "Lunch or dinner",
-    "minutes": 30,
-    "protein": 30,
-    "how": "Gas",
-    "tools": "Non-stick pan, wok or second pan, gas, spatula, ladle, bowl",
-    "serves": 2,
-    "cover": "cover",
-    "ingredients": [
-      {
-        "q": "~200 g",
-        "n": "Paneer",
-        "tag": "paneer",
-        "img": "i-paneer"
-      },
-      {
-        "q": "~1 tbsp, plus 1 tsp for the rice",
-        "n": "Oil",
-        "tag": "oil",
-        "img": "i-oil"
-      },
-      {
-        "q": "~1 cup (150 g)",
-        "n": "Broccoli florets",
-        "tag": "broccoli",
-        "img": "i-broccoli"
-      },
-      {
-        "q": "~1 cup (150 g)",
-        "n": "Capsicum (red, yellow and green), chopped",
-        "tag": "capsicum",
-        "img": "i-capsicum"
-      },
-      {
-        "q": "~1/2 cup (80 g)",
-        "n": "Sweet corn kernels",
-        "tag": "corn",
-        "img": "i-corn"
-      },
-      {
-        "q": "~1 tsp, plus a pinch for the rice",
-        "n": "Chilli flakes",
-        "tag": "chilli-flakes",
-        "img": "i-flakes"
-      },
-      {
-        "q": "~1 tsp",
-        "n": "Dried oregano or mixed herbs",
-        "tag": "oregano",
-        "img": "i-oregano"
-      },
-      {
-        "q": "~1 tbsp",
-        "n": "Butter",
-        "tag": "butter",
-        "img": "i-butter"
-      },
-      {
-        "q": "~1.5 tbsp",
-        "n": "Maida (plain white flour)",
-        "tag": "all-purpose-flour",
-        "alt": [
-          "corn-flour"
-        ],
-        "img": "i-flour"
-      },
-      {
-        "q": "~1 cup (250 ml)",
-        "n": "Milk",
-        "tag": "milk",
-        "img": "i-milk"
-      },
-      {
-        "q": "~1.5 cups (250 g) cooked",
-        "n": "Cooked rice",
-        "tag": "rice",
-        "img": "i-rice"
-      },
-      {
-        "q": "~2 tbsp",
-        "n": "Coriander leaves, chopped",
-        "tag": "coriander-leaves",
-        "img": "i-coriander"
-      }
-    ],
-    "steps": [
-      {
-        "t": "Cut the broccoli into florets and chop the capsicums into small pieces.",
-        "imgs": [
-          "s-veg-1",
-          "s-veg-2"
-        ]
-      },
-      {
-        "t": "Cut the paneer into thick slabs.",
-        "imgs": [
-          "s-paneer-1",
-          "s-paneer-2"
-        ]
-      },
-      {
-        "t": "Light the gas and heat a non-stick pan.",
-        "imgs": [
-          "s-heat-1",
-          "s-heat-2"
-        ]
-      },
-      {
-        "t": "Add a little oil and place the paneer slabs in the pan.",
-        "imgs": [
-          "s-oil-1",
-          "s-oil-2",
-          "s-oil-3"
-        ]
-      },
-      {
-        "t": "Add the broccoli florets next to the paneer.",
-        "imgs": [
-          "s-broc-1",
-          "s-broc-2"
-        ]
-      },
-      {
-        "t": "Add the capsicum and sweet corn.",
-        "imgs": [
-          "s-capsicum-1",
-          "s-capsicum-2"
-        ]
-      },
-      {
-        "t": "Sprinkle chilli flakes and dried herbs over the paneer and veg.",
-        "imgs": [
-          "s-season-1",
-          "s-season-2"
-        ]
-      },
-      {
-        "t": "Flip the paneer and toss the veg until the paneer is golden on both sides.",
-        "imgs": [
-          "s-flip-1",
-          "s-flip-2",
-          "s-flip-3"
-        ]
-      },
-      {
-        "t": "Take the paneer and veg out onto a plate.",
-        "imgs": [
-          "s-plate-1",
-          "s-plate-2"
-        ]
-      },
-      {
-        "t": "Melt the butter in the same pan.",
-        "imgs": [
-          "s-butter-1",
-          "s-butter-2"
-        ]
-      },
-      {
-        "t": "Add the maida and stir it into the butter.",
-        "imgs": [
-          "s-flour-1",
-          "s-flour-2"
-        ]
-      },
-      {
-        "t": "Pour in the milk and stir until it becomes a thick, creamy sauce.",
-        "imgs": [
-          "s-milk-1",
-          "s-milk-2",
-          "s-milk-3"
-        ]
-      },
-      {
-        "t": "Sprinkle in the oregano and chilli flakes.",
-        "imgs": [
-          "s-herbs-1",
-          "s-herbs-2"
-        ]
-      },
-      {
-        "t": "Add the cooked veggies, keeping the paneer aside.",
-        "imgs": [
-          "s-add-1",
-          "s-add-2"
-        ]
-      },
-      {
-        "t": "Mix well until the veggies are coated in the sauce.",
-        "imgs": [
-          "s-sauce-1",
-          "s-sauce-2",
-          "s-sauce-3"
-        ]
-      },
-      {
-        "t": "In a second pan, heat a little oil and add chilli flakes.",
-        "imgs": [
-          "s-rflakes-1",
-          "s-rflakes-2"
-        ]
-      },
-      {
-        "t": "Add the chopped coriander leaves.",
-        "imgs": [
-          "s-rcoriander-1",
-          "s-rcoriander-2"
-        ]
-      },
-      {
-        "t": "Add the cooked rice.",
-        "imgs": [
-          "s-rrice-1",
-          "s-rrice-2"
-        ]
-      },
-      {
-        "t": "Toss until the rice is mixed with the herbs and flakes.",
-        "imgs": [
-          "s-rtoss-1",
-          "s-rtoss-2",
-          "s-rtoss-3"
-        ]
-      },
-      {
-        "t": "Spoon the herb rice into one side of a bowl.",
-        "imgs": [
-          "s-bowl-1",
-          "s-bowl-2"
-        ]
-      },
-      {
-        "t": "Spoon the creamy veggies into the other side.",
-        "imgs": [
-          "s-pour-1",
-          "s-pour-2",
-          "s-pour-3"
-        ]
-      },
-      {
-        "t": "Place the paneer slabs on top and serve.",
-        "imgs": [
-          "s-top-1",
-          "s-top-2",
-          "s-top-3"
-        ]
-      }
-    ],
-    "tags": [
-      "gas",
-      "high-protein"
-    ],
-    "notes": "No speech (a song plays) and no amounts on screen, so every amount is my estimate from the pictures (about 5 paneer slabs of 40 g each; milk is about 1 cup from the glass bottle). No salt is shown in the video: add to taste. Dark specks in the sauce may be black pepper; I only list chilli flakes and dried herbs. The first 5 seconds are the creator taking veggies from the fridge (onion and tomatoes also appear on the board but are never cut or cooked, so I left them out). Flame level and cooking times are not shown. The soft blob melted in the second step looks like butter. Rice is already cooked; the second pan uses oil (could be butter). The face-cam and intro shots are not used."
+  "steps": [
+   {
+    "t": "Cut the broccoli into florets and chop the capsicums into small pieces.",
+    "imgs": [
+     "s-veg-1",
+     "s-veg-2"
+    ]
+   },
+   {
+    "t": "Cut the paneer into thick slabs.",
+    "imgs": [
+     "s-paneer-1",
+     "s-paneer-2"
+    ]
+   },
+   {
+    "t": "Light the gas and heat a non-stick pan.",
+    "imgs": [
+     "s-heat-1",
+     "s-heat-2"
+    ]
+   },
+   {
+    "t": "Add a little oil and place the paneer slabs in the pan.",
+    "imgs": [
+     "s-oil-1",
+     "s-oil-2",
+     "s-oil-3"
+    ]
+   },
+   {
+    "t": "Add the broccoli florets next to the paneer.",
+    "imgs": [
+     "s-broc-1",
+     "s-broc-2"
+    ]
+   },
+   {
+    "t": "Add the capsicum and sweet corn.",
+    "imgs": [
+     "s-capsicum-1",
+     "s-capsicum-2"
+    ]
+   },
+   {
+    "t": "Sprinkle chilli flakes and dried herbs over the paneer and veg.",
+    "imgs": [
+     "s-season-1",
+     "s-season-2"
+    ]
+   },
+   {
+    "t": "Flip the paneer and toss the veg until the paneer is golden on both sides.",
+    "imgs": [
+     "s-flip-1",
+     "s-flip-2",
+     "s-flip-3"
+    ]
+   },
+   {
+    "t": "Take the paneer and veg out onto a plate.",
+    "imgs": [
+     "s-plate-1",
+     "s-plate-2"
+    ]
+   },
+   {
+    "t": "Melt the butter in the same pan.",
+    "imgs": [
+     "s-butter-1",
+     "s-butter-2"
+    ]
+   },
+   {
+    "t": "Add the maida and stir it into the butter.",
+    "imgs": [
+     "s-flour-1",
+     "s-flour-2"
+    ]
+   },
+   {
+    "t": "Pour in the milk and stir until it becomes a thick, creamy sauce.",
+    "imgs": [
+     "s-milk-1",
+     "s-milk-2",
+     "s-milk-3"
+    ]
+   },
+   {
+    "t": "Sprinkle in the oregano and chilli flakes.",
+    "imgs": [
+     "s-herbs-1",
+     "s-herbs-2"
+    ]
+   },
+   {
+    "t": "Add the cooked veggies, keeping the paneer aside.",
+    "imgs": [
+     "s-add-1",
+     "s-add-2"
+    ]
+   },
+   {
+    "t": "Mix well until the veggies are coated in the sauce.",
+    "imgs": [
+     "s-sauce-1",
+     "s-sauce-2",
+     "s-sauce-3"
+    ]
+   },
+   {
+    "t": "In a second pan, heat a little oil and add chilli flakes.",
+    "imgs": [
+     "s-rflakes-1",
+     "s-rflakes-2"
+    ]
+   },
+   {
+    "t": "Add the chopped coriander leaves.",
+    "imgs": [
+     "s-rcoriander-1",
+     "s-rcoriander-2"
+    ]
+   },
+   {
+    "t": "Add the cooked rice.",
+    "imgs": [
+     "s-rrice-1",
+     "s-rrice-2"
+    ]
+   },
+   {
+    "t": "Toss until the rice is mixed with the herbs and flakes.",
+    "imgs": [
+     "s-rtoss-1",
+     "s-rtoss-2",
+     "s-rtoss-3"
+    ]
+   },
+   {
+    "t": "Spoon the herb rice into one side of a bowl.",
+    "imgs": [
+     "s-bowl-1",
+     "s-bowl-2"
+    ]
+   },
+   {
+    "t": "Spoon the creamy veggies into the other side.",
+    "imgs": [
+     "s-pour-1",
+     "s-pour-2",
+     "s-pour-3"
+    ]
+   },
+   {
+    "t": "Place the paneer slabs on top and serve.",
+    "imgs": [
+     "s-top-1",
+     "s-top-2",
+     "s-top-3"
+    ]
+   }
+  ],
+  "tags": [
+   "gas",
+   "high-protein"
+  ],
+  "notes": "No speech (a song plays) and no amounts on screen, so every amount is my estimate from the pictures (about 5 paneer slabs of 40 g each; milk is about 1 cup from the glass bottle). No salt is shown in the video: add to taste. Dark specks in the sauce may be black pepper; I only list chilli flakes and dried herbs. The first 5 seconds are the creator taking veggies from the fridge (onion and tomatoes also appear on the board but are never cut or cooked, so I left them out). Flame level and cooking times are not shown. The soft blob melted in the second step looks like butter. Rice is already cooked; the second pan uses oil (could be butter). The face-cam and intro shots are not used."
+ },
+ "images": {
+  "cover": {
+   "t": 28.0,
+   "crop": [
+    0,
+    400,
+    720,
+    700
+   ],
+   "w": 560
   },
-  "images": {
-    "cover": {
-      "t": 28.0,
-      "crop": [
-        0,
-        400,
-        720,
-        700
-      ],
-      "w": 560
-    },
-    "i-paneer": {
-      "t": 7.0,
-      "crop": [
-        60,
-        640,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-oil": {
-      "t": 9.6,
-      "crop": [
-        90,
-        470,
-        520,
-        520
-      ],
-      "w": 200
-    },
-    "i-broccoli": {
-      "t": 6.8,
-      "crop": [
-        10,
-        560,
-        350,
-        350
-      ],
-      "w": 200
-    },
-    "i-capsicum": {
-      "t": 6.8,
-      "crop": [
-        360,
-        560,
-        340,
-        340
-      ],
-      "w": 200
-    },
-    "i-corn": {
-      "t": 6.8,
-      "crop": [
-        120,
-        790,
-        320,
-        320
-      ],
-      "w": 200
-    },
-    "i-flakes": {
-      "t": 19.2,
-      "crop": [
-        150,
-        430,
-        400,
-        400
-      ],
-      "w": 200
-    },
-    "i-oregano": {
-      "t": 16.5,
-      "crop": [
-        160,
-        520,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-butter": {
-      "t": 14.3,
-      "crop": [
-        150,
-        560,
-        340,
-        340
-      ],
-      "w": 200
-    },
-    "i-flour": {
-      "t": 15.2,
-      "crop": [
-        100,
-        380,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-milk": {
-      "t": 15.7,
-      "crop": [
-        300,
-        300,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-rice": {
-      "t": 20.8,
-      "crop": [
-        0,
-        560,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "i-coriander": {
-      "t": 19.8,
-      "crop": [
-        0,
-        600,
-        420,
-        420
-      ],
-      "w": 200
-    },
-    "s-veg-1": {
-      "t": 5.6,
-      "crop": [
-        0,
-        400,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-veg-2": {
-      "t": 6.8,
-      "crop": [
-        0,
-        480,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-paneer-1": {
-      "t": 7.0,
-      "crop": [
-        0,
-        500,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-paneer-2": {
-      "t": 8.0,
-      "crop": [
-        0,
-        500,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-heat-1": {
-      "t": 8.4,
-      "crop": [
-        0,
-        350,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-heat-2": {
-      "t": 8.8,
-      "crop": [
-        0,
-        300,
-        720,
-        540
-      ],
-      "w": 480
-    },
-    "s-oil-1": {
-      "t": 9.2,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-oil-2": {
-      "t": 9.6,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-oil-3": {
-      "t": 10.0,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-broc-1": {
-      "t": 10.3,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-broc-2": {
-      "t": 10.9,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-capsicum-1": {
-      "t": 11.2,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-capsicum-2": {
-      "t": 11.8,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-season-1": {
-      "t": 11.8,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-season-2": {
-      "t": 12.0,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-flip-1": {
-      "t": 12.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-flip-2": {
-      "t": 12.8,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-flip-3": {
-      "t": 13.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-plate-1": {
-      "t": 14.0,
-      "crop": [
-        0,
-        380,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-plate-2": {
-      "t": 14.2,
-      "crop": [
-        0,
-        380,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-butter-1": {
-      "t": 14.4,
-      "crop": [
-        0,
-        380,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-butter-2": {
-      "t": 14.8,
-      "crop": [
-        0,
-        380,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-flour-1": {
-      "t": 15.0,
-      "crop": [
-        0,
-        380,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-flour-2": {
-      "t": 15.4,
-      "crop": [
-        0,
-        380,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-milk-1": {
-      "t": 15.7,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-milk-2": {
-      "t": 15.9,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-milk-3": {
-      "t": 16.2,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-herbs-1": {
-      "t": 16.5,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-herbs-2": {
-      "t": 16.8,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-add-1": {
-      "t": 17.0,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-add-2": {
-      "t": 17.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-sauce-1": {
-      "t": 18.0,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-sauce-2": {
-      "t": 18.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-sauce-3": {
-      "t": 18.8,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rflakes-1": {
-      "t": 19.0,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rflakes-2": {
-      "t": 19.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rcoriander-1": {
-      "t": 19.6,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rcoriander-2": {
-      "t": 20.0,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rrice-1": {
-      "t": 20.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rrice-2": {
-      "t": 20.8,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rtoss-1": {
-      "t": 21.2,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rtoss-2": {
-      "t": 21.4,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-rtoss-3": {
-      "t": 21.6,
-      "crop": [
-        0,
-        300,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-bowl-1": {
-      "t": 22.0,
-      "crop": [
-        0,
-        500,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-bowl-2": {
-      "t": 22.5,
-      "crop": [
-        0,
-        500,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-pour-1": {
-      "t": 24.0,
-      "crop": [
-        0,
-        500,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-pour-2": {
-      "t": 24.5,
-      "crop": [
-        0,
-        500,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-pour-3": {
-      "t": 25.0,
-      "crop": [
-        0,
-        500,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-top-1": {
-      "t": 26.5,
-      "crop": [
-        0,
-        400,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-top-2": {
-      "t": 27.0,
-      "crop": [
-        0,
-        400,
-        720,
-        600
-      ],
-      "w": 480
-    },
-    "s-top-3": {
-      "t": 27.5,
-      "crop": [
-        0,
-        400,
-        720,
-        600
-      ],
-      "w": 480
-    }
+  "i-paneer": {
+   "t": 7.0,
+   "crop": [
+    60,
+    640,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-oil": {
+   "t": 9.6,
+   "crop": [
+    90,
+    470,
+    520,
+    520
+   ],
+   "w": 200
+  },
+  "i-broccoli": {
+   "t": 6.8,
+   "crop": [
+    10,
+    560,
+    350,
+    350
+   ],
+   "w": 200
+  },
+  "i-capsicum": {
+   "t": 6.8,
+   "crop": [
+    360,
+    560,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-corn": {
+   "t": 6.8,
+   "crop": [
+    120,
+    790,
+    320,
+    320
+   ],
+   "w": 200
+  },
+  "i-flakes": {
+   "t": 19.2,
+   "crop": [
+    150,
+    430,
+    400,
+    400
+   ],
+   "w": 200
+  },
+  "i-oregano": {
+   "t": 16.5,
+   "crop": [
+    160,
+    520,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-butter": {
+   "t": 14.3,
+   "crop": [
+    150,
+    560,
+    340,
+    340
+   ],
+   "w": 200
+  },
+  "i-flour": {
+   "t": 15.2,
+   "crop": [
+    100,
+    380,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-milk": {
+   "t": 15.7,
+   "crop": [
+    300,
+    300,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-rice": {
+   "t": 20.8,
+   "crop": [
+    0,
+    560,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "i-coriander": {
+   "t": 19.8,
+   "crop": [
+    0,
+    600,
+    420,
+    420
+   ],
+   "w": 200
+  },
+  "s-veg-1": {
+   "t": 5.6,
+   "crop": [
+    0,
+    400,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-veg-2": {
+   "t": 6.8,
+   "crop": [
+    0,
+    480,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-1": {
+   "t": 7.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-paneer-2": {
+   "t": 8.0,
+   "crop": [
+    0,
+    500,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heat-1": {
+   "t": 8.4,
+   "crop": [
+    0,
+    350,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-heat-2": {
+   "t": 8.8,
+   "crop": [
+    0,
+    300,
+    720,
+    540
+   ],
+   "w": 480
+  },
+  "s-oil-1": {
+   "t": 9.2,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-oil-2": {
+   "t": 9.6,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-oil-3": {
+   "t": 10.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-broc-1": {
+   "t": 10.3,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-broc-2": {
+   "t": 10.9,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-capsicum-1": {
+   "t": 11.2,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-capsicum-2": {
+   "t": 11.8,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-season-1": {
+   "t": 11.8,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-season-2": {
+   "t": 12.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-flip-1": {
+   "t": 12.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-flip-2": {
+   "t": 12.8,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-flip-3": {
+   "t": 13.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-plate-1": {
+   "t": 14.0,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-plate-2": {
+   "t": 14.2,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-butter-1": {
+   "t": 14.4,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-butter-2": {
+   "t": 14.8,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-flour-1": {
+   "t": 15.0,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-flour-2": {
+   "t": 15.4,
+   "crop": [
+    0,
+    380,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-milk-1": {
+   "t": 15.7,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-milk-2": {
+   "t": 15.9,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-milk-3": {
+   "t": 16.2,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-herbs-1": {
+   "t": 16.5,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-herbs-2": {
+   "t": 16.8,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-add-1": {
+   "t": 17.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-add-2": {
+   "t": 17.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-1": {
+   "t": 18.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-2": {
+   "t": 18.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-sauce-3": {
+   "t": 18.8,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rflakes-1": {
+   "t": 19.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rflakes-2": {
+   "t": 19.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rcoriander-1": {
+   "t": 19.6,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rcoriander-2": {
+   "t": 20.0,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rrice-1": {
+   "t": 20.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rrice-2": {
+   "t": 20.8,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rtoss-1": {
+   "t": 21.2,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rtoss-2": {
+   "t": 21.4,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-rtoss-3": {
+   "t": 21.6,
+   "crop": [
+    0,
+    300,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-bowl-1": {
+   "t": 22.0,
+   "crop": [
+    0,
+    500,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-bowl-2": {
+   "t": 22.5,
+   "crop": [
+    0,
+    500,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-1": {
+   "t": 24.0,
+   "crop": [
+    0,
+    500,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-2": {
+   "t": 24.5,
+   "crop": [
+    0,
+    500,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-pour-3": {
+   "t": 25.0,
+   "crop": [
+    0,
+    500,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-top-1": {
+   "t": 26.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-top-2": {
+   "t": 27.0,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
+  },
+  "s-top-3": {
+   "t": 27.5,
+   "crop": [
+    0,
+    400,
+    720,
+    600
+   ],
+   "w": 480
   }
+ }
 }
